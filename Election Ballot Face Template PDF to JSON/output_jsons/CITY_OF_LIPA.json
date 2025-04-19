@@ -1,0 +1,1219 @@
+{
+  "election_date": "MAY 12, 2025",
+  "location": "ADYA, CITY OF LIPA, BATANGAS",
+  "clustered_precinct_id": "10140042",
+  "precincts_in_cluster": [
+    "0098A",
+    "0098B",
+    "0099A",
+    "0100A",
+    "0100B"
+  ],
+  "positions": [
+    {
+      "position": "SENATOR",
+      "vote_for": 12,
+      "instructions": {
+        "english": "Mark the inside of the circle beside the name of the desired candidate.",
+        "filipino": "Markahan ang loob ng bilog sa tabi ng nais ibotong kandidato."
+      },
+      "candidates": [
+        {
+          "number": 1,
+          "name": "ABALOS, BENHUR",
+          "party": "PFP"
+        },
+        {
+          "number": 2,
+          "name": "ADONIS, JEROME",
+          "party": "MKBYN"
+        },
+        {
+          "number": 3,
+          "name": "AMAD, WILSON",
+          "party": "IND"
+        },
+        {
+          "number": 4,
+          "name": "ANDAMO, NARS ALYN",
+          "party": "MKBYN"
+        },
+        {
+          "number": 5,
+          "name": "AQUINO, BAM",
+          "party": "KNP"
+        },
+        {
+          "number": 6,
+          "name": "ARAMBULO, RONNEL",
+          "party": "MKBYN"
+        },
+        {
+          "number": 7,
+          "name": "ARELLANO, ERNESTO",
+          "party": "KTPNAN"
+        },
+        {
+          "number": 8,
+          "name": "BALLON, ROBERTO",
+          "party": "IND"
+        },
+        {
+          "number": 9,
+          "name": "BINAY, ABBY",
+          "party": "NPC"
+        },
+        {
+          "number": 10,
+          "name": "BONDOC, JIMMY",
+          "party": "PDPLBN"
+        },
+        {
+          "number": 11,
+          "name": "BONG REVILLA,RAMON, JR.",
+          "party": "LAKAS"
+        },
+        {
+          "number": 12,
+          "name": "BOSITA, COLONEL",
+          "party": "IND"
+        },
+        {
+          "number": 13,
+          "name": "BROSAS, ARLENE",
+          "party": "MKBYN"
+        },
+        {
+          "number": 14,
+          "name": "CABONEGRO, ROY",
+          "party": "DPP"
+        },
+        {
+          "number": 15,
+          "name": "CAPUYAN, ALLEN",
+          "party": "PPP"
+        },
+        {
+          "number": 16,
+          "name": "CASIÑO, TEDDY",
+          "party": "MKBYN"
+        },
+        {
+          "number": 17,
+          "name": "CASTRO, TEACHER FRANCE",
+          "party": "MKBYN"
+        },
+        {
+          "number": 18,
+          "name": "CAYETANO, PIA",
+          "party": "NP"
+        },
+        {
+          "number": 19,
+          "name": "D'ANGELO, DAVID",
+          "party": "BUNYOG"
+        },
+        {
+          "number": 20,
+          "name": "DE ALBAN,ATTORNEY ANGELO",
+          "party": "IND"
+        },
+        {
+          "number": 21,
+          "name": "DE GUZMAN, KA LEODY",
+          "party": "PLM"
+        },
+        {
+          "number": 22,
+          "name": "DELA ROSA, BATO",
+          "party": "PDPLBN"
+        },
+        {
+          "number": 23,
+          "name": "DORINGO, NANAY MIMI",
+          "party": "MKBYN"
+        },
+        {
+          "number": 24,
+          "name": "ESCOBAL, ARNEL",
+          "party": "PM"
+        },
+        {
+          "number": 25,
+          "name": "ESPIRITU, LUKE",
+          "party": "PLM"
+        },
+        {
+          "number": 26,
+          "name": "FLORANDA, MODY PISTON",
+          "party": "MKBYN"
+        },
+        {
+          "number": 27,
+          "name": "GAMBOA, MARC LOUIE",
+          "party": "IND"
+        },
+        {
+          "number": 28,
+          "name": "GO, BONG GO",
+          "party": "PDPLBN"
+        },
+        {
+          "number": 29,
+          "name": "GONZALES, NORBERTO",
+          "party": "PDSP"
+        },
+        {
+          "number": 30,
+          "name": "HINLO, JAYVEE",
+          "party": "PDPLBN"
+        },
+        {
+          "number": 31,
+          "name": "HONASAN, GRINGO",
+          "party": "RP"
+        },
+        {
+          "number": 32,
+          "name": "JOSE, RELLY JR.",
+          "party": "KBL"
+        },
+        {
+          "number": 33,
+          "name": "LACSON, PING",
+          "party": "IND"
+        },
+        {
+          "number": 34,
+          "name": "LAMBINO, RAUL",
+          "party": "PDPLBN"
+        },
+        {
+          "number": 35,
+          "name": "LAPID, LITO",
+          "party": "NPC"
+        },
+        {
+          "number": 36,
+          "name": "LEE, MANOY WILBERT",
+          "party": "AKSYON"
+        },
+        {
+          "number": 37,
+          "name": "LIDASAN, AMIRAH",
+          "party": "MKBYN"
+        },
+        {
+          "number": 38,
+          "name": "MARCOLETA, RODANTE",
+          "party": "IND"
+        },
+        {
+          "number": 39,
+          "name": "MARCOS, IMEE R.",
+          "party": "NP"
+        },
+        {
+          "number": 40,
+          "name": "MARQUEZ, NORMAN",
+          "party": "IND"
+        },
+        {
+          "number": 41,
+          "name": "MARTINEZ, ERIC",
+          "party": "IND"
+        },
+        {
+          "number": 42,
+          "name": "MATA, DOC MARITES",
+          "party": "IND"
+        },
+        {
+          "number": 43,
+          "name": "MATULA, ATTY. SONNY",
+          "party": "WPP"
+        },
+        {
+          "number": 44,
+          "name": "MAZA, LIZA",
+          "party": "MKBYN"
+        },
+        {
+          "number": 45,
+          "name": "MENDOZA, HEIDI",
+          "party": "IND"
+        },
+        {
+          "number": 46,
+          "name": "MONTEMAYOR, JOEY",
+          "party": "IND"
+        },
+        {
+          "number": 47,
+          "name": "MUSTAPHA, SUBAIR",
+          "party": "WPP"
+        },
+        {
+          "number": 48,
+          "name": "OLIVAR, JOSE JESSIE",
+          "party": "IND"
+        },
+        {
+          "number": 49,
+          "name": "ONG, DOC WILLIE",
+          "party": "AKSYON"
+        },
+        {
+          "number": 50,
+          "name": "PACQUIAO, MANNY PACMAN",
+          "party": "PFP"
+        },
+        {
+          "number": 51,
+          "name": "PANGILINAN, KIKO",
+          "party": "LP"
+        },
+        {
+          "number": 52,
+          "name": "QUERUBIN, ARIEL PORFIRIO",
+          "party": "NP"
+        },
+        {
+          "number": 53,
+          "name": "QUIBOLOY, APOLLO",
+          "party": "IND"
+        },
+        {
+          "number": 54,
+          "name": "RAMOS, DANILO",
+          "party": "MKBYN"
+        },
+        {
+          "number": 55,
+          "name": "REVILLAME, WILLIE WIL",
+          "party": "IND"
+        },
+        {
+          "number": 56,
+          "name": "RODRIGUEZ, ATTY. VIC",
+          "party": "IND"
+        },
+        {
+          "number": 57,
+          "name": "SAHIDULLA, NUR-ANA",
+          "party": "IND"
+        },
+        {
+          "number": 58,
+          "name": "SALVADOR, PHILLIP IPE",
+          "party": "PDPLBN"
+        },
+        {
+          "number": 59,
+          "name": "SOTTO, TITO",
+          "party": "NPC"
+        },
+        {
+          "number": 60,
+          "name": "TAPADO, MICHAEL BONGBONG",
+          "party": "PM"
+        },
+        {
+          "number": 61,
+          "name": "TOLENTINO, FRANCIS TOL",
+          "party": "PFP"
+        },
+        {
+          "number": 62,
+          "name": "TULFO, BEN BITAG",
+          "party": "IND"
+        },
+        {
+          "number": 63,
+          "name": "TULFO, ERWIN",
+          "party": "LAKAS"
+        },
+        {
+          "number": 64,
+          "name": "VALBUENA, MAR MANIBELA",
+          "party": "IND"
+        },
+        {
+          "number": 65,
+          "name": "VERCELES, LEANDRO",
+          "party": "IND"
+        },
+        {
+          "number": 66,
+          "name": "VILLAR, CAMILLE",
+          "party": "NP"
+        }
+      ]
+    },
+    {
+      "position": "PARTY LIST",
+      "vote_for": 1,
+      "instructions": {
+        "english": "For PARTY LIST CANDIDATES, CHECK THE BACK OF THIS BALLOT",
+        "filipino": "Para sa mga kandidato ng Party List, tingnan ang likod ng balotang ito"
+      },
+      "candidates": [
+        {
+          "number": 1,
+          "name": "4PS"
+        },
+        {
+          "number": 2,
+          "name": "PPP"
+        },
+        {
+          "number": 3,
+          "name": "FPJ PANDAY BAYANIHAN"
+        },
+        {
+          "number": 4,
+          "name": "KABATAAN"
+        },
+        {
+          "number": 5,
+          "name": "DUTERTE YOUTH"
+        },
+        {
+          "number": 6,
+          "name": "ML"
+        },
+        {
+          "number": 7,
+          "name": "PBBM"
+        },
+        {
+          "number": 8,
+          "name": "P3PWD"
+        },
+        {
+          "number": 9,
+          "name": "MURANG KURYENTE"
+        },
+        {
+          "number": 10,
+          "name": "BICOL SARO"
+        },
+        {
+          "number": 11,
+          "name": "IPATUPAD"
+        },
+        {
+          "number": 12,
+          "name": "PATROL"
+        },
+        {
+          "number": 13,
+          "name": "JUAN PINOY"
+        },
+        {
+          "number": 14,
+          "name": "ARTE"
+        },
+        {
+          "number": 15,
+          "name": "WIFI"
+        },
+        {
+          "number": 16,
+          "name": "MAAGAP"
+        },
+        {
+          "number": 17,
+          "name": "UNITED SENIOR CITIZENS"
+        },
+        {
+          "number": 18,
+          "name": "EPANAW SAMBAYANAN"
+        },
+        {
+          "number": 19,
+          "name": "AKO PADAYON"
+        },
+        {
+          "number": 20,
+          "name": "TUCP"
+        },
+        {
+          "number": 21,
+          "name": "ACT TEACHERS"
+        },
+        {
+          "number": 22,
+          "name": "1PACMAN"
+        },
+        {
+          "number": 23,
+          "name": "TGP"
+        },
+        {
+          "number": 24,
+          "name": "DUMPER PTDA"
+        },
+        {
+          "number": 25,
+          "name": "ANAKALUSUGAN"
+        },
+        {
+          "number": 26,
+          "name": "AKSYON DAPAT"
+        },
+        {
+          "number": 27,
+          "name": "BHW"
+        },
+        {
+          "number": 28,
+          "name": "SULONG DIGNIDAD"
+        },
+        {
+          "number": 29,
+          "name": "BATANG QUIAPO"
+        },
+        {
+          "number": 30,
+          "name": "PBA"
+        },
+        {
+          "number": 31,
+          "name": "GILAS"
+        },
+        {
+          "number": 32,
+          "name": "AKO ILOCANO AKO"
+        },
+        {
+          "number": 33,
+          "name": "PAMILYANG MAGSASAKA"
+        },
+        {
+          "number": 34,
+          "name": "CLICK PARTY"
+        },
+        {
+          "number": 35,
+          "name": "ABANTE BISDAK"
+        },
+        {
+          "number": 36,
+          "name": "MANILA TEACHERS"
+        },
+        {
+          "number": 37,
+          "name": "PAMANA"
+        },
+        {
+          "number": 38,
+          "name": "NANAY"
+        },
+        {
+          "number": 39,
+          "name": "KM NGAYON NA"
+        },
+        {
+          "number": 40,
+          "name": "BABAE AKO"
+        },
+        {
+          "number": 41,
+          "name": "ARISE"
+        },
+        {
+          "number": 42,
+          "name": "MAGDALO"
+        },
+        {
+          "number": 43,
+          "name": "APEC"
+        },
+        {
+          "number": 44,
+          "name": "MAGBUBUKID"
+        },
+        {
+          "number": 45,
+          "name": "SSS-GSIS PENSYONADO"
+        },
+        {
+          "number": 46,
+          "name": "GABRIELA"
+        },
+        {
+          "number": 47,
+          "name": "TINGOG"
+        },
+        {
+          "number": 48,
+          "name": "APAT-DAPAT"
+        },
+        {
+          "number": 49,
+          "name": "AHON MAHIRAP"
+        },
+        {
+          "number": 50,
+          "name": "UGB"
+        },
+        {
+          "number": 51,
+          "name": "AKBAYAN"
+        },
+        {
+          "number": 52,
+          "name": "AGIMAT"
+        },
+        {
+          "number": 53,
+          "name": "PHILRECA"
+        },
+        {
+          "number": 54,
+          "name": "KAPUSO PM"
+        },
+        {
+          "number": 55,
+          "name": "ILOCANO DEFENDERS"
+        },
+        {
+          "number": 56,
+          "name": "1-RIDER PARTY-LIST"
+        },
+        {
+          "number": 57,
+          "name": "TICTOK"
+        },
+        {
+          "number": 59,
+          "name": "BAYAN MUNA"
+        },
+        {
+          "number": 60,
+          "name": "ANG PROBINSIYANO"
+        },
+        {
+          "number": 61,
+          "name": "BANAT"
+        },
+        {
+          "number": 62,
+          "name": "SBP"
+        },
+        {
+          "number": 63,
+          "name": "BUHAY"
+        },
+        {
+          "number": 64,
+          "name": "TULUNGAN TAYO"
+        },
+        {
+          "number": 65,
+          "name": "SAGIP"
+        },
+        {
+          "number": 66,
+          "name": "BTS BAYANING TSUPER"
+        },
+        {
+          "number": 67,
+          "name": "VENDORS"
+        },
+        {
+          "number": 68,
+          "name": "ACT-CIS"
+        },
+        {
+          "number": 69,
+          "name": "AKTIBONG KAAGAPAY"
+        },
+        {
+          "number": 70,
+          "name": "ASENSO PINOY"
+        },
+        {
+          "number": 71,
+          "name": "SOLO PARENTS"
+        },
+        {
+          "number": 72,
+          "name": "ANG KOMADRONA"
+        },
+        {
+          "number": 73,
+          "name": "PROMDI"
+        },
+        {
+          "number": 74,
+          "name": "PUSONG PINOY"
+        },
+        {
+          "number": 75,
+          "name": "KUSUG TAUSUG"
+        },
+        {
+          "number": 76,
+          "name": "DAMAYANG FILIPINO"
+        },
+        {
+          "number": 77,
+          "name": "MPBL"
+        },
+        {
+          "number": 78,
+          "name": "ANGAT"
+        },
+        {
+          "number": 79,
+          "name": "KALINGA"
+        },
+        {
+          "number": 80,
+          "name": "BOSES PARTY-LIST"
+        },
+        {
+          "number": 81,
+          "name": "ARANGKADA PILIPINO"
+        },
+        {
+          "number": 82,
+          "name": "AANGAT TAYO"
+        },
+        {
+          "number": 83,
+          "name": "OFW"
+        },
+        {
+          "number": 84,
+          "name": "BIDA KATAGUMPAY"
+        },
+        {
+          "number": 85,
+          "name": "KAMANGGAGAWA"
+        },
+        {
+          "number": 86,
+          "name": "BFF"
+        },
+        {
+          "number": 87,
+          "name": "BUNYOG"
+        },
+        {
+          "number": 88,
+          "name": "AGRI"
+        },
+        {
+          "number": 89,
+          "name": "SENIOR CITIZENS"
+        },
+        {
+          "number": 90,
+          "name": "4K"
+        },
+        {
+          "number": 91,
+          "name": "PBP"
+        },
+        {
+          "number": 92,
+          "name": "ONE COOP"
+        },
+        {
+          "number": 93,
+          "name": "CIBAC"
+        },
+        {
+          "number": 94,
+          "name": "BH - BAGONG HENERASYON"
+        },
+        {
+          "number": 95,
+          "name": "1AGILA"
+        },
+        {
+          "number": 96,
+          "name": "EDUAKSYON"
+        },
+        {
+          "number": 97,
+          "name": "ANG TINIG NG SENIORS"
+        },
+        {
+          "number": 98,
+          "name": "BG PARTY-LIST"
+        },
+        {
+          "number": 99,
+          "name": "PINOY AKO"
+        },
+        {
+          "number": 100,
+          "name": "H.E.L.P. PILIPINAS"
+        },
+        {
+          "number": 101,
+          "name": "HEALTH WORKERS"
+        },
+        {
+          "number": 102,
+          "name": "PEOPLE'S CHAMP"
+        },
+        {
+          "number": 103,
+          "name": "AA-KASOSYO PARTY"
+        },
+        {
+          "number": 104,
+          "name": "SOLID NORTH PARTY"
+        },
+        {
+          "number": 105,
+          "name": "ABAMIN"
+        },
+        {
+          "number": 106,
+          "name": "TRABAHO"
+        },
+        {
+          "number": 107,
+          "name": "ANGKASANGGA"
+        },
+        {
+          "number": 108,
+          "name": "TODA AKSYON"
+        },
+        {
+          "number": 109,
+          "name": "TURISMO"
+        },
+        {
+          "number": 110,
+          "name": "ABONO"
+        },
+        {
+          "number": 111,
+          "name": "ASAP NA"
+        },
+        {
+          "number": 112,
+          "name": "LINGAP"
+        },
+        {
+          "number": 113,
+          "name": "UNITED FRONTLINERS"
+        },
+        {
+          "number": 114,
+          "name": "KASAMBAHAY"
+        },
+        {
+          "number": 115,
+          "name": "TUTOK TO WIN"
+        },
+        {
+          "number": 116,
+          "name": "AKO OFW"
+        },
+        {
+          "number": 117,
+          "name": "AGAP"
+        },
+        {
+          "number": 118,
+          "name": "1TAHANAN"
+        },
+        {
+          "number": 119,
+          "name": "COOP-NATCCO"
+        },
+        {
+          "number": 120,
+          "name": "KABAYAN"
+        },
+        {
+          "number": 121,
+          "name": "1MUNTI"
+        },
+        {
+          "number": 122,
+          "name": "PINOY WORKERS"
+        },
+        {
+          "number": 123,
+          "name": "API PARTY"
+        },
+        {
+          "number": 124,
+          "name": "AKO BISAYA"
+        },
+        {
+          "number": 125,
+          "name": "KAMALAYAN"
+        },
+        {
+          "number": 126,
+          "name": "AKO TANOD"
+        },
+        {
+          "number": 127,
+          "name": "PROBINSYANO AKO"
+        },
+        {
+          "number": 128,
+          "name": "KABABAIHAN"
+        },
+        {
+          "number": 129,
+          "name": "RAM"
+        },
+        {
+          "number": 130,
+          "name": "ALONA"
+        },
+        {
+          "number": 131,
+          "name": "AKO BICOL"
+        },
+        {
+          "number": 132,
+          "name": "GP (GALING SA PUSO)"
+        },
+        {
+          "number": 133,
+          "name": "KAUNLAD PINOY"
+        },
+        {
+          "number": 134,
+          "name": "ABP"
+        },
+        {
+          "number": 135,
+          "name": "CWS"
+        },
+        {
+          "number": 136,
+          "name": "LPGMA"
+        },
+        {
+          "number": 137,
+          "name": "A TEACHER"
+        },
+        {
+          "number": 138,
+          "name": "SWERTE"
+        },
+        {
+          "number": 139,
+          "name": "GABAY"
+        },
+        {
+          "number": 140,
+          "name": "MALASAKIT@BAYANIHAN"
+        },
+        {
+          "number": 141,
+          "name": "AKAY NI SOL"
+        },
+        {
+          "number": 142,
+          "name": "LUNAS"
+        },
+        {
+          "number": 143,
+          "name": "DIWA"
+        },
+        {
+          "number": 144,
+          "name": "PINUNO"
+        },
+        {
+          "number": 145,
+          "name": "PAMILYA MUNA"
+        },
+        {
+          "number": 146,
+          "name": "BAGONG PILIPINAS"
+        },
+        {
+          "number": 147,
+          "name": "HUGPONG FEDERAL"
+        },
+        {
+          "number": 148,
+          "name": "TUPAD"
+        },
+        {
+          "number": 149,
+          "name": "LAANG KAWAL"
+        },
+        {
+          "number": 150,
+          "name": "PAMILYA KO"
+        },
+        {
+          "number": 151,
+          "name": "BBM"
+        },
+        {
+          "number": 152,
+          "name": "HEAL PH"
+        },
+        {
+          "number": 153,
+          "name": "ABANG LINGKOD"
+        },
+        {
+          "number": 154,
+          "name": "MAGSASAKA"
+        },
+        {
+          "number": 155,
+          "name": "MAHARLIKA"
+        },
+        {
+          "number": 156,
+          "name": "USWAG ILONGGO"
+        }
+      ]
+    },
+    {
+      "position": "MEMBER, HOUSE OF REPRESENTATIVES",
+      "vote_for": 1,
+      "instructions": {
+        "english": "Mark the inside of the circle beside the name of the desired candidate.",
+        "filipino": "Markahan ang loob ng bilog sa tabi ng nais ibotong kandidato."
+      },
+      "candidates": [
+        {
+          "number": 1,
+          "name": "LACORTE, RGL",
+          "party": "IND"
+        },
+        {
+          "number": 2,
+          "name": "PANGANIBAN, ATTY.  MAR",
+          "party": "IND"
+        },
+        {
+          "number": 3,
+          "name": "RECTO, RYAN CHRISTIAN",
+          "party": "NP"
+        },
+        {
+          "number": 4,
+          "name": "SABILI, BERNADETTE",
+          "party": "IND"
+        }
+      ]
+    },
+    {
+      "position": "PROVINCIAL GOVERNOR",
+      "vote_for": 1,
+      "instructions": {
+        "english": "Mark the inside of the circle beside the name of the desired candidate.",
+        "filipino": "Markahan ang loob ng bilog sa tabi ng nais ibotong kandidato."
+      },
+      "candidates": [
+        {
+          "number": 1,
+          "name": "RIVERA, MIKE",
+          "party": "LP"
+        },
+        {
+          "number": 2,
+          "name": "ILAGAN, JAY MANALO",
+          "party": "PROMDI"
+        },
+        {
+          "number": 3,
+          "name": "OZAETA, KUYAKAP  WALTER",
+          "party": "IND"
+        },
+        {
+          "number": 4,
+          "name": "SANTOS-RECTO, VILMA",
+          "party": "NP"
+        }
+      ]
+    },
+    {
+      "position": "PROVINCIAL VICE-GOVERNOR",
+      "vote_for": 1,
+      "instructions": {
+        "english": "Mark the inside of the circle beside the name of the desired candidate.",
+        "filipino": "Markahan ang loob ng bilog sa tabi ng nais ibotong kandidato."
+      },
+      "candidates": [
+        {
+          "number": 1,
+          "name": "DOLOR, RYANH",
+          "party": "IND"
+        },
+        {
+          "number": 2,
+          "name": "MANDANAS, DODO",
+          "party": "PDPLBN"
+        },
+        {
+          "number": 3,
+          "name": "MANZANO, LUIS LUCKY",
+          "party": "NP"
+        }
+      ]
+    },
+    {
+      "position": "MEMBER, SANGGUNIANG PANLALAWIGAN",
+      "vote_for": 2,
+      "instructions": {
+        "english": "Mark the inside of the circle beside the name of the desired candidate.",
+        "filipino": "Markahan ang loob ng bilog sa tabi ng nais ibotong kandidato."
+      },
+      "candidates": [
+        {
+          "number": 1,
+          "name": "GOZOS, JUN-JUN",
+          "party": "NP"
+        },
+        {
+          "number": 2,
+          "name": "MENDOZA, BIBONG",
+          "party": "NP"
+        }
+      ]
+    },
+    {
+      "position": "MAYOR",
+      "vote_for": 1,
+      "instructions": {
+        "english": "Mark the inside of the circle beside the name of the desired candidate.",
+        "filipino": "Markahan ang loob ng bilog sa tabi ng nais ibotong kandidato."
+      },
+      "candidates": [
+        {
+          "number": 1,
+          "name": "AFRICA, ERIC",
+          "party": "NP"
+        }
+      ]
+    },
+    {
+      "position": "VICE-MAYOR",
+      "vote_for": 1,
+      "instructions": {
+        "english": "Mark the inside of the circle beside the name of the desired candidate.",
+        "filipino": "Markahan ang loob ng bilog sa tabi ng nais ibotong kandidato."
+      },
+      "candidates": [
+        {
+          "number": 1,
+          "name": "LOPEZ, CAMILLE",
+          "party": "IND"
+        },
+        {
+          "number": 2,
+          "name": "MORADA, MIKEE",
+          "party": "NP"
+        }
+      ]
+    },
+    {
+      "position": "MEMBER, SANGGUNIANG PANLUNGSOD",
+      "vote_for": 12,
+      "instructions": {
+        "english": "Mark the inside of the circle beside the name of the desired candidate.",
+        "filipino": "Markahan ang loob ng bilog sa tabi ng nais ibotong kandidato."
+      },
+      "candidates": [
+        {
+          "number": 1,
+          "name": "PUA, JOEL",
+          "party": "NP"
+        },
+        {
+          "number": 2,
+          "name": "UMALI, MIKEE",
+          "party": "NP"
+        },
+        {
+          "number": 3,
+          "name": "ANGELES, ATTY. GALLY",
+          "party": "NP"
+        },
+        {
+          "number": 4,
+          "name": "LUANCING, MAK-MAK",
+          "party": "NP"
+        },
+        {
+          "number": 5,
+          "name": "CATIPON, NILO",
+          "party": "NP"
+        },
+        {
+          "number": 6,
+          "name": "MACALA, ARIES",
+          "party": "NP"
+        },
+        {
+          "number": 7,
+          "name": "RONQUILLO, NICOLE",
+          "party": "NP"
+        },
+        {
+          "number": 8,
+          "name": "VILLANUEVA, ED TULPO",
+          "party": "IND"
+        },
+        {
+          "number": 9,
+          "name": "LINA, MIKE",
+          "party": "NP"
+        },
+        {
+          "number": 10,
+          "name": "MANALO, VENICE",
+          "party": "NP"
+        },
+        {
+          "number": 11,
+          "name": "SANGALANG, ROY",
+          "party": "IND"
+        },
+        {
+          "number": 12,
+          "name": "LOPEZ, LYDIO",
+          "party": "NP"
+        },
+        {
+          "number": 13,
+          "name": "MARANAN, EARL",
+          "party": "IND"
+        },
+        {
+          "number": 14,
+          "name": "SILVA, MERLO",
+          "party": "NP"
+        },
+        {
+          "number": 15,
+          "name": "ONA, LEO",
+          "party": "IND"
+        },
+        {
+          "number": 16,
+          "name": "TOLEDO, SPYE",
+          "party": "NP"
+        },
+        {
+          "number": 17,
+          "name": "LUANCING, BEVERLY",
+          "party": "IND"
+        }
+      ]
+    }
+  ]
+}

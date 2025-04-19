@@ -1,0 +1,332 @@
+[
+  {
+    "number": 1,
+    "name": "ABALOS, BENHUR",
+    "party": "PFP"
+  },
+  {
+    "number": 2,
+    "name": "ADONIS, JEROME",
+    "party": "MKBYN"
+  },
+  {
+    "number": 3,
+    "name": "AMAD, WILSON",
+    "party": "IND"
+  },
+  {
+    "number": 4,
+    "name": "ANDAMO, NARS ALYN",
+    "party": "MKBYN"
+  },
+  {
+    "number": 5,
+    "name": "AQUINO, BAM",
+    "party": "KNP"
+  },
+  {
+    "number": 6,
+    "name": "ARAMBULO, RONNEL",
+    "party": "MKBYN"
+  },
+  {
+    "number": 7,
+    "name": "ARELLANO, ERNESTO",
+    "party": "KTPNAN"
+  },
+  {
+    "number": 8,
+    "name": "BALLON, ROBERTO",
+    "party": "IND"
+  },
+  {
+    "number": 9,
+    "name": "BINAY, ABBY",
+    "party": "NPC"
+  },
+  {
+    "number": 10,
+    "name": "BONDOC, JIMMY",
+    "party": "PDPLBN"
+  },
+  {
+    "number": 11,
+    "name": "BONG REVILLA,RAMON, JR.",
+    "party": "LAKAS"
+  },
+  {
+    "number": 12,
+    "name": "BOSITA, COLONEL",
+    "party": "IND"
+  },
+  {
+    "number": 13,
+    "name": "BROSAS, ARLENE",
+    "party": "MKBYN"
+  },
+  {
+    "number": 14,
+    "name": "CABONEGRO, ROY",
+    "party": "DPP"
+  },
+  {
+    "number": 15,
+    "name": "CAPUYAN, ALLEN",
+    "party": "PPP"
+  },
+  {
+    "number": 16,
+    "name": "CASIÑO, TEDDY",
+    "party": "MKBYN"
+  },
+  {
+    "number": 17,
+    "name": "CASTRO, TEACHER FRANCE",
+    "party": "MKBYN"
+  },
+  {
+    "number": 18,
+    "name": "CAYETANO, PIA",
+    "party": "NP"
+  },
+  {
+    "number": 19,
+    "name": "D'ANGELO, DAVID",
+    "party": "BUNYOG"
+  },
+  {
+    "number": 20,
+    "name": "DE ALBAN,ATTORNEY ANGELO",
+    "party": "IND"
+  },
+  {
+    "number": 21,
+    "name": "DE GUZMAN, KA LEODY",
+    "party": "PLM"
+  },
+  {
+    "number": 22,
+    "name": "DELA ROSA, BATO",
+    "party": "PDPLBN"
+  },
+  {
+    "number": 23,
+    "name": "DORINGO, NANAY MIMI",
+    "party": "MKBYN"
+  },
+  {
+    "number": 24,
+    "name": "ESCOBAL, ARNEL",
+    "party": "PM"
+  },
+  {
+    "number": 25,
+    "name": "ESPIRITU, LUKE",
+    "party": "PLM"
+  },
+  {
+    "number": 26,
+    "name": "FLORANDA, MODY PISTON",
+    "party": "MKBYN"
+  },
+  {
+    "number": 27,
+    "name": "GAMBOA, MARC LOUIE",
+    "party": "IND"
+  },
+  {
+    "number": 28,
+    "name": "GO, BONG GO",
+    "party": "PDPLBN"
+  },
+  {
+    "number": 29,
+    "name": "GONZALES, NORBERTO",
+    "party": "PDSP"
+  },
+  {
+    "number": 30,
+    "name": "HINLO, JAYVEE",
+    "party": "PDPLBN"
+  },
+  {
+    "number": 31,
+    "name": "HONASAN, GRINGO",
+    "party": "RP"
+  },
+  {
+    "number": 32,
+    "name": "JOSE, RELLY JR.",
+    "party": "KBL"
+  },
+  {
+    "number": 33,
+    "name": "LACSON, PING",
+    "party": "IND"
+  },
+  {
+    "number": 34,
+    "name": "LAMBINO, RAUL",
+    "party": "PDPLBN"
+  },
+  {
+    "number": 35,
+    "name": "LAPID, LITO",
+    "party": "NPC"
+  },
+  {
+    "number": 36,
+    "name": "LEE, MANOY WILBERT",
+    "party": "AKSYON"
+  },
+  {
+    "number": 37,
+    "name": "LIDASAN, AMIRAH",
+    "party": "MKBYN"
+  },
+  {
+    "number": 38,
+    "name": "MARCOLETA, RODANTE",
+    "party": "IND"
+  },
+  {
+    "number": 39,
+    "name": "MARCOS, IMEE R.",
+    "party": "NP"
+  },
+  {
+    "number": 40,
+    "name": "MARQUEZ, NORMAN",
+    "party": "IND"
+  },
+  {
+    "number": 41,
+    "name": "MARTINEZ, ERIC",
+    "party": "IND"
+  },
+  {
+    "number": 42,
+    "name": "MATA, DOC MARITES",
+    "party": "IND"
+  },
+  {
+    "number": 43,
+    "name": "MATULA, ATTY. SONNY",
+    "party": "WPP"
+  },
+  {
+    "number": 44,
+    "name": "MAZA, LIZA",
+    "party": "MKBYN"
+  },
+  {
+    "number": 45,
+    "name": "MENDOZA, HEIDI",
+    "party": "IND"
+  },
+  {
+    "number": 46,
+    "name": "MONTEMAYOR, JOEY",
+    "party": "IND"
+  },
+  {
+    "number": 47,
+    "name": "MUSTAPHA, SUBAIR",
+    "party": "WPP"
+  },
+  {
+    "number": 48,
+    "name": "OLIVAR, JOSE JESSIE",
+    "party": "IND"
+  },
+  {
+    "number": 49,
+    "name": "ONG, DOC WILLIE",
+    "party": "AKSYON"
+  },
+  {
+    "number": 50,
+    "name": "PACQUIAO, MANNY PACMAN",
+    "party": "PFP"
+  },
+  {
+    "number": 51,
+    "name": "PANGILINAN, KIKO",
+    "party": "LP"
+  },
+  {
+    "number": 52,
+    "name": "QUERUBIN, ARIEL PORFIRIO",
+    "party": "NP"
+  },
+  {
+    "number": 53,
+    "name": "QUIBOLOY, APOLLO",
+    "party": "IND"
+  },
+  {
+    "number": 54,
+    "name": "RAMOS, DANILO",
+    "party": "MKBYN"
+  },
+  {
+    "number": 55,
+    "name": "REVILLAME, WILLIE WIL",
+    "party": "IND"
+  },
+  {
+    "number": 56,
+    "name": "RODRIGUEZ, ATTY. VIC",
+    "party": "IND"
+  },
+  {
+    "number": 57,
+    "name": "SAHIDULLA, NUR-ANA",
+    "party": "IND"
+  },
+  {
+    "number": 58,
+    "name": "SALVADOR, PHILLIP IPE",
+    "party": "PDPLBN"
+  },
+  {
+    "number": 59,
+    "name": "SOTTO, TITO",
+    "party": "NPC"
+  },
+  {
+    "number": 60,
+    "name": "TAPADO, MICHAEL BONGBONG",
+    "party": "PM"
+  },
+  {
+    "number": 61,
+    "name": "TOLENTINO, FRANCIS TOL",
+    "party": "PFP"
+  },
+  {
+    "number": 62,
+    "name": "TULFO, BEN BITAG",
+    "party": "IND"
+  },
+  {
+    "number": 63,
+    "name": "TULFO, ERWIN",
+    "party": "LAKAS"
+  },
+  {
+    "number": 64,
+    "name": "VALBUENA, MAR MANIBELA",
+    "party": "IND"
+  },
+  {
+    "number": 65,
+    "name": "VERCELES, LEANDRO",
+    "party": "IND"
+  },
+  {
+    "number": 66,
+    "name": "VILLAR, CAMILLE",
+    "party": "NP"
+  }
+]
