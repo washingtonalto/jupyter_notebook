@@ -1,49 +1,92 @@
+# Election Ballot Face Template PDF to JSON
 
-# Election Ballot Parser
+This Python project automates the conversion of **Philippine election ballot PDFs** into a standardized, bilingual JSON format. It is built specifically for parsing official ballot templates published by the **Commission on Elections (COMELEC)** for the **May 2025 National and Local Elections**.
 
-This project provides reusable Python classes to parse Philippine election ballot PDFs into a standardized JSON format.
+🔗 Official source of ballot templates:  
+https://comelec.gov.ph/?r=2025NLE/2025BallotFace
 
-## Features
+📁 GitHub repository:  
+https://github.com/washingtonalto/jupyter_notebook/tree/main/Election%20Ballot%20Face%20Template%20PDF%20to%20JSON
 
-- Strict parsing from actual ballot PDFs (no hallucinations).
-- Object-oriented structure.
-- Supports batch processing: entire folder of PDFs to a folder of JSON outputs.
-- Reuses reference files for Senator and Party List candidates for validation.
-- Bilingual instruction preservation (English and Filipino).
+---
 
-## Requirements
+## 🔧 Features
 
-Install required modules:
+- Converts COMELEC-issued PDFs into structured JSON.
+- Extracts:
+  - Election date
+  - Location and precinct metadata
+  - All positions with bilingual voting instructions
+  - Complete candidate lists (Senator, Party List, Local)
+- Supports lone candidates and multi-line candidate entries.
+- Uses `pdfminer.six` with tuned layout parameters (`boxes_flow=None`) to ensure left-to-right, top-to-bottom reading order.
 
-```bash
-pip install pdfminer.six tqdm
-```
+---
 
-## Usage
+## 🗃️ Input Requirements
 
-1. Prepare your input folder (e.g., `input_pdfs/`) containing all ballot PDFs.
-2. Make sure your `senator_candidates_full.json` and `party_list_full.json` are available.
-3. Use the following code:
+- PDFs must be ballot face templates directly from the official COMELEC website.
+- All 66 **Senatorial** and 156 **Party List** candidates are assumed consistent across districts.
+- Other positions (e.g., Mayor, Councilor) vary per city/district.
+
+---
+
+## 🚀 How to Use
+
+1. Place all downloaded PDF templates in a folder named `input_pdfs`.
+2. Ensure the following reference files are present:
+   - `senator_candidates_full.json`
+   - `party_list_full.json`
+3. Run the parser:
 
 ```python
 from election_ballot_parser import BatchProcessor
 
 batch = BatchProcessor(
-    "input_pdfs",      # Folder containing PDF ballots
-    "output_jsons",    # Output folder for JSON files
-    "senator_candidates_full.json",  # Reference senator list
-    "party_list_full.json"            # Reference party list
+    input_dir="input_pdfs",
+    output_dir="output_jsons",
+    senator_file="senator_candidates_full.json",
+    partylist_file="party_list_full.json"
 )
 batch.process_all()
 ```
 
-Output JSON files will be saved inside the `output_jsons/` folder.
-
-## Files
-
-- `election_ballot_parser.py`: Main Python code.
-- `senator_candidates_full.json`: Reference senator list.
-- `party_list_full.json`: Reference party list.
-- `README.md`: This guide.
+4. All resulting `.json` files will be saved to the `output_jsons/` directory.
 
 ---
+
+## 📦 Requirements
+
+Install dependencies:
+
+```bash
+pip install pdfminer.six tqdm
+```
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE.txt).
+
+You are free to use, modify, and distribute this code as long as the original license and credit are preserved.
+
+**Attribution**: Please cite **Washington Alto** in any derivative work, publication, or shared implementation based on this project.
+
+---
+
+## 🙌 Credits
+
+Created and maintained by **Washington Alto** to help fellow Filipino voters and developers working with election data.
+
+
+
+---
+
+## 🤖 Generative AI Acknowledgment
+
+This project was developed with the assistance of **ChatGPT-4o**, which was used to collaboratively create, refine, and debug the code.
+
+The object-oriented structure and reusable Python class design were specifically requested by the author to ensure clarity, maintainability, and extensibility.
+
+While the final implementation was tested and adjusted manually, portions of the code and structure were generated using generative AI tools.
