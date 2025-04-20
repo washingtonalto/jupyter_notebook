@@ -988,7 +988,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "SUAREZ, DAVID JAY JAY",
           "party": "LAKAS"
         }
@@ -1003,7 +1003,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, DOKTORA HELEN",
           "party": "STAN Q"
         }
@@ -1018,17 +1018,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, THIRD",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ALPAJORA, ARMINGOL",
           "party": "KBL"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "CAPINA, TEODORICO",
           "party": "IND"
         }
@@ -1043,17 +1043,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, VNET",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "LIWANAG, YNA",
           "party": "STAN Q"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "TAN, DOC KIM",
           "party": "STAN Q"
         }
@@ -1068,12 +1068,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "VESLIÑO, JAY",
           "party": "LP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "WAGAN, ERICK",
           "party": "NUP"
         }
@@ -1088,14 +1088,14 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "PILLERBA, ALVIN",
-          "party": "LP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "MURPHY, JENNY",
           "party": "STAN \nQ"
+        },
+        {
+          "number": "2",
+          "name": "PILLERBA, ALVIN",
+          "party": "LP"
         }
       ]
     },
@@ -1108,74 +1108,74 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "CUEVAS, CARMELO",
           "party": "LP"
         },
         {
-          "number": 2,
-          "name": "PENTINIO, EDITA",
-          "party": "LAKAS"
-        },
-        {
-          "number": 3,
-          "name": "VIDAL, RYAN",
-          "party": "LAKAS"
-        },
-        {
-          "number": 4,
-          "name": "ESTALLO, EDONG",
-          "party": "LAKAS"
-        },
-        {
-          "number": 5,
+          "number": "2",
           "name": "DE SILVA, EMILY",
           "party": "LAKAS"
         },
         {
-          "number": 6,
-          "name": "HIWATIG, ALVIN",
-          "party": "LP"
-        },
-        {
-          "number": 7,
-          "name": "PEREZ, EDNA",
-          "party": "LAKAS"
-        },
-        {
-          "number": 8,
-          "name": "VILLAMIN, JAJA",
-          "party": "LP"
-        },
-        {
-          "number": 9,
-          "name": "MALIGAYA, BUDOK",
-          "party": "LP"
-        },
-        {
-          "number": 10,
-          "name": "SALES, MAY",
-          "party": "STAN Q"
-        },
-        {
-          "number": 11,
+          "number": "3",
           "name": "DIMAANO, CALOY",
           "party": "LAKAS"
         },
         {
-          "number": 12,
+          "number": "4",
           "name": "DIN, RANDY",
           "party": "LP"
         },
         {
-          "number": 13,
+          "number": "5",
+          "name": "ESTALLO, EDONG",
+          "party": "LAKAS"
+        },
+        {
+          "number": "6",
+          "name": "HIWATIG, ALVIN",
+          "party": "LP"
+        },
+        {
+          "number": "7",
+          "name": "MALIGAYA, BUDOK",
+          "party": "LP"
+        },
+        {
+          "number": "8",
           "name": "MASONGSONG, EDITH",
           "party": "LAKAS"
         },
         {
-          "number": 14,
+          "number": "9",
+          "name": "PENTINIO, EDITA",
+          "party": "LAKAS"
+        },
+        {
+          "number": "10",
+          "name": "PEREZ, EDNA",
+          "party": "LAKAS"
+        },
+        {
+          "number": "11",
+          "name": "SALES, MAY",
+          "party": "STAN Q"
+        },
+        {
+          "number": "12",
           "name": "TAPIRE, MARVIN",
           "party": "LAKAS"
+        },
+        {
+          "number": "13",
+          "name": "VIDAL, RYAN",
+          "party": "LAKAS"
+        },
+        {
+          "number": "14",
+          "name": "VILLAMIN, JAJA",
+          "party": "LP"
         }
       ]
     }

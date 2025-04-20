@@ -988,19 +988,19 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BURGOS, NESTOR",
           "party": "IND"
         },
         {
-          "number": 2,
-          "name": "LEVISTE, MARK",
-          "party": "IND"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "COLLANTES, ATTY. KING",
           "party": "NPC"
+        },
+        {
+          "number": "3",
+          "name": "LEVISTE, MARK",
+          "party": "IND"
         }
       ]
     },
@@ -1013,22 +1013,22 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "RIVERA, MIKE",
-          "party": "LP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "ILAGAN, JAY MANALO",
           "party": "PROMDI"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "OZAETA, KUYAKAP  WALTER",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "3",
+          "name": "RIVERA, MIKE",
+          "party": "LP"
+        },
+        {
+          "number": "4",
           "name": "SANTOS-RECTO, VILMA",
           "party": "NP"
         }
@@ -1043,17 +1043,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "DOLOR, RYANH",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MANDANAS, DODO",
           "party": "PDPLBN"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "MANZANO, LUIS LUCKY",
           "party": "NP"
         }
@@ -1068,17 +1068,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BALBA, RUDY",
           "party": "NP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "CORONA, FRED",
           "party": "NP"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "MACALINTAL, DENNIS",
           "party": "PFP"
         }
@@ -1093,19 +1093,19 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ENDAYA, FAYE",
           "party": "LP"
         },
         {
-          "number": 2,
-          "name": "REMO, ERVIN",
-          "party": "LAKAS"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "MAGPANTAY, ALEX",
           "party": "NPC"
+        },
+        {
+          "number": "3",
+          "name": "REMO, ERVIN",
+          "party": "LAKAS"
         }
       ]
     },
@@ -1118,19 +1118,19 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
+          "name": "CUEVAS, MELVIN L. -MLC",
+          "party": "LP"
+        },
+        {
+          "number": "2",
           "name": "PANTAS, NENE",
           "party": "NPC"
         },
         {
-          "number": 2,
+          "number": "3",
           "name": "VERDAN, NIÑA",
           "party": "LAKAS"
-        },
-        {
-          "number": 3,
-          "name": "CUEVAS, MELVIN L. -MLC",
-          "party": "LP"
         }
       ]
     },
@@ -1143,142 +1143,142 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "LA ROSA, DANNY M",
-          "party": "LP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "ABALAYAN, COL. TINOY",
           "party": "LP"
         },
         {
-          "number": 3,
-          "name": "CORTIGUERRA, KAYE",
-          "party": "LAKAS"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "ABE, ARWIN",
           "party": "LAKAS"
         },
         {
-          "number": 5,
-          "name": "CUENCA, CARLO",
-          "party": "LAKAS"
-        },
-        {
-          "number": 6,
-          "name": "LA ROSA, OLLIE",
-          "party": "IND"
-        },
-        {
-          "number": 7,
-          "name": "LARCIA, BASTE",
-          "party": "NPC"
-        },
-        {
-          "number": 8,
-          "name": "CUEVAS, DENNIS",
-          "party": "LAKAS"
-        },
-        {
-          "number": 9,
-          "name": "ENDAYA, TESS",
-          "party": "NPC"
-        },
-        {
-          "number": 10,
+          "number": "3",
           "name": "AMORANTO, BOSS JUN",
           "party": "IND"
         },
         {
-          "number": 11,
+          "number": "4",
           "name": "BALATBAT, SYDNEY",
           "party": "NPC"
         },
         {
-          "number": 12,
+          "number": "5",
           "name": "CHAVEZ, APOL",
           "party": "IND"
         },
         {
-          "number": 13,
-          "name": "ESGUERRA, DIREK",
-          "party": "LAKAS"
-        },
-        {
-          "number": 14,
-          "name": "MARASIGAN, SIR JUN",
-          "party": "LP"
-        },
-        {
-          "number": 15,
-          "name": "MATIBAG, GARRY",
-          "party": "LAKAS"
-        },
-        {
-          "number": 16,
-          "name": "MATIBAG, KAPITANA  IMELDA",
-          "party": "LP"
-        },
-        {
-          "number": 17,
-          "name": "MONTILLA, JERIMAE",
-          "party": "LAKAS"
-        },
-        {
-          "number": 18,
-          "name": "PANALIGAN, CESAR",
-          "party": "NPC"
-        },
-        {
-          "number": 19,
+          "number": "6",
           "name": "CHAVEZ, CITO",
           "party": "IND"
         },
         {
-          "number": 20,
-          "name": "GOROSPE, IAN",
-          "party": "NPC"
-        },
-        {
-          "number": 21,
-          "name": "PASIA, NIÑO",
-          "party": "LAKAS"
-        },
-        {
-          "number": 22,
+          "number": "7",
           "name": "COMIA, GRACE R",
           "party": "LP"
         },
         {
-          "number": 23,
+          "number": "8",
+          "name": "CORTIGUERRA, KAYE",
+          "party": "LAKAS"
+        },
+        {
+          "number": "9",
+          "name": "CUENCA, CARLO",
+          "party": "LAKAS"
+        },
+        {
+          "number": "10",
+          "name": "CUEVAS, DENNIS",
+          "party": "LAKAS"
+        },
+        {
+          "number": "11",
+          "name": "ENDAYA, TESS",
+          "party": "NPC"
+        },
+        {
+          "number": "12",
+          "name": "ESGUERRA, DIREK",
+          "party": "LAKAS"
+        },
+        {
+          "number": "13",
+          "name": "GOROSPE, IAN",
+          "party": "NPC"
+        },
+        {
+          "number": "14",
           "name": "JAVIER, LET",
           "party": "NPC"
         },
         {
-          "number": 24,
+          "number": "15",
+          "name": "LA ROSA, DANNY M",
+          "party": "LP"
+        },
+        {
+          "number": "16",
+          "name": "LA ROSA, OLLIE",
+          "party": "IND"
+        },
+        {
+          "number": "17",
+          "name": "LARCIA, BASTE",
+          "party": "NPC"
+        },
+        {
+          "number": "18",
           "name": "LUNAR, EMILYN EMS",
           "party": "LP"
         },
         {
-          "number": 25,
+          "number": "19",
           "name": "MAGPANTAY, EARNS",
           "party": "NPC"
         },
         {
-          "number": 26,
+          "number": "20",
           "name": "MAGSOMBOL, CRISPIN  COCO",
           "party": "LP"
         },
         {
-          "number": 27,
+          "number": "21",
           "name": "MALIBIRAN, CHING",
           "party": "NPC"
         },
         {
-          "number": 28,
+          "number": "22",
+          "name": "MARASIGAN, SIR JUN",
+          "party": "LP"
+        },
+        {
+          "number": "23",
+          "name": "MATIBAG, GARRY",
+          "party": "LAKAS"
+        },
+        {
+          "number": "24",
+          "name": "MATIBAG, KAPITANA  IMELDA",
+          "party": "LP"
+        },
+        {
+          "number": "25",
+          "name": "MONTILLA, JERIMAE",
+          "party": "LAKAS"
+        },
+        {
+          "number": "26",
+          "name": "PANALIGAN, CESAR",
+          "party": "NPC"
+        },
+        {
+          "number": "27",
+          "name": "PASIA, NIÑO",
+          "party": "LAKAS"
+        },
+        {
+          "number": "28",
           "name": "YU, GERALDINE GIGIE",
           "party": "LP"
         }

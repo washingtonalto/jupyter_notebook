@@ -991,28 +991,28 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "CRUZ, ADING",
-          "party": "NP"
-        },
-        {
-          "number": 2,
-          "name": "OPOC, RICARDO",
-          "party": "IND"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "CAYETANO, DIREK LINO",
           "party": "NPC"
         },
         {
-          "number": 4,
+          "number": "2",
           "name": "CERAFICA, ALLAN",
           "party": "PFP"
         },
         {
-          "number": 5,
+          "number": "3",
+          "name": "CRUZ, ADING",
+          "party": "NP"
+        },
+        {
+          "number": "4",
           "name": "DELA CRUZ, PETER",
+          "party": "IND"
+        },
+        {
+          "number": "5",
+          "name": "OPOC, RICARDO",
           "party": "IND"
         }
       ]
@@ -1026,12 +1026,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "GERMAN, GERALD",
           "party": "PFP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MIRANDA, RSM",
           "party": "NUP"
         }
@@ -1046,17 +1046,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "CERAFICA, JOHN",
           "party": "PFP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MARZAN, PETER",
           "party": "NUP"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "SANTOS, CARLO",
           "party": "NP"
         }
@@ -1071,94 +1071,94 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCANTARA, OMAR",
           "party": "NP"
         },
         {
-          "number": 2,
-          "name": "JOSON, TENG",
-          "party": "PFP"
-        },
-        {
-          "number": 3,
-          "name": "MILLARES, RYAN",
-          "party": "PFP"
-        },
-        {
-          "number": 4,
-          "name": "ROXAS, RODERIC",
-          "party": "NUP"
-        },
-        {
-          "number": 5,
+          "number": "2",
           "name": "AMPE, AYIE",
           "party": "PFP"
         },
         {
-          "number": 6,
-          "name": "SANCHEZ, JOJO",
-          "party": "NP"
-        },
-        {
-          "number": 7,
-          "name": "LAMBINO, ROMMEL",
-          "party": "NUP"
-        },
-        {
-          "number": 8,
-          "name": "PALICAN, RICHARD",
-          "party": "NUP"
-        },
-        {
-          "number": 9,
+          "number": "3",
           "name": "CORTEZ, KAP ATOY",
           "party": "NP"
         },
         {
-          "number": 10,
-          "name": "LING, JUN",
-          "party": "NUP"
-        },
-        {
-          "number": 11,
-          "name": "PONCE, IAN",
-          "party": "PFP"
-        },
-        {
-          "number": 12,
-          "name": "TAÑGA, EMMAN",
-          "party": "NP"
-        },
-        {
-          "number": 13,
+          "number": "4",
           "name": "CRUZ, PAUL",
           "party": "KNP"
         },
         {
-          "number": 14,
-          "name": "LORENZO, CHITO",
-          "party": "NUP"
-        },
-        {
-          "number": 15,
-          "name": "PONCE, KAPMP",
-          "party": "IND"
-        },
-        {
-          "number": 16,
+          "number": "5",
           "name": "DE LARA, JOEY",
           "party": "NUP"
         },
         {
-          "number": 17,
+          "number": "6",
+          "name": "JOSON, TENG",
+          "party": "PFP"
+        },
+        {
+          "number": "7",
+          "name": "LAMBINO, ROMMEL",
+          "party": "NUP"
+        },
+        {
+          "number": "8",
+          "name": "LING, JUN",
+          "party": "NUP"
+        },
+        {
+          "number": "9",
+          "name": "LORENZO, CHITO",
+          "party": "NUP"
+        },
+        {
+          "number": "10",
           "name": "MANGOBA, ALDEN",
           "party": "NP"
         },
         {
-          "number": 18,
+          "number": "11",
+          "name": "MILLARES, RYAN",
+          "party": "PFP"
+        },
+        {
+          "number": "12",
+          "name": "PALICAN, RICHARD",
+          "party": "NUP"
+        },
+        {
+          "number": "13",
+          "name": "PONCE, IAN",
+          "party": "PFP"
+        },
+        {
+          "number": "14",
+          "name": "PONCE, KAPMP",
+          "party": "IND"
+        },
+        {
+          "number": "15",
           "name": "RAYMUNDO, JONELL",
           "party": "PFP"
+        },
+        {
+          "number": "16",
+          "name": "ROXAS, RODERIC",
+          "party": "NUP"
+        },
+        {
+          "number": "17",
+          "name": "SANCHEZ, JOJO",
+          "party": "NP"
+        },
+        {
+          "number": "18",
+          "name": "TAÑGA, EMMAN",
+          "party": "NP"
         }
       ]
     }

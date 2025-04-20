@@ -989,22 +989,22 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "LACORTE, RGL",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "PANGANIBAN, ATTY.  MAR",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "RECTO, RYAN CHRISTIAN",
           "party": "NP"
         },
         {
-          "number": 4,
+          "number": "4",
           "name": "SABILI, BERNADETTE",
           "party": "IND"
         }
@@ -1019,22 +1019,22 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "RIVERA, MIKE",
-          "party": "LP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "ILAGAN, JAY MANALO",
           "party": "PROMDI"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "OZAETA, KUYAKAP  WALTER",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "3",
+          "name": "RIVERA, MIKE",
+          "party": "LP"
+        },
+        {
+          "number": "4",
           "name": "SANTOS-RECTO, VILMA",
           "party": "NP"
         }
@@ -1049,17 +1049,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "DOLOR, RYANH",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MANDANAS, DODO",
           "party": "PDPLBN"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "MANZANO, LUIS LUCKY",
           "party": "NP"
         }
@@ -1074,12 +1074,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "GOZOS, JUN-JUN",
           "party": "NP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MENDOZA, BIBONG",
           "party": "NP"
         }
@@ -1094,7 +1094,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AFRICA, ERIC",
           "party": "NP"
         }
@@ -1109,12 +1109,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "LOPEZ, CAMILLE",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MORADA, MIKEE",
           "party": "NP"
         }
@@ -1129,88 +1129,88 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "PUA, JOEL",
-          "party": "NP"
-        },
-        {
-          "number": 2,
-          "name": "UMALI, MIKEE",
-          "party": "NP"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "ANGELES, ATTY. GALLY",
           "party": "NP"
         },
         {
-          "number": 4,
-          "name": "LUANCING, MAK-MAK",
-          "party": "NP"
-        },
-        {
-          "number": 5,
+          "number": "2",
           "name": "CATIPON, NILO",
           "party": "NP"
         },
         {
-          "number": 6,
-          "name": "MACALA, ARIES",
-          "party": "NP"
-        },
-        {
-          "number": 7,
-          "name": "RONQUILLO, NICOLE",
-          "party": "NP"
-        },
-        {
-          "number": 8,
-          "name": "VILLANUEVA, ED TULPO",
-          "party": "IND"
-        },
-        {
-          "number": 9,
+          "number": "3",
           "name": "LINA, MIKE",
           "party": "NP"
         },
         {
-          "number": 10,
-          "name": "MANALO, VENICE",
-          "party": "NP"
-        },
-        {
-          "number": 11,
-          "name": "SANGALANG, ROY",
-          "party": "IND"
-        },
-        {
-          "number": 12,
+          "number": "4",
           "name": "LOPEZ, LYDIO",
           "party": "NP"
         },
         {
-          "number": 13,
+          "number": "5",
+          "name": "LUANCING, BEVERLY",
+          "party": "IND"
+        },
+        {
+          "number": "6",
+          "name": "LUANCING, MAK-MAK",
+          "party": "NP"
+        },
+        {
+          "number": "7",
+          "name": "MACALA, ARIES",
+          "party": "NP"
+        },
+        {
+          "number": "8",
+          "name": "MANALO, VENICE",
+          "party": "NP"
+        },
+        {
+          "number": "9",
           "name": "MARANAN, EARL",
           "party": "IND"
         },
         {
-          "number": 14,
-          "name": "SILVA, MERLO",
-          "party": "NP"
-        },
-        {
-          "number": 15,
+          "number": "10",
           "name": "ONA, LEO",
           "party": "IND"
         },
         {
-          "number": 16,
+          "number": "11",
+          "name": "PUA, JOEL",
+          "party": "NP"
+        },
+        {
+          "number": "12",
+          "name": "RONQUILLO, NICOLE",
+          "party": "NP"
+        },
+        {
+          "number": "13",
+          "name": "SANGALANG, ROY",
+          "party": "IND"
+        },
+        {
+          "number": "14",
+          "name": "SILVA, MERLO",
+          "party": "NP"
+        },
+        {
+          "number": "15",
           "name": "TOLEDO, SPYE",
           "party": "NP"
         },
         {
-          "number": 17,
-          "name": "LUANCING, BEVERLY",
+          "number": "16",
+          "name": "UMALI, MIKEE",
+          "party": "NP"
+        },
+        {
+          "number": "17",
+          "name": "VILLANUEVA, ED TULPO",
           "party": "IND"
         }
       ]

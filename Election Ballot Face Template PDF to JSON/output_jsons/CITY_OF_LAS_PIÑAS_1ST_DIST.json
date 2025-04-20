@@ -991,24 +991,24 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "TAYAM, BARRY",
-          "party": "IND"
-        },
-        {
-          "number": 2,
-          "name": "VILLAR, CYNTHIA",
-          "party": "NP"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "REDOBLE, CONG LOUIE",
           "party": "KNP"
         },
         {
-          "number": 4,
+          "number": "2",
           "name": "SANTOS, MARK  ANTHONY",
           "party": "IND"
+        },
+        {
+          "number": "3",
+          "name": "TAYAM, BARRY",
+          "party": "IND"
+        },
+        {
+          "number": "4",
+          "name": "VILLAR, CYNTHIA",
+          "party": "NP"
         }
       ]
     },
@@ -1021,38 +1021,38 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "AGUILAR, CARLO",
-          "party": "NP"
-        },
-        {
-          "number": 2,
-          "name": "RIVERA, REY",
-          "party": "IND"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "ABELLAR, ANTONIO JR.",
           "party": "PM"
         },
         {
-          "number": 4,
+          "number": "2",
           "name": "AGUILAR, APRIL",
           "party": "NPC"
         },
         {
-          "number": 5,
+          "number": "3",
+          "name": "AGUILAR, CARLO",
+          "party": "NP"
+        },
+        {
+          "number": "4",
           "name": "BARREDO, ROLANDO JR.",
           "party": "IND"
         },
         {
-          "number": 6,
+          "number": "5",
           "name": "DUCAT, ARMANDO JR.",
           "party": "IND"
         },
         {
-          "number": 7,
+          "number": "6",
           "name": "MIRANDA, CONRADO",
+          "party": "IND"
+        },
+        {
+          "number": "7",
+          "name": "RIVERA, REY",
           "party": "IND"
         }
       ]
@@ -1066,42 +1066,42 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AGUILAR, IMELDA",
           "party": "NPC"
         },
         {
-          "number": 2,
-          "name": "ARTETA, PING",
-          "party": "IND"
-        },
-        {
-          "number": 3,
-          "name": "BUSTAMANTE, LOUIE",
-          "party": "NP"
-        },
-        {
-          "number": 4,
-          "name": "CHAVEZ, TATAY BEN",
-          "party": "IND"
-        },
-        {
-          "number": 5,
+          "number": "2",
           "name": "ANGELES, ED",
           "party": "IND"
         },
         {
-          "number": 6,
+          "number": "3",
+          "name": "ARTETA, PING",
+          "party": "IND"
+        },
+        {
+          "number": "4",
           "name": "BATALAN, DONG",
           "party": "IND"
         },
         {
-          "number": 7,
+          "number": "5",
+          "name": "BUSTAMANTE, LOUIE",
+          "party": "NP"
+        },
+        {
+          "number": "6",
           "name": "CASIMIRO, LOUIE",
           "party": "IND"
         },
         {
-          "number": 8,
+          "number": "7",
+          "name": "CHAVEZ, TATAY BEN",
+          "party": "IND"
+        },
+        {
+          "number": "8",
           "name": "DAVID, CYRIL",
           "party": "IND"
         }
@@ -1116,142 +1116,142 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ABELLERA, ZARDI",
           "party": "NPC"
         },
         {
-          "number": 2,
-          "name": "GALLANO, AME",
-          "party": "IND"
-        },
-        {
-          "number": 3,
-          "name": "RIGUERA, REX",
-          "party": "NP"
-        },
-        {
-          "number": 4,
-          "name": "CASTILLO, MICHAEL",
-          "party": "IND"
-        },
-        {
-          "number": 5,
+          "number": "2",
           "name": "AGUILAR, ALBIE",
           "party": "NP"
         },
         {
-          "number": 6,
-          "name": "CHAVEZ, MAR",
-          "party": "IND"
-        },
-        {
-          "number": 7,
+          "number": "3",
           "name": "AGUILAR, ALELEE",
           "party": "NPC"
         },
         {
-          "number": 8,
+          "number": "4",
           "name": "BALANAG, REY",
           "party": "NP"
         },
         {
-          "number": 9,
+          "number": "5",
           "name": "BAYOG, BRIAN",
           "party": "NPC"
         },
         {
-          "number": 10,
-          "name": "CLAVE, JERIC ANTONI  VER",
-          "party": "IND"
-        },
-        {
-          "number": 11,
-          "name": "CRISTOBAL, KAP.  ROBERT",
-          "party": "NPC"
-        },
-        {
-          "number": 12,
-          "name": "DE LEON, DOC ERIC",
-          "party": "NP"
-        },
-        {
-          "number": 13,
-          "name": "JAMCO, ANGELITO JR.",
-          "party": "IND"
-        },
-        {
-          "number": 14,
-          "name": "LLUPAR, RODOLFO",
-          "party": "IND"
-        },
-        {
-          "number": 15,
-          "name": "MATUNDAN, LAURO III",
-          "party": "IND"
-        },
-        {
-          "number": 16,
-          "name": "MEDIDAS, DAVEY PROF",
-          "party": "PDPLBN"
-        },
-        {
-          "number": 17,
-          "name": "ROSALES, MARLON",
-          "party": "NPC"
-        },
-        {
-          "number": 18,
-          "name": "SANTAMARIA, MIMI",
-          "party": "IND"
-        },
-        {
-          "number": 19,
-          "name": "SANTOS, MAC-MAC",
-          "party": "NPC"
-        },
-        {
-          "number": 20,
-          "name": "SOMEROS, COMBAT",
-          "party": "IND"
-        },
-        {
-          "number": 21,
+          "number": "6",
           "name": "BUSTAMANTE, JESS",
           "party": "NP"
         },
         {
-          "number": 22,
-          "name": "ESMEÑA, LARRY",
-          "party": "IND"
-        },
-        {
-          "number": 23,
-          "name": "PEÑA, OSCAR",
-          "party": "NP"
-        },
-        {
-          "number": 24,
-          "name": "SUÑER, ANGELITA",
-          "party": "IND"
-        },
-        {
-          "number": 25,
-          "name": "EUSEBIO, LARRY",
-          "party": "IND"
-        },
-        {
-          "number": 26,
-          "name": "PEREZ, LARRY",
-          "party": "IND"
-        },
-        {
-          "number": 27,
+          "number": "7",
           "name": "CASTILLO, JINSEI",
           "party": "MKBYN"
         },
         {
-          "number": 28,
+          "number": "8",
+          "name": "CASTILLO, MICHAEL",
+          "party": "IND"
+        },
+        {
+          "number": "9",
+          "name": "CHAVEZ, MAR",
+          "party": "IND"
+        },
+        {
+          "number": "10",
+          "name": "CLAVE, JERIC ANTONI  VER",
+          "party": "IND"
+        },
+        {
+          "number": "11",
+          "name": "CRISTOBAL, KAP.  ROBERT",
+          "party": "NPC"
+        },
+        {
+          "number": "12",
+          "name": "DE LEON, DOC ERIC",
+          "party": "NP"
+        },
+        {
+          "number": "13",
+          "name": "ESMEÑA, LARRY",
+          "party": "IND"
+        },
+        {
+          "number": "14",
+          "name": "EUSEBIO, LARRY",
+          "party": "IND"
+        },
+        {
+          "number": "15",
+          "name": "GALLANO, AME",
+          "party": "IND"
+        },
+        {
+          "number": "16",
+          "name": "JAMCO, ANGELITO JR.",
+          "party": "IND"
+        },
+        {
+          "number": "17",
+          "name": "LLUPAR, RODOLFO",
+          "party": "IND"
+        },
+        {
+          "number": "18",
+          "name": "MATUNDAN, LAURO III",
+          "party": "IND"
+        },
+        {
+          "number": "19",
+          "name": "MEDIDAS, DAVEY PROF",
+          "party": "PDPLBN"
+        },
+        {
+          "number": "20",
+          "name": "PEÑA, OSCAR",
+          "party": "NP"
+        },
+        {
+          "number": "21",
+          "name": "PEREZ, LARRY",
+          "party": "IND"
+        },
+        {
+          "number": "22",
+          "name": "RIGUERA, REX",
+          "party": "NP"
+        },
+        {
+          "number": "23",
+          "name": "ROSALES, MARLON",
+          "party": "NPC"
+        },
+        {
+          "number": "24",
+          "name": "SANTAMARIA, MIMI",
+          "party": "IND"
+        },
+        {
+          "number": "25",
+          "name": "SANTOS, MAC-MAC",
+          "party": "NPC"
+        },
+        {
+          "number": "26",
+          "name": "SOMEROS, COMBAT",
+          "party": "IND"
+        },
+        {
+          "number": "27",
+          "name": "SUÑER, ANGELITA",
+          "party": "IND"
+        },
+        {
+          "number": "28",
           "name": "TOLENTINO, PEARL",
           "party": "IND"
         }

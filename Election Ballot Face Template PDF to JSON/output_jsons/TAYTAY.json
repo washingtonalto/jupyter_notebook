@@ -988,24 +988,24 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "GALIAS, ANTON",
           "party": "PDR"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "NARCISO, JAY",
           "party": "PDSP"
         },
         {
-          "number": 3,
-          "name": "YNARES, MIA",
-          "party": "NPC"
-        },
-        {
-          "number": 4,
+          "number": "3",
           "name": "PALLASIGUE, KUYA JB",
           "party": "IND"
+        },
+        {
+          "number": "4",
+          "name": "YNARES, MIA",
+          "party": "NPC"
         }
       ]
     },
@@ -1018,22 +1018,22 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ACOL, GLENN",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "PEREZ, RONALD",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "VELASCO, JOSE",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "4",
           "name": "YNARES, NINA",
           "party": "NPC"
         }
@@ -1048,28 +1048,28 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BADAJOS, IMEE",
           "party": "PDSP"
         },
         {
-          "number": 2,
-          "name": "MANUEL, REYNALDO",
-          "party": "IND"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "BAUTISTA, KUYA JOJO",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "3",
           "name": "GATLABAYAN, PINING",
           "party": "NPC"
         },
         {
-          "number": 5,
+          "number": "4",
           "name": "GUILLERGAN, GHERRY",
+          "party": "IND"
+        },
+        {
+          "number": "5",
+          "name": "MANUEL, REYNALDO",
           "party": "IND"
         }
       ]
@@ -1083,47 +1083,47 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "CRUZ, PAPOO",
-          "party": "NPC"
-        },
-        {
-          "number": 2,
-          "name": "ILAGAN-CONDE, KAY",
-          "party": "NPC"
-        },
-        {
-          "number": 3,
-          "name": "DELA ROSA, LOUIE",
-          "party": "IND"
-        },
-        {
-          "number": 4,
-          "name": "MAMBA, JAKZ",
-          "party": "IND"
-        },
-        {
-          "number": 5,
+          "number": "1",
           "name": "AGPALO, BROTHER BOY",
           "party": "IND"
         },
         {
-          "number": 6,
+          "number": "2",
           "name": "ALARCON, JESTONI",
           "party": "NPC"
         },
         {
-          "number": 7,
+          "number": "3",
           "name": "CRUZ, EDWIN",
           "party": "IND"
         },
         {
-          "number": 8,
+          "number": "4",
+          "name": "CRUZ, PAPOO",
+          "party": "NPC"
+        },
+        {
+          "number": "5",
+          "name": "DELA ROSA, LOUIE",
+          "party": "IND"
+        },
+        {
+          "number": "6",
           "name": "HUANG, JOSEPH",
           "party": "IND"
         },
         {
-          "number": 9,
+          "number": "7",
+          "name": "ILAGAN-CONDE, KAY",
+          "party": "NPC"
+        },
+        {
+          "number": "8",
+          "name": "MAMBA, JAKZ",
+          "party": "IND"
+        },
+        {
+          "number": "9",
           "name": "TIAMSON, PATNUBAY",
           "party": "NP"
         }
@@ -1138,17 +1138,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "DE LEON, ALLAN",
           "party": "NPC"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "GACULA, JORIC",
           "party": "PFP"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "MARUNDAN, MARILYN",
           "party": "IND"
         }
@@ -1163,22 +1163,22 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ANGELES, FILIPINA",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "CABITAC, JV",
           "party": "NPC"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "CABRAL, PIA",
           "party": "LAKAS"
         },
         {
-          "number": 4,
+          "number": "4",
           "name": "VILLANUEVA, JECA",
           "party": "PFP"
         }
@@ -1193,162 +1193,162 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "CAYTON, TEGAN",
-          "party": "PFP"
-        },
-        {
-          "number": 2,
-          "name": "ESGUERRA, KIKO",
-          "party": "NPC"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "ALCANTARA, PATRICK",
           "party": "NPC"
         },
         {
-          "number": 4,
+          "number": "2",
           "name": "ANGHAG, MILLET",
           "party": "IND"
         },
         {
-          "number": 5,
-          "name": "CELERIAN, GINO",
-          "party": "AKSYON"
-        },
-        {
-          "number": 6,
+          "number": "3",
           "name": "BACCAY, NORA",
           "party": "IND"
         },
         {
-          "number": 7,
-          "name": "CORTEZ, CAI",
-          "party": "NPC"
-        },
-        {
-          "number": 8,
-          "name": "MANNING, ARKY",
-          "party": "PDPLBN"
-        },
-        {
-          "number": 9,
-          "name": "MERCADO, NINAY",
-          "party": "NPC"
-        },
-        {
-          "number": 10,
-          "name": "PALENZUELA, VICTORIA",
-          "party": "IND"
-        },
-        {
-          "number": 11,
+          "number": "4",
           "name": "BERBAÑO, HELEN",
           "party": "IND"
         },
         {
-          "number": 12,
-          "name": "CRUZ, GERALD",
-          "party": "PFP"
-        },
-        {
-          "number": 13,
-          "name": "PERSIA, CHESCA",
-          "party": "KNP"
-        },
-        {
-          "number": 14,
-          "name": "CRUZ, TOBIT",
-          "party": "AKBYN"
-        },
-        {
-          "number": 15,
+          "number": "5",
           "name": "BERMUNDO, MITCH",
           "party": "PFP"
         },
         {
-          "number": 16,
+          "number": "6",
           "name": "BONILLO, OTILIA",
           "party": "IND"
         },
         {
-          "number": 17,
-          "name": "DE LEON, RHONIEL",
-          "party": "IND"
-        },
-        {
-          "number": 18,
-          "name": "SANTOS, MA. TERESA",
-          "party": "IND"
-        },
-        {
-          "number": 19,
-          "name": "SORELA, MIKE",
-          "party": "PROMDI"
-        },
-        {
-          "number": 20,
-          "name": "DIEGO, ERWIN",
-          "party": "IND"
-        },
-        {
-          "number": 21,
-          "name": "VALERA, JV",
-          "party": "NPC"
-        },
-        {
-          "number": 22,
+          "number": "7",
           "name": "CALDERON, ARCHIE",
           "party": "PFP"
         },
         {
-          "number": 23,
-          "name": "FLORENDO, RANILO",
-          "party": "IND"
-        },
-        {
-          "number": 24,
-          "name": "FRANCISCO, GERICK",
-          "party": "PFP"
-        },
-        {
-          "number": 25,
-          "name": "GONZAGA, MANET",
-          "party": "PFP"
-        },
-        {
-          "number": 26,
-          "name": "JURADO, BONGGIT",
-          "party": "PFP"
-        },
-        {
-          "number": 27,
-          "name": "LAGUNA, KUYA COL.  JUN",
-          "party": "IND"
-        },
-        {
-          "number": 28,
-          "name": "LEONARDO, BOKNAY",
-          "party": "NPC"
-        },
-        {
-          "number": 29,
+          "number": "8",
           "name": "CALDERON, JOAN",
           "party": "NPC"
         },
         {
-          "number": 30,
-          "name": "LOPEZ, ALLYSON",
+          "number": "9",
+          "name": "CAYTON, TEGAN",
           "party": "PFP"
         },
         {
-          "number": 31,
+          "number": "10",
+          "name": "CELERIAN, GINO",
+          "party": "AKSYON"
+        },
+        {
+          "number": "11",
+          "name": "CORTEZ, CAI",
+          "party": "NPC"
+        },
+        {
+          "number": "12",
+          "name": "CRUZ, GERALD",
+          "party": "PFP"
+        },
+        {
+          "number": "13",
+          "name": "CRUZ, TOBIT",
+          "party": "AKBYN"
+        },
+        {
+          "number": "14",
+          "name": "DE LEON, RHONIEL",
+          "party": "IND"
+        },
+        {
+          "number": "15",
+          "name": "DIEGO, ERWIN",
+          "party": "IND"
+        },
+        {
+          "number": "16",
           "name": "DIÑO, TAK FAELDON",
           "party": "NPC"
         },
         {
-          "number": 32,
+          "number": "17",
+          "name": "ESGUERRA, KIKO",
+          "party": "NPC"
+        },
+        {
+          "number": "18",
+          "name": "FLORENDO, RANILO",
+          "party": "IND"
+        },
+        {
+          "number": "19",
+          "name": "FRANCISCO, GERICK",
+          "party": "PFP"
+        },
+        {
+          "number": "20",
+          "name": "GONZAGA, MANET",
+          "party": "PFP"
+        },
+        {
+          "number": "21",
+          "name": "JURADO, BONGGIT",
+          "party": "PFP"
+        },
+        {
+          "number": "22",
+          "name": "LAGUNA, KUYA COL.  JUN",
+          "party": "IND"
+        },
+        {
+          "number": "23",
+          "name": "LEONARDO, BOKNAY",
+          "party": "NPC"
+        },
+        {
+          "number": "24",
+          "name": "LOPEZ, ALLYSON",
+          "party": "PFP"
+        },
+        {
+          "number": "25",
+          "name": "MANNING, ARKY",
+          "party": "PDPLBN"
+        },
+        {
+          "number": "26",
+          "name": "MERCADO, NINAY",
+          "party": "NPC"
+        },
+        {
+          "number": "27",
+          "name": "PALENZUELA, VICTORIA",
+          "party": "IND"
+        },
+        {
+          "number": "28",
+          "name": "PERSIA, CHESCA",
+          "party": "KNP"
+        },
+        {
+          "number": "29",
+          "name": "SANTOS, MA. TERESA",
+          "party": "IND"
+        },
+        {
+          "number": "30",
+          "name": "SORELA, MIKE",
+          "party": "PROMDI"
+        },
+        {
+          "number": "31",
+          "name": "VALERA, JV",
+          "party": "NPC"
+        },
+        {
+          "number": "32",
           "name": "VICTOR, ELJUN",
           "party": "PROMDI"
         }

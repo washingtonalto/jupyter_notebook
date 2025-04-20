@@ -989,22 +989,22 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "ORETA, LENLEN",
-          "party": "NUP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "DELA CRUZ, NINONG",
           "party": "PDPLBN"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "NOEL, BEM LACSON",
           "party": "NPC"
         },
         {
-          "number": 4,
+          "number": "3",
+          "name": "ORETA, LENLEN",
+          "party": "NUP"
+        },
+        {
+          "number": "4",
           "name": "SANDOVAL, RICKY",
           "party": "LAKAS"
         }
@@ -1019,12 +1019,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "LACSON-NOEL, JAYE",
           "party": "NPC"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "SANDOVAL, JEANNIE",
           "party": "NP"
         }
@@ -1039,22 +1039,22 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "GARCIA, JAP",
-          "party": "NUP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "CUNANAN, DADO",
           "party": "PDPLBN"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "DELA CRUZ, ANGELIKA",
           "party": "NPC"
         },
         {
-          "number": 4,
+          "number": "3",
+          "name": "GARCIA, JAP",
+          "party": "NUP"
+        },
+        {
+          "number": "4",
           "name": "NOLASCO, EDWARD",
           "party": "LAKAS"
         }
@@ -1069,64 +1069,64 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BERNARDO, GERRY",
           "party": "PFP"
         },
         {
-          "number": 2,
-          "name": "ONA, PAYAPA",
-          "party": "NP"
-        },
-        {
-          "number": 3,
-          "name": "DIMAGIBA, EDWIN  LACSON",
-          "party": "NPC"
-        },
-        {
-          "number": 4,
-          "name": "SAN JUAN, CONCON",
-          "party": "NPC"
-        },
-        {
-          "number": 5,
-          "name": "HIO, TOK",
-          "party": "IND"
-        },
-        {
-          "number": 6,
-          "name": "ORETA, PAULO",
-          "party": "PMP"
-        },
-        {
-          "number": 7,
-          "name": "TORRES, MARICAR",
-          "party": "NP"
-        },
-        {
-          "number": 8,
-          "name": "SABARICOS, JOEY",
-          "party": "LP"
-        },
-        {
-          "number": 9,
-          "name": "YAMBAO, LESLIE",
-          "party": "UNA"
-        },
-        {
-          "number": 10,
+          "number": "2",
           "name": "BORJA, IAN EMMANUEL",
           "party": "NP"
         },
         {
-          "number": 11,
+          "number": "3",
           "name": "CASTILLO, AL CASTE",
           "party": "NPC"
         },
         {
-          "number": 12,
+          "number": "4",
+          "name": "DIMAGIBA, EDWIN  LACSON",
+          "party": "NPC"
+        },
+        {
+          "number": "5",
+          "name": "HIO, TOK",
+          "party": "IND"
+        },
+        {
+          "number": "6",
           "name": "NOEL, NINO LACSON",
           "party": "NPC"
+        },
+        {
+          "number": "7",
+          "name": "ONA, PAYAPA",
+          "party": "NP"
+        },
+        {
+          "number": "8",
+          "name": "ORETA, PAULO",
+          "party": "PMP"
+        },
+        {
+          "number": "9",
+          "name": "SABARICOS, JOEY",
+          "party": "LP"
+        },
+        {
+          "number": "10",
+          "name": "SAN JUAN, CONCON",
+          "party": "NPC"
+        },
+        {
+          "number": "11",
+          "name": "TORRES, MARICAR",
+          "party": "NP"
+        },
+        {
+          "number": "12",
+          "name": "YAMBAO, LESLIE",
+          "party": "UNA"
         }
       ]
     }

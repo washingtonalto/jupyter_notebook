@@ -989,12 +989,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "LOYOLA, ROY",
           "party": "NPC"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "TOLENTINO, JULIE",
           "party": "IND"
         }
@@ -1009,24 +1009,24 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
+          "name": "AGUINALDO, WENG",
+          "party": "IND"
+        },
+        {
+          "number": "2",
           "name": "BER ADO, GB",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "3",
           "name": "PERA, AUGUSTO JR.",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "4",
           "name": "REMULLA, ABENG",
           "party": "NUP"
-        },
-        {
-          "number": 4,
-          "name": "AGUINALDO, WENG",
-          "party": "IND"
         }
       ]
     },
@@ -1039,7 +1039,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BAUTISTA, RAM REVILLA",
           "party": "LAKAS"
         }
@@ -1054,12 +1054,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BELAMIDE, AIDEL",
           "party": "NUP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "REYES, IVEE",
           "party": "NUP"
         }
@@ -1074,12 +1074,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "CUSTODIO, ED",
           "party": "KBL"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "TORRES, MARICEL",
           "party": "NUP"
         }
@@ -1094,19 +1094,19 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "VIRATA, MIKE",
-          "party": "NUP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "CABUHAT, PERCY",
           "party": "AKSYON"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "CRISOSTOMO, BM  PAOLO",
           "party": "LAKAS"
+        },
+        {
+          "number": "3",
+          "name": "VIRATA, MIKE",
+          "party": "NUP"
         }
       ]
     },
@@ -1119,102 +1119,102 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ABUEG, G-CA",
           "party": "NUP"
         },
         {
-          "number": 2,
-          "name": "GANADO, JOEL",
-          "party": "AKBYN"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "AYALA, DENNIS",
           "party": "NUP"
         },
         {
-          "number": 4,
-          "name": "GUTIERREZ, AISA  CORTEZ",
-          "party": "NUP"
-        },
-        {
-          "number": 5,
-          "name": "SAMBRANO, ARCHIE",
-          "party": "NUP"
-        },
-        {
-          "number": 6,
-          "name": "SEVILLA, BONGBONG",
-          "party": "IND"
-        },
-        {
-          "number": 7,
+          "number": "3",
           "name": "BELONG, NARITA",
           "party": "IND"
         },
         {
-          "number": 8,
-          "name": "ISO, VALENTIN JR.",
-          "party": "IND"
-        },
-        {
-          "number": 9,
-          "name": "SOLIS, JIMMY",
-          "party": "KBL"
-        },
-        {
-          "number": 10,
+          "number": "4",
           "name": "CALIX, RUEL",
           "party": "KBL"
         },
         {
-          "number": 11,
-          "name": "LACSON, LITO",
-          "party": "KBL"
-        },
-        {
-          "number": 12,
-          "name": "SOLIS, RICARDO",
-          "party": "IND"
-        },
-        {
-          "number": 13,
-          "name": "MANALANG, INDAY",
-          "party": "NUP"
-        },
-        {
-          "number": 14,
-          "name": "MENDOZA, KAP  ARNOLD",
-          "party": "PROMDI"
-        },
-        {
-          "number": 15,
-          "name": "NUARIN, NATHANIEL",
-          "party": "NUP"
-        },
-        {
-          "number": 16,
-          "name": "PAYCANA, ATTY. ANGIE",
-          "party": "NUP"
-        },
-        {
-          "number": 17,
+          "number": "5",
           "name": "FAJARDO, ELVIS",
           "party": "IND"
         },
         {
-          "number": 18,
+          "number": "6",
+          "name": "GANADO, JOEL",
+          "party": "AKBYN"
+        },
+        {
+          "number": "7",
+          "name": "GUTIERREZ, AISA  CORTEZ",
+          "party": "NUP"
+        },
+        {
+          "number": "8",
+          "name": "ISO, VALENTIN JR.",
+          "party": "IND"
+        },
+        {
+          "number": "9",
+          "name": "LACSON, LITO",
+          "party": "KBL"
+        },
+        {
+          "number": "10",
           "name": "LARA, RICHARD",
           "party": "NUP"
         },
         {
-          "number": 19,
+          "number": "11",
+          "name": "MANALANG, INDAY",
+          "party": "NUP"
+        },
+        {
+          "number": "12",
+          "name": "MENDOZA, KAP  ARNOLD",
+          "party": "PROMDI"
+        },
+        {
+          "number": "13",
+          "name": "NUARIN, NATHANIEL",
+          "party": "NUP"
+        },
+        {
+          "number": "14",
+          "name": "PAYCANA, ATTY. ANGIE",
+          "party": "NUP"
+        },
+        {
+          "number": "15",
           "name": "PEÑANO, FYKE",
           "party": "KBL"
         },
         {
-          "number": 20,
+          "number": "16",
+          "name": "SAMBRANO, ARCHIE",
+          "party": "NUP"
+        },
+        {
+          "number": "17",
+          "name": "SEVILLA, BONGBONG",
+          "party": "IND"
+        },
+        {
+          "number": "18",
+          "name": "SOLIS, JIMMY",
+          "party": "KBL"
+        },
+        {
+          "number": "19",
+          "name": "SOLIS, RICARDO",
+          "party": "IND"
+        },
+        {
+          "number": "20",
           "name": "VIRATA, ONNA",
           "party": "IND"
         }

@@ -988,17 +988,17 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "PAR, ALLAN",
-          "party": "IND"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "BENCITO, IRENE",
           "party": "AKSYON"
         },
         {
-          "number": 3,
+          "number": "2",
+          "name": "PAR, ALLAN",
+          "party": "IND"
+        },
+        {
+          "number": "3",
           "name": "TOLENTINO, CONG  ANIELA",
           "party": "NUP"
         }
@@ -1013,24 +1013,24 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
+          "name": "AGUINALDO, WENG",
+          "party": "IND"
+        },
+        {
+          "number": "2",
           "name": "BER ADO, GB",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "3",
           "name": "PERA, AUGUSTO JR.",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "4",
           "name": "REMULLA, ABENG",
           "party": "NUP"
-        },
-        {
-          "number": 4,
-          "name": "AGUINALDO, WENG",
-          "party": "IND"
         }
       ]
     },
@@ -1043,7 +1043,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BAUTISTA, RAM REVILLA",
           "party": "LAKAS"
         }
@@ -1058,19 +1058,19 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AMBION, MOK",
           "party": "NUP"
         },
         {
-          "number": 2,
-          "name": "NAZARENO, AIMEE",
-          "party": "NUP"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "MALIGAYA, JASMIN",
           "party": "NPC"
+        },
+        {
+          "number": "3",
+          "name": "NAZARENO, AIMEE",
+          "party": "NUP"
         }
       ]
     },
@@ -1083,7 +1083,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "SALAMAT, RANDY",
           "party": "NUP"
         }
@@ -1098,7 +1098,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "PEL, MADONA",
           "party": "NUP"
         }
@@ -1113,62 +1113,62 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "CORDENETE, ABE",
           "party": "IND"
         },
         {
-          "number": 2,
-          "name": "PEL, BONG",
-          "party": "IND"
-        },
-        {
-          "number": 3,
-          "name": "SIGNO, ERWIN",
-          "party": "NUP"
-        },
-        {
-          "number": 4,
-          "name": "RESURRECCION,  JOSELITO",
-          "party": "NUP"
-        },
-        {
-          "number": 5,
+          "number": "2",
           "name": "FEROLINO, REX",
           "party": "NUP"
         },
         {
-          "number": 6,
-          "name": "PEÑANO, HARRIS",
-          "party": "IND"
-        },
-        {
-          "number": 7,
-          "name": "REYES, MSLEN",
-          "party": "IND"
-        },
-        {
-          "number": 8,
-          "name": "VARIAS, EBETH",
-          "party": "NUP"
-        },
-        {
-          "number": 9,
+          "number": "3",
           "name": "PEJI, CYNTHIA",
           "party": "NUP"
         },
         {
-          "number": 10,
+          "number": "4",
+          "name": "PEL, BONG",
+          "party": "IND"
+        },
+        {
+          "number": "5",
+          "name": "PEÑANO, HARRIS",
+          "party": "IND"
+        },
+        {
+          "number": "6",
           "name": "PEREA, SILVERIO",
           "party": "NUP"
         },
         {
-          "number": 11,
+          "number": "7",
+          "name": "RESURRECCION,  JOSELITO",
+          "party": "NUP"
+        },
+        {
+          "number": "8",
+          "name": "REYES, MSLEN",
+          "party": "IND"
+        },
+        {
+          "number": "9",
           "name": "SALAMAT, JEFF",
           "party": "NUP"
         },
         {
-          "number": 12,
+          "number": "10",
+          "name": "SIGNO, ERWIN",
+          "party": "NUP"
+        },
+        {
+          "number": "11",
+          "name": "VARIAS, EBETH",
+          "party": "NUP"
+        },
+        {
+          "number": "12",
           "name": "VIDALLON, RENATO",
           "party": "NUP"
         }

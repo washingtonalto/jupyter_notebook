@@ -988,12 +988,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ARROGANCIA,  REYNANTE",
           "party": "NPC"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "FLORIDO, MATT WITH  AHEART",
           "party": "IND"
         }
@@ -1008,7 +1008,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, DOKTORA HELEN",
           "party": "STAN Q"
         }
@@ -1023,17 +1023,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, THIRD",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ALPAJORA, ARMINGOL",
           "party": "KBL"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "CAPINA, TEODORICO",
           "party": "IND"
         }
@@ -1048,29 +1048,29 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "REYES, TINTIN",
-          "party": "AKSYON"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "AQUIVIDO, NARS JJ",
           "party": "STAN Q"
         },
         {
-          "number": 3,
-          "name": "ESGUERRA, MEG",
-          "party": "STAN \nQ"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "DIAZ, CONRADO",
           "party": "PFP"
         },
         {
-          "number": 5,
+          "number": "3",
+          "name": "ESGUERRA, MEG",
+          "party": "STAN \nQ"
+        },
+        {
+          "number": "4",
           "name": "GONZALES, BIETO",
           "party": "IND"
+        },
+        {
+          "number": "5",
+          "name": "REYES, TINTIN",
+          "party": "AKSYON"
         }
       ]
     },
@@ -1083,19 +1083,19 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALEGA, LITOY",
           "party": "NPC"
         },
         {
-          "number": 2,
-          "name": "TAN, NANI",
-          "party": "LAKAS"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "FERNANDEZ, KRESNA",
           "party": "STAN Q"
+        },
+        {
+          "number": "3",
+          "name": "TAN, NANI",
+          "party": "LAKAS"
         }
       ]
     },
@@ -1108,12 +1108,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALEGA, KZEL",
           "party": "NPC"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "EDAÑO, OLAN",
           "party": "LAKAS"
         }
@@ -1128,122 +1128,122 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "ARABIS, WELSING",
-          "party": "NPC"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "AGUILA, ENGR. RARA",
           "party": "STAN Q"
         },
         {
-          "number": 3,
-          "name": "NAVARRO, ONAD",
-          "party": "LAKAS"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "AGUILA, REX",
           "party": "LAKAS"
         },
         {
-          "number": 5,
-          "name": "ATIENZA, AVA",
-          "party": "NPC"
-        },
-        {
-          "number": 6,
-          "name": "ORAY, LOUIE",
-          "party": "NPC"
-        },
-        {
-          "number": 7,
-          "name": "FERNANDEZ, LITO",
-          "party": "STAN Q"
-        },
-        {
-          "number": 8,
-          "name": "GAGAOIN, WENNIE",
-          "party": "LAKAS"
-        },
-        {
-          "number": 9,
+          "number": "3",
           "name": "AGUILA, RUBY",
           "party": "NPC"
         },
         {
-          "number": 10,
-          "name": "CARABIDO, JUN",
-          "party": "LAKAS"
-        },
-        {
-          "number": 11,
-          "name": "GARCIA, RYAN",
-          "party": "NPC"
-        },
-        {
-          "number": 12,
+          "number": "4",
           "name": "ALEGA, JAZZY",
           "party": "NPC"
         },
         {
-          "number": 13,
-          "name": "CATLE, REY",
-          "party": "LAKAS"
-        },
-        {
-          "number": 14,
-          "name": "JAO, DON DON",
-          "party": "NPC"
-        },
-        {
-          "number": 15,
-          "name": "EDAÑO, LARRY",
-          "party": "IND"
-        },
-        {
-          "number": 16,
-          "name": "JORQUIA, JAY-AR",
-          "party": "NPC"
-        },
-        {
-          "number": 17,
+          "number": "5",
           "name": "ALLAREY, JOHNNY",
           "party": "STAN\nQ"
         },
         {
-          "number": 18,
-          "name": "PANGANIBAN, MYRNA",
-          "party": "LAKAS"
-        },
-        {
-          "number": 19,
-          "name": "PILAPIL, BOBOY",
-          "party": "LAKAS"
-        },
-        {
-          "number": 20,
-          "name": "RODIQUE, RUBICKS",
-          "party": "STAN Q"
-        },
-        {
-          "number": 21,
+          "number": "6",
           "name": "ALVASAN, ALEX",
           "party": "STAN Q"
         },
         {
-          "number": 22,
+          "number": "7",
+          "name": "ARABIS, WELSING",
+          "party": "NPC"
+        },
+        {
+          "number": "8",
+          "name": "ATIENZA, AVA",
+          "party": "NPC"
+        },
+        {
+          "number": "9",
+          "name": "CARABIDO, JUN",
+          "party": "LAKAS"
+        },
+        {
+          "number": "10",
+          "name": "CATLE, REY",
+          "party": "LAKAS"
+        },
+        {
+          "number": "11",
+          "name": "EDAÑO, LARRY",
+          "party": "IND"
+        },
+        {
+          "number": "12",
           "name": "EGOT, LEE",
           "party": "STAN Q"
         },
         {
-          "number": 23,
+          "number": "13",
+          "name": "FERNANDEZ, LITO",
+          "party": "STAN Q"
+        },
+        {
+          "number": "14",
+          "name": "GAGAOIN, WENNIE",
+          "party": "LAKAS"
+        },
+        {
+          "number": "15",
+          "name": "GARCIA, RYAN",
+          "party": "NPC"
+        },
+        {
+          "number": "16",
+          "name": "JAO, DON DON",
+          "party": "NPC"
+        },
+        {
+          "number": "17",
+          "name": "JORQUIA, JAY-AR",
+          "party": "NPC"
+        },
+        {
+          "number": "18",
           "name": "NAPEÑAS, REY",
           "party": "STAN Q"
         },
         {
-          "number": 24,
+          "number": "19",
+          "name": "NAVARRO, ONAD",
+          "party": "LAKAS"
+        },
+        {
+          "number": "20",
+          "name": "ORAY, LOUIE",
+          "party": "NPC"
+        },
+        {
+          "number": "21",
+          "name": "PANGANIBAN, MYRNA",
+          "party": "LAKAS"
+        },
+        {
+          "number": "22",
+          "name": "PILAPIL, BOBOY",
+          "party": "LAKAS"
+        },
+        {
+          "number": "23",
+          "name": "RODIQUE, RUBICKS",
+          "party": "STAN Q"
+        },
+        {
+          "number": "24",
           "name": "TAN, RON",
           "party": "LAKAS"
         }

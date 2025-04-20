@@ -989,12 +989,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ATAYDE, ARJO",
           "party": "NP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "CRISOLOGO, BINGBONG",
           "party": "PFP"
         }
@@ -1009,28 +1009,28 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BELMONTE, JOY",
           "party": "SBP"
         },
         {
-          "number": 2,
+          "number": "2",
+          "name": "CABALO, JONATHAN",
+          "party": "IND"
+        },
+        {
+          "number": "3",
           "name": "JOTA, ROLANDO",
           "party": "IND"
         },
         {
-          "number": 3,
-          "name": "VELASCO, DIOSDADO",
-          "party": "IND"
-        },
-        {
-          "number": 4,
+          "number": "4",
           "name": "NAVAT, NOLI",
           "party": "IND"
         },
         {
-          "number": 5,
-          "name": "CABALO, JONATHAN",
+          "number": "5",
+          "name": "VELASCO, DIOSDADO",
           "party": "IND"
         }
       ]
@@ -1044,22 +1044,22 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "FAELANGCO, JUNE",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "INGLES, INVENTOR",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "SOTTO, GIAN",
           "party": "SBP"
         },
         {
-          "number": 4,
+          "number": "4",
           "name": "VILLARTA, DANTE",
           "party": "IND"
         }
@@ -1074,62 +1074,62 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "FERRER, CHARM",
-          "party": "SBP"
-        },
-        {
-          "number": 2,
-          "name": "JUICO, SEP",
-          "party": "SBP"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "AROMIN, BENJAMIN JR.",
           "party": "IND"
         },
         {
-          "number": 4,
-          "name": "CASTRO, DOLAND",
-          "party": "AKAY"
-        },
-        {
-          "number": 5,
+          "number": "2",
           "name": "ATAYDE, GAB",
           "party": "SBP"
         },
         {
-          "number": 6,
-          "name": "CRISOLOGO, NIKKI",
-          "party": "PFP"
-        },
-        {
-          "number": 7,
-          "name": "HERRERA, BH BERNARD",
-          "party": "SBP"
-        },
-        {
-          "number": 8,
+          "number": "3",
           "name": "CALALAY, TJ",
           "party": "SBP"
         },
         {
-          "number": 9,
-          "name": "HONASAN, CARA",
-          "party": "IND"
+          "number": "4",
+          "name": "CASTRO, DOLAND",
+          "party": "AKAY"
         },
         {
-          "number": 10,
+          "number": "5",
+          "name": "CRISOLOGO, NIKKI",
+          "party": "PFP"
+        },
+        {
+          "number": "6",
           "name": "DELARMENTE, DORAY",
           "party": "SBP"
         },
         {
-          "number": 11,
+          "number": "7",
+          "name": "FERRER, CHARM",
+          "party": "SBP"
+        },
+        {
+          "number": "8",
+          "name": "HERRERA, BH BERNARD",
+          "party": "SBP"
+        },
+        {
+          "number": "9",
+          "name": "HONASAN, CARA",
+          "party": "IND"
+        },
+        {
+          "number": "10",
+          "name": "JUICO, SEP",
+          "party": "SBP"
+        },
+        {
+          "number": "11",
           "name": "MANANSALA, ROLAND",
           "party": "IND"
         },
         {
-          "number": 12,
+          "number": "12",
           "name": "VILLANUEVA,  MELODINO",
           "party": "IND"
         }

@@ -990,17 +990,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BOLILIA, CALOY",
           "party": "NP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "GOZOS, JP",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "UMALI, RONALD",
           "party": "LAKAS"
         }
@@ -1015,22 +1015,22 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "RIVERA, MIKE",
-          "party": "LP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "ILAGAN, JAY MANALO",
           "party": "PROMDI"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "OZAETA, KUYAKAP  WALTER",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "3",
+          "name": "RIVERA, MIKE",
+          "party": "LP"
+        },
+        {
+          "number": "4",
           "name": "SANTOS-RECTO, VILMA",
           "party": "NP"
         }
@@ -1045,17 +1045,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "DOLOR, RYANH",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MANDANAS, DODO",
           "party": "PDPLBN"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "MANZANO, LUIS LUCKY",
           "party": "NP"
         }
@@ -1070,28 +1070,28 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "VIDAL, MELVIN",
-          "party": "IND"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "DE VEYRA, PASTOR ERIC",
           "party": "NP"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "MENDOZA, MARCUS",
           "party": "NPC"
         },
         {
-          "number": 4,
+          "number": "3",
           "name": "MERCADO, KROPECK",
           "party": "IND"
         },
         {
-          "number": 5,
+          "number": "4",
           "name": "SAMONTE, ALVIN JOHN",
+          "party": "IND"
+        },
+        {
+          "number": "5",
+          "name": "VIDAL, MELVIN",
           "party": "IND"
         }
       ]
@@ -1105,7 +1105,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "SALUD, BEEBONG",
           "party": "NP"
         }
@@ -1120,7 +1120,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "MARASIGAN, ANTHONY",
           "party": "NP"
         }
@@ -1135,69 +1135,69 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ADA, JONG",
           "party": "NP"
         },
         {
-          "number": 2,
-          "name": "ROBLES, MEYNARD",
-          "party": "NP"
-        },
-        {
-          "number": 3,
-          "name": "ZARASPE, PELITA",
-          "party": "IND"
-        },
-        {
-          "number": 4,
-          "name": "MALABANAN, ENGR.  ALLAN",
-          "party": "IND"
-        },
-        {
-          "number": 5,
+          "number": "2",
           "name": "DE CHAVEZ, POLING",
           "party": "NP"
         },
         {
-          "number": 6,
-          "name": "MANIMTIM, OWEN",
-          "party": "IND"
-        },
-        {
-          "number": 7,
-          "name": "SALUD, SHALIMAR",
-          "party": "IND"
-        },
-        {
-          "number": 8,
+          "number": "3",
           "name": "LLANA, KID",
           "party": "NP"
         },
         {
-          "number": 9,
-          "name": "TANTAY, JUN",
-          "party": "NP"
-        },
-        {
-          "number": 10,
-          "name": "MARASIGAN, ANGELO  LUIS",
-          "party": "NP"
-        },
-        {
-          "number": 11,
-          "name": "MERCADO, ALEX",
-          "party": "IND"
-        },
-        {
-          "number": 12,
+          "number": "4",
           "name": "MAGADIA, KUYA MILJUN",
           "party": "NP"
         },
         {
-          "number": 13,
+          "number": "5",
+          "name": "MALABANAN, ENGR.  ALLAN",
+          "party": "IND"
+        },
+        {
+          "number": "6",
+          "name": "MANIMTIM, OWEN",
+          "party": "IND"
+        },
+        {
+          "number": "7",
+          "name": "MARASIGAN, ANGELO  LUIS",
+          "party": "NP"
+        },
+        {
+          "number": "8",
+          "name": "MERCADO, ALEX",
+          "party": "IND"
+        },
+        {
+          "number": "9",
+          "name": "ROBLES, MEYNARD",
+          "party": "NP"
+        },
+        {
+          "number": "10",
+          "name": "SALUD, SHALIMAR",
+          "party": "IND"
+        },
+        {
+          "number": "11",
+          "name": "TANTAY, JUN",
+          "party": "NP"
+        },
+        {
+          "number": "12",
           "name": "VIRTUSIO, GRENALYN",
           "party": "NP"
+        },
+        {
+          "number": "13",
+          "name": "ZARASPE, PELITA",
+          "party": "IND"
         }
       ]
     }

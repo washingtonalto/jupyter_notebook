@@ -989,12 +989,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "RILLO, MARVIN",
           "party": "LAKAS"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "SUNTAY, BONG",
           "party": "UNA"
         }
@@ -1009,28 +1009,28 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BELMONTE, JOY",
           "party": "SBP"
         },
         {
-          "number": 2,
+          "number": "2",
+          "name": "CABALO, JONATHAN",
+          "party": "IND"
+        },
+        {
+          "number": "3",
           "name": "JOTA, ROLANDO",
           "party": "IND"
         },
         {
-          "number": 3,
-          "name": "VELASCO, DIOSDADO",
-          "party": "IND"
-        },
-        {
-          "number": 4,
+          "number": "4",
           "name": "NAVAT, NOLI",
           "party": "IND"
         },
         {
-          "number": 5,
-          "name": "CABALO, JONATHAN",
+          "number": "5",
+          "name": "VELASCO, DIOSDADO",
           "party": "IND"
         }
       ]
@@ -1044,22 +1044,22 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "FAELANGCO, JUNE",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "INGLES, INVENTOR",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "SOTTO, GIAN",
           "party": "SBP"
         },
         {
-          "number": 4,
+          "number": "4",
           "name": "VILLARTA, DANTE",
           "party": "IND"
         }
@@ -1074,79 +1074,79 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ANDAL, NESTOR",
           "party": "IND"
         },
         {
-          "number": 2,
-          "name": "DAZA, NANETTE",
-          "party": "LAKAS"
-        },
-        {
-          "number": 3,
-          "name": "IBAÑEZ, JAMES",
-          "party": "IND"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "AQUINO, AWIN",
           "party": "IND"
         },
         {
-          "number": 5,
-          "name": "DEL MUNDO, KIKO",
-          "party": "IND"
-        },
-        {
-          "number": 6,
-          "name": "LIM, IVY-LAGMAN",
-          "party": "SBP"
-        },
-        {
-          "number": 7,
-          "name": "SERNIAS, FLOCERFIDA",
-          "party": "IND"
-        },
-        {
-          "number": 8,
-          "name": "SUNTAY, ATTY. MIGS",
-          "party": "IND"
-        },
-        {
-          "number": 9,
-          "name": "FORBES, ALI",
-          "party": "IND"
-        },
-        {
-          "number": 10,
-          "name": "YAP, EGAY",
-          "party": "SBP"
-        },
-        {
-          "number": 11,
-          "name": "MALAÑGEN, RAQUEL",
-          "party": "LAKAS"
-        },
-        {
-          "number": 12,
-          "name": "HIPOL, BAYANI",
-          "party": "IND"
-        },
-        {
-          "number": 13,
-          "name": "RILLO, IMEE",
-          "party": "LAKAS"
-        },
-        {
-          "number": 14,
+          "number": "3",
           "name": "BELMONTE, ATTY  VINCENT",
           "party": "SBP"
         },
         {
-          "number": 15,
+          "number": "4",
           "name": "CAALAMAN, LOREVIE",
           "party": "MKBYN"
+        },
+        {
+          "number": "5",
+          "name": "DAZA, NANETTE",
+          "party": "LAKAS"
+        },
+        {
+          "number": "6",
+          "name": "DEL MUNDO, KIKO",
+          "party": "IND"
+        },
+        {
+          "number": "7",
+          "name": "FORBES, ALI",
+          "party": "IND"
+        },
+        {
+          "number": "8",
+          "name": "HIPOL, BAYANI",
+          "party": "IND"
+        },
+        {
+          "number": "9",
+          "name": "IBAÑEZ, JAMES",
+          "party": "IND"
+        },
+        {
+          "number": "10",
+          "name": "LIM, IVY-LAGMAN",
+          "party": "SBP"
+        },
+        {
+          "number": "11",
+          "name": "MALAÑGEN, RAQUEL",
+          "party": "LAKAS"
+        },
+        {
+          "number": "12",
+          "name": "RILLO, IMEE",
+          "party": "LAKAS"
+        },
+        {
+          "number": "13",
+          "name": "SERNIAS, FLOCERFIDA",
+          "party": "IND"
+        },
+        {
+          "number": "14",
+          "name": "SUNTAY, ATTY. MIGS",
+          "party": "IND"
+        },
+        {
+          "number": "15",
+          "name": "YAP, EGAY",
+          "party": "SBP"
         }
       ]
     }

@@ -989,19 +989,19 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BURGOS, NESTOR",
           "party": "IND"
         },
         {
-          "number": 2,
-          "name": "LEVISTE, MARK",
-          "party": "IND"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "COLLANTES, ATTY. KING",
           "party": "NPC"
+        },
+        {
+          "number": "3",
+          "name": "LEVISTE, MARK",
+          "party": "IND"
         }
       ]
     },
@@ -1014,22 +1014,22 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "RIVERA, MIKE",
-          "party": "LP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "ILAGAN, JAY MANALO",
           "party": "PROMDI"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "OZAETA, KUYAKAP  WALTER",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "3",
+          "name": "RIVERA, MIKE",
+          "party": "LP"
+        },
+        {
+          "number": "4",
           "name": "SANTOS-RECTO, VILMA",
           "party": "NP"
         }
@@ -1044,17 +1044,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "DOLOR, RYANH",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MANDANAS, DODO",
           "party": "PDPLBN"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "MANZANO, LUIS LUCKY",
           "party": "NP"
         }
@@ -1069,17 +1069,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BALBA, RUDY",
           "party": "NP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "CORONA, FRED",
           "party": "NP"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "MACALINTAL, DENNIS",
           "party": "PFP"
         }
@@ -1094,22 +1094,22 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALMEDA, TED",
           "party": "IND"
         },
         {
-          "number": 2,
-          "name": "SANCHEZ, DENNIS",
-          "party": "NPC"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "MARASIGAN, AJAM  ARTH JHUN",
           "party": "NP"
         },
         {
-          "number": 4,
+          "number": "3",
+          "name": "SANCHEZ, DENNIS",
+          "party": "NPC"
+        },
+        {
+          "number": "4",
           "name": "SANCHEZ, ENGR NOLIE",
           "party": "LAKAS"
         }
@@ -1124,12 +1124,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "JAURIGUE-PEREZ, CATHY",
           "party": "NP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "SILVA, ARMENIUS",
           "party": "LAKAS"
         }
@@ -1144,122 +1144,122 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "GARCIA, APET",
-          "party": "LAKAS"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "ALLANIGUE, ANECY",
           "party": "LAKAS"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "ARCILLAS, ANTE",
           "party": "LAKAS"
         },
         {
-          "number": 4,
-          "name": "GONZALES, ERIC",
-          "party": "LAKAS"
-        },
-        {
-          "number": 5,
+          "number": "3",
           "name": "BALITAAN, ATTY KIM",
           "party": "LAKAS"
         },
         {
-          "number": 6,
+          "number": "4",
           "name": "BATHAN, VICTOR",
           "party": "NP"
         },
         {
-          "number": 7,
-          "name": "GUEVARRA, BOBBIT",
-          "party": "LAKAS"
-        },
-        {
-          "number": 8,
-          "name": "MABILANGAN, KON.  DANNY",
-          "party": "NP"
-        },
-        {
-          "number": 9,
-          "name": "RAMOS, BOY  CHRISTOPHER",
-          "party": "LAKAS"
-        },
-        {
-          "number": 10,
-          "name": "SALVADOR, HOMER",
-          "party": "IND"
-        },
-        {
-          "number": 11,
-          "name": "SANCHEZ, KUYA AL",
-          "party": "IND"
-        },
-        {
-          "number": 12,
-          "name": "SARMIENTO, KAP BER",
-          "party": "LAKAS"
-        },
-        {
-          "number": 13,
+          "number": "5",
           "name": "CARPIO, ADRIAN",
           "party": "NP"
         },
         {
-          "number": 14,
-          "name": "MALIGAYA, ALLAN",
-          "party": "NP"
-        },
-        {
-          "number": 15,
-          "name": "SY, CHOIY",
-          "party": "IND"
-        },
-        {
-          "number": 16,
-          "name": "MALOLES-SALAZAR,  RAQUEL",
-          "party": "NP"
-        },
-        {
-          "number": 17,
-          "name": "MENDOZA, PROCESO",
-          "party": "NP"
-        },
-        {
-          "number": 18,
-          "name": "NAVARRO, DRA.  HELENGRACE",
-          "party": "NP"
-        },
-        {
-          "number": 19,
-          "name": "NORA, TITO MIEL",
-          "party": "LAKAS"
-        },
-        {
-          "number": 20,
-          "name": "OLOC-OLOC, KAP JOJO",
-          "party": "LAKAS"
-        },
-        {
-          "number": 21,
-          "name": "PECAÑA, MR. COW",
-          "party": "NP"
-        },
-        {
-          "number": 22,
+          "number": "6",
           "name": "CARPIO, FOUNDER  SONNY",
           "party": "IND"
         },
         {
-          "number": 23,
+          "number": "7",
+          "name": "GARCIA, APET",
+          "party": "LAKAS"
+        },
+        {
+          "number": "8",
+          "name": "GONZALES, ERIC",
+          "party": "LAKAS"
+        },
+        {
+          "number": "9",
+          "name": "GUEVARRA, BOBBIT",
+          "party": "LAKAS"
+        },
+        {
+          "number": "10",
+          "name": "MABILANGAN, KON.  DANNY",
+          "party": "NP"
+        },
+        {
+          "number": "11",
+          "name": "MALIGAYA, ALLAN",
+          "party": "NP"
+        },
+        {
+          "number": "12",
           "name": "MALIKSI, WILFREDO",
           "party": "NP"
         },
         {
-          "number": 24,
+          "number": "13",
+          "name": "MALOLES-SALAZAR,  RAQUEL",
+          "party": "NP"
+        },
+        {
+          "number": "14",
+          "name": "MENDOZA, PROCESO",
+          "party": "NP"
+        },
+        {
+          "number": "15",
+          "name": "NAVARRO, DRA.  HELENGRACE",
+          "party": "NP"
+        },
+        {
+          "number": "16",
+          "name": "NORA, TITO MIEL",
+          "party": "LAKAS"
+        },
+        {
+          "number": "17",
+          "name": "OLOC-OLOC, KAP JOJO",
+          "party": "LAKAS"
+        },
+        {
+          "number": "18",
+          "name": "PECAÑA, MR. COW",
+          "party": "NP"
+        },
+        {
+          "number": "19",
+          "name": "RAMOS, BOY  CHRISTOPHER",
+          "party": "LAKAS"
+        },
+        {
+          "number": "20",
+          "name": "SALVADOR, HOMER",
+          "party": "IND"
+        },
+        {
+          "number": "21",
+          "name": "SANCHEZ, KUYA AL",
+          "party": "IND"
+        },
+        {
+          "number": "22",
+          "name": "SARMIENTO, KAP BER",
+          "party": "LAKAS"
+        },
+        {
+          "number": "23",
+          "name": "SY, CHOIY",
+          "party": "IND"
+        },
+        {
+          "number": "24",
           "name": "VILLEGAS, LEOVINO",
           "party": "NP"
         }

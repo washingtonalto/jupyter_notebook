@@ -989,7 +989,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "SUAREZ, DAVID JAY JAY",
           "party": "LAKAS"
         }
@@ -1004,7 +1004,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, DOKTORA HELEN",
           "party": "STAN Q"
         }
@@ -1019,17 +1019,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, THIRD",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ALPAJORA, ARMINGOL",
           "party": "KBL"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "CAPINA, TEODORICO",
           "party": "IND"
         }
@@ -1044,17 +1044,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, VNET",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "LIWANAG, YNA",
           "party": "STAN Q"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "TAN, DOC KIM",
           "party": "STAN Q"
         }
@@ -1069,17 +1069,17 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "CRUZAT, EFREN",
-          "party": "PM"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "ALCALA, KUYA MARK",
           "party": "STAN Q"
         },
         {
-          "number": 3,
+          "number": "2",
+          "name": "CRUZAT, EFREN",
+          "party": "PM"
+        },
+        {
+          "number": "3",
           "name": "PADIERNOS, BENJAMIN  JR.",
           "party": "IND"
         }
@@ -1094,17 +1094,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, DONDON",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ALEJANDRINO, BOYET",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "DE JUAN, MARBIEN SR.",
           "party": "PM"
         }
@@ -1119,124 +1119,124 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "DUDAS, VAL",
-          "party": "IND"
-        },
-        {
-          "number": 2,
-          "name": "MEERA, JHUN",
-          "party": "PM"
-        },
-        {
-          "number": 3,
-          "name": "PEDRO, NIÑEL",
-          "party": "STAN Q"
-        },
-        {
-          "number": 4,
+          "number": "1",
           "name": "ABCEDE, SUNSHINE",
           "party": "KNP"
         },
         {
-          "number": 5,
+          "number": "2",
           "name": "ALCALA, AYAN",
           "party": "IND"
         },
         {
-          "number": 6,
-          "name": "ENDIAPE, APIONG",
-          "party": "IND"
-        },
-        {
-          "number": 7,
-          "name": "PUREZA, DOK LOVE",
-          "party": "LAKAS"
-        },
-        {
-          "number": 8,
-          "name": "SIO, BETH",
-          "party": "STAN Q"
-        },
-        {
-          "number": 9,
+          "number": "3",
           "name": "BALDONADO, BMW",
           "party": "STAN Q"
         },
         {
-          "number": 10,
+          "number": "4",
           "name": "BRIZUELA, BASTE",
           "party": "STAN \nQ"
         },
         {
-          "number": 11,
+          "number": "5",
           "name": "BUENAFLOR, JUN",
           "party": "IND"
         },
         {
-          "number": 12,
-          "name": "MONTECALBO, BRO.  TENY",
-          "party": "IND"
-        },
-        {
-          "number": 13,
-          "name": "NADERA, PATRICK",
-          "party": "STAN Q"
-        },
-        {
-          "number": 14,
-          "name": "NOCHE, WILBERT  MCKINLY",
-          "party": "STAN Q"
-        },
-        {
-          "number": 15,
-          "name": "ONA, JOSE CHRISTIAN",
-          "party": "STAN Q"
-        },
-        {
-          "number": 16,
-          "name": "SUAREZ, TINTON",
-          "party": "LAKAS"
-        },
-        {
-          "number": 17,
-          "name": "TALABONG,  BONG-BONG",
-          "party": "NP"
-        },
-        {
-          "number": 18,
+          "number": "6",
           "name": "BUÑAG, JHA JHA",
           "party": "LAKAS"
         },
         {
-          "number": 19,
-          "name": "PARAISO, SONIA",
+          "number": "7",
+          "name": "DUDAS, VAL",
           "party": "IND"
         },
         {
-          "number": 20,
-          "name": "TALAGA, LON",
-          "party": "PRP"
+          "number": "8",
+          "name": "ENDIAPE, APIONG",
+          "party": "IND"
         },
         {
-          "number": 21,
+          "number": "9",
           "name": "FALLER, DANNY",
           "party": "STAN \nQ"
         },
         {
-          "number": 22,
+          "number": "10",
           "name": "GARCIA, MA VERONICA",
           "party": "IND"
         },
         {
-          "number": 23,
+          "number": "11",
           "name": "GONZALES, DANILO",
           "party": "PM"
         },
         {
-          "number": 24,
+          "number": "12",
           "name": "LACERNA, AMER",
           "party": "STAN \nQ"
+        },
+        {
+          "number": "13",
+          "name": "MEERA, JHUN",
+          "party": "PM"
+        },
+        {
+          "number": "14",
+          "name": "MONTECALBO, BRO.  TENY",
+          "party": "IND"
+        },
+        {
+          "number": "15",
+          "name": "NADERA, PATRICK",
+          "party": "STAN Q"
+        },
+        {
+          "number": "16",
+          "name": "NOCHE, WILBERT  MCKINLY",
+          "party": "STAN Q"
+        },
+        {
+          "number": "17",
+          "name": "ONA, JOSE CHRISTIAN",
+          "party": "STAN Q"
+        },
+        {
+          "number": "18",
+          "name": "PARAISO, SONIA",
+          "party": "IND"
+        },
+        {
+          "number": "19",
+          "name": "PEDRO, NIÑEL",
+          "party": "STAN Q"
+        },
+        {
+          "number": "20",
+          "name": "PUREZA, DOK LOVE",
+          "party": "LAKAS"
+        },
+        {
+          "number": "21",
+          "name": "SIO, BETH",
+          "party": "STAN Q"
+        },
+        {
+          "number": "22",
+          "name": "SUAREZ, TINTON",
+          "party": "LAKAS"
+        },
+        {
+          "number": "23",
+          "name": "TALABONG,  BONG-BONG",
+          "party": "NP"
+        },
+        {
+          "number": "24",
+          "name": "TALAGA, LON",
+          "party": "PRP"
         }
       ]
     }

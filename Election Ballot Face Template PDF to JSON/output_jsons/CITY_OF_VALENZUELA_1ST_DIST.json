@@ -989,19 +989,19 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "HERNANDEZ, JING",
-          "party": "IND"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "ESPIRITU, TONY",
           "party": "AKSYON"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "GATCHALIAN, KENNETH",
           "party": "NPC"
+        },
+        {
+          "number": "3",
+          "name": "HERNANDEZ, JING",
+          "party": "IND"
         }
       ]
     },
@@ -1014,7 +1014,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "GATCHALIAN, WES",
           "party": "NPC"
         }
@@ -1029,14 +1029,14 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "GAMAS, GILBERT",
-          "party": "IND"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "ALEJANDRINO, MARLON  IDOL",
           "party": "NPC"
+        },
+        {
+          "number": "2",
+          "name": "GAMAS, GILBERT",
+          "party": "IND"
         }
       ]
     },
@@ -1049,32 +1049,32 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ANCHETA, KISHA",
           "party": "NPC"
         },
         {
-          "number": 2,
-          "name": "LEE, GHOGO",
-          "party": "NPC"
-        },
-        {
-          "number": 3,
-          "name": "ENRIQUEZ, RICHARD",
-          "party": "LAKAS"
-        },
-        {
-          "number": 4,
-          "name": "FELICIANO, CRIS",
-          "party": "NUP"
-        },
-        {
-          "number": 5,
+          "number": "2",
           "name": "DELA CRUZ, BIMBO",
           "party": "NPC"
         },
         {
-          "number": 6,
+          "number": "3",
+          "name": "ENRIQUEZ, RICHARD",
+          "party": "LAKAS"
+        },
+        {
+          "number": "4",
+          "name": "FELICIANO, CRIS",
+          "party": "NUP"
+        },
+        {
+          "number": "5",
+          "name": "LEE, GHOGO",
+          "party": "NPC"
+        },
+        {
+          "number": "6",
           "name": "SERRANO, GOYONG",
           "party": "NPC"
         }

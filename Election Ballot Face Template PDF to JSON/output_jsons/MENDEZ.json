@@ -987,17 +987,17 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "PAR, ALLAN",
-          "party": "IND"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "BENCITO, IRENE",
           "party": "AKSYON"
         },
         {
-          "number": 3,
+          "number": "2",
+          "name": "PAR, ALLAN",
+          "party": "IND"
+        },
+        {
+          "number": "3",
           "name": "TOLENTINO, CONG  ANIELA",
           "party": "NUP"
         }
@@ -1012,24 +1012,24 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
+          "name": "AGUINALDO, WENG",
+          "party": "IND"
+        },
+        {
+          "number": "2",
           "name": "BER ADO, GB",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "3",
           "name": "PERA, AUGUSTO JR.",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "4",
           "name": "REMULLA, ABENG",
           "party": "NUP"
-        },
-        {
-          "number": 4,
-          "name": "AGUINALDO, WENG",
-          "party": "IND"
         }
       ]
     },
@@ -1042,7 +1042,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BAUTISTA, RAM REVILLA",
           "party": "LAKAS"
         }
@@ -1057,19 +1057,19 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AMBION, MOK",
           "party": "NUP"
         },
         {
-          "number": 2,
-          "name": "NAZARENO, AIMEE",
-          "party": "NUP"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "MALIGAYA, JASMIN",
           "party": "NPC"
+        },
+        {
+          "number": "3",
+          "name": "NAZARENO, AIMEE",
+          "party": "NUP"
         }
       ]
     },
@@ -1082,7 +1082,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "MENDOZA, FRANCISCO  JR.",
           "party": "NUP"
         }
@@ -1097,14 +1097,14 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "ORTIZ, ROILAN",
-          "party": "NUP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "DIMAPILIS, RAYGAN",
           "party": "NPC"
+        },
+        {
+          "number": "2",
+          "name": "ORTIZ, ROILAN",
+          "party": "NUP"
         }
       ]
     },
@@ -1117,59 +1117,59 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AUDITOR, JOSE",
           "party": "NPC"
         },
         {
-          "number": 2,
-          "name": "ESGUERRA, KEVIN  CHRISTIAN",
-          "party": "IND"
-        },
-        {
-          "number": 3,
-          "name": "MARTINEZ, KONSI  MOLLY",
-          "party": "NUP"
-        },
-        {
-          "number": 4,
-          "name": "OCAMPO, ALEXANDER",
-          "party": "NUP"
-        },
-        {
-          "number": 5,
-          "name": "ESGUERRA, RAZEL",
-          "party": "NPC"
-        },
-        {
-          "number": 6,
-          "name": "NOLASCO, BONG",
-          "party": "IND"
-        },
-        {
-          "number": 7,
-          "name": "ROCILLO, REY",
-          "party": "NPC"
-        },
-        {
-          "number": 8,
-          "name": "MARAAN, PEPE",
-          "party": "IND"
-        },
-        {
-          "number": 9,
-          "name": "NUESTRO, RANIE",
-          "party": "NUP"
-        },
-        {
-          "number": 10,
+          "number": "2",
           "name": "BAY-REMIGIO, RUBY LITA",
           "party": "NUP"
         },
         {
-          "number": 11,
+          "number": "3",
           "name": "DIMARANAN, PAULINO  JR.",
           "party": "NUP"
+        },
+        {
+          "number": "4",
+          "name": "ESGUERRA, KEVIN  CHRISTIAN",
+          "party": "IND"
+        },
+        {
+          "number": "5",
+          "name": "ESGUERRA, RAZEL",
+          "party": "NPC"
+        },
+        {
+          "number": "6",
+          "name": "MARAAN, PEPE",
+          "party": "IND"
+        },
+        {
+          "number": "7",
+          "name": "MARTINEZ, KONSI  MOLLY",
+          "party": "NUP"
+        },
+        {
+          "number": "8",
+          "name": "NOLASCO, BONG",
+          "party": "IND"
+        },
+        {
+          "number": "9",
+          "name": "NUESTRO, RANIE",
+          "party": "NUP"
+        },
+        {
+          "number": "10",
+          "name": "OCAMPO, ALEXANDER",
+          "party": "NUP"
+        },
+        {
+          "number": "11",
+          "name": "ROCILLO, REY",
+          "party": "NPC"
         }
       ]
     }

@@ -990,7 +990,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "CO-PILAR, MARIVIC",
           "party": "NUP"
         }
@@ -1005,28 +1005,28 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BELMONTE, JOY",
           "party": "SBP"
         },
         {
-          "number": 2,
+          "number": "2",
+          "name": "CABALO, JONATHAN",
+          "party": "IND"
+        },
+        {
+          "number": "3",
           "name": "JOTA, ROLANDO",
           "party": "IND"
         },
         {
-          "number": 3,
-          "name": "VELASCO, DIOSDADO",
-          "party": "IND"
-        },
-        {
-          "number": 4,
+          "number": "4",
           "name": "NAVAT, NOLI",
           "party": "IND"
         },
         {
-          "number": 5,
-          "name": "CABALO, JONATHAN",
+          "number": "5",
+          "name": "VELASCO, DIOSDADO",
           "party": "IND"
         }
       ]
@@ -1040,22 +1040,22 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "FAELANGCO, JUNE",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "INGLES, INVENTOR",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "SOTTO, GIAN",
           "party": "SBP"
         },
         {
-          "number": 4,
+          "number": "4",
           "name": "VILLARTA, DANTE",
           "party": "IND"
         }
@@ -1070,49 +1070,49 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BERNARDO, VIC",
           "party": "SBP"
         },
         {
-          "number": 2,
-          "name": "GOMEZ, OSCAR JR.",
-          "party": "IND"
-        },
-        {
-          "number": 3,
-          "name": "MEDINA, COCOY",
-          "party": "SBP"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "FRANCISCO, HELEN",
           "party": "IND"
         },
         {
-          "number": 5,
-          "name": "JUAN, DOC ELLIE",
-          "party": "SBP"
-        },
-        {
-          "number": 6,
-          "name": "PILAR, BANJO",
-          "party": "SBP"
-        },
-        {
-          "number": 7,
-          "name": "SALUDES, LOUIE",
-          "party": "IND"
-        },
-        {
-          "number": 8,
+          "number": "3",
           "name": "GENEROSO, SOTTO VITO",
           "party": "SBP"
         },
         {
-          "number": 9,
+          "number": "4",
+          "name": "GOMEZ, OSCAR JR.",
+          "party": "IND"
+        },
+        {
+          "number": "5",
+          "name": "JUAN, DOC ELLIE",
+          "party": "SBP"
+        },
+        {
+          "number": "6",
           "name": "MATIAS, KRISTINE  DONNY",
           "party": "SBP"
+        },
+        {
+          "number": "7",
+          "name": "MEDINA, COCOY",
+          "party": "SBP"
+        },
+        {
+          "number": "8",
+          "name": "PILAR, BANJO",
+          "party": "SBP"
+        },
+        {
+          "number": "9",
+          "name": "SALUDES, LOUIE",
+          "party": "IND"
         }
       ]
     }

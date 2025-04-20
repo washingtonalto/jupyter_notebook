@@ -985,7 +985,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, ATORNI MIKE",
           "party": "NPC"
         }
@@ -1000,7 +1000,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, DOKTORA HELEN",
           "party": "STAN Q"
         }
@@ -1015,17 +1015,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, THIRD",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ALPAJORA, ARMINGOL",
           "party": "KBL"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "CAPINA, TEODORICO",
           "party": "IND"
         }
@@ -1040,17 +1040,17 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "EDUARTE, OLA",
-          "party": "STAN Q"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "BUTARDO, HAROLD",
           "party": "STAN Q"
         },
         {
-          "number": 3,
+          "number": "2",
+          "name": "EDUARTE, OLA",
+          "party": "STAN Q"
+        },
+        {
+          "number": "3",
           "name": "UBANA, RACHEL",
           "party": "STAN \nQ"
         }
@@ -1065,17 +1065,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "CHUA, FROILAN",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MENDOZA, MANDING",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "VISORDE, ROSALINA",
           "party": "STAN Q"
         }
@@ -1090,12 +1090,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "CEMANES, BONG",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "DELA CRUZ, ATE-LEAH",
           "party": "STAN Q"
         }
@@ -1110,113 +1110,113 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BARRERA, KUYA-RAZEL",
           "party": "NPC"
         },
         {
-          "number": 2,
-          "name": "LABASAN, MELVIN",
-          "party": "STAN\nQ"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "CERILLA, NARDA",
           "party": "IND"
         },
         {
-          "number": 4,
-          "name": "LORIA, KIKO",
-          "party": "WPP"
-        },
-        {
-          "number": 5,
-          "name": "OBLEA, MONCHING",
-          "party": "IND"
-        },
-        {
-          "number": 6,
-          "name": "PORFURA, KA-ERNING",
-          "party": "IND"
-        },
-        {
-          "number": 7,
-          "name": "RECIO, RUEL",
-          "party": "IND"
-        },
-        {
-          "number": 8,
-          "name": "MATIBAG, KAP-MATI",
-          "party": "STAN Q"
-        },
-        {
-          "number": 9,
-          "name": "MENDOZA, GING",
-          "party": "IND"
-        },
-        {
-          "number": 10,
-          "name": "ROSALES, KAP-PJ",
-          "party": "IND"
-        },
-        {
-          "number": 11,
-          "name": "SALCEDO, TITA-ERICA",
-          "party": "IND"
-        },
-        {
-          "number": 12,
-          "name": "TRAPANE, KAP-RAMBO",
-          "party": "IND"
-        },
-        {
-          "number": 13,
-          "name": "UMALI, MARINA",
-          "party": "STAN \nQ"
-        },
-        {
-          "number": 14,
-          "name": "VILLAREAL, MILDRED",
-          "party": "STAN Q"
-        },
-        {
-          "number": 15,
-          "name": "ROSAS, JEROME",
-          "party": "STAN \nQ"
-        },
-        {
-          "number": 16,
-          "name": "SADIA, ROMMEL",
-          "party": "IND"
-        },
-        {
-          "number": 17,
+          "number": "3",
           "name": "EDUARTE, CYNTHIA",
           "party": "STAN Q"
         },
         {
-          "number": 18,
+          "number": "4",
           "name": "FUENZALIDA,  DERICK-GULAY",
           "party": "NPC"
         },
         {
-          "number": 19,
+          "number": "5",
           "name": "INTOY, PAPA-EDDIE",
           "party": "NPC"
         },
         {
-          "number": 20,
+          "number": "6",
           "name": "JOSON, TANTON",
           "party": "STAN \nQ"
         },
         {
-          "number": 21,
+          "number": "7",
+          "name": "LABASAN, MELVIN",
+          "party": "STAN\nQ"
+        },
+        {
+          "number": "8",
+          "name": "LORIA, KIKO",
+          "party": "WPP"
+        },
+        {
+          "number": "9",
+          "name": "MATIBAG, KAP-MATI",
+          "party": "STAN Q"
+        },
+        {
+          "number": "10",
+          "name": "MENDOZA, GING",
+          "party": "IND"
+        },
+        {
+          "number": "11",
           "name": "NICOLAS, RONALD",
           "party": "IND"
         },
         {
-          "number": 22,
+          "number": "12",
           "name": "NOSCAL, MARLON",
+          "party": "STAN Q"
+        },
+        {
+          "number": "13",
+          "name": "OBLEA, MONCHING",
+          "party": "IND"
+        },
+        {
+          "number": "14",
+          "name": "PORFURA, KA-ERNING",
+          "party": "IND"
+        },
+        {
+          "number": "15",
+          "name": "RECIO, RUEL",
+          "party": "IND"
+        },
+        {
+          "number": "16",
+          "name": "ROSALES, KAP-PJ",
+          "party": "IND"
+        },
+        {
+          "number": "17",
+          "name": "ROSAS, JEROME",
+          "party": "STAN \nQ"
+        },
+        {
+          "number": "18",
+          "name": "SADIA, ROMMEL",
+          "party": "IND"
+        },
+        {
+          "number": "19",
+          "name": "SALCEDO, TITA-ERICA",
+          "party": "IND"
+        },
+        {
+          "number": "20",
+          "name": "TRAPANE, KAP-RAMBO",
+          "party": "IND"
+        },
+        {
+          "number": "21",
+          "name": "UMALI, MARINA",
+          "party": "STAN \nQ"
+        },
+        {
+          "number": "22",
+          "name": "VILLAREAL, MILDRED",
           "party": "STAN Q"
         }
       ]

@@ -990,12 +990,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "FRESNEDI, JAIME",
           "party": "LP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "GARING, BIYONG",
           "party": "PDPLBN"
         }
@@ -1010,7 +1010,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BIAZON, RUFFY",
           "party": "1MUNTI"
         }
@@ -1025,19 +1025,19 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
+          "name": "AMPAYA, ALLEN",
+          "party": "1MUNTI"
+        },
+        {
+          "number": "2",
           "name": "SIMUNDAC, TEMY",
           "party": "PFP"
         },
         {
-          "number": 2,
+          "number": "3",
           "name": "TEVES, PHANIE",
           "party": "IND"
-        },
-        {
-          "number": 3,
-          "name": "AMPAYA, ALLEN",
-          "party": "1MUNTI"
         }
       ]
     },
@@ -1050,119 +1050,119 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ANAYA, ELI",
           "party": "MKBYN"
         },
         {
-          "number": 2,
-          "name": "CASTALONE, ED",
-          "party": "PFP"
-        },
-        {
-          "number": 3,
-          "name": "ESTUPIN, ROLLY",
-          "party": "IND"
-        },
-        {
-          "number": 4,
-          "name": "TENSUAN, OBY",
-          "party": "PFP"
-        },
-        {
-          "number": 5,
-          "name": "CORRO, RAUL",
-          "party": "1MUNTI"
-        },
-        {
-          "number": 6,
-          "name": "MARIÑAS, SANTI",
-          "party": "IND"
-        },
-        {
-          "number": 7,
-          "name": "TEVES, THATA",
-          "party": "PFP"
-        },
-        {
-          "number": 8,
-          "name": "NIEFES, TING",
-          "party": "1MUNTI"
-        },
-        {
-          "number": 9,
-          "name": "VALENCIA, RENE",
-          "party": "IND"
-        },
-        {
-          "number": 10,
-          "name": "DELA CONCEPCION,  MYRNA",
-          "party": "MKBYN"
-        },
-        {
-          "number": 11,
-          "name": "DELA CRUZ, IAN",
-          "party": "PFP"
-        },
-        {
-          "number": 12,
+          "number": "2",
           "name": "ARCIAGA, ATTY. RACHEL",
           "party": "1MUNTI"
         },
         {
-          "number": 13,
+          "number": "3",
           "name": "ARCILLA, WALTER",
           "party": "1MUNTI"
         },
         {
-          "number": 14,
+          "number": "4",
           "name": "BONCAYAO, PATY KATY",
           "party": "1MUNTI"
         },
         {
-          "number": 15,
-          "name": "PRESNEDI, JEDI",
-          "party": "1MUNTI"
-        },
-        {
-          "number": 16,
+          "number": "5",
           "name": "BURGOS, RAFAEL",
           "party": "PFP"
         },
         {
-          "number": 17,
-          "name": "SANTOS, RENATO",
-          "party": "IND"
+          "number": "6",
+          "name": "CAMILON, AMANDA",
+          "party": "1MUNTI"
         },
         {
-          "number": 18,
+          "number": "7",
+          "name": "CASTALONE, ED",
+          "party": "PFP"
+        },
+        {
+          "number": "8",
+          "name": "CORRO, RAUL",
+          "party": "1MUNTI"
+        },
+        {
+          "number": "9",
+          "name": "DELA CONCEPCION,  MYRNA",
+          "party": "MKBYN"
+        },
+        {
+          "number": "10",
+          "name": "DELA CRUZ, IAN",
+          "party": "PFP"
+        },
+        {
+          "number": "11",
           "name": "DIAZ, ALEXSON",
           "party": "1MUNTI"
         },
         {
-          "number": 19,
-          "name": "VILLARIN, EDUARDO",
-          "party": "PFP"
-        },
-        {
-          "number": 20,
-          "name": "VIRTUDAZO,  BONGBONG",
-          "party": "PFP"
-        },
-        {
-          "number": 21,
+          "number": "12",
           "name": "ESCRIBA, EMMY",
           "party": "PFP"
         },
         {
-          "number": 22,
+          "number": "13",
+          "name": "ESTUPIN, ROLLY",
+          "party": "IND"
+        },
+        {
+          "number": "14",
+          "name": "MARIÑAS, SANTI",
+          "party": "IND"
+        },
+        {
+          "number": "15",
+          "name": "NIEFES, TING",
+          "party": "1MUNTI"
+        },
+        {
+          "number": "16",
+          "name": "PRESNEDI, JEDI",
+          "party": "1MUNTI"
+        },
+        {
+          "number": "17",
+          "name": "SANTOS, RENATO",
+          "party": "IND"
+        },
+        {
+          "number": "18",
           "name": "SILPAO, GIROME",
           "party": "IND"
         },
         {
-          "number": 23,
-          "name": "CAMILON, AMANDA",
-          "party": "1MUNTI"
+          "number": "19",
+          "name": "TENSUAN, OBY",
+          "party": "PFP"
+        },
+        {
+          "number": "20",
+          "name": "TEVES, THATA",
+          "party": "PFP"
+        },
+        {
+          "number": "21",
+          "name": "VALENCIA, RENE",
+          "party": "IND"
+        },
+        {
+          "number": "22",
+          "name": "VILLARIN, EDUARDO",
+          "party": "PFP"
+        },
+        {
+          "number": "23",
+          "name": "VIRTUDAZO,  BONGBONG",
+          "party": "PFP"
         }
       ]
     }

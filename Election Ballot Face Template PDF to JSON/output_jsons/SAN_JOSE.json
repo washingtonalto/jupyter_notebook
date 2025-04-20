@@ -989,17 +989,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BOLILIA, CALOY",
           "party": "NP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "GOZOS, JP",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "UMALI, RONALD",
           "party": "LAKAS"
         }
@@ -1014,22 +1014,22 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "RIVERA, MIKE",
-          "party": "LP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "ILAGAN, JAY MANALO",
           "party": "PROMDI"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "OZAETA, KUYAKAP  WALTER",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "3",
+          "name": "RIVERA, MIKE",
+          "party": "LP"
+        },
+        {
+          "number": "4",
           "name": "SANTOS-RECTO, VILMA",
           "party": "NP"
         }
@@ -1044,17 +1044,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "DOLOR, RYANH",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MANDANAS, DODO",
           "party": "PDPLBN"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "MANZANO, LUIS LUCKY",
           "party": "NP"
         }
@@ -1069,28 +1069,28 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "VIDAL, MELVIN",
-          "party": "IND"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "DE VEYRA, PASTOR ERIC",
           "party": "NP"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "MENDOZA, MARCUS",
           "party": "NPC"
         },
         {
-          "number": 4,
+          "number": "3",
           "name": "MERCADO, KROPECK",
           "party": "IND"
         },
         {
-          "number": 5,
+          "number": "4",
           "name": "SAMONTE, ALVIN JOHN",
+          "party": "IND"
+        },
+        {
+          "number": "5",
+          "name": "VIDAL, MELVIN",
           "party": "IND"
         }
       ]
@@ -1104,22 +1104,22 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BRIONES, TIKYO",
           "party": "PFP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MASILUNGAN, GENARO  JR.",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "PATRON,MVP ATE  VANESSA",
           "party": "AKSYON"
         },
         {
-          "number": 4,
+          "number": "4",
           "name": "VIRTUCIO, KAPITANA  REGGIE",
           "party": "NP"
         }
@@ -1134,24 +1134,24 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "MENDOZA, ALEX",
-          "party": "NP"
-        },
-        {
-          "number": 2,
-          "name": "PATRON, BEN",
-          "party": "AKSYON"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "MACARAIG,  MACRONALD",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "2",
+          "name": "MENDOZA, ALEX",
+          "party": "NP"
+        },
+        {
+          "number": "3",
           "name": "MENDOZA, PAPAOKS",
           "party": "PFP"
+        },
+        {
+          "number": "4",
+          "name": "PATRON, BEN",
+          "party": "AKSYON"
         }
       ]
     },
@@ -1164,124 +1164,124 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AGBING, JONER",
           "party": "PFP"
         },
         {
-          "number": 2,
-          "name": "CARANDANG, RUDY",
-          "party": "NP"
-        },
-        {
-          "number": 3,
-          "name": "RODRIGUEZ, JOE",
-          "party": "IND"
-        },
-        {
-          "number": 4,
-          "name": "MAKALINTAL, TONTON",
-          "party": "PFP"
-        },
-        {
-          "number": 5,
+          "number": "2",
           "name": "AGUILA, ANA PUTI",
           "party": "NPC"
         },
         {
-          "number": 6,
-          "name": "COMIA,  ARNOLD",
-          "party": "PFP"
-        },
-        {
-          "number": 7,
-          "name": "MENDOZA, JOEY",
-          "party": "PFP"
-        },
-        {
-          "number": 8,
-          "name": "RODRIGUEZ, JOJO",
-          "party": "AKSYON"
-        },
-        {
-          "number": 9,
+          "number": "3",
           "name": "AGUILA, AQUILINO",
           "party": "IND"
         },
         {
-          "number": 10,
-          "name": "CRUZ, INAH",
-          "party": "NP"
-        },
-        {
-          "number": 11,
-          "name": "UMALI, ODIE",
-          "party": "IND"
-        },
-        {
-          "number": 12,
-          "name": "MENDOZA, SIR RAVEN",
-          "party": "NP"
-        },
-        {
-          "number": 13,
-          "name": "MORFE, HENER",
-          "party": "NP"
-        },
-        {
-          "number": 14,
-          "name": "ZARA, JAPOY GUCE",
-          "party": "AKSYON"
-        },
-        {
-          "number": 15,
-          "name": "MORFI, ALLAN",
-          "party": "PFP"
-        },
-        {
-          "number": 16,
-          "name": "FLORES, CARMI",
-          "party": "AKSYON"
-        },
-        {
-          "number": 17,
-          "name": "HERNANDEZ, ZANDRA  BIANCA",
-          "party": "NP"
-        },
-        {
-          "number": 18,
-          "name": "ILAO, RUEL",
-          "party": "PFP"
-        },
-        {
-          "number": 19,
+          "number": "4",
           "name": "AGUILA, ARNOLD",
           "party": "AKSYON"
         },
         {
-          "number": 20,
+          "number": "5",
           "name": "ARCILLA, TESDAMAN",
           "party": "AKSYON"
         },
         {
-          "number": 21,
+          "number": "6",
           "name": "ATIENZA, DOC BENNY",
           "party": "PFP"
         },
         {
-          "number": 22,
+          "number": "7",
           "name": "BRIONES, KAYE",
           "party": "PFP"
         },
         {
-          "number": 23,
+          "number": "8",
+          "name": "CARANDANG, RUDY",
+          "party": "NP"
+        },
+        {
+          "number": "9",
+          "name": "COMIA,  ARNOLD",
+          "party": "PFP"
+        },
+        {
+          "number": "10",
+          "name": "CRUZ, INAH",
+          "party": "NP"
+        },
+        {
+          "number": "11",
+          "name": "FLORES, CARMI",
+          "party": "AKSYON"
+        },
+        {
+          "number": "12",
+          "name": "HERNANDEZ, ZANDRA  BIANCA",
+          "party": "NP"
+        },
+        {
+          "number": "13",
+          "name": "ILAO, RUEL",
+          "party": "PFP"
+        },
+        {
+          "number": "14",
           "name": "LUNA, MARCHAL TITO",
           "party": "AKSYON"
         },
         {
-          "number": 24,
+          "number": "15",
+          "name": "MAKALINTAL, TONTON",
+          "party": "PFP"
+        },
+        {
+          "number": "16",
+          "name": "MENDOZA, JOEY",
+          "party": "PFP"
+        },
+        {
+          "number": "17",
+          "name": "MENDOZA, SIR RAVEN",
+          "party": "NP"
+        },
+        {
+          "number": "18",
+          "name": "MORFE, HENER",
+          "party": "NP"
+        },
+        {
+          "number": "19",
+          "name": "MORFI, ALLAN",
+          "party": "PFP"
+        },
+        {
+          "number": "20",
           "name": "ONA, ARKITEK JULIUS",
           "party": "NP"
+        },
+        {
+          "number": "22",
+          "name": "RODRIGUEZ, JOE",
+          "party": "IND"
+        },
+        {
+          "number": "23",
+          "name": "RODRIGUEZ, JOJO",
+          "party": "AKSYON"
+        },
+        {
+          "number": "24",
+          "name": "UMALI, ODIE",
+          "party": "IND"
+        },
+        {
+          "number": "25",
+          "name": "ZARA, JAPOY GUCE",
+          "party": "AKSYON"
         }
       ]
     }

@@ -991,12 +991,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "PIMENTEL, KOKO",
           "party": "NP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "TEODORO, MARCY",
           "party": "NUP"
         }
@@ -1011,14 +1011,14 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "TEODORO, MAAN",
-          "party": "NUP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "QUIMBO, STELLA",
           "party": "LAKAS"
+        },
+        {
+          "number": "2",
+          "name": "TEODORO, MAAN",
+          "party": "NUP"
         }
       ]
     },
@@ -1031,19 +1031,19 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "RETES, ANNIE",
-          "party": "IND"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "ANDRES, DOC MARION",
           "party": "NUP"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "DE GUZMAN, DEL",
           "party": "LAKAS"
+        },
+        {
+          "number": "3",
+          "name": "RETES, ANNIE",
+          "party": "IND"
         }
       ]
     },
@@ -1056,108 +1056,108 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "CASIMIRO, CLOYD",
-          "party": "NUP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "ACUÑA, KAMBAL  ROMMEL",
           "party": "LAKAS"
         },
         {
-          "number": 3,
-          "name": "GOLANGCO, HAZEL",
-          "party": "NUP"
-        },
-        {
-          "number": 4,
-          "name": "SARMIENTO,  ROSET-TARANGKA",
-          "party": "IND"
-        },
-        {
-          "number": 5,
+          "number": "2",
           "name": "AFRICA, CARL",
           "party": "LAKAS"
         },
         {
-          "number": 6,
-          "name": "DE GUZMAN, KATE",
-          "party": "NUP"
-        },
-        {
-          "number": 7,
-          "name": "ILAGAN, TOPE",
-          "party": "IND"
-        },
-        {
-          "number": 8,
-          "name": "SICAT, ATTY. PAT",
-          "party": "NUP"
-        },
-        {
-          "number": 9,
+          "number": "3",
           "name": "ALEJAGA, JAHN",
           "party": "IND"
         },
         {
-          "number": 10,
-          "name": "MASCARIÑA, IMEE",
-          "party": "IND"
-        },
-        {
-          "number": 11,
-          "name": "SO, JASPER",
-          "party": "LAKAS"
-        },
-        {
-          "number": 12,
+          "number": "4",
           "name": "AQUINO, ROSIE",
           "party": "IND"
         },
         {
-          "number": 13,
-          "name": "DELA CRUZ, BENEDICTO",
-          "party": "IND"
-        },
-        {
-          "number": 14,
-          "name": "FERRER, MEDICK",
-          "party": "LAKAS"
-        },
-        {
-          "number": 15,
-          "name": "PIOQUINTO, GINNY  BOLOK",
-          "party": "NUP"
-        },
-        {
-          "number": 16,
+          "number": "5",
           "name": "BANZON, JOJO",
           "party": "NUP"
         },
         {
-          "number": 17,
-          "name": "FERRIOL, SAM",
-          "party": "IND"
-        },
-        {
-          "number": 18,
-          "name": "REYES, CES",
-          "party": "LAKAS"
-        },
-        {
-          "number": 19,
+          "number": "6",
           "name": "BERNARDINO, ADAMS",
           "party": "NUP"
         },
         {
-          "number": 20,
+          "number": "7",
+          "name": "CASIMIRO, CLOYD",
+          "party": "NUP"
+        },
+        {
+          "number": "8",
+          "name": "DE GUZMAN, KATE",
+          "party": "NUP"
+        },
+        {
+          "number": "9",
+          "name": "DELA CRUZ, BENEDICTO",
+          "party": "IND"
+        },
+        {
+          "number": "10",
+          "name": "FERRER, MEDICK",
+          "party": "LAKAS"
+        },
+        {
+          "number": "11",
+          "name": "FERRIOL, SAM",
+          "party": "IND"
+        },
+        {
+          "number": "12",
           "name": "FORTUNO, BRUCE",
           "party": "LAKAS"
         },
         {
-          "number": 21,
+          "number": "13",
+          "name": "GOLANGCO, HAZEL",
+          "party": "NUP"
+        },
+        {
+          "number": "14",
+          "name": "ILAGAN, TOPE",
+          "party": "IND"
+        },
+        {
+          "number": "15",
+          "name": "MASCARIÑA, IMEE",
+          "party": "IND"
+        },
+        {
+          "number": "16",
+          "name": "PIOQUINTO, GINNY  BOLOK",
+          "party": "NUP"
+        },
+        {
+          "number": "17",
+          "name": "REYES, CES",
+          "party": "LAKAS"
+        },
+        {
+          "number": "18",
           "name": "SABINIANO, VJ  TAMBULI",
+          "party": "LAKAS"
+        },
+        {
+          "number": "19",
+          "name": "SARMIENTO,  ROSET-TARANGKA",
+          "party": "IND"
+        },
+        {
+          "number": "20",
+          "name": "SICAT, ATTY. PAT",
+          "party": "NUP"
+        },
+        {
+          "number": "21",
+          "name": "SO, JASPER",
           "party": "LAKAS"
         }
       ]

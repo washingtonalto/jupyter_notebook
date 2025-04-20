@@ -990,7 +990,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "MERCADO-REVILLA, LANI",
           "party": "LAKAS"
         }
@@ -1005,24 +1005,24 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
+          "name": "AGUINALDO, WENG",
+          "party": "IND"
+        },
+        {
+          "number": "2",
           "name": "BER ADO, GB",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "3",
           "name": "PERA, AUGUSTO JR.",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "4",
           "name": "REMULLA, ABENG",
           "party": "NUP"
-        },
-        {
-          "number": 4,
-          "name": "AGUINALDO, WENG",
-          "party": "IND"
         }
       ]
     },
@@ -1035,7 +1035,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BAUTISTA, RAM REVILLA",
           "party": "LAKAS"
         }
@@ -1050,12 +1050,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "MALVAR, EDWIN",
           "party": "LAKAS"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "PAGULAYAN, ALDE",
           "party": "LAKAS"
         }
@@ -1070,7 +1070,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "REVILLA, STRIKE",
           "party": "NP"
         }
@@ -1085,7 +1085,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BAUTISTA-MENDIOLA,  ROWENA",
           "party": "NPC"
         }
@@ -1100,34 +1100,34 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BAUTISTA, MIKE",
           "party": "NPC"
         },
         {
-          "number": 2,
-          "name": "TELA, LEVY",
-          "party": "NPC"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "GALVEZ, NOLY",
           "party": "LAKAS"
         },
         {
-          "number": 4,
-          "name": "UGALDE, RICARDO",
-          "party": "NPC"
-        },
-        {
-          "number": 5,
+          "number": "3",
           "name": "GAWARAN, ADRIEL",
           "party": "LAKAS"
         },
         {
-          "number": 6,
+          "number": "4",
           "name": "SARINO-EVARISTO,  KAREN",
           "party": "NP"
+        },
+        {
+          "number": "5",
+          "name": "TELA, LEVY",
+          "party": "NPC"
+        },
+        {
+          "number": "6",
+          "name": "UGALDE, RICARDO",
+          "party": "NPC"
         }
       ]
     }

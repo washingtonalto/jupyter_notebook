@@ -989,12 +989,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ABAYA, DOC PAUL",
           "party": "LP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "REVILLA, RAMON JOLO",
           "party": "LAKAS"
         }
@@ -1009,24 +1009,24 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
+          "name": "AGUINALDO, WENG",
+          "party": "IND"
+        },
+        {
+          "number": "2",
           "name": "BER ADO, GB",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "3",
           "name": "PERA, AUGUSTO JR.",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "4",
           "name": "REMULLA, ABENG",
           "party": "NUP"
-        },
-        {
-          "number": 4,
-          "name": "AGUINALDO, WENG",
-          "party": "IND"
         }
       ]
     },
@@ -1039,7 +1039,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BAUTISTA, RAM REVILLA",
           "party": "LAKAS"
         }
@@ -1054,13 +1054,13 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "GANDIA, JYGS",
+          "number": "1",
+          "name": "ENRIQUEZ, ROMEL",
           "party": "LAKAS"
         },
         {
-          "number": 2,
-          "name": "ENRIQUEZ, ROMEL",
+          "number": "2",
+          "name": "GANDIA, JYGS",
           "party": "LAKAS"
         }
       ]
@@ -1074,7 +1074,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "CHUA, DENVER",
           "party": "LAKAS"
         }
@@ -1089,12 +1089,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "CONSIGO, PENCHIE",
           "party": "LP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "RUSIT, RALEIGH",
           "party": "LAKAS"
         }
@@ -1109,109 +1109,109 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "PAREDES, APPLE",
-          "party": "LP"
-        },
-        {
-          "number": 2,
-          "name": "TERRADO, LOIDA",
-          "party": "IND"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "AMPARO, MARK  ANTHONY",
           "party": "LAKAS"
         },
         {
-          "number": 4,
-          "name": "MACEDA, DERLYN",
-          "party": "PDPLBN"
-        },
-        {
-          "number": 5,
+          "number": "2",
           "name": "BARRERA, JET",
           "party": "LAKAS"
         },
         {
-          "number": 6,
-          "name": "MENDOZA, KERWIN",
-          "party": "LP"
-        },
-        {
-          "number": 7,
-          "name": "TIRONA, EMILY",
-          "party": "LAKAS"
-        },
-        {
-          "number": 8,
-          "name": "PINZON, MARRIAN",
-          "party": "LAKAS"
-        },
-        {
-          "number": 9,
+          "number": "3",
           "name": "BARRON, IAN",
           "party": "LP"
         },
         {
-          "number": 10,
-          "name": "SANTIAGO, ALYSSA",
-          "party": "LP"
-        },
-        {
-          "number": 11,
-          "name": "VANTA, MIKO",
-          "party": "LP"
-        },
-        {
-          "number": 12,
-          "name": "MONTOYA, KONSI  RENAN",
-          "party": "LAKAS"
-        },
-        {
-          "number": 13,
+          "number": "4",
           "name": "BERNAL, DENNIS",
           "party": "LP"
         },
         {
-          "number": 14,
-          "name": "NIETO, JOEY",
-          "party": "LP"
-        },
-        {
-          "number": 15,
-          "name": "SERRANO, KONSI MARC",
-          "party": "LAKAS"
-        },
-        {
-          "number": 16,
-          "name": "NOVERO, JUN",
-          "party": "LAKAS"
-        },
-        {
-          "number": 17,
-          "name": "SOLIS, DARYL",
-          "party": "LAKAS"
-        },
-        {
-          "number": 18,
+          "number": "5",
           "name": "DE GUZMAN, MELVIN",
           "party": "LP"
         },
         {
-          "number": 19,
+          "number": "6",
           "name": "LU, MAUREEN",
           "party": "LAKAS"
         },
         {
-          "number": 20,
+          "number": "7",
+          "name": "MACEDA, DERLYN",
+          "party": "PDPLBN"
+        },
+        {
+          "number": "8",
+          "name": "MENDOZA, KERWIN",
+          "party": "LP"
+        },
+        {
+          "number": "9",
+          "name": "MONTOYA, KONSI  RENAN",
+          "party": "LAKAS"
+        },
+        {
+          "number": "10",
+          "name": "NIETO, JOEY",
+          "party": "LP"
+        },
+        {
+          "number": "11",
+          "name": "NOVERO, JUN",
+          "party": "LAKAS"
+        },
+        {
+          "number": "12",
+          "name": "NUGUID, DOODS",
+          "party": "LAKAS"
+        },
+        {
+          "number": "13",
+          "name": "PAREDES, APPLE",
+          "party": "LP"
+        },
+        {
+          "number": "14",
+          "name": "PINZON, MARRIAN",
+          "party": "LAKAS"
+        },
+        {
+          "number": "15",
+          "name": "SANTIAGO, ALYSSA",
+          "party": "LP"
+        },
+        {
+          "number": "16",
+          "name": "SERRANO, KONSI MARC",
+          "party": "LAKAS"
+        },
+        {
+          "number": "17",
+          "name": "SOLIS, DARYL",
+          "party": "LAKAS"
+        },
+        {
+          "number": "18",
           "name": "STA. ELENA, JUDE",
           "party": "LP"
         },
         {
-          "number": 21,
-          "name": "NUGUID, DOODS",
+          "number": "19",
+          "name": "TERRADO, LOIDA",
+          "party": "IND"
+        },
+        {
+          "number": "20",
+          "name": "TIRONA, EMILY",
           "party": "LAKAS"
+        },
+        {
+          "number": "21",
+          "name": "VANTA, MIKO",
+          "party": "LP"
         }
       ]
     }

@@ -988,7 +988,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ENVERGA, MARK",
           "party": "NPC"
         }
@@ -1003,7 +1003,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, DOKTORA HELEN",
           "party": "STAN Q"
         }
@@ -1018,17 +1018,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, THIRD",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ALPAJORA, ARMINGOL",
           "party": "KBL"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "CAPINA, TEODORICO",
           "party": "IND"
         }
@@ -1043,32 +1043,32 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "LUCES, JULIUS",
-          "party": "STAN Q"
-        },
-        {
-          "number": 2,
-          "name": "OBISPO, ALONA",
-          "party": "PFP"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "ALCALA, CHRISTIAN  PAUL",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "2",
           "name": "GARCIA, NATHALIE",
           "party": "KBL"
         },
         {
-          "number": 5,
+          "number": "3",
+          "name": "LUCES, JULIUS",
+          "party": "STAN Q"
+        },
+        {
+          "number": "4",
           "name": "NANTES, SAM",
           "party": "LAKAS"
         },
         {
-          "number": 6,
+          "number": "5",
+          "name": "OBISPO, ALONA",
+          "party": "PFP"
+        },
+        {
+          "number": "6",
           "name": "SARONA, GEN. ELMO  RINGO",
           "party": "NPC"
         }
@@ -1083,12 +1083,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ESPIRITU, RODEL",
           "party": "NPC"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "SARMIENTO, NELMAR",
           "party": "NP"
         }
@@ -1103,19 +1103,19 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "MANALO, DAHLIA",
           "party": "NP"
         },
         {
-          "number": 2,
-          "name": "PATAL, ZERESH",
-          "party": "PFP"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "MANLANGIT, CHARITO",
           "party": "NPC"
+        },
+        {
+          "number": "3",
+          "name": "PATAL, ZERESH",
+          "party": "PFP"
         }
       ]
     },
@@ -1128,104 +1128,104 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ARCILLA, JHENCY",
           "party": "IND"
         },
         {
-          "number": 2,
-          "name": "BAY, FERDINAND",
-          "party": "NPC"
-        },
-        {
-          "number": 3,
-          "name": "LITONG, ORLINO",
-          "party": "NP"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "AZAÑA, DARWIN",
           "party": "IND"
         },
         {
-          "number": 5,
-          "name": "BELDA, UGIK",
-          "party": "NP"
-        },
-        {
-          "number": 6,
-          "name": "MAMPUSTI, MERLY",
-          "party": "NP"
-        },
-        {
-          "number": 7,
-          "name": "RUBIO, RAMONCITO SR.",
-          "party": "NP"
-        },
-        {
-          "number": 8,
-          "name": "SUSTENTO, KARL  HENRY",
-          "party": "NPC"
-        },
-        {
-          "number": 9,
+          "number": "3",
           "name": "BALINO, ISAGANI",
           "party": "NPC"
         },
         {
-          "number": 10,
-          "name": "CANDELARIA, OBET",
-          "party": "NP"
-        },
-        {
-          "number": 11,
-          "name": "TAPADO, ANITA",
-          "party": "NPC"
-        },
-        {
-          "number": 12,
-          "name": "MERCADO, MARIBEL",
-          "party": "NP"
-        },
-        {
-          "number": 13,
+          "number": "4",
           "name": "BALINO, TIVO",
           "party": "NP"
         },
         {
-          "number": 14,
-          "name": "DY, JIMMY",
-          "party": "NPC"
-        },
-        {
-          "number": 15,
-          "name": "PANTILA, RAMIL",
-          "party": "NPC"
-        },
-        {
-          "number": 16,
-          "name": "TAPADO, ARTURO JR.",
-          "party": "NPC"
-        },
-        {
-          "number": 17,
-          "name": "RALA, MARIO",
-          "party": "PFP"
-        },
-        {
-          "number": 18,
-          "name": "TENA, RODELO",
-          "party": "NP"
-        },
-        {
-          "number": 19,
+          "number": "5",
           "name": "BASTO, GUENDELYN",
           "party": "NPC"
         },
         {
-          "number": 20,
+          "number": "6",
+          "name": "BAY, FERDINAND",
+          "party": "NPC"
+        },
+        {
+          "number": "7",
+          "name": "BELDA, UGIK",
+          "party": "NP"
+        },
+        {
+          "number": "8",
+          "name": "CANDELARIA, OBET",
+          "party": "NP"
+        },
+        {
+          "number": "9",
+          "name": "DY, JIMMY",
+          "party": "NPC"
+        },
+        {
+          "number": "10",
           "name": "JIMENEZ, MICHAEL",
           "party": "IND"
+        },
+        {
+          "number": "11",
+          "name": "LITONG, ORLINO",
+          "party": "NP"
+        },
+        {
+          "number": "12",
+          "name": "MAMPUSTI, MERLY",
+          "party": "NP"
+        },
+        {
+          "number": "13",
+          "name": "MERCADO, MARIBEL",
+          "party": "NP"
+        },
+        {
+          "number": "14",
+          "name": "PANTILA, RAMIL",
+          "party": "NPC"
+        },
+        {
+          "number": "15",
+          "name": "RALA, MARIO",
+          "party": "PFP"
+        },
+        {
+          "number": "16",
+          "name": "RUBIO, RAMONCITO SR.",
+          "party": "NP"
+        },
+        {
+          "number": "17",
+          "name": "SUSTENTO, KARL  HENRY",
+          "party": "NPC"
+        },
+        {
+          "number": "18",
+          "name": "TAPADO, ANITA",
+          "party": "NPC"
+        },
+        {
+          "number": "19",
+          "name": "TAPADO, ARTURO JR.",
+          "party": "NPC"
+        },
+        {
+          "number": "20",
+          "name": "TENA, RODELO",
+          "party": "NP"
         }
       ]
     }

@@ -990,7 +990,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, ATORNI MIKE",
           "party": "NPC"
         }
@@ -1005,7 +1005,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, DOKTORA HELEN",
           "party": "STAN Q"
         }
@@ -1020,17 +1020,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, THIRD",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ALPAJORA, ARMINGOL",
           "party": "KBL"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "CAPINA, TEODORICO",
           "party": "IND"
         }
@@ -1045,17 +1045,17 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "EDUARTE, OLA",
-          "party": "STAN Q"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "BUTARDO, HAROLD",
           "party": "STAN Q"
         },
         {
-          "number": 3,
+          "number": "2",
+          "name": "EDUARTE, OLA",
+          "party": "STAN Q"
+        },
+        {
+          "number": "3",
           "name": "UBANA, RACHEL",
           "party": "STAN \nQ"
         }
@@ -1070,34 +1070,34 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "DIESTRO, ANTONIO",
           "party": "PFP"
         },
         {
-          "number": 2,
-          "name": "LIM, LALA",
-          "party": "UNA"
-        },
-        {
-          "number": 3,
-          "name": "TAN, DHORAY",
-          "party": "LAKAS"
-        },
-        {
-          "number": 4,
-          "name": "UY, ATTY ELVIS",
-          "party": "NP"
-        },
-        {
-          "number": 5,
+          "number": "2",
           "name": "ESCOSIA, ELMER EMING",
           "party": "WPP"
         },
         {
-          "number": 6,
+          "number": "3",
+          "name": "LIM, LALA",
+          "party": "UNA"
+        },
+        {
+          "number": "4",
           "name": "MAGBUHOS, DERICK",
           "party": "PRP"
+        },
+        {
+          "number": "5",
+          "name": "TAN, DHORAY",
+          "party": "LAKAS"
+        },
+        {
+          "number": "6",
+          "name": "UY, ATTY ELVIS",
+          "party": "NP"
         }
       ]
     },
@@ -1110,17 +1110,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "FABROS, MILVERT",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "SARMIENTO, REY",
           "party": "LP"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "VIDAL, KAP JUN",
           "party": "STAN Q"
         }
@@ -1135,194 +1135,194 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALMEYDA, RM",
           "party": "UNA"
         },
         {
-          "number": 2,
-          "name": "FAJARDO, RANDY",
-          "party": "UNA"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "ALTEZ, JOSEPH",
           "party": "LP"
         },
         {
-          "number": 4,
-          "name": "GAELA, RUELAN",
-          "party": "PRP"
-        },
-        {
-          "number": 5,
+          "number": "3",
           "name": "ANDAYA, DANTE",
           "party": "LP"
         },
         {
-          "number": 6,
-          "name": "KASTLER, MAYET",
-          "party": "PFP"
-        },
-        {
-          "number": 7,
-          "name": "OCAMPO, MARVIN  TROY",
-          "party": "PRP"
-        },
-        {
-          "number": 8,
-          "name": "OPEÑA, ROMAN JR.",
-          "party": "PFP"
-        },
-        {
-          "number": 9,
-          "name": "ORTIZ, MAMI JAY",
-          "party": "LAKAS"
-        },
-        {
-          "number": 10,
-          "name": "LAUDE, NESTOR",
-          "party": "PRP"
-        },
-        {
-          "number": 11,
-          "name": "PARIN, RONFOLS",
-          "party": "IND"
-        },
-        {
-          "number": 12,
+          "number": "4",
           "name": "AÑONUEVO, MARIO",
           "party": "WPP"
         },
         {
-          "number": 13,
+          "number": "5",
           "name": "BARAO, ALONA",
           "party": "PRP"
         },
         {
-          "number": 14,
-          "name": "LIM, DOC RR",
-          "party": "KNP"
-        },
-        {
-          "number": 15,
+          "number": "6",
           "name": "DE VERA, EMMA",
           "party": "NP"
         },
         {
-          "number": 16,
+          "number": "7",
           "name": "DIESTRO, ATE GLEN",
           "party": "PFP"
         },
         {
-          "number": 17,
-          "name": "MAGTIBAY, SIR ROLLY",
-          "party": "NP"
-        },
-        {
-          "number": 18,
-          "name": "MANGABA, DANILO",
-          "party": "WPP"
-        },
-        {
-          "number": 19,
-          "name": "PESIGAN, TITA MERLY",
-          "party": "STAN Q"
-        },
-        {
-          "number": 20,
-          "name": "SABACCO, LYN CADAG",
-          "party": "LAKAS"
-        },
-        {
-          "number": 21,
-          "name": "SANTANDER, NELMER",
-          "party": "NPC"
-        },
-        {
-          "number": 22,
-          "name": "MAPAYE, IÑIGO",
-          "party": "PRP"
-        },
-        {
-          "number": 23,
-          "name": "SUAREZ, ROMY",
-          "party": "WPP"
-        },
-        {
-          "number": 24,
+          "number": "8",
           "name": "DORADO, JORGE JR.",
           "party": "PFP"
         },
         {
-          "number": 25,
-          "name": "VALLESTEROS, ABEL",
-          "party": "AKSYON"
-        },
-        {
-          "number": 26,
-          "name": "VARGAS, KAP RAMCI",
-          "party": "IND"
-        },
-        {
-          "number": 27,
-          "name": "VERANGA, KAP ZOEN",
-          "party": "STAN Q"
-        },
-        {
-          "number": 28,
-          "name": "VERASTIGUE, RUMEL",
-          "party": "NPC"
-        },
-        {
-          "number": 29,
-          "name": "VERGAÑO, LOID JOHN",
-          "party": "PFP"
-        },
-        {
-          "number": 30,
-          "name": "VILLAREAL, KUYA  JOHNVI",
-          "party": "PFP"
-        },
-        {
-          "number": 31,
-          "name": "VOLPANE, RYAN",
-          "party": "LAKAS"
-        },
-        {
-          "number": 32,
-          "name": "ZAMORA, ENGR JOJO",
-          "party": "NP"
-        },
-        {
-          "number": 33,
+          "number": "9",
           "name": "ESCASA, ABIGAIL",
           "party": "KNP"
         },
         {
-          "number": 34,
+          "number": "10",
+          "name": "ESCRITOR, ANSING",
+          "party": "AKSYON"
+        },
+        {
+          "number": "11",
+          "name": "FAJARDO, RANDY",
+          "party": "UNA"
+        },
+        {
+          "number": "12",
+          "name": "GAELA, RUELAN",
+          "party": "PRP"
+        },
+        {
+          "number": "13",
+          "name": "KASTLER, MAYET",
+          "party": "PFP"
+        },
+        {
+          "number": "14",
+          "name": "LAUDE, NESTOR",
+          "party": "PRP"
+        },
+        {
+          "number": "15",
+          "name": "LIM, DOC RR",
+          "party": "KNP"
+        },
+        {
+          "number": "16",
+          "name": "MAGTIBAY, SIR ROLLY",
+          "party": "NP"
+        },
+        {
+          "number": "17",
+          "name": "MANGABA, DANILO",
+          "party": "WPP"
+        },
+        {
+          "number": "18",
+          "name": "MAPAYE, IÑIGO",
+          "party": "PRP"
+        },
+        {
+          "number": "19",
           "name": "MARASIGAN, DADAN",
           "party": "NP"
         },
         {
-          "number": 35,
-          "name": "TAMAYO, ANGEZA MAE",
-          "party": "NPC"
-        },
-        {
-          "number": 36,
+          "number": "20",
           "name": "MAYO, DOK MAYO",
           "party": "NP"
         },
         {
-          "number": 37,
+          "number": "21",
+          "name": "OCAMPO, MARVIN  TROY",
+          "party": "PRP"
+        },
+        {
+          "number": "22",
+          "name": "OPEÑA, ROMAN JR.",
+          "party": "PFP"
+        },
+        {
+          "number": "23",
+          "name": "ORTIZ, MAMI JAY",
+          "party": "LAKAS"
+        },
+        {
+          "number": "24",
+          "name": "PARIN, RONFOLS",
+          "party": "IND"
+        },
+        {
+          "number": "25",
+          "name": "PESIGAN, TITA MERLY",
+          "party": "STAN Q"
+        },
+        {
+          "number": "26",
+          "name": "SABACCO, LYN CADAG",
+          "party": "LAKAS"
+        },
+        {
+          "number": "27",
+          "name": "SANTANDER, NELMER",
+          "party": "NPC"
+        },
+        {
+          "number": "28",
+          "name": "SUAREZ, ROMY",
+          "party": "WPP"
+        },
+        {
+          "number": "29",
+          "name": "TAMAYO, ANGEZA MAE",
+          "party": "NPC"
+        },
+        {
+          "number": "30",
           "name": "VALDEZ, MARILYN",
           "party": "PRP"
         },
         {
-          "number": 38,
-          "name": "ESCRITOR, ANSING",
+          "number": "31",
+          "name": "VALLESTEROS, ABEL",
           "party": "AKSYON"
+        },
+        {
+          "number": "32",
+          "name": "VARGAS, KAP RAMCI",
+          "party": "IND"
+        },
+        {
+          "number": "33",
+          "name": "VERANGA, KAP ZOEN",
+          "party": "STAN Q"
+        },
+        {
+          "number": "34",
+          "name": "VERASTIGUE, RUMEL",
+          "party": "NPC"
+        },
+        {
+          "number": "35",
+          "name": "VERGAÑO, LOID JOHN",
+          "party": "PFP"
+        },
+        {
+          "number": "36",
+          "name": "VILLAREAL, KUYA  JOHNVI",
+          "party": "PFP"
+        },
+        {
+          "number": "37",
+          "name": "VOLPANE, RYAN",
+          "party": "LAKAS"
+        },
+        {
+          "number": "38",
+          "name": "ZAMORA, ENGR JOJO",
+          "party": "NP"
         }
       ]
     }

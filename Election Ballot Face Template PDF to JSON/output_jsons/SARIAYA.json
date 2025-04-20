@@ -987,7 +987,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "SUAREZ, DAVID JAY JAY",
           "party": "LAKAS"
         }
@@ -1002,7 +1002,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, DOKTORA HELEN",
           "party": "STAN Q"
         }
@@ -1017,17 +1017,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, THIRD",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ALPAJORA, ARMINGOL",
           "party": "KBL"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "CAPINA, TEODORICO",
           "party": "IND"
         }
@@ -1042,17 +1042,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, VNET",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "LIWANAG, YNA",
           "party": "STAN Q"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "TAN, DOC KIM",
           "party": "STAN Q"
         }
@@ -1067,14 +1067,14 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "TOLENTINO, ALEX",
-          "party": "NPC"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "GAYETA, MARIVIC",
           "party": "LAKAS"
+        },
+        {
+          "number": "2",
+          "name": "TOLENTINO, ALEX",
+          "party": "NPC"
         }
       ]
     },
@@ -1087,12 +1087,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "GENOVE, ARLENE",
           "party": "STAN \nQ"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MAGHIRANG, DEMIA",
           "party": "LAKAS"
         }
@@ -1107,94 +1107,94 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ABRIL, APPLE",
           "party": "NPC"
         },
         {
-          "number": 2,
-          "name": "DE LA ROCA, JUN",
-          "party": "NPC"
-        },
-        {
-          "number": 3,
-          "name": "MARCUAP, RENZ",
-          "party": "LAKAS"
-        },
-        {
-          "number": 4,
-          "name": "QUIMINIANO, DAISY",
-          "party": "NPC"
-        },
-        {
-          "number": 5,
+          "number": "2",
           "name": "ALCALA, VINCE",
           "party": "STAN Q"
         },
         {
-          "number": 6,
-          "name": "DECENA, RYAN",
-          "party": "LAKAS"
-        },
-        {
-          "number": 7,
-          "name": "MAYUGA, JEFF",
-          "party": "IND"
-        },
-        {
-          "number": 8,
-          "name": "RANCES, AL",
-          "party": "LAKAS"
-        },
-        {
-          "number": 9,
+          "number": "3",
           "name": "CAMBEL, JOEL",
           "party": "LAKAS"
         },
         {
-          "number": 10,
-          "name": "DIO, ROSALINO III",
-          "party": "IND"
-        },
-        {
-          "number": 11,
-          "name": "REMO, MINERVA",
-          "party": "LAKAS"
-        },
-        {
-          "number": 12,
-          "name": "EGAMINO, OGO",
-          "party": "IND"
-        },
-        {
-          "number": 13,
-          "name": "MEDRANO, VILMA",
-          "party": "LAKAS"
-        },
-        {
-          "number": 14,
-          "name": "OBNASCA, KULOT",
-          "party": "LAKAS"
-        },
-        {
-          "number": 15,
-          "name": "PEREZ, PANY",
-          "party": "IND"
-        },
-        {
-          "number": 16,
+          "number": "4",
           "name": "CARINGAL, HAYDEE",
           "party": "NPC"
         },
         {
-          "number": 17,
+          "number": "5",
           "name": "DE LA PEÑA, TEODY",
           "party": "LAKAS"
         },
         {
-          "number": 18,
+          "number": "6",
+          "name": "DE LA ROCA, JUN",
+          "party": "NPC"
+        },
+        {
+          "number": "7",
+          "name": "DECENA, RYAN",
+          "party": "LAKAS"
+        },
+        {
+          "number": "8",
+          "name": "DIO, ROSALINO III",
+          "party": "IND"
+        },
+        {
+          "number": "9",
+          "name": "EGAMINO, OGO",
+          "party": "IND"
+        },
+        {
+          "number": "10",
           "name": "GENOVE, KUYA ARVIN",
           "party": "STAN Q"
+        },
+        {
+          "number": "11",
+          "name": "MARCUAP, RENZ",
+          "party": "LAKAS"
+        },
+        {
+          "number": "12",
+          "name": "MAYUGA, JEFF",
+          "party": "IND"
+        },
+        {
+          "number": "13",
+          "name": "MEDRANO, VILMA",
+          "party": "LAKAS"
+        },
+        {
+          "number": "14",
+          "name": "OBNASCA, KULOT",
+          "party": "LAKAS"
+        },
+        {
+          "number": "15",
+          "name": "PEREZ, PANY",
+          "party": "IND"
+        },
+        {
+          "number": "16",
+          "name": "QUIMINIANO, DAISY",
+          "party": "NPC"
+        },
+        {
+          "number": "17",
+          "name": "RANCES, AL",
+          "party": "LAKAS"
+        },
+        {
+          "number": "18",
+          "name": "REMO, MINERVA",
+          "party": "LAKAS"
         }
       ]
     }

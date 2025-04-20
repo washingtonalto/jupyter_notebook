@@ -989,22 +989,22 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ARCE, MA-MAU",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ENAGE, JAY",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "FAVIS, DONN",
           "party": "NUP"
         },
         {
-          "number": 4,
+          "number": "4",
           "name": "QUIMBO, MIRO",
           "party": "LAKAS"
         }
@@ -1019,14 +1019,14 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "TEODORO, MAAN",
-          "party": "NUP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "QUIMBO, STELLA",
           "party": "LAKAS"
+        },
+        {
+          "number": "2",
+          "name": "TEODORO, MAAN",
+          "party": "NUP"
         }
       ]
     },
@@ -1039,19 +1039,19 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "RETES, ANNIE",
-          "party": "IND"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "ANDRES, DOC MARION",
           "party": "NUP"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "DE GUZMAN, DEL",
           "party": "LAKAS"
+        },
+        {
+          "number": "3",
+          "name": "RETES, ANNIE",
+          "party": "IND"
         }
       ]
     },
@@ -1064,163 +1064,163 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "HAVERIA, RAM",
-          "party": "IND"
-        },
-        {
-          "number": 2,
-          "name": "NUÑEZ, ANGEL",
-          "party": "NUP"
-        },
-        {
-          "number": 3,
-          "name": "JISON, JIMSEN",
-          "party": "IND"
-        },
-        {
-          "number": 4,
-          "name": "MADRIGAL, BENY",
-          "party": "IND"
-        },
-        {
-          "number": 5,
+          "number": "1",
           "name": "ACUÑA, KAMBAL  RONNIE",
           "party": "LAKAS"
         },
         {
-          "number": 6,
+          "number": "2",
           "name": "ANCHETA, KAP. ZIF",
           "party": "LAKAS"
         },
         {
-          "number": 7,
+          "number": "3",
           "name": "CALANOGA, COP",
           "party": "LAKAS"
         },
         {
-          "number": 8,
-          "name": "ORDOÑEZ, KUYA JEP",
-          "party": "IND"
-        },
-        {
-          "number": 9,
-          "name": "PUNZALAN, LARRY",
-          "party": "NUP"
-        },
-        {
-          "number": 10,
-          "name": "SERENATA, PATRICIA",
-          "party": "IND"
-        },
-        {
-          "number": 11,
-          "name": "SHAHIN MOGHADDAM, NICO",
-          "party": "IND"
-        },
-        {
-          "number": 12,
-          "name": "TEOPE, KAP. RIZA",
-          "party": "LAKAS"
-        },
-        {
-          "number": 13,
+          "number": "4",
           "name": "DAYAO, MARIFE",
           "party": "NUP"
         },
         {
-          "number": 14,
-          "name": "RETES, JENILYN",
-          "party": "IND"
-        },
-        {
-          "number": 15,
-          "name": "TEVES, GREG",
-          "party": "IND"
-        },
-        {
-          "number": 16,
+          "number": "5",
           "name": "DE GUZMAN, MIGZ",
           "party": "LAKAS"
         },
         {
-          "number": 17,
-          "name": "REYES, BOGS RUBEN",
-          "party": "NUP"
-        },
-        {
-          "number": 18,
+          "number": "6",
           "name": "EDULLAN, YURI",
           "party": "LAKAS"
         },
         {
-          "number": 19,
-          "name": "ROMERO, SUSAN",
-          "party": "IND"
-        },
-        {
-          "number": 20,
-          "name": "MADRIGAL, MARVIS",
-          "party": "IND"
-        },
-        {
-          "number": 21,
-          "name": "MAGTUBO, BONG",
-          "party": "LAKAS"
-        },
-        {
-          "number": 22,
-          "name": "MAKIRAMDAM, LETLET",
-          "party": "NUP"
-        },
-        {
-          "number": 23,
+          "number": "7",
           "name": "FELICIANO, JAREN",
           "party": "NUP"
         },
         {
-          "number": 24,
-          "name": "MIRA, RENE",
-          "party": "MKBYN"
-        },
-        {
-          "number": 25,
-          "name": "ROSALES, DINDO",
-          "party": "IND"
-        },
-        {
-          "number": 26,
-          "name": "TOLENTINO, COACH  ELVIS",
-          "party": "NUP"
-        },
-        {
-          "number": 27,
-          "name": "VALENTIN, INDIGO",
-          "party": "LAKAS"
-        },
-        {
-          "number": 28,
-          "name": "VILLANUEVA, GEORGE",
-          "party": "IND"
-        },
-        {
-          "number": 29,
+          "number": "8",
           "name": "GILLERA, ED",
           "party": "IND"
         },
         {
-          "number": 30,
-          "name": "VITANGCOL, CRIS",
+          "number": "9",
+          "name": "HAVERIA, RAM",
           "party": "IND"
         },
         {
-          "number": 31,
+          "number": "10",
+          "name": "JISON, JIMSEN",
+          "party": "IND"
+        },
+        {
+          "number": "11",
+          "name": "MADRIGAL, BENY",
+          "party": "IND"
+        },
+        {
+          "number": "12",
+          "name": "MADRIGAL, MARVIS",
+          "party": "IND"
+        },
+        {
+          "number": "13",
+          "name": "MAGTUBO, BONG",
+          "party": "LAKAS"
+        },
+        {
+          "number": "14",
+          "name": "MAKIRAMDAM, LETLET",
+          "party": "NUP"
+        },
+        {
+          "number": "15",
+          "name": "MIRA, RENE",
+          "party": "MKBYN"
+        },
+        {
+          "number": "16",
           "name": "MOJICA, BURGER  MICHAEL",
           "party": "NUP"
         },
         {
-          "number": 32,
+          "number": "17",
+          "name": "NUÑEZ, ANGEL",
+          "party": "NUP"
+        },
+        {
+          "number": "18",
+          "name": "ORDOÑEZ, KUYA JEP",
+          "party": "IND"
+        },
+        {
+          "number": "19",
+          "name": "PUNZALAN, LARRY",
+          "party": "NUP"
+        },
+        {
+          "number": "20",
+          "name": "RETES, JENILYN",
+          "party": "IND"
+        },
+        {
+          "number": "21",
+          "name": "REYES, BOGS RUBEN",
+          "party": "NUP"
+        },
+        {
+          "number": "22",
+          "name": "ROMERO, SUSAN",
+          "party": "IND"
+        },
+        {
+          "number": "23",
+          "name": "ROSALES, DINDO",
+          "party": "IND"
+        },
+        {
+          "number": "24",
           "name": "SANDIEGO, JOSEPHINE",
+          "party": "IND"
+        },
+        {
+          "number": "25",
+          "name": "SERENATA, PATRICIA",
+          "party": "IND"
+        },
+        {
+          "number": "26",
+          "name": "SHAHIN MOGHADDAM, NICO",
+          "party": "IND"
+        },
+        {
+          "number": "27",
+          "name": "TEOPE, KAP. RIZA",
+          "party": "LAKAS"
+        },
+        {
+          "number": "28",
+          "name": "TEVES, GREG",
+          "party": "IND"
+        },
+        {
+          "number": "29",
+          "name": "TOLENTINO, COACH  ELVIS",
+          "party": "NUP"
+        },
+        {
+          "number": "30",
+          "name": "VALENTIN, INDIGO",
+          "party": "LAKAS"
+        },
+        {
+          "number": "31",
+          "name": "VILLANUEVA, GEORGE",
+          "party": "IND"
+        },
+        {
+          "number": "32",
+          "name": "VITANGCOL, CRIS",
           "party": "IND"
         }
       ]

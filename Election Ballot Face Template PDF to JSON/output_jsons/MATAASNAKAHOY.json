@@ -990,19 +990,19 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BURGOS, NESTOR",
           "party": "IND"
         },
         {
-          "number": 2,
-          "name": "LEVISTE, MARK",
-          "party": "IND"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "COLLANTES, ATTY. KING",
           "party": "NPC"
+        },
+        {
+          "number": "3",
+          "name": "LEVISTE, MARK",
+          "party": "IND"
         }
       ]
     },
@@ -1015,22 +1015,22 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "RIVERA, MIKE",
-          "party": "LP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "ILAGAN, JAY MANALO",
           "party": "PROMDI"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "OZAETA, KUYAKAP  WALTER",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "3",
+          "name": "RIVERA, MIKE",
+          "party": "LP"
+        },
+        {
+          "number": "4",
           "name": "SANTOS-RECTO, VILMA",
           "party": "NP"
         }
@@ -1045,17 +1045,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "DOLOR, RYANH",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MANDANAS, DODO",
           "party": "PDPLBN"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "MANZANO, LUIS LUCKY",
           "party": "NP"
         }
@@ -1070,17 +1070,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BALBA, RUDY",
           "party": "NP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "CORONA, FRED",
           "party": "NP"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "MACALINTAL, DENNIS",
           "party": "PFP"
         }
@@ -1095,12 +1095,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "GARDIOLA-SILVA,  ELLERY",
           "party": "NP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ILAGAN, JANET",
           "party": "PROMDI"
         }
@@ -1115,17 +1115,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "DIMAANO, GLENN",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "GARDIOLA, ENGR. EAREL",
           "party": "NP"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "VILLALOBOS, DOC MARK",
           "party": "PROMDI"
         }
@@ -1140,119 +1140,119 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ACERIMO, LILETH",
           "party": "NP"
         },
         {
-          "number": 2,
-          "name": "LAQUI, ROMY",
-          "party": "PROMDI"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "ANGULO, LOVETEA",
           "party": "IND"
         },
         {
-          "number": 4,
-          "name": "CALINISAN, WILLY",
-          "party": "PROMDI"
-        },
-        {
-          "number": 5,
-          "name": "DEL MUNDO, WAWENG",
-          "party": "PROMDI"
-        },
-        {
-          "number": 6,
+          "number": "3",
           "name": "BATHAN, TONY",
           "party": "NP"
         },
         {
-          "number": 7,
-          "name": "DIMAANO, PUTO",
-          "party": "NP"
-        },
-        {
-          "number": 8,
-          "name": "LUCERO, MELVEN",
-          "party": "PROMDI"
-        },
-        {
-          "number": 9,
-          "name": "MAGPANTAY, RICKY",
-          "party": "IND"
-        },
-        {
-          "number": 10,
-          "name": "REYES, ANDOY",
-          "party": "PROMDI"
-        },
-        {
-          "number": 11,
-          "name": "SANDOVAL, GERICO",
-          "party": "NP"
-        },
-        {
-          "number": 12,
-          "name": "SILVA, ATTY. JULIE ANN",
-          "party": "NP"
-        },
-        {
-          "number": 13,
-          "name": "OBTIAL, ALBERTO",
-          "party": "IND"
-        },
-        {
-          "number": 14,
-          "name": "SUBOL, NIÑO",
-          "party": "IND"
-        },
-        {
-          "number": 15,
-          "name": "DIMACULANGAN, KAP.  ANTE",
-          "party": "NP"
-        },
-        {
-          "number": 16,
-          "name": "LANDICHO, TITA JEN",
-          "party": "NP"
-        },
-        {
-          "number": 17,
-          "name": "OBTIAL, LEANDER  BOYD",
-          "party": "PROMDI"
-        },
-        {
-          "number": 18,
-          "name": "VERGARA, AGA",
-          "party": "PROMDI"
-        },
-        {
-          "number": 19,
-          "name": "LAQUI, KAREN",
-          "party": "IND"
-        },
-        {
-          "number": 20,
-          "name": "PALO, WELZ",
-          "party": "IND"
-        },
-        {
-          "number": 21,
+          "number": "4",
           "name": "BENEDICTO, BRO. ARNEL",
           "party": "NP"
         },
         {
-          "number": 22,
+          "number": "5",
           "name": "BENEDICTO, THEO",
           "party": "PROMDI"
         },
         {
-          "number": 23,
+          "number": "6",
           "name": "BIASBAS, PASTOR GERRY",
           "party": "IND"
+        },
+        {
+          "number": "7",
+          "name": "CALINISAN, WILLY",
+          "party": "PROMDI"
+        },
+        {
+          "number": "8",
+          "name": "DEL MUNDO, WAWENG",
+          "party": "PROMDI"
+        },
+        {
+          "number": "9",
+          "name": "DIMAANO, PUTO",
+          "party": "NP"
+        },
+        {
+          "number": "10",
+          "name": "DIMACULANGAN, KAP.  ANTE",
+          "party": "NP"
+        },
+        {
+          "number": "11",
+          "name": "LANDICHO, TITA JEN",
+          "party": "NP"
+        },
+        {
+          "number": "12",
+          "name": "LAQUI, KAREN",
+          "party": "IND"
+        },
+        {
+          "number": "13",
+          "name": "LAQUI, ROMY",
+          "party": "PROMDI"
+        },
+        {
+          "number": "14",
+          "name": "LUCERO, MELVEN",
+          "party": "PROMDI"
+        },
+        {
+          "number": "15",
+          "name": "MAGPANTAY, RICKY",
+          "party": "IND"
+        },
+        {
+          "number": "16",
+          "name": "OBTIAL, ALBERTO",
+          "party": "IND"
+        },
+        {
+          "number": "17",
+          "name": "OBTIAL, LEANDER  BOYD",
+          "party": "PROMDI"
+        },
+        {
+          "number": "18",
+          "name": "PALO, WELZ",
+          "party": "IND"
+        },
+        {
+          "number": "19",
+          "name": "REYES, ANDOY",
+          "party": "PROMDI"
+        },
+        {
+          "number": "20",
+          "name": "SANDOVAL, GERICO",
+          "party": "NP"
+        },
+        {
+          "number": "21",
+          "name": "SILVA, ATTY. JULIE ANN",
+          "party": "NP"
+        },
+        {
+          "number": "22",
+          "name": "SUBOL, NIÑO",
+          "party": "IND"
+        },
+        {
+          "number": "23",
+          "name": "VERGARA, AGA",
+          "party": "PROMDI"
         }
       ]
     }

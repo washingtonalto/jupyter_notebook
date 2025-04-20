@@ -988,7 +988,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ENVERGA, MARK",
           "party": "NPC"
         }
@@ -1003,7 +1003,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, DOKTORA HELEN",
           "party": "STAN Q"
         }
@@ -1018,17 +1018,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, THIRD",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ALPAJORA, ARMINGOL",
           "party": "KBL"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "CAPINA, TEODORICO",
           "party": "IND"
         }
@@ -1043,32 +1043,32 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "LUCES, JULIUS",
-          "party": "STAN Q"
-        },
-        {
-          "number": 2,
-          "name": "OBISPO, ALONA",
-          "party": "PFP"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "ALCALA, CHRISTIAN  PAUL",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "2",
           "name": "GARCIA, NATHALIE",
           "party": "KBL"
         },
         {
-          "number": 5,
+          "number": "3",
+          "name": "LUCES, JULIUS",
+          "party": "STAN Q"
+        },
+        {
+          "number": "4",
           "name": "NANTES, SAM",
           "party": "LAKAS"
         },
         {
-          "number": 6,
+          "number": "5",
+          "name": "OBISPO, ALONA",
+          "party": "PFP"
+        },
+        {
+          "number": "6",
           "name": "SARONA, GEN. ELMO  RINGO",
           "party": "NPC"
         }
@@ -1083,12 +1083,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "DATOR, OLI",
           "party": "AKAY"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "VILLAVERDE, TENTEN",
           "party": "STAN Q"
         }
@@ -1103,17 +1103,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ABCEDE, KAKA",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "BUCTIL, ENRIQUE",
           "party": "AKAY"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "VILLASEÑOR, AVIN",
           "party": "LP"
         }
@@ -1128,109 +1128,109 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ABILLAR, PECTO",
           "party": "AKAY"
         },
         {
-          "number": 2,
-          "name": "BORINES, MIKE",
-          "party": "LP"
-        },
-        {
-          "number": 3,
-          "name": "LIM, PIO JR",
-          "party": "AKAY"
-        },
-        {
-          "number": 4,
-          "name": "RACOMA, ARNEL",
-          "party": "IND"
-        },
-        {
-          "number": 5,
+          "number": "2",
           "name": "ABUSTAN, LADO",
           "party": "AKAY"
         },
         {
-          "number": 6,
-          "name": "RADA, AVEN",
-          "party": "STAN Q"
-        },
-        {
-          "number": 7,
+          "number": "3",
           "name": "ABUYAN, CHOC",
           "party": "NP"
         },
         {
-          "number": 8,
-          "name": "CABAWATAN, ERNESTO",
-          "party": "AKAY"
-        },
-        {
-          "number": 9,
-          "name": "DATOR, ACEL MAYORA",
-          "party": "AKAY"
-        },
-        {
-          "number": 10,
-          "name": "SANCHEZ, KUYA  KARDO",
-          "party": "IND"
-        },
-        {
-          "number": 11,
-          "name": "DEVEZA, NIKKI",
-          "party": "STAN Q"
-        },
-        {
-          "number": 12,
-          "name": "MARTINEZ, KAP  FREDDIE",
-          "party": "STAN Q"
-        },
-        {
-          "number": 13,
-          "name": "NAÑEZ, CHRISCAT",
-          "party": "AKAY"
-        },
-        {
-          "number": 14,
-          "name": "PAVINO, CHARMIE",
-          "party": "STAN Q"
-        },
-        {
-          "number": 15,
-          "name": "PERMALINO, BOYET",
-          "party": "LP"
-        },
-        {
-          "number": 16,
+          "number": "4",
           "name": "AGUILAR, ATE DORA",
           "party": "AKAY"
         },
         {
-          "number": 17,
+          "number": "5",
           "name": "ALAMO, EDUARDO",
           "party": "STAN Q"
         },
         {
-          "number": 18,
-          "name": "HALILI, DOKTORA GJ",
-          "party": "STAN Q"
-        },
-        {
-          "number": 19,
+          "number": "6",
           "name": "BAZAR, MIGS",
           "party": "LAKAS"
         },
         {
-          "number": 20,
+          "number": "7",
+          "name": "BORINES, MIKE",
+          "party": "LP"
+        },
+        {
+          "number": "8",
+          "name": "CABAWATAN, ERNESTO",
+          "party": "AKAY"
+        },
+        {
+          "number": "9",
+          "name": "DATOR, ACEL MAYORA",
+          "party": "AKAY"
+        },
+        {
+          "number": "10",
+          "name": "DEVEZA, NIKKI",
+          "party": "STAN Q"
+        },
+        {
+          "number": "11",
+          "name": "HALILI, DOKTORA GJ",
+          "party": "STAN Q"
+        },
+        {
+          "number": "12",
           "name": "HARI, MARIFE",
           "party": "STAN Q"
         },
         {
-          "number": 21,
+          "number": "13",
+          "name": "LIM, PIO JR",
+          "party": "AKAY"
+        },
+        {
+          "number": "14",
+          "name": "MARTINEZ, KAP  FREDDIE",
+          "party": "STAN Q"
+        },
+        {
+          "number": "15",
+          "name": "NAÑEZ, CHRISCAT",
+          "party": "AKAY"
+        },
+        {
+          "number": "16",
+          "name": "PAVINO, CHARMIE",
+          "party": "STAN Q"
+        },
+        {
+          "number": "17",
+          "name": "PERMALINO, BOYET",
+          "party": "LP"
+        },
+        {
+          "number": "18",
           "name": "POLICENA, DJ  CHRISTSUPER",
           "party": "AKAY"
+        },
+        {
+          "number": "19",
+          "name": "RACOMA, ARNEL",
+          "party": "IND"
+        },
+        {
+          "number": "20",
+          "name": "RADA, AVEN",
+          "party": "STAN Q"
+        },
+        {
+          "number": "21",
+          "name": "SANCHEZ, KUYA  KARDO",
+          "party": "IND"
         }
       ]
     }

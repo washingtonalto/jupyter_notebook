@@ -988,12 +988,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "MENDIOLA, BOY",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "TANJUATCO, DINO",
           "party": "NPC"
         }
@@ -1008,22 +1008,22 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ACOL, GLENN",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "PEREZ, RONALD",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "VELASCO, JOSE",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "4",
           "name": "YNARES, NINA",
           "party": "NPC"
         }
@@ -1038,28 +1038,28 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BADAJOS, IMEE",
           "party": "PDSP"
         },
         {
-          "number": 2,
-          "name": "MANUEL, REYNALDO",
-          "party": "IND"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "BAUTISTA, KUYA JOJO",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "3",
           "name": "GATLABAYAN, PINING",
           "party": "NPC"
         },
         {
-          "number": 5,
+          "number": "4",
           "name": "GUILLERGAN, GHERRY",
+          "party": "IND"
+        },
+        {
+          "number": "5",
+          "name": "MANUEL, REYNALDO",
           "party": "IND"
         }
       ]
@@ -1073,24 +1073,24 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "SAN JUAN, JUNREY",
-          "party": "PFP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "AGUELO, EVAN DARYLL",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "BERNADOS, BOBOY",
           "party": "NPC"
         },
         {
-          "number": 4,
+          "number": "3",
           "name": "GIMENEZ, TURO ARTURO",
           "party": "IND"
+        },
+        {
+          "number": "4",
+          "name": "SAN JUAN, JUNREY",
+          "party": "PFP"
         }
       ]
     },
@@ -1103,14 +1103,14 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "TANJUATCO, RM",
-          "party": "NPC"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "INOFRE, CARLOS JR.",
           "party": "PFP"
+        },
+        {
+          "number": "2",
+          "name": "TANJUATCO, RM",
+          "party": "NPC"
         }
       ]
     },
@@ -1123,17 +1123,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BERDAN, JULITO",
           "party": "PFP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ESTRELLA, RUEL",
           "party": "KBL"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "SACRAMENTO, ALLAN",
           "party": "NPC"
         }
@@ -1148,114 +1148,114 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BAQUIRAN, ATO",
           "party": "KBL"
         },
         {
-          "number": 2,
-          "name": "GUERRERO, ARON",
-          "party": "NPC"
-        },
-        {
-          "number": 3,
-          "name": "PITORAL, GEL",
-          "party": "NPC"
-        },
-        {
-          "number": 4,
-          "name": "TONGOHAN, PILO",
-          "party": "PFP"
-        },
-        {
-          "number": 5,
+          "number": "2",
           "name": "BERDAN, GINA",
           "party": "IND"
         },
         {
-          "number": 6,
-          "name": "HOSSEINI, RYAN",
-          "party": "KBL"
-        },
-        {
-          "number": 7,
-          "name": "LACSINA, MAOK",
-          "party": "KBL"
-        },
-        {
-          "number": 8,
+          "number": "3",
           "name": "CATAMEO, HAROLD",
           "party": "KBL"
         },
         {
-          "number": 9,
-          "name": "REYES, RAFFYKAMALIG",
-          "party": "KBL"
-        },
-        {
-          "number": 10,
-          "name": "SANTOS, ENCHONG",
-          "party": "PFP"
-        },
-        {
-          "number": 11,
-          "name": "VERGEL DE DIOS, ITCHIE",
-          "party": "NPC"
-        },
-        {
-          "number": 12,
-          "name": "VICENTE, ANGELICA  JOVELLE",
-          "party": "PFP"
-        },
-        {
-          "number": 13,
+          "number": "4",
           "name": "CATOLOS, ROGER",
           "party": "NPC"
         },
         {
-          "number": 14,
-          "name": "SOLANO, OMEX",
-          "party": "KBL"
-        },
-        {
-          "number": 15,
-          "name": "VISTA, ARVIN",
-          "party": "IND"
-        },
-        {
-          "number": 16,
-          "name": "MAGWILI, RAMBULLS",
-          "party": "NPC"
-        },
-        {
-          "number": 17,
+          "number": "5",
           "name": "DE GUZMAN, LALA",
           "party": "NPC"
         },
         {
-          "number": 18,
-          "name": "OCAMPO, BONG",
-          "party": "NPC"
-        },
-        {
-          "number": 19,
-          "name": "TIBURCIO, AMELIA",
-          "party": "IND"
-        },
-        {
-          "number": 20,
+          "number": "6",
           "name": "GASTON, IVER",
           "party": "KBL"
         },
         {
-          "number": 21,
+          "number": "7",
+          "name": "GUERRERO, ARON",
+          "party": "NPC"
+        },
+        {
+          "number": "8",
+          "name": "HOSSEINI, RYAN",
+          "party": "KBL"
+        },
+        {
+          "number": "9",
+          "name": "LACSINA, MAOK",
+          "party": "KBL"
+        },
+        {
+          "number": "10",
+          "name": "MAGWILI, RAMBULLS",
+          "party": "NPC"
+        },
+        {
+          "number": "11",
+          "name": "OCAMPO, BONG",
+          "party": "NPC"
+        },
+        {
+          "number": "12",
           "name": "PELAEZ, ORLY",
           "party": "KBL"
         },
         {
-          "number": 22,
+          "number": "13",
+          "name": "PITORAL, GEL",
+          "party": "NPC"
+        },
+        {
+          "number": "14",
+          "name": "REYES, RAFFYKAMALIG",
+          "party": "KBL"
+        },
+        {
+          "number": "15",
+          "name": "SANTOS, ENCHONG",
+          "party": "PFP"
+        },
+        {
+          "number": "16",
+          "name": "SOLANO, OMEX",
+          "party": "KBL"
+        },
+        {
+          "number": "17",
+          "name": "TIBURCIO, AMELIA",
+          "party": "IND"
+        },
+        {
+          "number": "18",
           "name": "TICA, DR JOY",
           "party": "NPC"
+        },
+        {
+          "number": "19",
+          "name": "TONGOHAN, PILO",
+          "party": "PFP"
+        },
+        {
+          "number": "20",
+          "name": "VERGEL DE DIOS, ITCHIE",
+          "party": "NPC"
+        },
+        {
+          "number": "21",
+          "name": "VICENTE, ANGELICA  JOVELLE",
+          "party": "PFP"
+        },
+        {
+          "number": "22",
+          "name": "VISTA, ARVIN",
+          "party": "IND"
         }
       ]
     }

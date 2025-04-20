@@ -989,17 +989,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ABUTIN, WALLY",
           "party": "WPP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "REMULLA, PING",
           "party": "NUP"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "SANTOS, MICHAEL  ANGELO",
           "party": "IND"
         }
@@ -1014,24 +1014,24 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
+          "name": "AGUINALDO, WENG",
+          "party": "IND"
+        },
+        {
+          "number": "2",
           "name": "BER ADO, GB",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "3",
           "name": "PERA, AUGUSTO JR.",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "4",
           "name": "REMULLA, ABENG",
           "party": "NUP"
-        },
-        {
-          "number": 4,
-          "name": "AGUINALDO, WENG",
-          "party": "IND"
         }
       ]
     },
@@ -1044,7 +1044,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BAUTISTA, RAM REVILLA",
           "party": "LAKAS"
         }
@@ -1059,24 +1059,24 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AMBION, VER",
           "party": "UNIDO"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ANACAN, ALDRIN",
           "party": "NUP"
         },
         {
-          "number": 3,
-          "name": "SUNGA, ALFREDO",
-          "party": "IND"
-        },
-        {
-          "number": 4,
+          "number": "3",
           "name": "DEL ROSARIO, CAMILLE",
           "party": "AKSYON"
+        },
+        {
+          "number": "4",
+          "name": "SUNGA, ALFREDO",
+          "party": "IND"
         }
       ]
     },
@@ -1089,14 +1089,14 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "DOMINGO, JOJO",
-          "party": "IND"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "DIONISIO, REDEL JOHN",
           "party": "NUP"
+        },
+        {
+          "number": "2",
+          "name": "DOMINGO, JOJO",
+          "party": "IND"
         }
       ]
     },
@@ -1109,7 +1109,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "LEGASPI, JOSEPH",
           "party": "NUP"
         }
@@ -1124,49 +1124,49 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "CAUSAREN, RYAN",
-          "party": "NUP"
-        },
-        {
-          "number": 2,
-          "name": "GARCIA, CHARLIE",
-          "party": "NUP"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "BAWALAN, MARLON",
           "party": "NUP"
         },
         {
-          "number": 4,
+          "number": "2",
           "name": "BAWAR, JERIC",
           "party": "NUP"
         },
         {
-          "number": 5,
-          "name": "CORTEZ, JADE",
-          "party": "NUP"
-        },
-        {
-          "number": 6,
-          "name": "IYAYA, JOEL",
-          "party": "NUP"
-        },
-        {
-          "number": 7,
+          "number": "3",
           "name": "BORJA, REAGAN",
           "party": "NUP"
         },
         {
-          "number": 8,
-          "name": "QUILLAO, WARREN",
-          "party": "IND"
+          "number": "4",
+          "name": "CAUSAREN, RYAN",
+          "party": "NUP"
         },
         {
-          "number": 9,
+          "number": "5",
+          "name": "CORTEZ, JADE",
+          "party": "NUP"
+        },
+        {
+          "number": "6",
           "name": "COSING, MICHELLE  ANNE",
           "party": "NUP"
+        },
+        {
+          "number": "7",
+          "name": "GARCIA, CHARLIE",
+          "party": "NUP"
+        },
+        {
+          "number": "8",
+          "name": "IYAYA, JOEL",
+          "party": "NUP"
+        },
+        {
+          "number": "9",
+          "name": "QUILLAO, WARREN",
+          "party": "IND"
         }
       ]
     }

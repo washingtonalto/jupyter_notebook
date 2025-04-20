@@ -990,17 +990,17 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "MANILA, NOE",
-          "party": "IND"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "BOCOBO, JORGE DANIEL",
           "party": "NP"
         },
         {
-          "number": 3,
+          "number": "2",
+          "name": "MANILA, NOE",
+          "party": "IND"
+        },
+        {
+          "number": "3",
           "name": "ZAMORA, PAMMY",
           "party": "LAKAS"
         }
@@ -1015,19 +1015,19 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
+          "name": "CAYETANO, ATE LANI",
+          "party": "NP"
+        },
+        {
+          "number": "2",
           "name": "CERAFICA, ARNEL",
           "party": "PFP"
         },
         {
-          "number": 2,
+          "number": "3",
           "name": "LICUDINE, BRIGIDO",
           "party": "IND"
-        },
-        {
-          "number": 3,
-          "name": "CAYETANO, ATE LANI",
-          "party": "NP"
         }
       ]
     },
@@ -1040,17 +1040,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALIT, ARVIN IAN",
           "party": "NP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "CERAFICA, JANELLE",
           "party": "PFP"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "TANGLAO, NELLY",
           "party": "IND"
         }
@@ -1065,188 +1065,188 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ABATAY, BENNY",
           "party": "PFP"
         },
         {
-          "number": 2,
-          "name": "CABRERA, PAOLO",
-          "party": "IND"
-        },
-        {
-          "number": 3,
-          "name": "ERCILLO, ARMAN",
-          "party": "PFP"
-        },
-        {
-          "number": 4,
-          "name": "SERNA, JOMIL",
-          "party": "NP"
-        },
-        {
-          "number": 5,
-          "name": "FLORES, ARTHUR",
-          "party": "PFP"
-        },
-        {
-          "number": 6,
-          "name": "SUPAN, NICKY",
-          "party": "NP"
-        },
-        {
-          "number": 7,
-          "name": "CALVADORES, LANI",
-          "party": "PFP"
-        },
-        {
-          "number": 8,
-          "name": "CAPURCOS, SID",
-          "party": "IND"
-        },
-        {
-          "number": 9,
-          "name": "TAN, JERRY",
-          "party": "PLM"
-        },
-        {
-          "number": 10,
+          "number": "2",
           "name": "ACEPCION, NOGNOG",
           "party": "PFP"
         },
         {
-          "number": 11,
+          "number": "3",
           "name": "ADVINCULA, KUYASEC",
           "party": "PFP"
         },
         {
-          "number": 12,
-          "name": "MAGALLANO,  PERLISITA",
-          "party": "IND"
-        },
-        {
-          "number": 13,
+          "number": "4",
           "name": "AGGALUT, RAM",
           "party": "IND"
         },
         {
-          "number": 14,
-          "name": "CASTRO, DANNY",
-          "party": "NP"
-        },
-        {
-          "number": 15,
-          "name": "PAU-TIN, GEN",
-          "party": "NP"
-        },
-        {
-          "number": 16,
-          "name": "TIBIO, CALEB",
-          "party": "IND"
-        },
-        {
-          "number": 17,
-          "name": "CLAVO, ARTHUR",
-          "party": "IND"
-        },
-        {
-          "number": 18,
-          "name": "PENOLIO, ALEX",
-          "party": "NP"
-        },
-        {
-          "number": 19,
-          "name": "VALDEZ, ATTY GARY  LESTER",
-          "party": "PFP"
-        },
-        {
-          "number": 20,
-          "name": "DARIA, SONNY",
-          "party": "IND"
-        },
-        {
-          "number": 21,
-          "name": "POOTEN, BASILIO",
-          "party": "PFP"
-        },
-        {
-          "number": 22,
-          "name": "VILLAMOR, BING",
-          "party": "NP"
-        },
-        {
-          "number": 23,
-          "name": "DE ASIS, COSME",
-          "party": "IND"
-        },
-        {
-          "number": 24,
-          "name": "PRADO, ED",
-          "party": "NP"
-        },
-        {
-          "number": 25,
+          "number": "5",
           "name": "ANUNCIACION,  ABRAHAM",
           "party": "IND"
         },
         {
-          "number": 26,
+          "number": "6",
           "name": "BALINA-ERON, MARISSE",
           "party": "NP"
         },
         {
-          "number": 27,
+          "number": "7",
           "name": "BANDEJAS, LOT DILLA",
           "party": "PFP"
         },
         {
-          "number": 28,
-          "name": "ZAMORA, SALVADOR III",
-          "party": "IND"
-        },
-        {
-          "number": 29,
+          "number": "8",
           "name": "BAPTISTA, EDGAR",
           "party": "NP"
         },
         {
-          "number": 30,
-          "name": "DE LARA-BES, IONY",
-          "party": "NP"
-        },
-        {
-          "number": 31,
-          "name": "RIVERA, JUN",
-          "party": "PFP"
-        },
-        {
-          "number": 32,
+          "number": "9",
           "name": "BERMAS, GIGI",
           "party": "NP"
         },
         {
-          "number": 33,
-          "name": "SACAY, GLENN",
-          "party": "PFP"
-        },
-        {
-          "number": 34,
-          "name": "DEMAFILES, CUPID",
-          "party": "IND"
-        },
-        {
-          "number": 35,
+          "number": "10",
           "name": "BOMBASE, ANGIE",
           "party": "PFP"
         },
         {
-          "number": 36,
+          "number": "11",
+          "name": "CABRERA, PAOLO",
+          "party": "IND"
+        },
+        {
+          "number": "12",
+          "name": "CALVADORES, LANI",
+          "party": "PFP"
+        },
+        {
+          "number": "13",
+          "name": "CAPURCOS, SID",
+          "party": "IND"
+        },
+        {
+          "number": "14",
+          "name": "CASTRO, DANNY",
+          "party": "NP"
+        },
+        {
+          "number": "15",
+          "name": "CLAVO, ARTHUR",
+          "party": "IND"
+        },
+        {
+          "number": "16",
+          "name": "DARIA, SONNY",
+          "party": "IND"
+        },
+        {
+          "number": "17",
+          "name": "DE ASIS, COSME",
+          "party": "IND"
+        },
+        {
+          "number": "18",
+          "name": "DE LARA-BES, IONY",
+          "party": "NP"
+        },
+        {
+          "number": "19",
+          "name": "DEMAFILES, CUPID",
+          "party": "IND"
+        },
+        {
+          "number": "20",
           "name": "DIZON, IVIE",
           "party": "NP"
         },
         {
-          "number": 37,
+          "number": "21",
+          "name": "ERCILLO, ARMAN",
+          "party": "PFP"
+        },
+        {
+          "number": "22",
+          "name": "FLORES, ARTHUR",
+          "party": "PFP"
+        },
+        {
+          "number": "23",
+          "name": "MAGALLANO,  PERLISITA",
+          "party": "IND"
+        },
+        {
+          "number": "24",
+          "name": "PAU-TIN, GEN",
+          "party": "NP"
+        },
+        {
+          "number": "25",
+          "name": "PENOLIO, ALEX",
+          "party": "NP"
+        },
+        {
+          "number": "26",
+          "name": "POOTEN, BASILIO",
+          "party": "PFP"
+        },
+        {
+          "number": "27",
+          "name": "PRADO, ED",
+          "party": "NP"
+        },
+        {
+          "number": "28",
+          "name": "RIVERA, JUN",
+          "party": "PFP"
+        },
+        {
+          "number": "29",
+          "name": "SACAY, GLENN",
+          "party": "PFP"
+        },
+        {
+          "number": "30",
           "name": "SAN PEDRO, DUDONG",
+          "party": "IND"
+        },
+        {
+          "number": "31",
+          "name": "SERNA, JOMIL",
+          "party": "NP"
+        },
+        {
+          "number": "32",
+          "name": "SUPAN, NICKY",
+          "party": "NP"
+        },
+        {
+          "number": "33",
+          "name": "TAN, JERRY",
+          "party": "PLM"
+        },
+        {
+          "number": "34",
+          "name": "TIBIO, CALEB",
+          "party": "IND"
+        },
+        {
+          "number": "35",
+          "name": "VALDEZ, ATTY GARY  LESTER",
+          "party": "PFP"
+        },
+        {
+          "number": "36",
+          "name": "VILLAMOR, BING",
+          "party": "NP"
+        },
+        {
+          "number": "37",
+          "name": "ZAMORA, SALVADOR III",
           "party": "IND"
         }
       ]

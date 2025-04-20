@@ -989,7 +989,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "FERRER, ANTONIO",
           "party": "NUP"
         }
@@ -1004,24 +1004,24 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
+          "name": "AGUINALDO, WENG",
+          "party": "IND"
+        },
+        {
+          "number": "2",
           "name": "BER ADO, GB",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "3",
           "name": "PERA, AUGUSTO JR.",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "4",
           "name": "REMULLA, ABENG",
           "party": "NUP"
-        },
-        {
-          "number": 4,
-          "name": "AGUINALDO, WENG",
-          "party": "IND"
         }
       ]
     },
@@ -1034,7 +1034,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BAUTISTA, RAM REVILLA",
           "party": "LAKAS"
         }
@@ -1049,12 +1049,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "SALAZAR, KERBY",
           "party": "NUP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "SISON, MORIT",
           "party": "NUP"
         }
@@ -1069,7 +1069,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "FERRER, LUIS IV",
           "party": "NUP"
         }
@@ -1084,7 +1084,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "LABUGUEN, JONAS",
           "party": "NUP"
         }
@@ -1099,108 +1099,108 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ARGOTA, SIR JACK",
           "party": "IND"
         },
         {
-          "number": 2,
-          "name": "FERRER, MARTIN",
-          "party": "NUP"
-        },
-        {
-          "number": 3,
-          "name": "PERDITO, ATTY.  KRISTINE",
-          "party": "NUP"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "BABAR, PRINCE",
           "party": "IND"
         },
         {
-          "number": 5,
-          "name": "PRUDENTE, JOEL",
-          "party": "NUP"
-        },
-        {
-          "number": 6,
-          "name": "SALAZAR, KYLE",
-          "party": "NUP"
-        },
-        {
-          "number": 7,
+          "number": "3",
           "name": "CAMPAÑA-MORAL,  CLAIRE",
           "party": "NUP"
         },
         {
-          "number": 8,
-          "name": "MALICDEM, BENNY",
-          "party": "IND"
-        },
-        {
-          "number": 9,
-          "name": "MARTINEZ, DONDON",
-          "party": "WPP"
-        },
-        {
-          "number": 10,
-          "name": "NEPOMUCENO, EMON",
-          "party": "WPP"
-        },
-        {
-          "number": 11,
+          "number": "4",
           "name": "CHING, ALFREDO",
           "party": "NUP"
         },
         {
-          "number": 12,
-          "name": "NICOLAS, EDWIN",
-          "party": "WPP"
-        },
-        {
-          "number": 13,
-          "name": "FORTUNO, DOC TIN",
-          "party": "NUP"
-        },
-        {
-          "number": 14,
-          "name": "GAPUZ, CHRISTOPHER",
-          "party": "IND"
-        },
-        {
-          "number": 15,
-          "name": "GREPO, ATTY. JESSEBOY",
-          "party": "NUP"
-        },
-        {
-          "number": 16,
+          "number": "5",
           "name": "COLUMNA, JAY",
           "party": "NUP"
         },
         {
-          "number": 17,
+          "number": "6",
+          "name": "CULANDING, MAJOR  GANI",
+          "party": "NUP"
+        },
+        {
+          "number": "7",
+          "name": "FERRER, MARTIN",
+          "party": "NUP"
+        },
+        {
+          "number": "8",
+          "name": "FORTUNO, DOC TIN",
+          "party": "NUP"
+        },
+        {
+          "number": "9",
+          "name": "GAPUZ, CHRISTOPHER",
+          "party": "IND"
+        },
+        {
+          "number": "10",
+          "name": "GREPO, ATTY. JESSEBOY",
+          "party": "NUP"
+        },
+        {
+          "number": "11",
           "name": "GREPO, GARY",
           "party": "NUP"
         },
         {
-          "number": 18,
-          "name": "PANGANIBAN,  VIRGIMIN",
-          "party": "IND"
-        },
-        {
-          "number": 19,
+          "number": "12",
           "name": "MAGAPAN, BONG",
           "party": "IND"
         },
         {
-          "number": 20,
+          "number": "13",
+          "name": "MALICDEM, BENNY",
+          "party": "IND"
+        },
+        {
+          "number": "14",
+          "name": "MARTINEZ, DONDON",
+          "party": "WPP"
+        },
+        {
+          "number": "15",
+          "name": "NEPOMUCENO, EMON",
+          "party": "WPP"
+        },
+        {
+          "number": "16",
+          "name": "NICOLAS, EDWIN",
+          "party": "WPP"
+        },
+        {
+          "number": "17",
+          "name": "PANGANIBAN,  VIRGIMIN",
+          "party": "IND"
+        },
+        {
+          "number": "18",
           "name": "PARIN, RICHARD",
           "party": "NUP"
         },
         {
-          "number": 21,
-          "name": "CULANDING, MAJOR  GANI",
+          "number": "19",
+          "name": "PERDITO, ATTY.  KRISTINE",
+          "party": "NUP"
+        },
+        {
+          "number": "20",
+          "name": "PRUDENTE, JOEL",
+          "party": "NUP"
+        },
+        {
+          "number": "21",
+          "name": "SALAZAR, KYLE",
           "party": "NUP"
         }
       ]

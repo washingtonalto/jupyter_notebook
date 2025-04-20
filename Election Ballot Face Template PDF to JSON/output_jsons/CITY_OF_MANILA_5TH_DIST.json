@@ -989,14 +989,14 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "TIENG, IRWIN",
-          "party": "LAKAS"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "BAGATSING, AMADO",
           "party": "AKSYON"
+        },
+        {
+          "number": "2",
+          "name": "TIENG, IRWIN",
+          "party": "LAKAS"
         }
       ]
     },
@@ -1009,59 +1009,59 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "KARINGAL, ALVIN",
-          "party": "IND"
-        },
-        {
-          "number": 2,
-          "name": "REYES, ENRICO",
-          "party": "IND"
-        },
-        {
-          "number": 3,
-          "name": "TAN, ERVIN",
-          "party": "IND"
-        },
-        {
-          "number": 4,
-          "name": "VERZOSA, SAM SV",
-          "party": "IND"
-        },
-        {
-          "number": 5,
+          "number": "1",
           "name": "BAGATSING, RAYMOND",
           "party": "IND"
         },
         {
-          "number": 6,
+          "number": "2",
           "name": "DOMAGOSO, ISKO  MORENO",
           "party": "AKSYON"
         },
         {
-          "number": 7,
-          "name": "LACUNA, HONEY",
-          "party": "ASENSO"
-        },
-        {
-          "number": 8,
+          "number": "3",
           "name": "GARCIA, JERRY",
           "party": "IND"
         },
         {
-          "number": 9,
+          "number": "4",
+          "name": "KARINGAL, ALVIN",
+          "party": "IND"
+        },
+        {
+          "number": "5",
+          "name": "LACUNA, HONEY",
+          "party": "ASENSO"
+        },
+        {
+          "number": "6",
           "name": "OCAMPO, JOPOY",
           "party": "IND"
         },
         {
-          "number": 10,
+          "number": "7",
+          "name": "REYES, ENRICO",
+          "party": "IND"
+        },
+        {
+          "number": "8",
           "name": "SAY, MICHAEL DAD NG  BAYAN",
           "party": "ID"
         },
         {
-          "number": 11,
+          "number": "9",
           "name": "TAMONDONG, MAHRA",
           "party": "KBL"
+        },
+        {
+          "number": "10",
+          "name": "TAN, ERVIN",
+          "party": "IND"
+        },
+        {
+          "number": "11",
+          "name": "VERZOSA, SAM SV",
+          "party": "IND"
         }
       ]
     },
@@ -1074,39 +1074,39 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ATIENZA, CHI",
           "party": "AKSYON"
         },
         {
-          "number": 2,
-          "name": "OYALES, REMY",
-          "party": "KBL"
-        },
-        {
-          "number": 3,
-          "name": "SAY, SOLOMON",
-          "party": "ID"
-        },
-        {
-          "number": 4,
-          "name": "REYES, ARVIN",
-          "party": "IND"
-        },
-        {
-          "number": 5,
+          "number": "2",
           "name": "MAGNO, NIÑO  ANTHONY",
           "party": "IND"
         },
         {
-          "number": 6,
+          "number": "3",
           "name": "NIETO, YUL SERVO",
           "party": "ASENSO"
         },
         {
-          "number": 7,
+          "number": "4",
           "name": "OCAMPO, PABLO CHIKEE",
           "party": "PFP"
+        },
+        {
+          "number": "5",
+          "name": "OYALES, REMY",
+          "party": "KBL"
+        },
+        {
+          "number": "6",
+          "name": "REYES, ARVIN",
+          "party": "IND"
+        },
+        {
+          "number": "7",
+          "name": "SAY, SOLOMON",
+          "party": "ID"
         }
       ]
     },
@@ -1119,159 +1119,159 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "LUARCA, ANJUN",
-          "party": "IND"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "BORROMEO, CHE",
           "party": "AKSYON"
         },
         {
-          "number": 3,
-          "name": "TAMONDONG, ATTY  SONIA",
-          "party": "IND"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "BUNAYOG, INJIM",
           "party": "IND"
         },
         {
-          "number": 5,
-          "name": "MAGNO, JETT",
-          "party": "KBL"
-        },
-        {
-          "number": 6,
-          "name": "TOBILLO, FELIX JR.",
-          "party": "IND"
-        },
-        {
-          "number": 7,
-          "name": "ESPIRITU, BOBBY",
-          "party": "AKSYON"
-        },
-        {
-          "number": 8,
-          "name": "HIZON, ATTY JAYBEE",
-          "party": "AKSYON"
-        },
-        {
-          "number": 9,
-          "name": "HUECAS, HARRY",
-          "party": "KBL"
-        },
-        {
-          "number": 10,
-          "name": "OCAMPO, DREW",
-          "party": "IND"
-        },
-        {
-          "number": 11,
+          "number": "3",
           "name": "CAGASCA, ATTY. RUBEE",
           "party": "IND"
         },
         {
-          "number": 12,
+          "number": "4",
           "name": "DAKIS, ARIEL",
           "party": "IND"
         },
         {
-          "number": 13,
-          "name": "OCSAN, MALOU",
-          "party": "PFP"
-        },
-        {
-          "number": 14,
-          "name": "IGNACIO, TOL MAC",
-          "party": "AKSYON"
-        },
-        {
-          "number": 15,
+          "number": "5",
           "name": "DAYAO, DIANA",
           "party": "IND"
         },
         {
-          "number": 16,
-          "name": "ISIP, BEL",
-          "party": "ASENSO"
-        },
-        {
-          "number": 17,
-          "name": "OLARTE, SHAUN",
-          "party": "IND"
-        },
-        {
-          "number": 18,
-          "name": "TUGNAO, STRAUSS",
-          "party": "KBL"
-        },
-        {
-          "number": 19,
-          "name": "VALBUENA, RODERICK",
-          "party": "IND"
-        },
-        {
-          "number": 20,
-          "name": "VILLANUEVA, JOHN  CYRUZ",
-          "party": "IND"
-        },
-        {
-          "number": 21,
-          "name": "KUIZON, JONA",
-          "party": "IND"
-        },
-        {
-          "number": 22,
-          "name": "VILLAR, GLADINA",
-          "party": "PFP"
-        },
-        {
-          "number": 23,
+          "number": "6",
           "name": "DINGLASA, VINCENT",
           "party": "IND"
         },
         {
-          "number": 24,
-          "name": "ORTEGA, CHARRY",
-          "party": "ASENSO"
-        },
-        {
-          "number": 25,
+          "number": "7",
           "name": "EJERCITO, PAU",
           "party": "PFP"
         },
         {
-          "number": 26,
-          "name": "POLIGRATIS, JUN",
-          "party": "IND"
-        },
-        {
-          "number": 27,
-          "name": "YUPANGCO, MON",
-          "party": "AKSYON"
-        },
-        {
-          "number": 28,
+          "number": "8",
           "name": "ENRIQUEZ, GLORIA",
           "party": "PFP"
         },
         {
-          "number": 29,
-          "name": "REMEGIO, RUT",
+          "number": "9",
+          "name": "ESPIRITU, BOBBY",
+          "party": "AKSYON"
+        },
+        {
+          "number": "10",
+          "name": "HIZON, ATTY JAYBEE",
+          "party": "AKSYON"
+        },
+        {
+          "number": "11",
+          "name": "HUECAS, HARRY",
+          "party": "KBL"
+        },
+        {
+          "number": "12",
+          "name": "IGNACIO, TOL MAC",
+          "party": "AKSYON"
+        },
+        {
+          "number": "13",
+          "name": "ISIP, BEL",
+          "party": "ASENSO"
+        },
+        {
+          "number": "14",
+          "name": "KUIZON, JONA",
           "party": "IND"
         },
         {
-          "number": 30,
+          "number": "15",
           "name": "LAO, ZEB LAUREANO",
           "party": "AKSYON"
         },
         {
-          "number": 31,
+          "number": "16",
           "name": "LIMIT, WENIFREDO",
           "party": "IND"
+        },
+        {
+          "number": "17",
+          "name": "LUARCA, ANJUN",
+          "party": "IND"
+        },
+        {
+          "number": "18",
+          "name": "MAGNO, JETT",
+          "party": "KBL"
+        },
+        {
+          "number": "19",
+          "name": "OCAMPO, DREW",
+          "party": "IND"
+        },
+        {
+          "number": "20",
+          "name": "OCSAN, MALOU",
+          "party": "PFP"
+        },
+        {
+          "number": "21",
+          "name": "OLARTE, SHAUN",
+          "party": "IND"
+        },
+        {
+          "number": "22",
+          "name": "ORTEGA, CHARRY",
+          "party": "ASENSO"
+        },
+        {
+          "number": "23",
+          "name": "POLIGRATIS, JUN",
+          "party": "IND"
+        },
+        {
+          "number": "24",
+          "name": "REMEGIO, RUT",
+          "party": "IND"
+        },
+        {
+          "number": "25",
+          "name": "TAMONDONG, ATTY  SONIA",
+          "party": "IND"
+        },
+        {
+          "number": "26",
+          "name": "TOBILLO, FELIX JR.",
+          "party": "IND"
+        },
+        {
+          "number": "27",
+          "name": "TUGNAO, STRAUSS",
+          "party": "KBL"
+        },
+        {
+          "number": "28",
+          "name": "VALBUENA, RODERICK",
+          "party": "IND"
+        },
+        {
+          "number": "29",
+          "name": "VILLANUEVA, JOHN  CYRUZ",
+          "party": "IND"
+        },
+        {
+          "number": "30",
+          "name": "VILLAR, GLADINA",
+          "party": "PFP"
+        },
+        {
+          "number": "31",
+          "name": "YUPANGCO, MON",
+          "party": "AKSYON"
         }
       ]
     }

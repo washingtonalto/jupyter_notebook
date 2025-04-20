@@ -989,7 +989,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ENVERGA, MARK",
           "party": "NPC"
         }
@@ -1004,7 +1004,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, DOKTORA HELEN",
           "party": "STAN Q"
         }
@@ -1019,17 +1019,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, THIRD",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ALPAJORA, ARMINGOL",
           "party": "KBL"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "CAPINA, TEODORICO",
           "party": "IND"
         }
@@ -1044,32 +1044,32 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "LUCES, JULIUS",
-          "party": "STAN Q"
-        },
-        {
-          "number": 2,
-          "name": "OBISPO, ALONA",
-          "party": "PFP"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "ALCALA, CHRISTIAN  PAUL",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "2",
           "name": "GARCIA, NATHALIE",
           "party": "KBL"
         },
         {
-          "number": 5,
+          "number": "3",
+          "name": "LUCES, JULIUS",
+          "party": "STAN Q"
+        },
+        {
+          "number": "4",
           "name": "NANTES, SAM",
           "party": "LAKAS"
         },
         {
-          "number": 6,
+          "number": "5",
+          "name": "OBISPO, ALONA",
+          "party": "PFP"
+        },
+        {
+          "number": "6",
           "name": "SARONA, GEN. ELMO  RINGO",
           "party": "NPC"
         }
@@ -1084,22 +1084,22 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AQUINO, ADMIN RAINIER",
           "party": "NP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "BALGEMINO, NIMROD",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "DIESTRO, DOYLE JOEL",
           "party": "PRP"
         },
         {
-          "number": 4,
+          "number": "4",
           "name": "MACASAET, JULIE ANN",
           "party": "NPC"
         }
@@ -1114,12 +1114,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "DIESTRO, PEMPEM",
           "party": "PRP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "DIESTRO-AQUINO, BING",
           "party": "NP"
         }
@@ -1134,108 +1134,108 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALMONTE, SETH",
           "party": "NP"
         },
         {
-          "number": 2,
-          "name": "BUAN, AILEEN",
-          "party": "NP"
-        },
-        {
-          "number": 3,
-          "name": "EUGENIO, ENRIQUE",
-          "party": "NPC"
-        },
-        {
-          "number": 4,
-          "name": "GACAYAN, RONIE",
-          "party": "NPC"
-        },
-        {
-          "number": 5,
+          "number": "2",
           "name": "ASIS-POBLETE, JENRA",
           "party": "NP"
         },
         {
-          "number": 6,
-          "name": "CADUNGOG, DIONESIO",
-          "party": "IND"
-        },
-        {
-          "number": 7,
+          "number": "3",
           "name": "ATENDIDO, KAYZIE",
           "party": "NPC"
         },
         {
-          "number": 8,
-          "name": "CALLEJA, LEA",
-          "party": "NPC"
-        },
-        {
-          "number": 9,
-          "name": "ISIDRO, RONALD",
-          "party": "IND"
-        },
-        {
-          "number": 10,
-          "name": "PEÑAMANTE, AMELIE",
-          "party": "NP"
-        },
-        {
-          "number": 11,
-          "name": "POBLETE, SAMUEL",
-          "party": "PRP"
-        },
-        {
-          "number": 12,
-          "name": "SOLLESTRE, MEI-ANN",
-          "party": "NP"
-        },
-        {
-          "number": 13,
-          "name": "CASTRO, DARIUS",
-          "party": "NPC"
-        },
-        {
-          "number": 14,
-          "name": "MARTINEZ, LITO",
-          "party": "IND"
-        },
-        {
-          "number": 15,
-          "name": "MORFE, RAFFY",
-          "party": "PRP"
-        },
-        {
-          "number": 16,
-          "name": "DIESTRO-DOMINGO,  ADIE",
-          "party": "PRP"
-        },
-        {
-          "number": 17,
-          "name": "ESCAMA, MARIEL",
-          "party": "PRP"
-        },
-        {
-          "number": 18,
-          "name": "ORQUIA, ERICSON",
-          "party": "PRP"
-        },
-        {
-          "number": 19,
+          "number": "4",
           "name": "AUMENTADO, LADY  DIANNE",
           "party": "IND"
         },
         {
-          "number": 20,
+          "number": "5",
           "name": "AVANICA, MICHELLE",
           "party": "NPC"
         },
         {
-          "number": 21,
+          "number": "6",
           "name": "AZCARRAGA, NOIME",
+          "party": "NP"
+        },
+        {
+          "number": "7",
+          "name": "BUAN, AILEEN",
+          "party": "NP"
+        },
+        {
+          "number": "8",
+          "name": "CADUNGOG, DIONESIO",
+          "party": "IND"
+        },
+        {
+          "number": "9",
+          "name": "CALLEJA, LEA",
+          "party": "NPC"
+        },
+        {
+          "number": "10",
+          "name": "CASTRO, DARIUS",
+          "party": "NPC"
+        },
+        {
+          "number": "11",
+          "name": "DIESTRO-DOMINGO,  ADIE",
+          "party": "PRP"
+        },
+        {
+          "number": "12",
+          "name": "ESCAMA, MARIEL",
+          "party": "PRP"
+        },
+        {
+          "number": "13",
+          "name": "EUGENIO, ENRIQUE",
+          "party": "NPC"
+        },
+        {
+          "number": "14",
+          "name": "GACAYAN, RONIE",
+          "party": "NPC"
+        },
+        {
+          "number": "15",
+          "name": "ISIDRO, RONALD",
+          "party": "IND"
+        },
+        {
+          "number": "16",
+          "name": "MARTINEZ, LITO",
+          "party": "IND"
+        },
+        {
+          "number": "17",
+          "name": "MORFE, RAFFY",
+          "party": "PRP"
+        },
+        {
+          "number": "18",
+          "name": "ORQUIA, ERICSON",
+          "party": "PRP"
+        },
+        {
+          "number": "19",
+          "name": "PEÑAMANTE, AMELIE",
+          "party": "NP"
+        },
+        {
+          "number": "20",
+          "name": "POBLETE, SAMUEL",
+          "party": "PRP"
+        },
+        {
+          "number": "21",
+          "name": "SOLLESTRE, MEI-ANN",
           "party": "NP"
         }
       ]

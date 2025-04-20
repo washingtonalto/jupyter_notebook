@@ -991,12 +991,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "IBAÑEZ, COACH TONY",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "TIANGCO, TOBY",
           "party": "NVTEÑO"
         }
@@ -1011,7 +1011,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TIANGCO, JOHN REY",
           "party": "NVTEÑO"
         }
@@ -1026,7 +1026,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "SANCHEZ, KAP TITO",
           "party": "NVTEÑO"
         }
@@ -1041,42 +1041,42 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "LUPISAN, LIZ",
-          "party": "NVTEÑO"
-        },
-        {
-          "number": 2,
-          "name": "SANTOS, CJ",
-          "party": "NVTEÑO"
-        },
-        {
-          "number": 3,
-          "name": "GINO-GINO, ABU",
-          "party": "NVTEÑO"
-        },
-        {
-          "number": 4,
-          "name": "IBONG, LIDA",
-          "party": "IND"
-        },
-        {
-          "number": 5,
-          "name": "NAVAL, MIGI",
-          "party": "NVTEÑO"
-        },
-        {
-          "number": 6,
+          "number": "1",
           "name": "CARLOS, RICHARD",
           "party": "PDPLBN"
         },
         {
-          "number": 7,
+          "number": "2",
           "name": "GERONIMO, CLINT",
           "party": "NVTEÑO"
         },
         {
-          "number": 8,
+          "number": "3",
+          "name": "GINO-GINO, ABU",
+          "party": "NVTEÑO"
+        },
+        {
+          "number": "4",
+          "name": "IBONG, LIDA",
+          "party": "IND"
+        },
+        {
+          "number": "5",
+          "name": "LUPISAN, LIZ",
+          "party": "NVTEÑO"
+        },
+        {
+          "number": "6",
+          "name": "NAVAL, MIGI",
+          "party": "NVTEÑO"
+        },
+        {
+          "number": "7",
+          "name": "SANTOS, CJ",
+          "party": "NVTEÑO"
+        },
+        {
+          "number": "8",
           "name": "VICENCIO, ROCHELLE",
           "party": "NVTEÑO"
         }

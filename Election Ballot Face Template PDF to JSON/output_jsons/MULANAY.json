@@ -988,12 +988,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ARROGANCIA,  REYNANTE",
           "party": "NPC"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "FLORIDO, MATT WITH  AHEART",
           "party": "IND"
         }
@@ -1008,7 +1008,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, DOKTORA HELEN",
           "party": "STAN Q"
         }
@@ -1023,17 +1023,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, THIRD",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ALPAJORA, ARMINGOL",
           "party": "KBL"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "CAPINA, TEODORICO",
           "party": "IND"
         }
@@ -1048,29 +1048,29 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "REYES, TINTIN",
-          "party": "AKSYON"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "AQUIVIDO, NARS JJ",
           "party": "STAN Q"
         },
         {
-          "number": 3,
-          "name": "ESGUERRA, MEG",
-          "party": "STAN \nQ"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "DIAZ, CONRADO",
           "party": "PFP"
         },
         {
-          "number": 5,
+          "number": "3",
+          "name": "ESGUERRA, MEG",
+          "party": "STAN \nQ"
+        },
+        {
+          "number": "4",
           "name": "GONZALES, BIETO",
           "party": "IND"
+        },
+        {
+          "number": "5",
+          "name": "REYES, TINTIN",
+          "party": "AKSYON"
         }
       ]
     },
@@ -1083,17 +1083,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AGUIRRE, ARIS",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "OJEDA, TITO",
           "party": "LAKAS"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "OLVEDA, TITO",
           "party": "IND"
         }
@@ -1108,12 +1108,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ACAR, ELIZABETH",
           "party": "LAKAS"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "CASTILLEJA, JAY",
           "party": "STAN \nQ"
         }
@@ -1128,109 +1128,109 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "ROMULO, JAY",
-          "party": "IND"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "AGUIRRE-ADAO, TINAN",
           "party": "STAN Q"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "AMISOLA, GELO",
           "party": "STAN \nQ"
         },
         {
-          "number": 4,
+          "number": "3",
           "name": "BARONIA, ANDY",
           "party": "STAN \nQ"
         },
         {
-          "number": 5,
-          "name": "MORALES, ALEX",
-          "party": "STAN \nQ"
-        },
-        {
-          "number": 6,
-          "name": "PARAS, JHON ROMUEL",
-          "party": "IND"
-        },
-        {
-          "number": 7,
-          "name": "RECTO, KAP. RECTO",
-          "party": "STAN Q"
-        },
-        {
-          "number": 8,
-          "name": "SARAPAT, VICKY",
-          "party": "STAN \nQ"
-        },
-        {
-          "number": 9,
-          "name": "SEBUC, EDGARDO",
-          "party": "LAKAS"
-        },
-        {
-          "number": 10,
+          "number": "4",
           "name": "BUELA, GRACE",
           "party": "PDPLBN"
         },
         {
-          "number": 11,
-          "name": "REJANO, SIANO",
-          "party": "LAKAS"
-        },
-        {
-          "number": 12,
-          "name": "RIEGO, RANDY",
-          "party": "LAKAS"
-        },
-        {
-          "number": 13,
+          "number": "5",
           "name": "CABANGON, GEARLAND",
           "party": "LAKAS"
         },
         {
-          "number": 14,
-          "name": "DE LUNA, EMMAN",
-          "party": "LAKAS"
-        },
-        {
-          "number": 15,
-          "name": "DE VILLA, JUNJUN",
-          "party": "LAKAS"
-        },
-        {
-          "number": 16,
-          "name": "DECENA, ARNOLD",
-          "party": "LAKAS"
-        },
-        {
-          "number": 17,
-          "name": "DELA CRUZ, TANA",
-          "party": "LAKAS"
-        },
-        {
-          "number": 18,
-          "name": "JAQUECA, SIR TEKS",
-          "party": "IND"
-        },
-        {
-          "number": 19,
+          "number": "6",
           "name": "CASTILLEJA, JESS",
           "party": "IND"
         },
         {
-          "number": 20,
+          "number": "7",
+          "name": "DE LUNA, EMMAN",
+          "party": "LAKAS"
+        },
+        {
+          "number": "8",
+          "name": "DE VILLA, JUNJUN",
+          "party": "LAKAS"
+        },
+        {
+          "number": "9",
+          "name": "DECENA, ARNOLD",
+          "party": "LAKAS"
+        },
+        {
+          "number": "10",
+          "name": "DELA CRUZ, TANA",
+          "party": "LAKAS"
+        },
+        {
+          "number": "11",
+          "name": "JAQUECA, SIR TEKS",
+          "party": "IND"
+        },
+        {
+          "number": "12",
           "name": "LORZANO, JINNY",
           "party": "IND"
         },
         {
-          "number": 21,
+          "number": "13",
+          "name": "MORALES, ALEX",
+          "party": "STAN \nQ"
+        },
+        {
+          "number": "14",
+          "name": "PARAS, JHON ROMUEL",
+          "party": "IND"
+        },
+        {
+          "number": "15",
+          "name": "RECTO, KAP. RECTO",
+          "party": "STAN Q"
+        },
+        {
+          "number": "16",
+          "name": "REJANO, SIANO",
+          "party": "LAKAS"
+        },
+        {
+          "number": "17",
+          "name": "RIEGO, RANDY",
+          "party": "LAKAS"
+        },
+        {
+          "number": "18",
           "name": "ROGEL, POGI",
           "party": "STAN Q"
+        },
+        {
+          "number": "19",
+          "name": "ROMULO, JAY",
+          "party": "IND"
+        },
+        {
+          "number": "20",
+          "name": "SARAPAT, VICKY",
+          "party": "STAN \nQ"
+        },
+        {
+          "number": "21",
+          "name": "SEBUC, EDGARDO",
+          "party": "LAKAS"
         }
       ]
     }

@@ -988,17 +988,17 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "PAR, ALLAN",
-          "party": "IND"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "BENCITO, IRENE",
           "party": "AKSYON"
         },
         {
-          "number": 3,
+          "number": "2",
+          "name": "PAR, ALLAN",
+          "party": "IND"
+        },
+        {
+          "number": "3",
           "name": "TOLENTINO, CONG  ANIELA",
           "party": "NUP"
         }
@@ -1013,24 +1013,24 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
+          "name": "AGUINALDO, WENG",
+          "party": "IND"
+        },
+        {
+          "number": "2",
           "name": "BER ADO, GB",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "3",
           "name": "PERA, AUGUSTO JR.",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "4",
           "name": "REMULLA, ABENG",
           "party": "NUP"
-        },
-        {
-          "number": 4,
-          "name": "AGUINALDO, WENG",
-          "party": "IND"
         }
       ]
     },
@@ -1043,7 +1043,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BAUTISTA, RAM REVILLA",
           "party": "LAKAS"
         }
@@ -1058,19 +1058,19 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AMBION, MOK",
           "party": "NUP"
         },
         {
-          "number": 2,
-          "name": "NAZARENO, AIMEE",
-          "party": "NUP"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "MALIGAYA, JASMIN",
           "party": "NPC"
+        },
+        {
+          "number": "3",
+          "name": "NAZARENO, AIMEE",
+          "party": "NUP"
         }
       ]
     },
@@ -1083,12 +1083,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ARCA, UMBE",
           "party": "NPC"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "RILLO, REY",
           "party": "NUP"
         }
@@ -1103,17 +1103,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ANGELES, ALDOUS",
           "party": "NUP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "GULAPA, REAGAN",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "ILAGAN, BERNIE",
           "party": "NPC"
         }
@@ -1128,114 +1128,114 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ANGELES, ALAN",
           "party": "IND"
         },
         {
-          "number": 2,
-          "name": "BAGO, SOFRONIO",
-          "party": "NUP"
-        },
-        {
-          "number": 3,
-          "name": "DIÑO, EDECK",
-          "party": "IND"
-        },
-        {
-          "number": 4,
-          "name": "PIEDAD, ELLEN",
-          "party": "NUP"
-        },
-        {
-          "number": 5,
-          "name": "RILLO, BONN",
-          "party": "NPC"
-        },
-        {
-          "number": 6,
+          "number": "2",
           "name": "ANGELES, ANGELITO",
           "party": "NUP"
         },
         {
-          "number": 7,
-          "name": "CASTRONUEVO,  ROGELIO JR.",
-          "party": "NUP"
-        },
-        {
-          "number": 8,
+          "number": "3",
           "name": "ANGELES, PINBOY",
           "party": "NPC"
         },
         {
-          "number": 9,
-          "name": "DE JOYA, LITA",
-          "party": "IND"
-        },
-        {
-          "number": 10,
-          "name": "HERNANDEZ, ESTELITO",
-          "party": "IND"
-        },
-        {
-          "number": 11,
-          "name": "HERNANDEZ, JHIMSON",
-          "party": "NUP"
-        },
-        {
-          "number": 12,
-          "name": "SENA, EHMIL REDEN",
-          "party": "NPC"
-        },
-        {
-          "number": 13,
-          "name": "LABIO, AIKA",
-          "party": "NUP"
-        },
-        {
-          "number": 14,
-          "name": "TAPANG, RONALD",
-          "party": "IND"
-        },
-        {
-          "number": 15,
+          "number": "4",
           "name": "ANGON, REYNALDO",
           "party": "IND"
         },
         {
-          "number": 16,
-          "name": "DEL ROSARIO, ROWELL",
-          "party": "NUP"
-        },
-        {
-          "number": 17,
+          "number": "5",
           "name": "ANGUE, JOEL",
           "party": "NPC"
         },
         {
-          "number": 18,
-          "name": "DIGAL, EMIL",
-          "party": "NPC"
-        },
-        {
-          "number": 19,
-          "name": "MARQUEZ, BOY",
-          "party": "NUP"
-        },
-        {
-          "number": 20,
+          "number": "6",
           "name": "ARCA, MIGUEL",
           "party": "NPC"
         },
         {
-          "number": 21,
+          "number": "7",
+          "name": "BAGO, SOFRONIO",
+          "party": "NUP"
+        },
+        {
+          "number": "8",
+          "name": "CASTRONUEVO,  ROGELIO JR.",
+          "party": "NUP"
+        },
+        {
+          "number": "9",
+          "name": "DE JOYA, LITA",
+          "party": "IND"
+        },
+        {
+          "number": "10",
+          "name": "DEL ROSARIO, ROWELL",
+          "party": "NUP"
+        },
+        {
+          "number": "11",
+          "name": "DIGAL, EMIL",
+          "party": "NPC"
+        },
+        {
+          "number": "12",
           "name": "DIÑO, ALEX",
           "party": "NPC"
         },
         {
-          "number": 22,
+          "number": "13",
+          "name": "DIÑO, EDECK",
+          "party": "IND"
+        },
+        {
+          "number": "14",
+          "name": "HERNANDEZ, ESTELITO",
+          "party": "IND"
+        },
+        {
+          "number": "15",
+          "name": "HERNANDEZ, JHIMSON",
+          "party": "NUP"
+        },
+        {
+          "number": "16",
+          "name": "LABIO, AIKA",
+          "party": "NUP"
+        },
+        {
+          "number": "17",
+          "name": "MARQUEZ, BOY",
+          "party": "NUP"
+        },
+        {
+          "number": "18",
           "name": "PERIO, JOEL",
           "party": "NPC"
+        },
+        {
+          "number": "19",
+          "name": "PIEDAD, ELLEN",
+          "party": "NUP"
+        },
+        {
+          "number": "20",
+          "name": "RILLO, BONN",
+          "party": "NPC"
+        },
+        {
+          "number": "21",
+          "name": "SENA, EHMIL REDEN",
+          "party": "NPC"
+        },
+        {
+          "number": "22",
+          "name": "TAPANG, RONALD",
+          "party": "IND"
         }
       ]
     }

@@ -990,12 +990,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BUHAIN, ERIC",
           "party": "NP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "LEVISTE, LEANDRO  LEGARDA",
           "party": "IND"
         }
@@ -1010,22 +1010,22 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "RIVERA, MIKE",
-          "party": "LP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "ILAGAN, JAY MANALO",
           "party": "PROMDI"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "OZAETA, KUYAKAP  WALTER",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "3",
+          "name": "RIVERA, MIKE",
+          "party": "LP"
+        },
+        {
+          "number": "4",
           "name": "SANTOS-RECTO, VILMA",
           "party": "NP"
         }
@@ -1040,17 +1040,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "DOLOR, RYANH",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MANDANAS, DODO",
           "party": "PDPLBN"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "MANZANO, LUIS LUCKY",
           "party": "NP"
         }
@@ -1065,29 +1065,29 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "APACIBLE, RAYMUND",
           "party": "LDP"
         },
         {
-          "number": 2,
-          "name": "LANDICHO, ROBERTO",
-          "party": "PFP"
-        },
-        {
-          "number": 3,
-          "name": "SANTOS, DOK ROSALES",
-          "party": "NP"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "BAUSAS, ARMIE",
           "party": "NP"
         },
         {
-          "number": 5,
+          "number": "3",
+          "name": "LANDICHO, ROBERTO",
+          "party": "PFP"
+        },
+        {
+          "number": "4",
           "name": "MALINAY, LEO",
           "party": "PROMDI"
+        },
+        {
+          "number": "5",
+          "name": "SANTOS, DOK ROSALES",
+          "party": "NP"
         }
       ]
     },
@@ -1100,14 +1100,14 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "ONA, NAS",
-          "party": "NP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "MACALINDONG,  RENANTE",
           "party": "AKSYON"
+        },
+        {
+          "number": "2",
+          "name": "ONA, NAS",
+          "party": "NP"
         }
       ]
     },
@@ -1120,14 +1120,14 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "MENDOZA, NONIE",
-          "party": "PFP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "KATIGBAK, JERRY  RAPHAEL",
           "party": "NP"
+        },
+        {
+          "number": "2",
+          "name": "MENDOZA, NONIE",
+          "party": "PFP"
         }
       ]
     },
@@ -1140,102 +1140,102 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ASUNCION-OPELANIO,  DIVINE",
           "party": "NP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ATAJAR, ERIC",
           "party": "NP"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "DAJOYAG, EMMA",
           "party": "NP"
         },
         {
-          "number": 4,
-          "name": "REYES, NANTE",
-          "party": "AKSYON"
-        },
-        {
-          "number": 5,
-          "name": "SALAZAR, RHOSALIE",
-          "party": "NP"
-        },
-        {
-          "number": 6,
-          "name": "SALAZAR, ROBERTO",
-          "party": "AKSYON"
-        },
-        {
-          "number": 7,
+          "number": "4",
           "name": "DE JOYA, CEDRIC",
           "party": "NP"
         },
         {
-          "number": 8,
-          "name": "SALE, ROBENSON",
-          "party": "NP"
-        },
-        {
-          "number": 9,
+          "number": "5",
           "name": "ENDOZO-ATIENZA,  LINDZEY",
           "party": "NP"
         },
         {
-          "number": 10,
+          "number": "6",
           "name": "HERNANDEZ, AMANDO",
           "party": "AKSYON"
         },
         {
-          "number": 11,
+          "number": "7",
           "name": "HERNANDEZ, GIMO",
           "party": "AKSYON"
         },
         {
-          "number": 12,
+          "number": "8",
           "name": "MACALALAD, CHITO",
           "party": "AKSYON"
         },
         {
-          "number": 13,
+          "number": "9",
           "name": "MACALINDONG, JAIME",
           "party": "AKSYON"
         },
         {
-          "number": 14,
+          "number": "10",
           "name": "MACATANGAY,  MANDO",
           "party": "AKSYON"
         },
         {
-          "number": 15,
+          "number": "11",
           "name": "MALABANAN, MARVIN",
           "party": "AKSYON"
         },
         {
-          "number": 16,
+          "number": "12",
           "name": "MANALO, JUN",
           "party": "AKSYON"
         },
         {
-          "number": 17,
+          "number": "13",
           "name": "NOCHE, CAESAR RYAN",
           "party": "NP"
         },
         {
-          "number": 18,
+          "number": "14",
           "name": "ONTANGCO, SIR DEO",
           "party": "NP"
         },
         {
-          "number": 19,
+          "number": "15",
           "name": "PASTORAL, ENGR RJ",
           "party": "NP"
         },
         {
-          "number": 20,
+          "number": "16",
+          "name": "REYES, NANTE",
+          "party": "AKSYON"
+        },
+        {
+          "number": "17",
+          "name": "SALAZAR, RHOSALIE",
+          "party": "NP"
+        },
+        {
+          "number": "18",
+          "name": "SALAZAR, ROBERTO",
+          "party": "AKSYON"
+        },
+        {
+          "number": "19",
+          "name": "SALE, ROBENSON",
+          "party": "NP"
+        },
+        {
+          "number": "20",
           "name": "SATIN, LILIBETH",
           "party": "AKSYON"
         }

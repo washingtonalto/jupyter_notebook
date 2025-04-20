@@ -988,7 +988,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "SUAREZ, DAVID JAY JAY",
           "party": "LAKAS"
         }
@@ -1003,7 +1003,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, DOKTORA HELEN",
           "party": "STAN Q"
         }
@@ -1018,17 +1018,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, THIRD",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ALPAJORA, ARMINGOL",
           "party": "KBL"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "CAPINA, TEODORICO",
           "party": "IND"
         }
@@ -1043,17 +1043,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, VNET",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "LIWANAG, YNA",
           "party": "STAN Q"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "TAN, DOC KIM",
           "party": "STAN Q"
         }
@@ -1068,7 +1068,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "MEA, RJM",
           "party": "LAKAS"
         }
@@ -1083,12 +1083,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "RAZON, WILLIAM",
           "party": "PFP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "UMALI, DICK",
           "party": "LAKAS"
         }
@@ -1103,69 +1103,69 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALDOVINO, RAUL",
           "party": "IND"
         },
         {
-          "number": 2,
-          "name": "ESCUETA, MAJA",
-          "party": "LAKAS"
-        },
-        {
-          "number": 3,
-          "name": "MADLANGBAYAN,  CHRIST",
-          "party": "IND"
-        },
-        {
-          "number": 4,
-          "name": "GARCIA, DING",
-          "party": "IND"
-        },
-        {
-          "number": 5,
-          "name": "CASTILLO, MANONG",
-          "party": "LAKAS"
-        },
-        {
-          "number": 6,
-          "name": "CONVENTO, RODERICK",
-          "party": "PFP"
-        },
-        {
-          "number": 7,
-          "name": "DE VILLA, ALVIN",
-          "party": "LAKAS"
-        },
-        {
-          "number": 8,
-          "name": "ILAO, TOM",
-          "party": "LAKAS"
-        },
-        {
-          "number": 9,
+          "number": "2",
           "name": "ATIENZA, JONAS  BRYSON",
           "party": "LAKAS"
         },
         {
-          "number": 10,
+          "number": "3",
           "name": "BALDEO, RECREC  BAUTISTA",
           "party": "LAKAS"
         },
         {
-          "number": 11,
+          "number": "4",
           "name": "BAUTISTA, REX",
           "party": "LAKAS"
         },
         {
-          "number": 12,
+          "number": "5",
+          "name": "CASTILLO, MANONG",
+          "party": "LAKAS"
+        },
+        {
+          "number": "6",
+          "name": "CONVENTO, RODERICK",
+          "party": "PFP"
+        },
+        {
+          "number": "7",
+          "name": "DE VILLA, ALVIN",
+          "party": "LAKAS"
+        },
+        {
+          "number": "8",
           "name": "DELA CRUZ, WARLY",
           "party": "PFP"
         },
         {
-          "number": 13,
+          "number": "9",
+          "name": "ESCUETA, MAJA",
+          "party": "LAKAS"
+        },
+        {
+          "number": "10",
+          "name": "GARCIA, DING",
+          "party": "IND"
+        },
+        {
+          "number": "11",
+          "name": "ILAO, TOM",
+          "party": "LAKAS"
+        },
+        {
+          "number": "12",
           "name": "LOPEZ, EULA",
           "party": "STAN Q"
+        },
+        {
+          "number": "13",
+          "name": "MADLANGBAYAN,  CHRIST",
+          "party": "IND"
         }
       ]
     }

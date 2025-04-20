@@ -989,12 +989,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BAYONA, ONIE",
           "party": "AKSYON"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "CALIXTO, TONY",
           "party": "LAKAS"
         }
@@ -1009,12 +1009,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "CALIXTO-RUBIANO, EMI",
           "party": "PFP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MANGUERRA, WOWEE",
           "party": "AKSYON"
         }
@@ -1029,12 +1029,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "CALIXTO, MARK",
           "party": "LAKAS"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "TOLENTINO,  OKIDOCBONG",
           "party": "IND"
         }
@@ -1049,69 +1049,69 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ARCEO, ALLO-MOTI",
           "party": "PFP"
         },
         {
-          "number": 2,
-          "name": "PANTIA, DANNY",
-          "party": "IND"
-        },
-        {
-          "number": 3,
-          "name": "YABUT, RAMON RY",
-          "party": "LP"
-        },
-        {
-          "number": 4,
-          "name": "DEL ROSARIO, BOYET  YUYU",
-          "party": "TAPAT"
-        },
-        {
-          "number": 5,
-          "name": "JIMENEZ, PAPSY  QUEZON",
-          "party": "IND"
-        },
-        {
-          "number": 6,
-          "name": "RUBIANO, CALIXTO  LUIGI",
-          "party": "TAPAT"
-        },
-        {
-          "number": 7,
-          "name": "MAGAT, KHEN",
-          "party": "PFP"
-        },
-        {
-          "number": 8,
-          "name": "SO, ATE BABY",
-          "party": "AKSYON"
-        },
-        {
-          "number": 9,
-          "name": "VENDIVEL, IAN",
-          "party": "PFP"
-        },
-        {
-          "number": 10,
+          "number": "2",
           "name": "BALIAO, JOVITA",
           "party": "PDPLBN"
         },
         {
-          "number": 11,
+          "number": "3",
           "name": "BONGAT, HECTOR",
           "party": "PDPLBN"
         },
         {
-          "number": 12,
+          "number": "4",
           "name": "CADUCOY, RONELO",
           "party": "IND"
         },
         {
-          "number": 13,
+          "number": "5",
+          "name": "DEL ROSARIO, BOYET  YUYU",
+          "party": "TAPAT"
+        },
+        {
+          "number": "6",
+          "name": "JIMENEZ, PAPSY  QUEZON",
+          "party": "IND"
+        },
+        {
+          "number": "7",
+          "name": "MAGAT, KHEN",
+          "party": "PFP"
+        },
+        {
+          "number": "8",
           "name": "PANALIGAN, ALLAN",
           "party": "PFP"
+        },
+        {
+          "number": "9",
+          "name": "PANTIA, DANNY",
+          "party": "IND"
+        },
+        {
+          "number": "10",
+          "name": "RUBIANO, CALIXTO  LUIGI",
+          "party": "TAPAT"
+        },
+        {
+          "number": "11",
+          "name": "SO, ATE BABY",
+          "party": "AKSYON"
+        },
+        {
+          "number": "12",
+          "name": "VENDIVEL, IAN",
+          "party": "PFP"
+        },
+        {
+          "number": "13",
+          "name": "YABUT, RAMON RY",
+          "party": "LP"
         }
       ]
     }

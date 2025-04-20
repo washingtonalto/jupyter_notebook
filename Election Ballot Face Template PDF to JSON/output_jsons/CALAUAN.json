@@ -991,24 +991,24 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "MAMARIL, OCHA",
-          "party": "IND"
-        },
-        {
-          "number": 2,
-          "name": "MASIRAG, RONNIE",
-          "party": "IND"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "AMANTE, AMBEN",
           "party": "LAKAS"
         },
         {
-          "number": 4,
+          "number": "2",
           "name": "EMPEMANO, EMPELIGHT",
           "party": "RP"
+        },
+        {
+          "number": "3",
+          "name": "MAMARIL, OCHA",
+          "party": "IND"
+        },
+        {
+          "number": "4",
+          "name": "MASIRAG, RONNIE",
+          "party": "IND"
         }
       ]
     },
@@ -1021,38 +1021,38 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AGAPAY, KAREN",
           "party": "PFP"
         },
         {
-          "number": 2,
-          "name": "FERNANDEZ, DAN",
-          "party": "NUP"
-        },
-        {
-          "number": 3,
-          "name": "REYES, CALOY",
-          "party": "IND"
-        },
-        {
-          "number": 4,
-          "name": "TOLENTINO, ALEXANDER",
-          "party": "IND"
-        },
-        {
-          "number": 5,
+          "number": "2",
           "name": "ARAGONES, SOL",
           "party": "AKAY"
         },
         {
-          "number": 6,
+          "number": "3",
+          "name": "FERNANDEZ, DAN",
+          "party": "NUP"
+        },
+        {
+          "number": "4",
           "name": "HERNANDEZ, RUTH",
           "party": "LAKAS"
         },
         {
-          "number": 7,
+          "number": "5",
+          "name": "REYES, CALOY",
+          "party": "IND"
+        },
+        {
+          "number": "6",
           "name": "SAMIA, KOYANG NOLI",
+          "party": "IND"
+        },
+        {
+          "number": "7",
+          "name": "TOLENTINO, ALEXANDER",
           "party": "IND"
         }
       ]
@@ -1066,34 +1066,34 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BUERA, MARY",
           "party": "IND"
         },
         {
-          "number": 2,
-          "name": "RETUERTO, GEM  AMANTE",
-          "party": "NUP"
-        },
-        {
-          "number": 3,
-          "name": "ZUÑIGA, LORENZO",
-          "party": "PFP"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "CARAIT, ATTY. JM",
           "party": "LAKAS"
         },
         {
-          "number": 5,
+          "number": "3",
           "name": "EJERCITO, JORGE JERICO",
           "party": "IND"
         },
         {
-          "number": 6,
+          "number": "4",
           "name": "PEREZ, PEEWEE PLATON",
           "party": "AKAY"
+        },
+        {
+          "number": "5",
+          "name": "RETUERTO, GEM  AMANTE",
+          "party": "NUP"
+        },
+        {
+          "number": "6",
+          "name": "ZUÑIGA, LORENZO",
+          "party": "PFP"
         }
       ]
     },
@@ -1106,32 +1106,32 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "REYES, ELMA",
-          "party": "IND"
-        },
-        {
-          "number": 2,
-          "name": "CARATIHAN, CHARLES",
-          "party": "LAKAS"
-        },
-        {
-          "number": 3,
-          "name": "FLORES, ICEL",
-          "party": "IND"
-        },
-        {
-          "number": 4,
+          "number": "1",
           "name": "ADAJAR, KARLA MONICA",
           "party": "LAKAS"
         },
         {
-          "number": 5,
+          "number": "2",
           "name": "ALARVA, ANGELICA  JONES",
           "party": "PFP"
         },
         {
-          "number": 6,
+          "number": "3",
+          "name": "CARATIHAN, CHARLES",
+          "party": "LAKAS"
+        },
+        {
+          "number": "4",
+          "name": "FLORES, ICEL",
+          "party": "IND"
+        },
+        {
+          "number": "5",
+          "name": "REYES, ELMA",
+          "party": "IND"
+        },
+        {
+          "number": "6",
           "name": "VENZUELA, JUANITA",
           "party": "IND"
         }
@@ -1146,12 +1146,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BERRIS, GEORGE",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "CARATIHAN, SIR OSEL",
           "party": "LAKAS"
         }
@@ -1166,12 +1166,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "SANCHEZ, AMTY",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "SANCHEZ, DONG",
           "party": "LAKAS"
         }
@@ -1186,94 +1186,94 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "CARMONA, JOEL",
-          "party": "IND"
-        },
-        {
-          "number": 2,
-          "name": "HILARIO, JEPOY",
-          "party": "LAKAS"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "ABRIL, PAULO BISCOCHO",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "2",
           "name": "AGONIA, FERMIN",
           "party": "IND"
         },
         {
-          "number": 5,
-          "name": "CELARIO, NESTOR",
-          "party": "IND"
-        },
-        {
-          "number": 6,
-          "name": "KRAFT, ABC KENNETH",
-          "party": "LAKAS"
-        },
-        {
-          "number": 7,
-          "name": "MANALO, LITO",
-          "party": "LAKAS"
-        },
-        {
-          "number": 8,
+          "number": "3",
           "name": "BELANO, ROMMEL",
           "party": "LAKAS"
         },
         {
-          "number": 9,
-          "name": "ROXAS, KONSI KAP  JEPOY",
-          "party": "IND"
-        },
-        {
-          "number": 10,
-          "name": "SANCHEZ, ALLAN",
-          "party": "LAKAS"
-        },
-        {
-          "number": 11,
-          "name": "SANCHEZ, MYMY",
-          "party": "AKSYON"
-        },
-        {
-          "number": 12,
+          "number": "4",
           "name": "BERRIS, LEVIN",
           "party": "IND"
         },
         {
-          "number": 13,
-          "name": "MANITO, IAN",
-          "party": "IND"
-        },
-        {
-          "number": 14,
+          "number": "5",
           "name": "BRION, JUNE",
           "party": "LAKAS"
         },
         {
-          "number": 15,
-          "name": "PINEDA, RICMAR",
-          "party": "AKAY"
+          "number": "6",
+          "name": "CARMONA, JOEL",
+          "party": "IND"
         },
         {
-          "number": 16,
+          "number": "7",
+          "name": "CELARIO, NESTOR",
+          "party": "IND"
+        },
+        {
+          "number": "8",
           "name": "ESCAREZ, DANTE",
           "party": "LAKAS"
         },
         {
-          "number": 17,
+          "number": "9",
           "name": "GONZALES, JOEWEL",
           "party": "LAKAS"
         },
         {
-          "number": 18,
+          "number": "10",
           "name": "HERNANDEZ,  CHESSKHA",
           "party": "IND"
+        },
+        {
+          "number": "11",
+          "name": "HILARIO, JEPOY",
+          "party": "LAKAS"
+        },
+        {
+          "number": "12",
+          "name": "KRAFT, ABC KENNETH",
+          "party": "LAKAS"
+        },
+        {
+          "number": "13",
+          "name": "MANALO, LITO",
+          "party": "LAKAS"
+        },
+        {
+          "number": "14",
+          "name": "MANITO, IAN",
+          "party": "IND"
+        },
+        {
+          "number": "15",
+          "name": "PINEDA, RICMAR",
+          "party": "AKAY"
+        },
+        {
+          "number": "16",
+          "name": "ROXAS, KONSI KAP  JEPOY",
+          "party": "IND"
+        },
+        {
+          "number": "17",
+          "name": "SANCHEZ, ALLAN",
+          "party": "LAKAS"
+        },
+        {
+          "number": "18",
+          "name": "SANCHEZ, MYMY",
+          "party": "AKSYON"
         }
       ]
     }

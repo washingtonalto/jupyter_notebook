@@ -989,7 +989,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ENVERGA, MARK",
           "party": "NPC"
         }
@@ -1004,7 +1004,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, DOKTORA HELEN",
           "party": "STAN Q"
         }
@@ -1019,17 +1019,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, THIRD",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ALPAJORA, ARMINGOL",
           "party": "KBL"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "CAPINA, TEODORICO",
           "party": "IND"
         }
@@ -1044,32 +1044,32 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "LUCES, JULIUS",
-          "party": "STAN Q"
-        },
-        {
-          "number": 2,
-          "name": "OBISPO, ALONA",
-          "party": "PFP"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "ALCALA, CHRISTIAN  PAUL",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "2",
           "name": "GARCIA, NATHALIE",
           "party": "KBL"
         },
         {
-          "number": 5,
+          "number": "3",
+          "name": "LUCES, JULIUS",
+          "party": "STAN Q"
+        },
+        {
+          "number": "4",
           "name": "NANTES, SAM",
           "party": "LAKAS"
         },
         {
-          "number": 6,
+          "number": "5",
+          "name": "OBISPO, ALONA",
+          "party": "PFP"
+        },
+        {
+          "number": "6",
           "name": "SARONA, GEN. ELMO  RINGO",
           "party": "NPC"
         }
@@ -1084,12 +1084,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "MITRA, ALFRED RIGOR",
           "party": "NPC"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "VIRREY, ATTY. BADETH",
           "party": "PRP"
         }
@@ -1104,12 +1104,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "LOZANO-SALGO,  REBECCA",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "PEÑAMANTE, KEYSEAN",
           "party": "WPP"
         }
@@ -1124,68 +1124,68 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AVELLANO, JIM",
           "party": "NPC"
         },
         {
-          "number": 2,
-          "name": "PRUDENTE, ARVEN",
-          "party": "NPC"
-        },
-        {
-          "number": 3,
-          "name": "ZACARIAS, JENNY",
-          "party": "NPC"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "DAET, AIDA",
           "party": "NPC"
         },
         {
-          "number": 5,
-          "name": "PRUDENTE, JESS TONY",
-          "party": "IND"
-        },
-        {
-          "number": 6,
-          "name": "ROJO, BOYET",
-          "party": "PRP"
-        },
-        {
-          "number": 7,
+          "number": "3",
           "name": "ERRACHO, JOE ABEL",
           "party": "PRP"
         },
         {
-          "number": 8,
+          "number": "4",
           "name": "GLORIA, OTTIE",
           "party": "PRP"
         },
         {
-          "number": 9,
+          "number": "5",
           "name": "GUCILATAR, MARK  RANNUEL",
           "party": "WPP"
         },
         {
-          "number": 10,
+          "number": "6",
           "name": "PEÑAMANTE, EMMAN",
           "party": "WPP"
         },
         {
-          "number": 11,
+          "number": "7",
           "name": "PEÑAMANTE, NOEME",
           "party": "PRP"
         },
         {
-          "number": 12,
+          "number": "8",
           "name": "PEÑAMANTE-TUZON,  JANICE",
           "party": "WPP"
         },
         {
-          "number": 13,
+          "number": "9",
+          "name": "PRUDENTE, ARVEN",
+          "party": "NPC"
+        },
+        {
+          "number": "10",
+          "name": "PRUDENTE, JESS TONY",
+          "party": "IND"
+        },
+        {
+          "number": "11",
+          "name": "ROJO, BOYET",
+          "party": "PRP"
+        },
+        {
+          "number": "12",
           "name": "VILLAMEN, DANTE",
+          "party": "NPC"
+        },
+        {
+          "number": "13",
+          "name": "ZACARIAS, JENNY",
           "party": "NPC"
         }
       ]

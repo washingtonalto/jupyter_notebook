@@ -992,12 +992,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BAYONA, ONIE",
           "party": "AKSYON"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "CALIXTO, TONY",
           "party": "LAKAS"
         }
@@ -1012,12 +1012,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "CALIXTO-RUBIANO, EMI",
           "party": "PFP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MANGUERRA, WOWEE",
           "party": "AKSYON"
         }
@@ -1032,12 +1032,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "CALIXTO, MARK",
           "party": "LAKAS"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "TOLENTINO,  OKIDOCBONG",
           "party": "IND"
         }
@@ -1052,74 +1052,74 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ADVINCULA, JHAZ",
           "party": "PFP"
         },
         {
-          "number": 2,
-          "name": "CALUBAYAN, ACE",
-          "party": "IND"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "ADVINCULA, RONJAY",
           "party": "IND"
         },
         {
-          "number": 4,
-          "name": "SATO, JOCELYN",
-          "party": "PDPLBN"
-        },
-        {
-          "number": 5,
-          "name": "STA. MARIA, RAMON",
-          "party": "KBL"
-        },
-        {
-          "number": 6,
+          "number": "3",
           "name": "ALVINA, AMBET",
           "party": "LAKAS"
         },
         {
-          "number": 7,
+          "number": "4",
           "name": "ANDERSON, RICHARD",
           "party": "IND"
         },
         {
-          "number": 8,
+          "number": "5",
+          "name": "CALUBAYAN, ACE",
+          "party": "IND"
+        },
+        {
+          "number": "6",
           "name": "CUNETA, TONYA TONYO",
           "party": "LAKAS"
         },
         {
-          "number": 9,
+          "number": "7",
           "name": "DEL ROSARIO, BOYET  DING",
           "party": "LAKAS"
         },
         {
-          "number": 10,
+          "number": "8",
           "name": "GABRIEL, TIGER",
           "party": "PDPLBN"
         },
         {
-          "number": 11,
+          "number": "9",
           "name": "PESEBRE, MARLON",
           "party": "LAKAS"
         },
         {
-          "number": 12,
+          "number": "10",
           "name": "SANTOS, GRACE",
           "party": "LAKAS"
         },
         {
-          "number": 13,
+          "number": "11",
           "name": "SANTOS, PUCHET",
           "party": "LAKAS"
         },
         {
-          "number": 14,
+          "number": "12",
           "name": "SANTOS, TINO  CLAUDIO",
           "party": "IND"
+        },
+        {
+          "number": "13",
+          "name": "SATO, JOCELYN",
+          "party": "PDPLBN"
+        },
+        {
+          "number": "14",
+          "name": "STA. MARIA, RAMON",
+          "party": "KBL"
         }
       ]
     }

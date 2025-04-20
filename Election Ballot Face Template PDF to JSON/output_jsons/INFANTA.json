@@ -988,7 +988,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ENVERGA, MARK",
           "party": "NPC"
         }
@@ -1003,7 +1003,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, DOKTORA HELEN",
           "party": "STAN Q"
         }
@@ -1018,17 +1018,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, THIRD",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ALPAJORA, ARMINGOL",
           "party": "KBL"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "CAPINA, TEODORICO",
           "party": "IND"
         }
@@ -1043,32 +1043,32 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "LUCES, JULIUS",
-          "party": "STAN Q"
-        },
-        {
-          "number": 2,
-          "name": "OBISPO, ALONA",
-          "party": "PFP"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "ALCALA, CHRISTIAN  PAUL",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "2",
           "name": "GARCIA, NATHALIE",
           "party": "KBL"
         },
         {
-          "number": 5,
+          "number": "3",
+          "name": "LUCES, JULIUS",
+          "party": "STAN Q"
+        },
+        {
+          "number": "4",
           "name": "NANTES, SAM",
           "party": "LAKAS"
         },
         {
-          "number": 6,
+          "number": "5",
+          "name": "OBISPO, ALONA",
+          "party": "PFP"
+        },
+        {
+          "number": "6",
           "name": "SARONA, GEN. ELMO  RINGO",
           "party": "NPC"
         }
@@ -1083,12 +1083,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ESCUETA, EBIT",
           "party": "LAKAS"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "RUANTO, L.A.",
           "party": "STAN Q"
         }
@@ -1103,12 +1103,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AMERICA, BRO. MANNIE",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "AMERICA, GRACE",
           "party": "LAKAS"
         }
@@ -1123,94 +1123,94 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "TURGO, NOEL",
-          "party": "LAKAS"
-        },
-        {
-          "number": 2,
-          "name": "MORTIZ, JUN-JUN",
-          "party": "STAN Q"
-        },
-        {
-          "number": 3,
-          "name": "PORTALES, JOSE",
-          "party": "PFP"
-        },
-        {
-          "number": 4,
+          "number": "1",
           "name": "AVELLANO, SHERWIN",
           "party": "STAN Q"
         },
         {
-          "number": 5,
+          "number": "2",
           "name": "CORALDE, FERDIE",
           "party": "LAKAS"
         },
         {
-          "number": 6,
-          "name": "VILLANUEVA, KUYA GA",
-          "party": "IND"
-        },
-        {
-          "number": 7,
+          "number": "3",
           "name": "CUENTO, ANLO",
           "party": "LAKAS"
         },
         {
-          "number": 8,
-          "name": "YU, TAOYU",
-          "party": "STAN Q"
-        },
-        {
-          "number": 9,
-          "name": "ESCUETA, IDOL KAP",
-          "party": "STAN Q"
-        },
-        {
-          "number": 10,
-          "name": "GURANGO, KIKO",
-          "party": "STAN \nQ"
-        },
-        {
-          "number": 11,
-          "name": "JUNTEREAL, TIM",
-          "party": "STAN \nQ"
-        },
-        {
-          "number": 12,
-          "name": "PURPURA, KAP JOJIT",
-          "party": "LAKAS"
-        },
-        {
-          "number": 13,
+          "number": "4",
           "name": "CUENTO, OWIE",
           "party": "STAN Q"
         },
         {
-          "number": 14,
-          "name": "LAVIÑA, NILO",
-          "party": "PFP"
-        },
-        {
-          "number": 15,
-          "name": "RAMOS, LAIZA",
-          "party": "STAN Q"
-        },
-        {
-          "number": 16,
+          "number": "5",
           "name": "ESCAMA, REMNIE",
           "party": "LAKAS"
         },
         {
-          "number": 17,
+          "number": "6",
+          "name": "ESCUETA, IDOL KAP",
+          "party": "STAN Q"
+        },
+        {
+          "number": "7",
+          "name": "GURANGO, KIKO",
+          "party": "STAN \nQ"
+        },
+        {
+          "number": "8",
+          "name": "JUNTEREAL, TIM",
+          "party": "STAN \nQ"
+        },
+        {
+          "number": "9",
+          "name": "LAVIÑA, NILO",
+          "party": "PFP"
+        },
+        {
+          "number": "10",
           "name": "MACASAET, CHERRY",
           "party": "LAKAS"
         },
         {
-          "number": 18,
+          "number": "11",
+          "name": "MORTIZ, JUN-JUN",
+          "party": "STAN Q"
+        },
+        {
+          "number": "12",
+          "name": "PORTALES, JOSE",
+          "party": "PFP"
+        },
+        {
+          "number": "13",
+          "name": "PURPURA, KAP JOJIT",
+          "party": "LAKAS"
+        },
+        {
+          "number": "14",
+          "name": "RAMOS, LAIZA",
+          "party": "STAN Q"
+        },
+        {
+          "number": "15",
           "name": "RUIDERA, KUYA BOBOY",
           "party": "IND"
+        },
+        {
+          "number": "16",
+          "name": "TURGO, NOEL",
+          "party": "LAKAS"
+        },
+        {
+          "number": "17",
+          "name": "VILLANUEVA, KUYA GA",
+          "party": "IND"
+        },
+        {
+          "number": "18",
+          "name": "YU, TAOYU",
+          "party": "STAN Q"
         }
       ]
     }

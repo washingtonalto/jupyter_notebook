@@ -989,12 +989,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "LOYOLA, ROY",
           "party": "NPC"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "TOLENTINO, JULIE",
           "party": "IND"
         }
@@ -1009,24 +1009,24 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
+          "name": "AGUINALDO, WENG",
+          "party": "IND"
+        },
+        {
+          "number": "2",
           "name": "BER ADO, GB",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "3",
           "name": "PERA, AUGUSTO JR.",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "4",
           "name": "REMULLA, ABENG",
           "party": "NUP"
-        },
-        {
-          "number": 4,
-          "name": "AGUINALDO, WENG",
-          "party": "IND"
         }
       ]
     },
@@ -1039,7 +1039,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BAUTISTA, RAM REVILLA",
           "party": "LAKAS"
         }
@@ -1054,12 +1054,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BELAMIDE, AIDEL",
           "party": "NUP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "REYES, IVEE",
           "party": "NUP"
         }
@@ -1074,12 +1074,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "LOYOLA, DAHLIA",
           "party": "NPC"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "RESTRIVERA, DENNIS",
           "party": "IND"
         }
@@ -1094,14 +1094,14 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "INES, CESAR JR.",
-          "party": "NPC"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "GONZALES, ROMMEL",
           "party": "IND"
+        },
+        {
+          "number": "2",
+          "name": "INES, CESAR JR.",
+          "party": "NPC"
         }
       ]
     },
@@ -1114,118 +1114,118 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "HEBRON, LOUIE",
-          "party": "IND"
-        },
-        {
-          "number": 2,
-          "name": "REYES, REBECCA",
-          "party": "NPC"
-        },
-        {
-          "number": 3,
-          "name": "LONTOK, AMABLE",
-          "party": "NPC"
-        },
-        {
-          "number": 4,
-          "name": "HEBRON, TENG",
-          "party": "IND"
-        },
-        {
-          "number": 5,
-          "name": "LOYOLA, TJ",
-          "party": "NPC"
-        },
-        {
-          "number": 6,
+          "number": "1",
           "name": "ALONZO, JUN SASOY",
           "party": "IND"
         },
         {
-          "number": 7,
+          "number": "2",
           "name": "ALTAREZ, NORBERTO",
           "party": "IND"
         },
         {
-          "number": 8,
+          "number": "3",
           "name": "BASBAS, ALMARIO",
           "party": "IND"
         },
         {
-          "number": 9,
-          "name": "HERMOSA, JOJO",
-          "party": "NPC"
-        },
-        {
-          "number": 10,
-          "name": "TENEDERO, DOMENG",
-          "party": "NPC"
-        },
-        {
-          "number": 11,
-          "name": "TOLENTINO, OCHIE",
-          "party": "PLM"
-        },
-        {
-          "number": 12,
+          "number": "4",
           "name": "BASBAS, VICENTE",
           "party": "IND"
         },
         {
-          "number": 13,
-          "name": "HUGO, OBET",
-          "party": "IND"
-        },
-        {
-          "number": 14,
-          "name": "TOLENTINO, ROY",
-          "party": "PLM"
-        },
-        {
-          "number": 15,
+          "number": "5",
           "name": "CAMAGONG, MIMI",
           "party": "PLM"
         },
         {
-          "number": 16,
-          "name": "ZAMORA, AYONG",
-          "party": "NPC"
-        },
-        {
-          "number": 17,
-          "name": "MANABAT, LEONILA",
-          "party": "NPC"
-        },
-        {
-          "number": 18,
-          "name": "MAPANOO, RUSSELL",
-          "party": "IND"
-        },
-        {
-          "number": 19,
-          "name": "MAQUINAY,  GERALDINE",
-          "party": "NPC"
-        },
-        {
-          "number": 20,
+          "number": "6",
           "name": "ESPIRITU, ERIC",
           "party": "PLM"
         },
         {
-          "number": 21,
-          "name": "ORTIZ, BERNIE",
+          "number": "7",
+          "name": "HEBRON, LOUIE",
+          "party": "IND"
+        },
+        {
+          "number": "8",
+          "name": "HEBRON, TENG",
+          "party": "IND"
+        },
+        {
+          "number": "9",
+          "name": "HERMOSA, JOJO",
           "party": "NPC"
         },
         {
-          "number": 22,
+          "number": "10",
+          "name": "HUGO, OBET",
+          "party": "IND"
+        },
+        {
+          "number": "11",
           "name": "LEVANTINO, NARDEL",
           "party": "IND"
         },
         {
-          "number": 23,
+          "number": "12",
           "name": "LEVARDO, LIZETTE",
+          "party": "NPC"
+        },
+        {
+          "number": "13",
+          "name": "LONTOK, AMABLE",
+          "party": "NPC"
+        },
+        {
+          "number": "14",
+          "name": "LOYOLA, TJ",
+          "party": "NPC"
+        },
+        {
+          "number": "15",
+          "name": "MANABAT, LEONILA",
+          "party": "NPC"
+        },
+        {
+          "number": "16",
+          "name": "MAPANOO, RUSSELL",
+          "party": "IND"
+        },
+        {
+          "number": "17",
+          "name": "MAQUINAY,  GERALDINE",
+          "party": "NPC"
+        },
+        {
+          "number": "18",
+          "name": "ORTIZ, BERNIE",
+          "party": "NPC"
+        },
+        {
+          "number": "19",
+          "name": "REYES, REBECCA",
+          "party": "NPC"
+        },
+        {
+          "number": "20",
+          "name": "TENEDERO, DOMENG",
+          "party": "NPC"
+        },
+        {
+          "number": "21",
+          "name": "TOLENTINO, OCHIE",
+          "party": "PLM"
+        },
+        {
+          "number": "22",
+          "name": "TOLENTINO, ROY",
+          "party": "PLM"
+        },
+        {
+          "number": "23",
+          "name": "ZAMORA, AYONG",
           "party": "NPC"
         }
       ]

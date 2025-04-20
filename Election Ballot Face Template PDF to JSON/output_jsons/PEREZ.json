@@ -986,7 +986,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, ATORNI MIKE",
           "party": "NPC"
         }
@@ -1001,7 +1001,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, DOKTORA HELEN",
           "party": "STAN Q"
         }
@@ -1016,17 +1016,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, THIRD",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ALPAJORA, ARMINGOL",
           "party": "KBL"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "CAPINA, TEODORICO",
           "party": "IND"
         }
@@ -1041,17 +1041,17 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "EDUARTE, OLA",
-          "party": "STAN Q"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "BUTARDO, HAROLD",
           "party": "STAN Q"
         },
         {
-          "number": 3,
+          "number": "2",
+          "name": "EDUARTE, OLA",
+          "party": "STAN Q"
+        },
+        {
+          "number": "3",
           "name": "UBANA, RACHEL",
           "party": "STAN \nQ"
         }
@@ -1066,14 +1066,14 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "REYES, PING",
-          "party": "LAKAS"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "ESCALONA, CHA",
           "party": "STAN \nQ"
+        },
+        {
+          "number": "2",
+          "name": "REYES, PING",
+          "party": "LAKAS"
         }
       ]
     },
@@ -1086,14 +1086,14 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "PANOL, RYAN",
-          "party": "IND"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "EVANGELISTA, MARSAN",
           "party": "STAN Q"
+        },
+        {
+          "number": "2",
+          "name": "PANOL, RYAN",
+          "party": "IND"
         }
       ]
     },
@@ -1106,99 +1106,99 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AGUILAR, RYAN",
           "party": "STAN Q"
         },
         {
-          "number": 2,
-          "name": "MARTINEZ, ROD",
-          "party": "IND"
-        },
-        {
-          "number": 3,
-          "name": "CARINGAL, ALLAN",
-          "party": "PDPLBN"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "ALPAY, VIC",
           "party": "STAN Q"
         },
         {
-          "number": 5,
-          "name": "CORALES, BUTSOG",
-          "party": "IND"
-        },
-        {
-          "number": 6,
-          "name": "MASCARIÑA, ITSAD",
-          "party": "IND"
-        },
-        {
-          "number": 7,
-          "name": "REGODON, OPEL",
-          "party": "LAKAS"
-        },
-        {
-          "number": 8,
-          "name": "TARREGA, DONG-DONG",
-          "party": "STAN Q"
-        },
-        {
-          "number": 9,
-          "name": "MENDOZA, GIL",
-          "party": "LAKAS"
-        },
-        {
-          "number": 10,
-          "name": "VELA, JOSEPH",
-          "party": "STAN Q"
-        },
-        {
-          "number": 11,
+          "number": "3",
           "name": "ANGARA-LERIA, AIREE",
           "party": "STAN Q"
         },
         {
-          "number": 12,
+          "number": "4",
           "name": "BUERANO, BOYET",
           "party": "IND"
         },
         {
-          "number": 13,
-          "name": "NOLLEDO, BUROK",
-          "party": "IND"
-        },
-        {
-          "number": 14,
-          "name": "DEL MORO, MAYOTO",
-          "party": "LAKAS"
-        },
-        {
-          "number": 15,
-          "name": "MANAOG, OMAR",
-          "party": "STAN \nQ"
-        },
-        {
-          "number": 16,
-          "name": "VILLABROZA-OLASE,  REA",
-          "party": "STAN Q"
-        },
-        {
-          "number": 17,
-          "name": "MANLUGON, AB",
-          "party": "IND"
-        },
-        {
-          "number": 18,
+          "number": "5",
           "name": "CAÑIZARES, DANAO",
           "party": "STAN Q"
         },
         {
-          "number": 19,
+          "number": "6",
+          "name": "CARINGAL, ALLAN",
+          "party": "PDPLBN"
+        },
+        {
+          "number": "7",
+          "name": "CORALES, BUTSOG",
+          "party": "IND"
+        },
+        {
+          "number": "8",
+          "name": "DEL MORO, MAYOTO",
+          "party": "LAKAS"
+        },
+        {
+          "number": "9",
+          "name": "MANAOG, OMAR",
+          "party": "STAN \nQ"
+        },
+        {
+          "number": "10",
+          "name": "MANLUGON, AB",
+          "party": "IND"
+        },
+        {
+          "number": "11",
+          "name": "MARTINEZ, ROD",
+          "party": "IND"
+        },
+        {
+          "number": "12",
+          "name": "MASCARIÑA, ITSAD",
+          "party": "IND"
+        },
+        {
+          "number": "13",
+          "name": "MENDOZA, GIL",
+          "party": "LAKAS"
+        },
+        {
+          "number": "14",
+          "name": "NOLLEDO, BUROK",
+          "party": "IND"
+        },
+        {
+          "number": "15",
           "name": "OCCIDENTAL, AMIE",
           "party": "LAKAS"
+        },
+        {
+          "number": "16",
+          "name": "REGODON, OPEL",
+          "party": "LAKAS"
+        },
+        {
+          "number": "17",
+          "name": "TARREGA, DONG-DONG",
+          "party": "STAN Q"
+        },
+        {
+          "number": "18",
+          "name": "VELA, JOSEPH",
+          "party": "STAN Q"
+        },
+        {
+          "number": "19",
+          "name": "VILLABROZA-OLASE,  REA",
+          "party": "STAN Q"
         }
       ]
     }

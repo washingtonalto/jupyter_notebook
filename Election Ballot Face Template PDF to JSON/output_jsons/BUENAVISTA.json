@@ -988,12 +988,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ARROGANCIA,  REYNANTE",
           "party": "NPC"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "FLORIDO, MATT WITH  AHEART",
           "party": "IND"
         }
@@ -1008,7 +1008,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, DOKTORA HELEN",
           "party": "STAN Q"
         }
@@ -1023,17 +1023,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, THIRD",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ALPAJORA, ARMINGOL",
           "party": "KBL"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "CAPINA, TEODORICO",
           "party": "IND"
         }
@@ -1048,29 +1048,29 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "REYES, TINTIN",
-          "party": "AKSYON"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "AQUIVIDO, NARS JJ",
           "party": "STAN Q"
         },
         {
-          "number": 3,
-          "name": "ESGUERRA, MEG",
-          "party": "STAN \nQ"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "DIAZ, CONRADO",
           "party": "PFP"
         },
         {
-          "number": 5,
+          "number": "3",
+          "name": "ESGUERRA, MEG",
+          "party": "STAN \nQ"
+        },
+        {
+          "number": "4",
           "name": "GONZALES, BIETO",
           "party": "IND"
+        },
+        {
+          "number": "5",
+          "name": "REYES, TINTIN",
+          "party": "AKSYON"
         }
       ]
     },
@@ -1083,12 +1083,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "RIVERA, AR",
           "party": "PFP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ROSILLA, KUYA REY",
           "party": "STAN Q"
         }
@@ -1103,14 +1103,14 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "CAWA, NOEL",
-          "party": "PFP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "AÑONUEVO, JORGE",
           "party": "STAN Q"
+        },
+        {
+          "number": "2",
+          "name": "CAWA, NOEL",
+          "party": "PFP"
         }
       ]
     },
@@ -1123,94 +1123,94 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "PABELLON, ODONG",
-          "party": "NPC"
-        },
-        {
-          "number": 2,
-          "name": "TAN, AI AI",
-          "party": "PFP"
-        },
-        {
-          "number": 3,
-          "name": "LOAYON, DONDON",
-          "party": "STAN Q"
-        },
-        {
-          "number": 4,
-          "name": "NOBLEFRANCA, FANKY",
-          "party": "IND"
-        },
-        {
-          "number": 5,
-          "name": "NOJOR, RONALD",
-          "party": "IND"
-        },
-        {
-          "number": 6,
-          "name": "TOLENTINO,  HERMOGENES",
-          "party": "PFP"
-        },
-        {
-          "number": 7,
-          "name": "OPENARIA, ROSE",
-          "party": "PFP"
-        },
-        {
-          "number": 8,
-          "name": "EDRAD, BENZON",
-          "party": "STAN \nQ"
-        },
-        {
-          "number": 9,
-          "name": "GUTIERREZ, EBIANG",
-          "party": "PFP"
-        },
-        {
-          "number": 10,
-          "name": "HERMINA, JULIO",
-          "party": "STAN \nQ"
-        },
-        {
-          "number": 11,
-          "name": "JUSI, ADMIN LEMIA",
-          "party": "STAN Q"
-        },
-        {
-          "number": 12,
-          "name": "LICAS, VINCENT",
-          "party": "PFP"
-        },
-        {
-          "number": 13,
+          "number": "1",
           "name": "BAROLO, ENGINEER MAR",
           "party": "STAN Q"
         },
         {
-          "number": 14,
+          "number": "2",
           "name": "CLEOPE, KUYA LOWELL",
           "party": "STAN Q"
         },
         {
-          "number": 15,
+          "number": "3",
           "name": "DIMAYUGA, FERNANDO",
           "party": "PFP"
         },
         {
-          "number": 16,
+          "number": "4",
           "name": "DORUELO, KAP JOSEPH",
           "party": "STAN Q"
         },
         {
-          "number": 17,
+          "number": "5",
           "name": "DOSTO, FRANCISCO",
           "party": "PFP"
         },
         {
-          "number": 18,
+          "number": "6",
+          "name": "EDRAD, BENZON",
+          "party": "STAN \nQ"
+        },
+        {
+          "number": "7",
+          "name": "GUTIERREZ, EBIANG",
+          "party": "PFP"
+        },
+        {
+          "number": "8",
+          "name": "HERMINA, JULIO",
+          "party": "STAN \nQ"
+        },
+        {
+          "number": "9",
+          "name": "JUSI, ADMIN LEMIA",
+          "party": "STAN Q"
+        },
+        {
+          "number": "10",
+          "name": "LICAS, VINCENT",
+          "party": "PFP"
+        },
+        {
+          "number": "11",
+          "name": "LOAYON, DONDON",
+          "party": "STAN Q"
+        },
+        {
+          "number": "12",
+          "name": "NOBLEFRANCA, FANKY",
+          "party": "IND"
+        },
+        {
+          "number": "13",
+          "name": "NOJOR, RONALD",
+          "party": "IND"
+        },
+        {
+          "number": "14",
+          "name": "OPENARIA, ROSE",
+          "party": "PFP"
+        },
+        {
+          "number": "15",
           "name": "OSILLO, MUNTI",
           "party": "STAN \nQ"
+        },
+        {
+          "number": "16",
+          "name": "PABELLON, ODONG",
+          "party": "NPC"
+        },
+        {
+          "number": "17",
+          "name": "TAN, AI AI",
+          "party": "PFP"
+        },
+        {
+          "number": "18",
+          "name": "TOLENTINO,  HERMOGENES",
+          "party": "PFP"
         }
       ]
     }

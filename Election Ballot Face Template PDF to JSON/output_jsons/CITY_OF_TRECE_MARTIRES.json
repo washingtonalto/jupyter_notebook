@@ -990,17 +990,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ABUTIN, WALLY",
           "party": "WPP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "REMULLA, PING",
           "party": "NUP"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "SANTOS, MICHAEL  ANGELO",
           "party": "IND"
         }
@@ -1015,24 +1015,24 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
+          "name": "AGUINALDO, WENG",
+          "party": "IND"
+        },
+        {
+          "number": "2",
           "name": "BER ADO, GB",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "3",
           "name": "PERA, AUGUSTO JR.",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "4",
           "name": "REMULLA, ABENG",
           "party": "NUP"
-        },
-        {
-          "number": 4,
-          "name": "AGUINALDO, WENG",
-          "party": "IND"
         }
       ]
     },
@@ -1045,7 +1045,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BAUTISTA, RAM REVILLA",
           "party": "LAKAS"
         }
@@ -1060,24 +1060,24 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AMBION, VER",
           "party": "UNIDO"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ANACAN, ALDRIN",
           "party": "NUP"
         },
         {
-          "number": 3,
-          "name": "SUNGA, ALFREDO",
-          "party": "IND"
-        },
-        {
-          "number": 4,
+          "number": "3",
           "name": "DEL ROSARIO, CAMILLE",
           "party": "AKSYON"
+        },
+        {
+          "number": "4",
+          "name": "SUNGA, ALFREDO",
+          "party": "IND"
         }
       ]
     },
@@ -1090,14 +1090,14 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "LUBIGAN, GEMMA",
-          "party": "NUP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "DE SAGUN, JUN",
           "party": "PDPLBN"
+        },
+        {
+          "number": "2",
+          "name": "LUBIGAN, GEMMA",
+          "party": "NUP"
         }
       ]
     },
@@ -1110,12 +1110,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "MONTEHERMOSO,  BOBBY",
           "party": "NUP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "PEÑALBA, ALEX",
           "party": "PDPLBN"
         }
@@ -1130,99 +1130,99 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ANACAN, TRACY",
           "party": "NUP"
         },
         {
-          "number": 2,
-          "name": "GATDULA, VEN",
-          "party": "PDPLBN"
-        },
-        {
-          "number": 3,
-          "name": "SIGNO, MIKE ERICKSON",
-          "party": "PDPLBN"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "BUENDIA, POYI",
           "party": "NUP"
         },
         {
-          "number": 5,
-          "name": "HUMARANG, AJ",
-          "party": "NUP"
-        },
-        {
-          "number": 6,
-          "name": "TRINIDAD, ELMO",
-          "party": "NUP"
-        },
-        {
-          "number": 7,
-          "name": "MALINIS, CARDING",
-          "party": "PDPLBN"
-        },
-        {
-          "number": 8,
-          "name": "MASICAP, MIDEL",
-          "party": "PDPLBN"
-        },
-        {
-          "number": 9,
-          "name": "LONTOC, TONY",
-          "party": "NUP"
-        },
-        {
-          "number": 10,
-          "name": "MOJICA, JOYCE",
-          "party": "NUP"
-        },
-        {
-          "number": 11,
-          "name": "VIDALLON, BUDOY",
-          "party": "NUP"
-        },
-        {
-          "number": 12,
-          "name": "VILLANUEVA, MANOY",
-          "party": "PDPLBN"
-        },
-        {
-          "number": 13,
+          "number": "3",
           "name": "CUNANAN, JAY-EM",
           "party": "NUP"
         },
         {
-          "number": 14,
+          "number": "4",
           "name": "DE SAGUN, ROMEO",
           "party": "PDPLBN"
         },
         {
-          "number": 15,
+          "number": "5",
           "name": "EGUILLOS, RAYMUND",
           "party": "PDPLBN"
         },
         {
-          "number": 16,
+          "number": "6",
+          "name": "GATDULA, VEN",
+          "party": "PDPLBN"
+        },
+        {
+          "number": "7",
+          "name": "HUMARANG, AJ",
+          "party": "NUP"
+        },
+        {
+          "number": "8",
+          "name": "LONTOC, TONY",
+          "party": "NUP"
+        },
+        {
+          "number": "9",
           "name": "LUBIGAN, KIM PAOLO",
           "party": "NUP"
         },
         {
-          "number": 17,
+          "number": "10",
           "name": "LUBIGAN, RUBEN",
           "party": "PDPLBN"
         },
         {
-          "number": 18,
+          "number": "11",
+          "name": "MALINIS, CARDING",
+          "party": "PDPLBN"
+        },
+        {
+          "number": "12",
+          "name": "MASICAP, MIDEL",
+          "party": "PDPLBN"
+        },
+        {
+          "number": "13",
+          "name": "MOJICA, JOYCE",
+          "party": "NUP"
+        },
+        {
+          "number": "14",
           "name": "MONTEHERMOSO,  STING",
           "party": "NUP"
         },
         {
-          "number": 19,
+          "number": "15",
           "name": "PANGANIBAN, DANILO",
           "party": "IND"
+        },
+        {
+          "number": "16",
+          "name": "SIGNO, MIKE ERICKSON",
+          "party": "PDPLBN"
+        },
+        {
+          "number": "17",
+          "name": "TRINIDAD, ELMO",
+          "party": "NUP"
+        },
+        {
+          "number": "18",
+          "name": "VIDALLON, BUDOY",
+          "party": "NUP"
+        },
+        {
+          "number": "19",
+          "name": "VILLANUEVA, MANOY",
+          "party": "PDPLBN"
         }
       ]
     }

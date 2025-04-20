@@ -990,17 +990,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BOLILIA, CALOY",
           "party": "NP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "GOZOS, JP",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "UMALI, RONALD",
           "party": "LAKAS"
         }
@@ -1015,22 +1015,22 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "RIVERA, MIKE",
-          "party": "LP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "ILAGAN, JAY MANALO",
           "party": "PROMDI"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "OZAETA, KUYAKAP  WALTER",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "3",
+          "name": "RIVERA, MIKE",
+          "party": "LP"
+        },
+        {
+          "number": "4",
           "name": "SANTOS-RECTO, VILMA",
           "party": "NP"
         }
@@ -1045,17 +1045,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "DOLOR, RYANH",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MANDANAS, DODO",
           "party": "PDPLBN"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "MANZANO, LUIS LUCKY",
           "party": "NP"
         }
@@ -1070,28 +1070,28 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "VIDAL, MELVIN",
-          "party": "IND"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "DE VEYRA, PASTOR ERIC",
           "party": "NP"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "MENDOZA, MARCUS",
           "party": "NPC"
         },
         {
-          "number": 4,
+          "number": "3",
           "name": "MERCADO, KROPECK",
           "party": "IND"
         },
         {
-          "number": 5,
+          "number": "4",
           "name": "SAMONTE, ALVIN JOHN",
+          "party": "IND"
+        },
+        {
+          "number": "5",
+          "name": "VIDAL, MELVIN",
           "party": "IND"
         }
       ]
@@ -1105,7 +1105,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "RIVERA, CELSA",
           "party": "LP"
         }
@@ -1120,7 +1120,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "RIVERA, MICKO",
           "party": "LP"
         }
@@ -1135,69 +1135,69 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ARAÑO, RICO",
           "party": "IND"
         },
         {
-          "number": 2,
-          "name": "ESTOLE, INOG",
-          "party": "LP"
-        },
-        {
-          "number": 3,
-          "name": "LINATOC, ANDOY",
-          "party": "LP"
-        },
-        {
-          "number": 4,
-          "name": "VILLAR, FERDIE",
-          "party": "LP"
-        },
-        {
-          "number": 5,
-          "name": "FLORES, ROY",
-          "party": "LP"
-        },
-        {
-          "number": 6,
+          "number": "2",
           "name": "BATHAN, KON. KOKO",
           "party": "LP"
         },
         {
-          "number": 7,
-          "name": "RIVERA-GUTIERREZ,  MOLLY",
-          "party": "LP"
-        },
-        {
-          "number": 8,
+          "number": "3",
           "name": "BUGHAO, DENNIS",
           "party": "IND"
         },
         {
-          "number": 9,
-          "name": "FLORIDA, ORLAN",
-          "party": "IND"
-        },
-        {
-          "number": 10,
-          "name": "TAPALLA, EMIL",
-          "party": "LP"
-        },
-        {
-          "number": 11,
+          "number": "4",
           "name": "DE SILVA, BIDONG",
           "party": "IND"
         },
         {
-          "number": 12,
+          "number": "5",
+          "name": "ESTOLE, INOG",
+          "party": "LP"
+        },
+        {
+          "number": "6",
+          "name": "FLORES, ROY",
+          "party": "LP"
+        },
+        {
+          "number": "7",
+          "name": "FLORIDA, ORLAN",
+          "party": "IND"
+        },
+        {
+          "number": "8",
           "name": "GONZALES, TEMING",
           "party": "LP"
         },
         {
-          "number": 13,
+          "number": "9",
+          "name": "LINATOC, ANDOY",
+          "party": "LP"
+        },
+        {
+          "number": "10",
+          "name": "RIVERA-GUTIERREZ,  MOLLY",
+          "party": "LP"
+        },
+        {
+          "number": "11",
+          "name": "TAPALLA, EMIL",
+          "party": "LP"
+        },
+        {
+          "number": "12",
           "name": "VIDAL, SHINE",
           "party": "IND"
+        },
+        {
+          "number": "13",
+          "name": "VILLAR, FERDIE",
+          "party": "LP"
         }
       ]
     }

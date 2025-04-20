@@ -987,7 +987,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, ATORNI MIKE",
           "party": "NPC"
         }
@@ -1002,7 +1002,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, DOKTORA HELEN",
           "party": "STAN Q"
         }
@@ -1017,17 +1017,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, THIRD",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ALPAJORA, ARMINGOL",
           "party": "KBL"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "CAPINA, TEODORICO",
           "party": "IND"
         }
@@ -1042,17 +1042,17 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "EDUARTE, OLA",
-          "party": "STAN Q"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "BUTARDO, HAROLD",
           "party": "STAN Q"
         },
         {
-          "number": 3,
+          "number": "2",
+          "name": "EDUARTE, OLA",
+          "party": "STAN Q"
+        },
+        {
+          "number": "3",
           "name": "UBANA, RACHEL",
           "party": "STAN \nQ"
         }
@@ -1067,22 +1067,22 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "JAVALERA, AMBOY",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MALITE, ARCIE",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "MERIADO, TONTON",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "4",
           "name": "UBANA, SONNY",
           "party": "STAN Q"
         }
@@ -1097,7 +1097,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "VILLANUEVA, DANNY",
           "party": "STAN Q"
         }
@@ -1112,84 +1112,84 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "OLANDA, COJ",
-          "party": "IND"
-        },
-        {
-          "number": 2,
-          "name": "UBANA, IRA",
-          "party": "STAN Q"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "ALANO, CASTOR",
           "party": "STAN \nQ"
         },
         {
-          "number": 4,
+          "number": "2",
           "name": "ARIT, OKIDOK",
           "party": "LAKAS"
         },
         {
-          "number": 5,
-          "name": "OLANDA, MARIE",
-          "party": "STAN \nQ"
-        },
-        {
-          "number": 6,
+          "number": "3",
           "name": "CERILLA, BUTCH",
           "party": "LAKAS"
         },
         {
-          "number": 7,
+          "number": "4",
+          "name": "MASAGANDA, EMBET",
+          "party": "STAN Q"
+        },
+        {
+          "number": "5",
+          "name": "OLANDA, COJ",
+          "party": "IND"
+        },
+        {
+          "number": "6",
+          "name": "OLANDA, MARIE",
+          "party": "STAN \nQ"
+        },
+        {
+          "number": "7",
           "name": "PARAISO, BUDS",
           "party": "STAN Q"
         },
         {
-          "number": 8,
-          "name": "SEGUI, ATTY. DONDON",
-          "party": "STAN Q"
-        },
-        {
-          "number": 9,
-          "name": "SEVILLA, INENG",
-          "party": "STAN \nQ"
-        },
-        {
-          "number": 10,
-          "name": "TAN, DRA. CHERRY",
-          "party": "STAN Q"
-        },
-        {
-          "number": 11,
-          "name": "VILLASANTA, APRIL",
-          "party": "IND"
-        },
-        {
-          "number": 12,
-          "name": "YULDE, ARKIE MANUEL",
-          "party": "IND"
-        },
-        {
-          "number": 13,
+          "number": "8",
           "name": "RICO, RICKY",
           "party": "LAKAS"
         },
         {
-          "number": 14,
+          "number": "9",
+          "name": "SEGUI, ATTY. DONDON",
+          "party": "STAN Q"
+        },
+        {
+          "number": "10",
+          "name": "SEVILLA, INENG",
+          "party": "STAN \nQ"
+        },
+        {
+          "number": "11",
+          "name": "TAN, DRA. CHERRY",
+          "party": "STAN Q"
+        },
+        {
+          "number": "12",
           "name": "TANTEO, GILDA",
           "party": "IND"
         },
         {
-          "number": 15,
-          "name": "YUMUL, ARI",
-          "party": "WPP"
+          "number": "13",
+          "name": "UBANA, IRA",
+          "party": "STAN Q"
         },
         {
-          "number": 16,
-          "name": "MASAGANDA, EMBET",
-          "party": "STAN Q"
+          "number": "14",
+          "name": "VILLASANTA, APRIL",
+          "party": "IND"
+        },
+        {
+          "number": "15",
+          "name": "YULDE, ARKIE MANUEL",
+          "party": "IND"
+        },
+        {
+          "number": "16",
+          "name": "YUMUL, ARI",
+          "party": "WPP"
         }
       ]
     }

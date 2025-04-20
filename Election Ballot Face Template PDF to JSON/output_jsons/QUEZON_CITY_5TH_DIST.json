@@ -990,29 +990,29 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "MALLARI, FIDELA",
-          "party": "IND"
-        },
-        {
-          "number": 2,
-          "name": "VARGAS, PM",
-          "party": "LAKAS"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "DE GUZMAN, ATE ROSE",
           "party": "WPP"
         },
         {
-          "number": 4,
+          "number": "2",
           "name": "LIN, ATE ROSE",
           "party": "IND"
         },
         {
-          "number": 5,
+          "number": "3",
+          "name": "MALLARI, FIDELA",
+          "party": "IND"
+        },
+        {
+          "number": "4",
           "name": "RUSTIA, ANGEL JR.",
           "party": "IND"
+        },
+        {
+          "number": "5",
+          "name": "VARGAS, PM",
+          "party": "LAKAS"
         }
       ]
     },
@@ -1025,28 +1025,28 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BELMONTE, JOY",
           "party": "SBP"
         },
         {
-          "number": 2,
+          "number": "2",
+          "name": "CABALO, JONATHAN",
+          "party": "IND"
+        },
+        {
+          "number": "3",
           "name": "JOTA, ROLANDO",
           "party": "IND"
         },
         {
-          "number": 3,
-          "name": "VELASCO, DIOSDADO",
-          "party": "IND"
-        },
-        {
-          "number": 4,
+          "number": "4",
           "name": "NAVAT, NOLI",
           "party": "IND"
         },
         {
-          "number": 5,
-          "name": "CABALO, JONATHAN",
+          "number": "5",
+          "name": "VELASCO, DIOSDADO",
           "party": "IND"
         }
       ]
@@ -1060,22 +1060,22 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "FAELANGCO, JUNE",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "INGLES, INVENTOR",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "SOTTO, GIAN",
           "party": "SBP"
         },
         {
-          "number": 4,
+          "number": "4",
           "name": "VILLARTA, DANTE",
           "party": "IND"
         }
@@ -1090,59 +1090,59 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "MEDALLA, RAM",
-          "party": "SBP"
-        },
-        {
-          "number": 2,
-          "name": "PINEDA, ENZO",
-          "party": "SBP"
-        },
-        {
-          "number": 3,
-          "name": "VARGAS,  ALFRED",
-          "party": "SBP"
-        },
-        {
-          "number": 4,
+          "number": "1",
           "name": "CASTELO, KARL",
           "party": "AKSYON"
         },
         {
-          "number": 5,
+          "number": "2",
           "name": "GADONG, KUYA J",
           "party": "IND"
         },
         {
-          "number": 6,
-          "name": "MELENDEZ, AIKO",
-          "party": "SBP"
-        },
-        {
-          "number": 7,
-          "name": "QUEBAL, JONEL",
-          "party": "IND"
-        },
-        {
-          "number": 8,
-          "name": "VISAYA, JOSEPH JOE",
-          "party": "SBP"
-        },
-        {
-          "number": 9,
+          "number": "3",
           "name": "LIBAN, SHAY",
           "party": "SBP"
         },
         {
-          "number": 10,
+          "number": "4",
+          "name": "MEDALLA, RAM",
+          "party": "SBP"
+        },
+        {
+          "number": "5",
+          "name": "MELENDEZ, AIKO",
+          "party": "SBP"
+        },
+        {
+          "number": "6",
           "name": "ORTIGAS, ANGEL",
           "party": "IND"
         },
         {
-          "number": 11,
+          "number": "7",
+          "name": "PINEDA, ENZO",
+          "party": "SBP"
+        },
+        {
+          "number": "8",
+          "name": "QUEBAL, JONEL",
+          "party": "IND"
+        },
+        {
+          "number": "9",
           "name": "SABE, ARPEE",
           "party": "IND"
+        },
+        {
+          "number": "10",
+          "name": "VARGAS,  ALFRED",
+          "party": "SBP"
+        },
+        {
+          "number": "11",
+          "name": "VISAYA, JOSEPH JOE",
+          "party": "SBP"
         }
       ]
     }

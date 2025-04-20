@@ -987,19 +987,19 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BURGOS, NESTOR",
           "party": "IND"
         },
         {
-          "number": 2,
-          "name": "LEVISTE, MARK",
-          "party": "IND"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "COLLANTES, ATTY. KING",
           "party": "NPC"
+        },
+        {
+          "number": "3",
+          "name": "LEVISTE, MARK",
+          "party": "IND"
         }
       ]
     },
@@ -1012,22 +1012,22 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "RIVERA, MIKE",
-          "party": "LP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "ILAGAN, JAY MANALO",
           "party": "PROMDI"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "OZAETA, KUYAKAP  WALTER",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "3",
+          "name": "RIVERA, MIKE",
+          "party": "LP"
+        },
+        {
+          "number": "4",
           "name": "SANTOS-RECTO, VILMA",
           "party": "NP"
         }
@@ -1042,17 +1042,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "DOLOR, RYANH",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MANDANAS, DODO",
           "party": "PDPLBN"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "MANZANO, LUIS LUCKY",
           "party": "NP"
         }
@@ -1067,17 +1067,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BALBA, RUDY",
           "party": "NP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "CORONA, FRED",
           "party": "NP"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "MACALINTAL, DENNIS",
           "party": "PFP"
         }
@@ -1092,7 +1092,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "PONGGOS, JO-ANN",
           "party": "NPC"
         }
@@ -1107,7 +1107,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ABRIGO, MAWEEH",
           "party": "NPC"
         }
@@ -1122,58 +1122,58 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "SALAZAR, DECK",
-          "party": "NPC"
-        },
-        {
-          "number": 2,
-          "name": "CATAPANG, TYRON  JOSEPH",
-          "party": "IND"
-        },
-        {
-          "number": 3,
-          "name": "GONZALES, JHUN",
-          "party": "NPC"
-        },
-        {
-          "number": 4,
-          "name": "MACALINTAL, MIRRO",
-          "party": "NPC"
-        },
-        {
-          "number": 5,
-          "name": "MANALO, TEACHER  PAULO",
-          "party": "IND"
-        },
-        {
-          "number": 6,
-          "name": "SANDOVAL, BOYET",
-          "party": "NPC"
-        },
-        {
-          "number": 7,
-          "name": "ILAGAN, RUBEN",
-          "party": "NPC"
-        },
-        {
-          "number": 8,
-          "name": "ROSALES, DOC",
-          "party": "IND"
-        },
-        {
-          "number": 9,
+          "number": "1",
           "name": "ALCARAZ, PAUL JOSHUA",
           "party": "NPC"
         },
         {
-          "number": 10,
+          "number": "2",
           "name": "BORROMEO, JANETH",
           "party": "NPC"
         },
         {
-          "number": 11,
+          "number": "3",
           "name": "CATAPANG, ARCHIE",
+          "party": "NPC"
+        },
+        {
+          "number": "4",
+          "name": "CATAPANG, TYRON  JOSEPH",
+          "party": "IND"
+        },
+        {
+          "number": "5",
+          "name": "GONZALES, JHUN",
+          "party": "NPC"
+        },
+        {
+          "number": "6",
+          "name": "ILAGAN, RUBEN",
+          "party": "NPC"
+        },
+        {
+          "number": "7",
+          "name": "MACALINTAL, MIRRO",
+          "party": "NPC"
+        },
+        {
+          "number": "8",
+          "name": "MANALO, TEACHER  PAULO",
+          "party": "IND"
+        },
+        {
+          "number": "9",
+          "name": "ROSALES, DOC",
+          "party": "IND"
+        },
+        {
+          "number": "10",
+          "name": "SALAZAR, DECK",
+          "party": "NPC"
+        },
+        {
+          "number": "11",
+          "name": "SANDOVAL, BOYET",
           "party": "NPC"
         }
       ]

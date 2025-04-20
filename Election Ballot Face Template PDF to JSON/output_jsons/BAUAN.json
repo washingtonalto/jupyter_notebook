@@ -988,12 +988,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ABU, RANIE",
           "party": "NP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "LUISTRO, JINKY BITRICS",
           "party": "LAKAS"
         }
@@ -1008,22 +1008,22 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "RIVERA, MIKE",
-          "party": "LP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "ILAGAN, JAY MANALO",
           "party": "PROMDI"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "OZAETA, KUYAKAP  WALTER",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "3",
+          "name": "RIVERA, MIKE",
+          "party": "LP"
+        },
+        {
+          "number": "4",
           "name": "SANTOS-RECTO, VILMA",
           "party": "NP"
         }
@@ -1038,17 +1038,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "DOLOR, RYANH",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MANDANAS, DODO",
           "party": "PDPLBN"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "MANZANO, LUIS LUCKY",
           "party": "NP"
         }
@@ -1063,34 +1063,34 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ABU-REYES, DRA. REINA",
           "party": "NP"
         },
         {
-          "number": 2,
-          "name": "LAGRANA, BOY TAKAS",
-          "party": "PFP"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "ALVAREZ, AMY",
           "party": "LAKAS"
         },
         {
-          "number": 4,
-          "name": "RIVERA, JENTLY",
-          "party": "NP"
-        },
-        {
-          "number": 5,
+          "number": "3",
           "name": "DIEZA, RICHARD CHAD",
           "party": "LAKAS"
         },
         {
-          "number": 6,
+          "number": "4",
           "name": "HERNANDEZ, ANDRO",
           "party": "IND"
+        },
+        {
+          "number": "5",
+          "name": "LAGRANA, BOY TAKAS",
+          "party": "PFP"
+        },
+        {
+          "number": "6",
+          "name": "RIVERA, JENTLY",
+          "party": "NP"
         }
       ]
     },
@@ -1103,17 +1103,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ABRAHAN, TRIX",
           "party": "LAKAS"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "BEJER, MARIO",
           "party": "PFP"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "DOLOR, WENDAH  KATRINA",
           "party": "NP"
         }
@@ -1128,17 +1128,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "CASAPAO, BOJIE",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "CRUZAT, RONALD",
           "party": "NP"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "MARAMOT, REN",
           "party": "LAKAS"
         }
@@ -1153,78 +1153,78 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ABANTE, GUENN",
           "party": "NP"
         },
         {
-          "number": 2,
-          "name": "DOLOR, HERO",
-          "party": "NP"
-        },
-        {
-          "number": 3,
-          "name": "LOPEZ, REY",
-          "party": "PFP"
-        },
-        {
-          "number": 4,
-          "name": "ADEL, MARJORIE JELLY",
-          "party": "NP"
-        },
-        {
-          "number": 5,
+          "number": "2",
           "name": "ABRAHAN, JOEY",
           "party": "IND"
         },
         {
-          "number": 6,
-          "name": "BASILAN, ROMEL",
-          "party": "NP"
-        },
-        {
-          "number": 7,
-          "name": "ENDAYA, MICHAEL",
-          "party": "NP"
-        },
-        {
-          "number": 8,
-          "name": "MAGBOO, DIEGO RENIE",
-          "party": "LAKAS"
-        },
-        {
-          "number": 9,
-          "name": "BEJER, VICTOR",
-          "party": "PFP"
-        },
-        {
-          "number": 10,
-          "name": "GARCIA, KUYA JEM",
-          "party": "NP"
-        },
-        {
-          "number": 11,
-          "name": "VALDEZ, NEIL",
-          "party": "NP"
-        },
-        {
-          "number": 12,
+          "number": "3",
           "name": "ABRAHAN, WILLIAM",
           "party": "IND"
         },
         {
-          "number": 13,
+          "number": "4",
           "name": "ABRUGENA, EMIL",
           "party": "IND"
         },
         {
-          "number": 14,
+          "number": "5",
+          "name": "ADEL, MARJORIE JELLY",
+          "party": "NP"
+        },
+        {
+          "number": "6",
+          "name": "BASILAN, ROMEL",
+          "party": "NP"
+        },
+        {
+          "number": "7",
+          "name": "BEJER, VICTOR",
+          "party": "PFP"
+        },
+        {
+          "number": "8",
           "name": "CABRAL, RICHARD",
           "party": "IND"
         },
         {
-          "number": 15,
+          "number": "9",
+          "name": "DOLOR, HERO",
+          "party": "NP"
+        },
+        {
+          "number": "10",
+          "name": "ENDAYA, MICHAEL",
+          "party": "NP"
+        },
+        {
+          "number": "11",
+          "name": "GARCIA, KUYA JEM",
+          "party": "NP"
+        },
+        {
+          "number": "12",
           "name": "GIMENO, JOSEPHINE",
+          "party": "NP"
+        },
+        {
+          "number": "13",
+          "name": "LOPEZ, REY",
+          "party": "PFP"
+        },
+        {
+          "number": "14",
+          "name": "MAGBOO, DIEGO RENIE",
+          "party": "LAKAS"
+        },
+        {
+          "number": "15",
+          "name": "VALDEZ, NEIL",
           "party": "NP"
         }
       ]

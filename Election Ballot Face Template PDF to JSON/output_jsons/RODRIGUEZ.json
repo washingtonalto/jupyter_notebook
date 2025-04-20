@@ -991,12 +991,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "HERNANDEZ, TOM",
           "party": "NPC"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "NOGRALES, FIDEL",
           "party": "LAKAS"
         }
@@ -1011,22 +1011,22 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ACOL, GLENN",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "PEREZ, RONALD",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "VELASCO, JOSE",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "4",
           "name": "YNARES, NINA",
           "party": "NPC"
         }
@@ -1041,28 +1041,28 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BADAJOS, IMEE",
           "party": "PDSP"
         },
         {
-          "number": 2,
-          "name": "MANUEL, REYNALDO",
-          "party": "IND"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "BAUTISTA, KUYA JOJO",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "3",
           "name": "GATLABAYAN, PINING",
           "party": "NPC"
         },
         {
-          "number": 5,
+          "number": "4",
           "name": "GUILLERGAN, GHERRY",
+          "party": "IND"
+        },
+        {
+          "number": "5",
+          "name": "MANUEL, REYNALDO",
           "party": "IND"
         }
       ]
@@ -1076,23 +1076,23 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AYUSON, RAFHAEL",
           "party": "NPC"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "PASCUA, LOT",
           "party": "IND"
         },
         {
-          "number": 3,
-          "name": "SANTOS, OLIVER",
+          "number": "3",
+          "name": "PASCUAL, BENJAMIN",
           "party": "IND"
         },
         {
-          "number": 4,
-          "name": "PASCUAL, BENJAMIN",
+          "number": "4",
+          "name": "SANTOS, OLIVER",
           "party": "IND"
         }
       ]
@@ -1106,38 +1106,38 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BRADY, VALENTINE",
           "party": "IND"
         },
         {
-          "number": 2,
-          "name": "JAVIER, DOC",
-          "party": "IND"
-        },
-        {
-          "number": 3,
-          "name": "SALVADOR, KUYA DON",
-          "party": "IND"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "ELAM, ANTONINO",
           "party": "IND"
         },
         {
-          "number": 5,
-          "name": "LIRAZAN, ANECITO",
-          "party": "IND"
-        },
-        {
-          "number": 6,
+          "number": "3",
           "name": "EVANGELISTA, GENERAL",
           "party": "NPC"
         },
         {
-          "number": 7,
+          "number": "4",
           "name": "GRECIA, KUYA ROMY",
+          "party": "IND"
+        },
+        {
+          "number": "5",
+          "name": "JAVIER, DOC",
+          "party": "IND"
+        },
+        {
+          "number": "6",
+          "name": "LIRAZAN, ANECITO",
+          "party": "IND"
+        },
+        {
+          "number": "7",
+          "name": "SALVADOR, KUYA DON",
           "party": "IND"
         }
       ]
@@ -1151,17 +1151,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AMOR, ELMER",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "SISON, UMPEK",
           "party": "NPC"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "TEROWA, AKMAD",
           "party": "IND"
         }
@@ -1176,142 +1176,142 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "DE VERA, ARNEL",
-          "party": "NPC"
-        },
-        {
-          "number": 2,
-          "name": "NAVARRA, JONAVZ",
-          "party": "IND"
-        },
-        {
-          "number": 3,
-          "name": "SIMBULAN, ISNOK  GREM",
-          "party": "PFP"
-        },
-        {
-          "number": 4,
-          "name": "NERY, ROLAND",
-          "party": "PFP"
-        },
-        {
-          "number": 5,
-          "name": "TORIO, JT",
-          "party": "PFP"
-        },
-        {
-          "number": 6,
+          "number": "1",
           "name": "ACOB, MARK DAVID",
           "party": "NPC"
         },
         {
-          "number": 7,
+          "number": "2",
           "name": "ACOPIO, ALEXANDER",
           "party": "IND"
         },
         {
-          "number": 8,
+          "number": "3",
           "name": "ALCALA, ROLANDO",
           "party": "IND"
         },
         {
-          "number": 9,
-          "name": "DELOS ANGELES, KUYA  MATT",
-          "party": "IND"
-        },
-        {
-          "number": 10,
-          "name": "GALVAN, EDHEL NIÑO",
-          "party": "IND"
-        },
-        {
-          "number": 11,
-          "name": "GONZAGA, LLOYD",
-          "party": "IND"
-        },
-        {
-          "number": 12,
+          "number": "4",
           "name": "BUHISAN, PASTOR  MANNY",
           "party": "IND"
         },
         {
-          "number": 13,
-          "name": "TORRES, MAJOR BONG",
-          "party": "PFP"
-        },
-        {
-          "number": 14,
-          "name": "TORRES, MR. CLEAN",
-          "party": "PFP"
-        },
-        {
-          "number": 15,
+          "number": "5",
           "name": "BUIZON, DECK",
           "party": "NPC"
         },
         {
-          "number": 16,
-          "name": "LAZARTE, DECK",
-          "party": "NPC"
-        },
-        {
-          "number": 17,
-          "name": "UMALI, ONAT",
-          "party": "UNIDO"
-        },
-        {
-          "number": 18,
+          "number": "6",
           "name": "CUADERNO, DEODATO  ANGELO",
           "party": "IND"
         },
         {
-          "number": 19,
-          "name": "MARCELO, MANOK",
-          "party": "NPC"
-        },
-        {
-          "number": 20,
-          "name": "RIVERA, ARNOLD",
-          "party": "UNIDO"
-        },
-        {
-          "number": 21,
-          "name": "RIZAL, FRANCISCO",
-          "party": "IND"
-        },
-        {
-          "number": 22,
-          "name": "RODRIGUEZ, IVAN",
-          "party": "NPC"
-        },
-        {
-          "number": 23,
-          "name": "RONGCALES, NATALIO",
-          "party": "IND"
-        },
-        {
-          "number": 24,
+          "number": "7",
           "name": "CUERPO, ANNE",
           "party": "PFP"
         },
         {
-          "number": 25,
+          "number": "8",
+          "name": "DE VERA, ARNEL",
+          "party": "NPC"
+        },
+        {
+          "number": "9",
+          "name": "DELOS ANGELES, KUYA  MATT",
+          "party": "IND"
+        },
+        {
+          "number": "10",
+          "name": "GALVAN, EDHEL NIÑO",
+          "party": "IND"
+        },
+        {
+          "number": "11",
+          "name": "GONZAGA, LLOYD",
+          "party": "IND"
+        },
+        {
+          "number": "12",
+          "name": "LAZARTE, DECK",
+          "party": "NPC"
+        },
+        {
+          "number": "13",
+          "name": "MARCELO, MANOK",
+          "party": "NPC"
+        },
+        {
+          "number": "14",
           "name": "MONARES, EDWIN",
           "party": "PFP"
         },
         {
-          "number": 26,
+          "number": "15",
+          "name": "NAVARRA, JONAVZ",
+          "party": "IND"
+        },
+        {
+          "number": "16",
+          "name": "NERY, ROLAND",
+          "party": "PFP"
+        },
+        {
+          "number": "17",
+          "name": "RIVERA, ARNOLD",
+          "party": "UNIDO"
+        },
+        {
+          "number": "18",
+          "name": "RIZAL, FRANCISCO",
+          "party": "IND"
+        },
+        {
+          "number": "19",
+          "name": "RODRIGUEZ, IVAN",
+          "party": "NPC"
+        },
+        {
+          "number": "20",
+          "name": "RONGCALES, NATALIO",
+          "party": "IND"
+        },
+        {
+          "number": "21",
           "name": "SILVA, ELVIE",
           "party": "IND"
         },
         {
-          "number": 27,
+          "number": "22",
+          "name": "SIMBULAN, ISNOK  GREM",
+          "party": "PFP"
+        },
+        {
+          "number": "23",
+          "name": "TORIO, JT",
+          "party": "PFP"
+        },
+        {
+          "number": "24",
+          "name": "TORRES, MAJOR BONG",
+          "party": "PFP"
+        },
+        {
+          "number": "25",
+          "name": "TORRES, MR. CLEAN",
+          "party": "PFP"
+        },
+        {
+          "number": "26",
+          "name": "UMALI, ONAT",
+          "party": "UNIDO"
+        },
+        {
+          "number": "27",
           "name": "VALDEAVILLA, NESS",
           "party": "IND"
         },
         {
-          "number": 28,
+          "number": "28",
           "name": "VISAYA, MANUEL JR.",
           "party": "IND"
         }

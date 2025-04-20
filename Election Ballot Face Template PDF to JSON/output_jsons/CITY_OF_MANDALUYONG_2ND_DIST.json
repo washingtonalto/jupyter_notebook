@@ -989,7 +989,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "GONZALES, QUEENIE",
           "party": "NUP"
         }
@@ -1004,7 +1004,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ABALOS, MENCHIE",
           "party": "PFP"
         }
@@ -1019,7 +1019,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "SUVA, ANTHONY",
           "party": "PFP"
         }
@@ -1034,47 +1034,47 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ABALOS, BENJIE",
           "party": "PFP"
         },
         {
-          "number": 2,
-          "name": "BACAR, BOYETT",
-          "party": "AKSYON"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "ANTIOJO, REGIE",
           "party": "PFP"
         },
         {
-          "number": 4,
-          "name": "CRUZ, LESLIE",
-          "party": "PFP"
-        },
-        {
-          "number": 5,
+          "number": "3",
           "name": "APACIONADO, DARIUS  RAZON",
           "party": "IND"
         },
         {
-          "number": 6,
+          "number": "4",
+          "name": "BACAR, BOYETT",
+          "party": "AKSYON"
+        },
+        {
+          "number": "5",
+          "name": "CRUZ, LESLIE",
+          "party": "PFP"
+        },
+        {
+          "number": "6",
           "name": "CUEJILO, BOTONG  GONZALES",
           "party": "PFP"
         },
         {
-          "number": 7,
+          "number": "7",
           "name": "DE QUINTO, BOY",
           "party": "PDPLBN"
         },
         {
-          "number": 8,
+          "number": "8",
           "name": "OCAMPO, DONG",
           "party": "PDPLBN"
         },
         {
-          "number": 9,
+          "number": "9",
           "name": "STA. MARIA, DOC ALEX",
           "party": "PFP"
         }

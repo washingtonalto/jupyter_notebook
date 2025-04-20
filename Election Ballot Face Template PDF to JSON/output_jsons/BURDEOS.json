@@ -989,7 +989,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ENVERGA, MARK",
           "party": "NPC"
         }
@@ -1004,7 +1004,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, DOKTORA HELEN",
           "party": "STAN Q"
         }
@@ -1019,17 +1019,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, THIRD",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ALPAJORA, ARMINGOL",
           "party": "KBL"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "CAPINA, TEODORICO",
           "party": "IND"
         }
@@ -1044,32 +1044,32 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "LUCES, JULIUS",
-          "party": "STAN Q"
-        },
-        {
-          "number": 2,
-          "name": "OBISPO, ALONA",
-          "party": "PFP"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "ALCALA, CHRISTIAN  PAUL",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "2",
           "name": "GARCIA, NATHALIE",
           "party": "KBL"
         },
         {
-          "number": 5,
+          "number": "3",
+          "name": "LUCES, JULIUS",
+          "party": "STAN Q"
+        },
+        {
+          "number": "4",
           "name": "NANTES, SAM",
           "party": "LAKAS"
         },
         {
-          "number": 6,
+          "number": "5",
+          "name": "OBISPO, ALONA",
+          "party": "PFP"
+        },
+        {
+          "number": "6",
           "name": "SARONA, GEN. ELMO  RINGO",
           "party": "NPC"
         }
@@ -1084,12 +1084,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BENDAL, ARIEL",
           "party": "NPC"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "GONZALES, GINA",
           "party": "STAN \nQ"
         }
@@ -1104,17 +1104,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AVILA, PUTI",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "FEBRER, EBET KAPT.",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "UNGRIANO, DANNY",
           "party": "IND"
         }
@@ -1129,94 +1129,94 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "TORIO, ZALDY",
-          "party": "NPC"
-        },
-        {
-          "number": 2,
-          "name": "CUENTO, JOHN LESTER",
-          "party": "IND"
-        },
-        {
-          "number": 3,
-          "name": "ENCOMIENDA, MELLISA",
-          "party": "LAKAS"
-        },
-        {
-          "number": 4,
-          "name": "SANTIDAD,  LEODEGARIO JR.",
-          "party": "NPC"
-        },
-        {
-          "number": 5,
-          "name": "SANTOALLA, DATOR",
-          "party": "STAN Q"
-        },
-        {
-          "number": 6,
-          "name": "LAPE, JAKE",
-          "party": "NPC"
-        },
-        {
-          "number": 7,
-          "name": "SUAREZ, DANIEL",
-          "party": "NPC"
-        },
-        {
-          "number": 8,
+          "number": "1",
           "name": "AGARAO, EDISON",
           "party": "STAN \nQ"
         },
         {
-          "number": 9,
+          "number": "2",
           "name": "ASUNCION, CHOKOY",
           "party": "STAN Q"
         },
         {
-          "number": 10,
+          "number": "3",
           "name": "AVENILLA, MEMEL",
           "party": "STAN\nQ"
         },
         {
-          "number": 11,
-          "name": "TURGO, HENRY",
-          "party": "STAN \nQ"
-        },
-        {
-          "number": 12,
-          "name": "UNGRIANO, DENMARK",
-          "party": "NPC"
-        },
-        {
-          "number": 13,
+          "number": "4",
           "name": "AYUSO, HAIDE",
           "party": "NPC"
         },
         {
-          "number": 14,
-          "name": "TALISAYON, ROMMEL",
-          "party": "NPC"
-        },
-        {
-          "number": 15,
+          "number": "5",
           "name": "BONIEL, JERIC",
           "party": "NPC"
         },
         {
-          "number": 16,
-          "name": "TAN, OBREN",
-          "party": "STAN Q"
+          "number": "6",
+          "name": "CUENTO, JOHN LESTER",
+          "party": "IND"
         },
         {
-          "number": 17,
+          "number": "7",
+          "name": "ENCOMIENDA, MELLISA",
+          "party": "LAKAS"
+        },
+        {
+          "number": "8",
+          "name": "LAPE, JAKE",
+          "party": "NPC"
+        },
+        {
+          "number": "9",
           "name": "LUCERO, MENIA",
           "party": "STAN \nQ"
         },
         {
-          "number": 18,
+          "number": "10",
           "name": "NAZARENO, ROMMEL",
           "party": "IND"
+        },
+        {
+          "number": "11",
+          "name": "SANTIDAD,  LEODEGARIO JR.",
+          "party": "NPC"
+        },
+        {
+          "number": "12",
+          "name": "SANTOALLA, DATOR",
+          "party": "STAN Q"
+        },
+        {
+          "number": "13",
+          "name": "SUAREZ, DANIEL",
+          "party": "NPC"
+        },
+        {
+          "number": "14",
+          "name": "TALISAYON, ROMMEL",
+          "party": "NPC"
+        },
+        {
+          "number": "15",
+          "name": "TAN, OBREN",
+          "party": "STAN Q"
+        },
+        {
+          "number": "16",
+          "name": "TORIO, ZALDY",
+          "party": "NPC"
+        },
+        {
+          "number": "17",
+          "name": "TURGO, HENRY",
+          "party": "STAN \nQ"
+        },
+        {
+          "number": "18",
+          "name": "UNGRIANO, DENMARK",
+          "party": "NPC"
         }
       ]
     }

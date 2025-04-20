@@ -990,7 +990,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, ATORNI MIKE",
           "party": "NPC"
         }
@@ -1005,7 +1005,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, DOKTORA HELEN",
           "party": "STAN Q"
         }
@@ -1020,17 +1020,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, THIRD",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ALPAJORA, ARMINGOL",
           "party": "KBL"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "CAPINA, TEODORICO",
           "party": "IND"
         }
@@ -1045,17 +1045,17 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "EDUARTE, OLA",
-          "party": "STAN Q"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "BUTARDO, HAROLD",
           "party": "STAN Q"
         },
         {
-          "number": 3,
+          "number": "2",
+          "name": "EDUARTE, OLA",
+          "party": "STAN Q"
+        },
+        {
+          "number": "3",
           "name": "UBANA, RACHEL",
           "party": "STAN \nQ"
         }
@@ -1070,7 +1070,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ELEAZAR, CARLO",
           "party": "STAN \nQ"
         }
@@ -1085,7 +1085,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "LIWANAG, DANNY",
           "party": "STAN\nQ"
         }
@@ -1100,78 +1100,78 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "SAN BUENAVENTURA,  LEO",
-          "party": "STAN Q"
-        },
-        {
-          "number": 2,
-          "name": "SANDRO, SANDER",
-          "party": "LAKAS"
-        },
-        {
-          "number": 3,
-          "name": "WAGAN, JOSIE",
-          "party": "STAN Q"
-        },
-        {
-          "number": 4,
+          "number": "1",
           "name": "BENEDICTO, WAYANG",
           "party": "LAKAS"
         },
         {
-          "number": 5,
+          "number": "2",
           "name": "DE VERO, KA BOMEL",
           "party": "STAN Q"
         },
         {
-          "number": 6,
+          "number": "3",
           "name": "ELEAZAR, RACHEL",
           "party": "STAN \nQ"
         },
         {
-          "number": 7,
-          "name": "ESCOBAR, MARJO",
-          "party": "LAKAS"
-        },
-        {
-          "number": 8,
-          "name": "FRONDOSO, JOJO",
-          "party": "LAKAS"
-        },
-        {
-          "number": 9,
-          "name": "LEGASPI, JUSTINO",
-          "party": "LAKAS"
-        },
-        {
-          "number": 10,
+          "number": "4",
           "name": "ENRIQUEZ, JOEL",
           "party": "LAKAS"
         },
         {
-          "number": 11,
+          "number": "5",
+          "name": "ESCOBAR, MARJO",
+          "party": "LAKAS"
+        },
+        {
+          "number": "6",
+          "name": "FRONDOSO, JOJO",
+          "party": "LAKAS"
+        },
+        {
+          "number": "7",
+          "name": "LEGASPI, JUSTINO",
+          "party": "LAKAS"
+        },
+        {
+          "number": "8",
           "name": "LINGON, ED",
           "party": "IND"
         },
         {
-          "number": 12,
+          "number": "9",
           "name": "LOPAMIA, GEORGE",
           "party": "STAN Q"
         },
         {
-          "number": 13,
+          "number": "10",
           "name": "MAGPANTAY, BOTOK",
           "party": "STAN Q"
         },
         {
-          "number": 14,
+          "number": "11",
           "name": "MASANGKAY, REVIE",
           "party": "STAN Q"
         },
         {
-          "number": 15,
+          "number": "12",
           "name": "SALUMBIDES, FOURTH",
+          "party": "STAN Q"
+        },
+        {
+          "number": "13",
+          "name": "SAN BUENAVENTURA,  LEO",
+          "party": "STAN Q"
+        },
+        {
+          "number": "14",
+          "name": "SANDRO, SANDER",
+          "party": "LAKAS"
+        },
+        {
+          "number": "15",
+          "name": "WAGAN, JOSIE",
           "party": "STAN Q"
         }
       ]

@@ -989,22 +989,22 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "ORETA, LENLEN",
-          "party": "NUP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "DELA CRUZ, NINONG",
           "party": "PDPLBN"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "NOEL, BEM LACSON",
           "party": "NPC"
         },
         {
-          "number": 4,
+          "number": "3",
+          "name": "ORETA, LENLEN",
+          "party": "NUP"
+        },
+        {
+          "number": "4",
           "name": "SANDOVAL, RICKY",
           "party": "LAKAS"
         }
@@ -1019,12 +1019,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "LACSON-NOEL, JAYE",
           "party": "NPC"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "SANDOVAL, JEANNIE",
           "party": "NP"
         }
@@ -1039,22 +1039,22 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "GARCIA, JAP",
-          "party": "NUP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "CUNANAN, DADO",
           "party": "PDPLBN"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "DELA CRUZ, ANGELIKA",
           "party": "NPC"
         },
         {
-          "number": 4,
+          "number": "3",
+          "name": "GARCIA, JAP",
+          "party": "NUP"
+        },
+        {
+          "number": "4",
           "name": "NOLASCO, EDWARD",
           "party": "LAKAS"
         }
@@ -1069,79 +1069,79 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "DIZON, STAR",
-          "party": "NP"
-        },
-        {
-          "number": 2,
-          "name": "ORETA, ENZO",
-          "party": "NUP"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "AÑORA, ARCHIE JADE",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "2",
           "name": "CABRERA, PAUL JR.",
           "party": "IND"
         },
         {
-          "number": 5,
-          "name": "ROQUE, MARK",
-          "party": "NPC"
-        },
-        {
-          "number": 6,
+          "number": "3",
           "name": "CRUZ, JASPER",
           "party": "LAKAS"
         },
         {
-          "number": 7,
+          "number": "4",
+          "name": "CUNANAN, ROM",
+          "party": "PDPLBN"
+        },
+        {
+          "number": "5",
+          "name": "DIZON, STAR",
+          "party": "NP"
+        },
+        {
+          "number": "6",
           "name": "DUSARAN, BIG MAMA  ERIKA",
           "party": "NPC"
         },
         {
-          "number": 8,
+          "number": "7",
           "name": "GALAURAN, AL NIÑO",
           "party": "PFP"
         },
         {
-          "number": 9,
-          "name": "MAÑALAC, ALVIN  DABOY",
-          "party": "NPC"
-        },
-        {
-          "number": 10,
-          "name": "MAÑALAC, MONAY",
-          "party": "PFP"
-        },
-        {
-          "number": 11,
-          "name": "VICENCIO, NADJA  MARIE",
-          "party": "PMP"
-        },
-        {
-          "number": 12,
+          "number": "8",
           "name": "LIM, SONIA",
           "party": "NPC"
         },
         {
-          "number": 13,
+          "number": "10",
+          "name": "MAÑALAC, ALVIN  DABOY",
+          "party": "NPC"
+        },
+        {
+          "number": "11",
+          "name": "MAÑALAC, MONAY",
+          "party": "PFP"
+        },
+        {
+          "number": "12",
           "name": "MANZON, ADING",
           "party": "NPC"
         },
         {
-          "number": 14,
-          "name": "YANGA, LEN",
-          "party": "PFP"
+          "number": "13",
+          "name": "ORETA, ENZO",
+          "party": "NUP"
         },
         {
-          "number": 15,
-          "name": "CUNANAN, ROM",
-          "party": "PDPLBN"
+          "number": "14",
+          "name": "ROQUE, MARK",
+          "party": "NPC"
+        },
+        {
+          "number": "15",
+          "name": "VICENCIO, NADJA  MARIE",
+          "party": "PMP"
+        },
+        {
+          "number": "16",
+          "name": "YANGA, LEN",
+          "party": "PFP"
         }
       ]
     }

@@ -991,14 +991,14 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "SESE, VINCENT",
-          "party": "UNA"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "ALMARIO, ALDEN",
           "party": "MKTZNU"
+        },
+        {
+          "number": "2",
+          "name": "SESE, VINCENT",
+          "party": "UNA"
         }
       ]
     },
@@ -1011,22 +1011,22 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BINAY, NANCY",
           "party": "UNA"
         },
         {
-          "number": 2,
-          "name": "NERI, VICTOR",
-          "party": "IND"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "CAMPOS, ABBYLUIS",
           "party": "NPC"
         },
         {
-          "number": 4,
+          "number": "3",
+          "name": "NERI, VICTOR",
+          "party": "IND"
+        },
+        {
+          "number": "4",
           "name": "SOLIDUM, ORLANDO  STEPHEN",
           "party": "IND"
         }
@@ -1041,14 +1041,14 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "PEÑA, KID",
-          "party": "NPC"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "DEL ROSARIO,  MONSOUR",
           "party": "UNA"
+        },
+        {
+          "number": "2",
+          "name": "PEÑA, KID",
+          "party": "NPC"
         }
       ]
     },
@@ -1061,78 +1061,78 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "TOLENTINO, RUTH",
-          "party": "UNA"
-        },
-        {
-          "number": 2,
-          "name": "VITALES, BEL",
-          "party": "MKTZNU"
-        },
-        {
-          "number": 3,
-          "name": "RAMBOYONG, LEVY",
-          "party": "UNA"
-        },
-        {
-          "number": 4,
-          "name": "SALUDO, REYNANTE",
-          "party": "IND"
-        },
-        {
-          "number": 5,
-          "name": "SAROSA, INA",
-          "party": "MKTZNU"
-        },
-        {
-          "number": 6,
-          "name": "YABUT, KING",
-          "party": "UNA"
-        },
-        {
-          "number": 7,
+          "number": "1",
           "name": "ANGELES, HEIN",
           "party": "MKTZNU"
         },
         {
-          "number": 8,
+          "number": "2",
           "name": "ARAYON, DOC DORIS",
           "party": "MKTZNU"
         },
         {
-          "number": 9,
+          "number": "3",
           "name": "ARIONES, BONG",
           "party": "MKTZNU"
         },
         {
-          "number": 10,
-          "name": "BANIQUED, BODIK",
-          "party": "MKTZNU"
-        },
-        {
-          "number": 11,
-          "name": "CALIMBAHIN,  MAFFYSOLER",
-          "party": "MKTZNU"
-        },
-        {
-          "number": 12,
-          "name": "HECHANOVA, MARIO",
-          "party": "UNA"
-        },
-        {
-          "number": 13,
+          "number": "4",
           "name": "BALUYUT, JEFF",
           "party": "UNA"
         },
         {
-          "number": 14,
+          "number": "5",
+          "name": "BANIQUED, BODIK",
+          "party": "MKTZNU"
+        },
+        {
+          "number": "6",
+          "name": "CALIMBAHIN,  MAFFYSOLER",
+          "party": "MKTZNU"
+        },
+        {
+          "number": "7",
+          "name": "HECHANOVA, MARIO",
+          "party": "UNA"
+        },
+        {
+          "number": "8",
           "name": "MARQUEZ, ED",
           "party": "MKTZNU"
         },
         {
-          "number": 15,
+          "number": "9",
+          "name": "RAMBOYONG, LEVY",
+          "party": "UNA"
+        },
+        {
+          "number": "10",
+          "name": "SALUDO, REYNANTE",
+          "party": "IND"
+        },
+        {
+          "number": "11",
+          "name": "SAROSA, INA",
+          "party": "MKTZNU"
+        },
+        {
+          "number": "12",
           "name": "SESE, BERNADETTE",
+          "party": "UNA"
+        },
+        {
+          "number": "13",
+          "name": "TOLENTINO, RUTH",
+          "party": "UNA"
+        },
+        {
+          "number": "14",
+          "name": "VITALES, BEL",
+          "party": "MKTZNU"
+        },
+        {
+          "number": "15",
+          "name": "YABUT, KING",
           "party": "UNA"
         }
       ]

@@ -988,19 +988,19 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BURGOS, NESTOR",
           "party": "IND"
         },
         {
-          "number": 2,
-          "name": "LEVISTE, MARK",
-          "party": "IND"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "COLLANTES, ATTY. KING",
           "party": "NPC"
+        },
+        {
+          "number": "3",
+          "name": "LEVISTE, MARK",
+          "party": "IND"
         }
       ]
     },
@@ -1013,22 +1013,22 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "RIVERA, MIKE",
-          "party": "LP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "ILAGAN, JAY MANALO",
           "party": "PROMDI"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "OZAETA, KUYAKAP  WALTER",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "3",
+          "name": "RIVERA, MIKE",
+          "party": "LP"
+        },
+        {
+          "number": "4",
           "name": "SANTOS-RECTO, VILMA",
           "party": "NP"
         }
@@ -1043,17 +1043,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "DOLOR, RYANH",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MANDANAS, DODO",
           "party": "PDPLBN"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "MANZANO, LUIS LUCKY",
           "party": "NP"
         }
@@ -1068,17 +1068,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BALBA, RUDY",
           "party": "NP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "CORONA, FRED",
           "party": "NP"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "MACALINTAL, DENNIS",
           "party": "PFP"
         }
@@ -1093,12 +1093,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ABU, ADMIRAL ART",
           "party": "PFP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "REYES, CRISTETA",
           "party": "NP"
         }
@@ -1113,12 +1113,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "LAT, EMIL",
           "party": "PFP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MAGPANTAY, ATTY. FE",
           "party": "NP"
         }
@@ -1133,54 +1133,54 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ABU, KURT",
           "party": "PFP"
         },
         {
-          "number": 2,
-          "name": "LAT, BERT",
-          "party": "PFP"
-        },
-        {
-          "number": 3,
-          "name": "PITOGO, EDNA",
-          "party": "IND"
-        },
-        {
-          "number": 4,
-          "name": "TAGLE, DRA. TAGLE",
-          "party": "NP"
-        },
-        {
-          "number": 5,
+          "number": "2",
           "name": "ARANDA, MATT",
           "party": "PFP"
         },
         {
-          "number": 6,
-          "name": "LICARTE, DOC EDDIE",
-          "party": "NP"
-        },
-        {
-          "number": 7,
-          "name": "PLATON, MR VITAMINS",
-          "party": "PFP"
-        },
-        {
-          "number": 8,
+          "number": "3",
           "name": "BASILAN, DICK",
           "party": "IND"
         },
         {
-          "number": 9,
+          "number": "4",
+          "name": "LAT, BERT",
+          "party": "PFP"
+        },
+        {
+          "number": "5",
+          "name": "LICARTE, DOC EDDIE",
+          "party": "NP"
+        },
+        {
+          "number": "6",
+          "name": "MORCILLA, ATTY. RALPH",
+          "party": "PFP"
+        },
+        {
+          "number": "7",
+          "name": "PITOGO, EDNA",
+          "party": "IND"
+        },
+        {
+          "number": "8",
+          "name": "PLATON, MR VITAMINS",
+          "party": "PFP"
+        },
+        {
+          "number": "9",
           "name": "REYES, KARINA",
           "party": "NP"
         },
         {
-          "number": 10,
-          "name": "MORCILLA, ATTY. RALPH",
-          "party": "PFP"
+          "number": "10",
+          "name": "TAGLE, DRA. TAGLE",
+          "party": "NP"
         }
       ]
     }

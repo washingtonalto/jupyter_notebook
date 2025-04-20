@@ -988,12 +988,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "LOYOLA, ROY",
           "party": "NPC"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "TOLENTINO, JULIE",
           "party": "IND"
         }
@@ -1008,24 +1008,24 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
+          "name": "AGUINALDO, WENG",
+          "party": "IND"
+        },
+        {
+          "number": "2",
           "name": "BER ADO, GB",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "3",
           "name": "PERA, AUGUSTO JR.",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "4",
           "name": "REMULLA, ABENG",
           "party": "NUP"
-        },
-        {
-          "number": 4,
-          "name": "AGUINALDO, WENG",
-          "party": "IND"
         }
       ]
     },
@@ -1038,7 +1038,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BAUTISTA, RAM REVILLA",
           "party": "LAKAS"
         }
@@ -1053,12 +1053,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BELAMIDE, AIDEL",
           "party": "NUP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "REYES, IVEE",
           "party": "NUP"
         }
@@ -1073,24 +1073,24 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "POBLETE, OMIL",
-          "party": "PMP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "AMBULO, MARIANO JR.",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "ANARNA, ATTY KEVIN",
           "party": "NUP"
         },
         {
-          "number": 4,
+          "number": "3",
           "name": "CARRANZA, GENTED",
           "party": "NPC"
+        },
+        {
+          "number": "4",
+          "name": "POBLETE, OMIL",
+          "party": "PMP"
         }
       ]
     },
@@ -1103,24 +1103,24 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AMUTAN, MACOY",
           "party": "NUP"
         },
         {
-          "number": 2,
+          "number": "2",
+          "name": "GUARIN, ARMIN",
+          "party": "AKSYON"
+        },
+        {
+          "number": "3",
           "name": "REYES, CRIS KIDLAT",
           "party": "LP"
         },
         {
-          "number": 3,
+          "number": "4",
           "name": "TOLEDO, MAT",
           "party": "NPC"
-        },
-        {
-          "number": 4,
-          "name": "GUARIN, ARMIN",
-          "party": "AKSYON"
         }
       ]
     },
@@ -1133,139 +1133,139 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AMBON, ATTYZALDY",
           "party": "NPC"
         },
         {
-          "number": 2,
-          "name": "MAGNAYE, FREDDIE",
-          "party": "NPC"
-        },
-        {
-          "number": 3,
-          "name": "POBLETE, FELICIANO",
-          "party": "IND"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "AMUTAN, IVAN",
           "party": "NUP"
         },
         {
-          "number": 5,
-          "name": "MONTOJO, ERWIN",
-          "party": "LP"
-        },
-        {
-          "number": 6,
-          "name": "POBLETE, NOLI",
-          "party": "LP"
-        },
-        {
-          "number": 7,
-          "name": "DONEZA, ISANG-BAGSAK",
-          "party": "NUP"
-        },
-        {
-          "number": 8,
-          "name": "GANA-POBLETE, CHIT",
-          "party": "AKSYON"
-        },
-        {
-          "number": 9,
-          "name": "GARCIA, COKIAT",
-          "party": "NUP"
-        },
-        {
-          "number": 10,
-          "name": "MORTEL, LEO",
-          "party": "IND"
-        },
-        {
-          "number": 11,
-          "name": "TOLEDO, OHMIE",
-          "party": "NUP"
-        },
-        {
-          "number": 12,
+          "number": "3",
           "name": "BATINGAL, JUNJANG",
           "party": "NUP"
         },
         {
-          "number": 13,
+          "number": "4",
           "name": "BAUTISTA, FRANCIS",
           "party": "AKSYON"
         },
         {
-          "number": 14,
-          "name": "TOLENTINO, ALLAN",
-          "party": "NUP"
-        },
-        {
-          "number": 15,
+          "number": "5",
           "name": "BELARDO, GERRY",
           "party": "IND"
         },
         {
-          "number": 16,
-          "name": "VELAZCO, ARI",
-          "party": "NUP"
-        },
-        {
-          "number": 17,
-          "name": "KIAMZON, KAP ALVIN",
-          "party": "PMP"
-        },
-        {
-          "number": 18,
-          "name": "LEGASPI, KAP HOPIA",
-          "party": "PMP"
-        },
-        {
-          "number": 19,
-          "name": "LOYOLA, ARA",
-          "party": "NPC"
-        },
-        {
-          "number": 20,
-          "name": "ZONIO, DEO",
-          "party": "PMP"
-        },
-        {
-          "number": 21,
+          "number": "6",
           "name": "CALVADORES,  JEROMENINONG",
           "party": "IND"
         },
         {
-          "number": 22,
+          "number": "7",
           "name": "DESINGAÑO, PEPING",
           "party": "UNIDO"
         },
         {
-          "number": 23,
+          "number": "8",
+          "name": "DONEZA, ISANG-BAGSAK",
+          "party": "NUP"
+        },
+        {
+          "number": "9",
+          "name": "GANA-POBLETE, CHIT",
+          "party": "AKSYON"
+        },
+        {
+          "number": "10",
+          "name": "GARCIA, COKIAT",
+          "party": "NUP"
+        },
+        {
+          "number": "11",
+          "name": "KIAMZON, KAP ALVIN",
+          "party": "PMP"
+        },
+        {
+          "number": "12",
+          "name": "LEGASPI, KAP HOPIA",
+          "party": "PMP"
+        },
+        {
+          "number": "13",
+          "name": "LOYOLA, ARA",
+          "party": "NPC"
+        },
+        {
+          "number": "14",
           "name": "MADLANSACAY, CARLO",
           "party": "NUP"
         },
         {
-          "number": 24,
+          "number": "15",
+          "name": "MAGNAYE, FREDDIE",
+          "party": "NPC"
+        },
+        {
+          "number": "16",
+          "name": "MONTOJO, ERWIN",
+          "party": "LP"
+        },
+        {
+          "number": "17",
+          "name": "MORTEL, LEO",
+          "party": "IND"
+        },
+        {
+          "number": "18",
           "name": "OLIVEROS, GABBY",
           "party": "LAKAS"
         },
         {
-          "number": 25,
+          "number": "19",
           "name": "PACIFICAR, MAMA CHE",
           "party": "PMP"
         },
         {
-          "number": 26,
+          "number": "20",
           "name": "PATAWE, NESTOR JOE",
           "party": "IND"
         },
         {
-          "number": 27,
+          "number": "21",
           "name": "PERANDO, PROFJOEY",
           "party": "IND"
+        },
+        {
+          "number": "22",
+          "name": "POBLETE, FELICIANO",
+          "party": "IND"
+        },
+        {
+          "number": "23",
+          "name": "POBLETE, NOLI",
+          "party": "LP"
+        },
+        {
+          "number": "24",
+          "name": "TOLEDO, OHMIE",
+          "party": "NUP"
+        },
+        {
+          "number": "25",
+          "name": "TOLENTINO, ALLAN",
+          "party": "NUP"
+        },
+        {
+          "number": "26",
+          "name": "VELAZCO, ARI",
+          "party": "NUP"
+        },
+        {
+          "number": "27",
+          "name": "ZONIO, DEO",
+          "party": "PMP"
         }
       ]
     }

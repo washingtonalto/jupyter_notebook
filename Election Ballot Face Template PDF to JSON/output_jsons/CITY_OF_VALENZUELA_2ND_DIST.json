@@ -990,12 +990,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "GALANG, GERALD",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MARTINEZ, KAT",
           "party": "NUP"
         }
@@ -1010,7 +1010,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "GATCHALIAN, WES",
           "party": "NPC"
         }
@@ -1025,14 +1025,14 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "GAMAS, GILBERT",
-          "party": "IND"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "ALEJANDRINO, MARLON  IDOL",
           "party": "NPC"
+        },
+        {
+          "number": "2",
+          "name": "GAMAS, GILBERT",
+          "party": "IND"
         }
       ]
     },
@@ -1045,59 +1045,59 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "PINEDA, MICKEY",
-          "party": "NPC"
-        },
-        {
-          "number": 2,
-          "name": "CASTILLO, LETICIA",
-          "party": "MKBYN"
-        },
-        {
-          "number": 3,
-          "name": "NATIVIDAD-BORJA,  LORIE",
-          "party": "NPC"
-        },
-        {
-          "number": 4,
-          "name": "CUETO, DANILO",
-          "party": "IND"
-        },
-        {
-          "number": 5,
-          "name": "NOLASCO, LOUIE",
-          "party": "NPC"
-        },
-        {
-          "number": 6,
-          "name": "SABINO-SY, SEL",
-          "party": "NPC"
-        },
-        {
-          "number": 7,
+          "number": "1",
           "name": "BARCELONA, JV",
           "party": "AKSYON"
         },
         {
-          "number": 8,
+          "number": "2",
           "name": "CANENGNENG, MARVIN",
           "party": "IND"
         },
         {
-          "number": 9,
+          "number": "3",
           "name": "CARREON, CHIQUI",
           "party": "NPC"
         },
         {
-          "number": 10,
+          "number": "4",
+          "name": "CASTILLO, LETICIA",
+          "party": "MKBYN"
+        },
+        {
+          "number": "5",
+          "name": "CUETO, DANILO",
+          "party": "IND"
+        },
+        {
+          "number": "6",
           "name": "LOPEZ, NIÑA",
           "party": "NPC"
         },
         {
-          "number": 11,
+          "number": "7",
+          "name": "NATIVIDAD-BORJA,  LORIE",
+          "party": "NPC"
+        },
+        {
+          "number": "8",
+          "name": "NOLASCO, LOUIE",
+          "party": "NPC"
+        },
+        {
+          "number": "9",
           "name": "ORTEGA, ROMMEL",
           "party": "DPP"
+        },
+        {
+          "number": "10",
+          "name": "PINEDA, MICKEY",
+          "party": "NPC"
+        },
+        {
+          "number": "11",
+          "name": "SABINO-SY, SEL",
+          "party": "NPC"
         }
       ]
     }

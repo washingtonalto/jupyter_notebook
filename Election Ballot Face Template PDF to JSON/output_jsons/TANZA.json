@@ -988,17 +988,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ABUTIN, WALLY",
           "party": "WPP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "REMULLA, PING",
           "party": "NUP"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "SANTOS, MICHAEL  ANGELO",
           "party": "IND"
         }
@@ -1013,24 +1013,24 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
+          "name": "AGUINALDO, WENG",
+          "party": "IND"
+        },
+        {
+          "number": "2",
           "name": "BER ADO, GB",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "3",
           "name": "PERA, AUGUSTO JR.",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "4",
           "name": "REMULLA, ABENG",
           "party": "NUP"
-        },
-        {
-          "number": 4,
-          "name": "AGUINALDO, WENG",
-          "party": "IND"
         }
       ]
     },
@@ -1043,7 +1043,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BAUTISTA, RAM REVILLA",
           "party": "LAKAS"
         }
@@ -1058,24 +1058,24 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AMBION, VER",
           "party": "UNIDO"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ANACAN, ALDRIN",
           "party": "NUP"
         },
         {
-          "number": 3,
-          "name": "SUNGA, ALFREDO",
-          "party": "IND"
-        },
-        {
-          "number": 4,
+          "number": "3",
           "name": "DEL ROSARIO, CAMILLE",
           "party": "AKSYON"
+        },
+        {
+          "number": "4",
+          "name": "SUNGA, ALFREDO",
+          "party": "IND"
         }
       ]
     },
@@ -1088,19 +1088,19 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ARIBAL, MAMI",
           "party": "IND"
         },
         {
-          "number": 2,
-          "name": "MATRO, SM",
-          "party": "NUP"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "DEL ROSARIO, ICEL",
           "party": "AKSYON"
+        },
+        {
+          "number": "3",
+          "name": "MATRO, SM",
+          "party": "NUP"
         }
       ]
     },
@@ -1113,19 +1113,19 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
+          "name": "DEL ROSARIO, MUNDING",
+          "party": "AKSYON"
+        },
+        {
+          "number": "2",
           "name": "GIVERA, PRESCILLA",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "3",
           "name": "SANARIZ, TUTUY",
           "party": "NUP"
-        },
-        {
-          "number": 3,
-          "name": "DEL ROSARIO, MUNDING",
-          "party": "AKSYON"
         }
       ]
     },
@@ -1138,114 +1138,114 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALARCA, BRANDY",
           "party": "NUP"
         },
         {
-          "number": 2,
-          "name": "DONES, ALEXIS",
-          "party": "NUP"
-        },
-        {
-          "number": 3,
-          "name": "LANGIT, SHERYL",
-          "party": "NUP"
-        },
-        {
-          "number": 4,
-          "name": "RODRIGUEZ,  JOSEPHINE",
-          "party": "IND"
-        },
-        {
-          "number": 5,
+          "number": "2",
           "name": "ARBUES, ERIC",
           "party": "AKSYON"
         },
         {
-          "number": 6,
-          "name": "ENOC, ROSALINDA",
-          "party": "IND"
-        },
-        {
-          "number": 7,
-          "name": "MATRO, DEREK",
-          "party": "NUP"
-        },
-        {
-          "number": 8,
-          "name": "TORRES, ADDRE",
-          "party": "NUP"
-        },
-        {
-          "number": 9,
+          "number": "3",
           "name": "ARCA, TOTO",
           "party": "AKSYON"
         },
         {
-          "number": 10,
-          "name": "ESTOPITO, ELISA",
-          "party": "IND"
-        },
-        {
-          "number": 11,
-          "name": "MINTU, RYAN",
-          "party": "NUP"
-        },
-        {
-          "number": 12,
-          "name": "TORRES, SABRIE",
-          "party": "AKSYON"
-        },
-        {
-          "number": 13,
-          "name": "MURILLO, VIC",
-          "party": "NUP"
-        },
-        {
-          "number": 14,
-          "name": "VILSES, TONI",
-          "party": "IND"
-        },
-        {
-          "number": 15,
+          "number": "4",
           "name": "CESA-FOJAS, ESPIE",
           "party": "AKSYON"
         },
         {
-          "number": 16,
-          "name": "JOAQUIN, BONIFACIO",
-          "party": "IND"
-        },
-        {
-          "number": 17,
+          "number": "5",
           "name": "CRUTO,  MA. LUISA",
           "party": "IND"
         },
         {
-          "number": 18,
-          "name": "JOYA, TOTIE",
-          "party": "AKSYON"
-        },
-        {
-          "number": 19,
-          "name": "NER, POGLOY",
-          "party": "AKSYON"
-        },
-        {
-          "number": 20,
-          "name": "LANGIT, LITO",
-          "party": "NUP"
-        },
-        {
-          "number": 21,
+          "number": "6",
           "name": "DEL ROSARIO, TOTOY",
           "party": "AKSYON"
         },
         {
-          "number": 22,
+          "number": "7",
+          "name": "DONES, ALEXIS",
+          "party": "NUP"
+        },
+        {
+          "number": "8",
+          "name": "ENOC, ROSALINDA",
+          "party": "IND"
+        },
+        {
+          "number": "9",
+          "name": "ESTOPITO, ELISA",
+          "party": "IND"
+        },
+        {
+          "number": "10",
+          "name": "JOAQUIN, BONIFACIO",
+          "party": "IND"
+        },
+        {
+          "number": "11",
+          "name": "JOYA, TOTIE",
+          "party": "AKSYON"
+        },
+        {
+          "number": "12",
+          "name": "LANGIT, LITO",
+          "party": "NUP"
+        },
+        {
+          "number": "13",
+          "name": "LANGIT, SHERYL",
+          "party": "NUP"
+        },
+        {
+          "number": "14",
+          "name": "MATRO, DEREK",
+          "party": "NUP"
+        },
+        {
+          "number": "15",
+          "name": "MINTU, RYAN",
+          "party": "NUP"
+        },
+        {
+          "number": "16",
+          "name": "MURILLO, VIC",
+          "party": "NUP"
+        },
+        {
+          "number": "17",
+          "name": "NER, POGLOY",
+          "party": "AKSYON"
+        },
+        {
+          "number": "18",
           "name": "PANGAN, DOC  CHINGBEE",
           "party": "AKSYON"
+        },
+        {
+          "number": "19",
+          "name": "RODRIGUEZ,  JOSEPHINE",
+          "party": "IND"
+        },
+        {
+          "number": "20",
+          "name": "TORRES, ADDRE",
+          "party": "NUP"
+        },
+        {
+          "number": "21",
+          "name": "TORRES, SABRIE",
+          "party": "AKSYON"
+        },
+        {
+          "number": "22",
+          "name": "VILSES, TONI",
+          "party": "IND"
         }
       ]
     }

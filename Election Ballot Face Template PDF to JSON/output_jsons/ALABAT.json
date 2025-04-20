@@ -988,7 +988,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, ATORNI MIKE",
           "party": "NPC"
         }
@@ -1003,7 +1003,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, DOKTORA HELEN",
           "party": "STAN Q"
         }
@@ -1018,17 +1018,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, THIRD",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ALPAJORA, ARMINGOL",
           "party": "KBL"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "CAPINA, TEODORICO",
           "party": "IND"
         }
@@ -1043,17 +1043,17 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "EDUARTE, OLA",
-          "party": "STAN Q"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "BUTARDO, HAROLD",
           "party": "STAN Q"
         },
         {
-          "number": 3,
+          "number": "2",
+          "name": "EDUARTE, OLA",
+          "party": "STAN Q"
+        },
+        {
+          "number": "3",
           "name": "UBANA, RACHEL",
           "party": "STAN \nQ"
         }
@@ -1068,12 +1068,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ARQUIZA, JOSE RAMIL",
           "party": "NPC"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "AVELLANO-CANIMO, AYS",
           "party": "UNA"
         }
@@ -1088,19 +1088,19 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
+          "name": "ANGULO, MANNY",
+          "party": "AKSYON"
+        },
+        {
+          "number": "2",
           "name": "LAYOSA, PHUTO",
           "party": "UNA"
         },
         {
-          "number": 2,
+          "number": "3",
           "name": "URSOLINO, HILDA",
           "party": "NPC"
-        },
-        {
-          "number": 3,
-          "name": "ANGULO, MANNY",
-          "party": "AKSYON"
         }
       ]
     },
@@ -1113,108 +1113,108 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALVAREZ, DERIC",
           "party": "UNA"
         },
         {
-          "number": 2,
-          "name": "SURREDA, DANTE",
-          "party": "NPC"
-        },
-        {
-          "number": 3,
-          "name": "CALLEJA, TANTAN",
-          "party": "LAKAS"
-        },
-        {
-          "number": 4,
-          "name": "JUGUETA, YSRAEL",
-          "party": "NPC"
-        },
-        {
-          "number": 5,
+          "number": "2",
           "name": "ANDALUZ, EGAY",
           "party": "IND"
         },
         {
-          "number": 6,
-          "name": "CANIMO, TATS",
-          "party": "UNA"
-        },
-        {
-          "number": 7,
-          "name": "LOPEZ, RICHARD",
-          "party": "UNA"
-        },
-        {
-          "number": 8,
-          "name": "URSOLINO, HUBERT",
-          "party": "UNA"
-        },
-        {
-          "number": 9,
+          "number": "3",
           "name": "ASTRERA, ATOY",
           "party": "PMP"
         },
         {
-          "number": 10,
-          "name": "MESA, EDDIEBOY",
-          "party": "IND"
-        },
-        {
-          "number": 11,
-          "name": "VERZO, MARRIZ",
-          "party": "UNA"
-        },
-        {
-          "number": 12,
-          "name": "CAPARROS, KUYA  MELYTS",
-          "party": "NPC"
-        },
-        {
-          "number": 13,
-          "name": "DECLARO, RAUL",
-          "party": "IND"
-        },
-        {
-          "number": 14,
-          "name": "PASCUHIN, JAYSON",
-          "party": "UNA"
-        },
-        {
-          "number": 15,
-          "name": "SASIS, CALI",
-          "party": "NPC"
-        },
-        {
-          "number": 16,
+          "number": "4",
           "name": "BABILONIA, SHIRLYN",
           "party": "NPC"
         },
         {
-          "number": 17,
+          "number": "5",
           "name": "BARRENO, SER MARK",
           "party": "NPC"
         },
         {
-          "number": 18,
+          "number": "6",
           "name": "CABRERA, TATA",
           "party": "NPC"
         },
         {
-          "number": 19,
-          "name": "SASIS, PAT",
+          "number": "7",
+          "name": "CALLEJA, TANTAN",
+          "party": "LAKAS"
+        },
+        {
+          "number": "8",
+          "name": "CANIMO, TATS",
           "party": "UNA"
         },
         {
-          "number": 20,
+          "number": "9",
+          "name": "CAPARROS, KUYA  MELYTS",
+          "party": "NPC"
+        },
+        {
+          "number": "10",
+          "name": "DECLARO, RAUL",
+          "party": "IND"
+        },
+        {
+          "number": "11",
           "name": "ESPAÑOLA, VICTORIA",
           "party": "NPC"
         },
         {
-          "number": 21,
+          "number": "12",
           "name": "HERVERA, KHEM  WENBERT",
+          "party": "UNA"
+        },
+        {
+          "number": "13",
+          "name": "JUGUETA, YSRAEL",
+          "party": "NPC"
+        },
+        {
+          "number": "14",
+          "name": "LOPEZ, RICHARD",
+          "party": "UNA"
+        },
+        {
+          "number": "15",
+          "name": "MESA, EDDIEBOY",
+          "party": "IND"
+        },
+        {
+          "number": "16",
+          "name": "PASCUHIN, JAYSON",
+          "party": "UNA"
+        },
+        {
+          "number": "17",
+          "name": "SASIS, CALI",
+          "party": "NPC"
+        },
+        {
+          "number": "18",
+          "name": "SASIS, PAT",
+          "party": "UNA"
+        },
+        {
+          "number": "19",
+          "name": "SURREDA, DANTE",
+          "party": "NPC"
+        },
+        {
+          "number": "20",
+          "name": "URSOLINO, HUBERT",
+          "party": "UNA"
+        },
+        {
+          "number": "21",
+          "name": "VERZO, MARRIZ",
           "party": "UNA"
         }
       ]

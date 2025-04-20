@@ -987,19 +987,19 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BURGOS, NESTOR",
           "party": "IND"
         },
         {
-          "number": 2,
-          "name": "LEVISTE, MARK",
-          "party": "IND"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "COLLANTES, ATTY. KING",
           "party": "NPC"
+        },
+        {
+          "number": "3",
+          "name": "LEVISTE, MARK",
+          "party": "IND"
         }
       ]
     },
@@ -1012,22 +1012,22 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "RIVERA, MIKE",
-          "party": "LP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "ILAGAN, JAY MANALO",
           "party": "PROMDI"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "OZAETA, KUYAKAP  WALTER",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "3",
+          "name": "RIVERA, MIKE",
+          "party": "LP"
+        },
+        {
+          "number": "4",
           "name": "SANTOS-RECTO, VILMA",
           "party": "NP"
         }
@@ -1042,17 +1042,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "DOLOR, RYANH",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MANDANAS, DODO",
           "party": "PDPLBN"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "MANZANO, LUIS LUCKY",
           "party": "NP"
         }
@@ -1067,17 +1067,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BALBA, RUDY",
           "party": "NP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "CORONA, FRED",
           "party": "NP"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "MACALINTAL, DENNIS",
           "party": "PFP"
         }
@@ -1092,12 +1092,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "DAGOOK, FRANCIA",
           "party": "PROMDI"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "SEGUNIAL, NORBERTO  JR.",
           "party": "NP"
         }
@@ -1112,12 +1112,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "MARQUINEZ,  REGINALDO",
           "party": "PROMDI"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "SEGUNIAL, MA. AUREA",
           "party": "NP"
         }
@@ -1132,84 +1132,84 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "ATIENZA, RONILO",
-          "party": "NP"
-        },
-        {
-          "number": 2,
-          "name": "RODRIGUEZ, BIEN",
-          "party": "NP"
-        },
-        {
-          "number": 3,
-          "name": "CASALLA, ROMEO",
-          "party": "PROMDI"
-        },
-        {
-          "number": 4,
-          "name": "BATHAN, ARNOLD",
-          "party": "NP"
-        },
-        {
-          "number": 5,
-          "name": "CATAQUIZ, DANIEL",
-          "party": "NP"
-        },
-        {
-          "number": 6,
+          "number": "1",
           "name": "AGONIA, ALBERT",
           "party": "PROMDI"
         },
         {
-          "number": 7,
+          "number": "2",
           "name": "AMORES, LHERRY",
           "party": "PROMDI"
         },
         {
-          "number": 8,
+          "number": "3",
           "name": "ARRIOLA, CHARLITO",
           "party": "NP"
         },
         {
-          "number": 9,
-          "name": "RODRIGUEZ, OGIE",
-          "party": "PROMDI"
-        },
-        {
-          "number": 10,
-          "name": "SANDOVAL, MARIA  RUTH",
-          "party": "NP"
-        },
-        {
-          "number": 11,
-          "name": "SANGALANG, IAN",
-          "party": "NP"
-        },
-        {
-          "number": 12,
+          "number": "4",
           "name": "ATIENZA, BANJO",
           "party": "PROMDI"
         },
         {
-          "number": 13,
+          "number": "5",
+          "name": "ATIENZA, RONILO",
+          "party": "NP"
+        },
+        {
+          "number": "6",
+          "name": "BATHAN, ARNOLD",
+          "party": "NP"
+        },
+        {
+          "number": "7",
           "name": "BOBADILLA, EDGAR",
           "party": "PROMDI"
         },
         {
-          "number": 14,
+          "number": "8",
           "name": "CARAAN, ISABELITA",
           "party": "PROMDI"
         },
         {
-          "number": 15,
+          "number": "9",
+          "name": "CASALLA, ROMEO",
+          "party": "PROMDI"
+        },
+        {
+          "number": "10",
+          "name": "CATAQUIZ, DANIEL",
+          "party": "NP"
+        },
+        {
+          "number": "11",
           "name": "MANALO-DE CHAVEZ,  ANALIZA",
           "party": "NP"
         },
         {
-          "number": 16,
+          "number": "12",
           "name": "MARQUEZ, WILFREDO",
           "party": "PROMDI"
+        },
+        {
+          "number": "13",
+          "name": "RODRIGUEZ, BIEN",
+          "party": "NP"
+        },
+        {
+          "number": "14",
+          "name": "RODRIGUEZ, OGIE",
+          "party": "PROMDI"
+        },
+        {
+          "number": "15",
+          "name": "SANDOVAL, MARIA  RUTH",
+          "party": "NP"
+        },
+        {
+          "number": "16",
+          "name": "SANGALANG, IAN",
+          "party": "NP"
         }
       ]
     }

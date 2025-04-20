@@ -990,7 +990,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ENVERGA, MARK",
           "party": "NPC"
         }
@@ -1005,7 +1005,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, DOKTORA HELEN",
           "party": "STAN Q"
         }
@@ -1020,17 +1020,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, THIRD",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ALPAJORA, ARMINGOL",
           "party": "KBL"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "CAPINA, TEODORICO",
           "party": "IND"
         }
@@ -1045,32 +1045,32 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "LUCES, JULIUS",
-          "party": "STAN Q"
-        },
-        {
-          "number": 2,
-          "name": "OBISPO, ALONA",
-          "party": "PFP"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "ALCALA, CHRISTIAN  PAUL",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "2",
           "name": "GARCIA, NATHALIE",
           "party": "KBL"
         },
         {
-          "number": 5,
+          "number": "3",
+          "name": "LUCES, JULIUS",
+          "party": "STAN Q"
+        },
+        {
+          "number": "4",
           "name": "NANTES, SAM",
           "party": "LAKAS"
         },
         {
-          "number": 6,
+          "number": "5",
+          "name": "OBISPO, ALONA",
+          "party": "PFP"
+        },
+        {
+          "number": "6",
           "name": "SARONA, GEN. ELMO  RINGO",
           "party": "NPC"
         }
@@ -1085,7 +1085,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "DEVANADERA, NIKKO",
           "party": "STAN Q"
         }
@@ -1100,7 +1100,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "VILLENO, TERESITA",
           "party": "STAN Q"
         }
@@ -1115,59 +1115,59 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "DAYO, ABNER",
-          "party": "STAN Q"
-        },
-        {
-          "number": 2,
-          "name": "JARAFA, JAN PAUL",
-          "party": "IND"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "ABEJA, EARL DONNE",
           "party": "STAN Q"
         },
         {
-          "number": 4,
+          "number": "2",
           "name": "ALPAY, SHERLEEN",
           "party": "IND"
         },
         {
-          "number": 5,
-          "name": "PUEBLA, ELYNOR",
-          "party": "STAN\nQ"
-        },
-        {
-          "number": 6,
-          "name": "TORRES, EMMANUEL  JESUS",
-          "party": "STAN Q"
-        },
-        {
-          "number": 7,
+          "number": "3",
           "name": "BALITAAN, RAQUEL",
           "party": "STAN Q"
         },
         {
-          "number": 8,
+          "number": "4",
+          "name": "DAYO, ABNER",
+          "party": "STAN Q"
+        },
+        {
+          "number": "5",
           "name": "ENCINA, NORMANDY",
           "party": "STAN Q"
         },
         {
-          "number": 9,
+          "number": "6",
           "name": "GAGAN, CIPRIANO",
           "party": "STAN\nQ"
         },
         {
-          "number": 10,
+          "number": "7",
+          "name": "JARAFA, JAN PAUL",
+          "party": "IND"
+        },
+        {
+          "number": "8",
           "name": "LEBANTINO, ENRICO",
           "party": "STAN Q"
         },
         {
-          "number": 11,
+          "number": "9",
           "name": "OBNAMIA, SADDAM",
           "party": "IND"
+        },
+        {
+          "number": "10",
+          "name": "PUEBLA, ELYNOR",
+          "party": "STAN\nQ"
+        },
+        {
+          "number": "11",
+          "name": "TORRES, EMMANUEL  JESUS",
+          "party": "STAN Q"
         }
       ]
     }

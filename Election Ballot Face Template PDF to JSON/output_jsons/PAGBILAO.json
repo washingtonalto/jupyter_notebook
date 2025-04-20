@@ -988,7 +988,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ENVERGA, MARK",
           "party": "NPC"
         }
@@ -1003,7 +1003,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, DOKTORA HELEN",
           "party": "STAN Q"
         }
@@ -1018,17 +1018,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, THIRD",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ALPAJORA, ARMINGOL",
           "party": "KBL"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "CAPINA, TEODORICO",
           "party": "IND"
         }
@@ -1043,32 +1043,32 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "LUCES, JULIUS",
-          "party": "STAN Q"
-        },
-        {
-          "number": 2,
-          "name": "OBISPO, ALONA",
-          "party": "PFP"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "ALCALA, CHRISTIAN  PAUL",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "2",
           "name": "GARCIA, NATHALIE",
           "party": "KBL"
         },
         {
-          "number": 5,
+          "number": "3",
+          "name": "LUCES, JULIUS",
+          "party": "STAN Q"
+        },
+        {
+          "number": "4",
           "name": "NANTES, SAM",
           "party": "LAKAS"
         },
         {
-          "number": 6,
+          "number": "5",
+          "name": "OBISPO, ALONA",
+          "party": "PFP"
+        },
+        {
+          "number": "6",
           "name": "SARONA, GEN. ELMO  RINGO",
           "party": "NPC"
         }
@@ -1083,22 +1083,22 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "LUCE, GERRY",
           "party": "IND"
         },
         {
-          "number": 2,
-          "name": "PORTES, ATE GIGI",
-          "party": "NPC"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "PALICPIC, SHIERRE ANN",
           "party": "NP"
         },
         {
-          "number": 4,
+          "number": "3",
+          "name": "PORTES, ATE GIGI",
+          "party": "NPC"
+        },
+        {
+          "number": "4",
           "name": "VELUZ, MANNY POGI",
           "party": "IND"
         }
@@ -1113,12 +1113,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, GARY",
           "party": "LP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "DAPLA, WALLY",
           "party": "NPC"
         }
@@ -1133,99 +1133,99 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALMODIEL, ROSIE",
           "party": "NPC"
         },
         {
-          "number": 2,
-          "name": "DAPLA, DEONY",
-          "party": "NPC"
-        },
-        {
-          "number": 3,
-          "name": "LUNA, MANUEL",
-          "party": "NP"
-        },
-        {
-          "number": 4,
-          "name": "ROCES, DOC EMAN",
-          "party": "NPC"
-        },
-        {
-          "number": 5,
+          "number": "2",
           "name": "ARRIOLA, GELO",
           "party": "NP"
         },
         {
-          "number": 6,
-          "name": "MARTINEZ, ATM",
-          "party": "LP"
-        },
-        {
-          "number": 7,
-          "name": "TAN, JOEY",
-          "party": "LP"
-        },
-        {
-          "number": 8,
+          "number": "3",
           "name": "AYATON, DITA",
           "party": "NP"
         },
         {
-          "number": 9,
-          "name": "MERLE, LITO",
-          "party": "NP"
-        },
-        {
-          "number": 10,
-          "name": "TINAMISAN, EDGAR",
-          "party": "BUNYOG"
-        },
-        {
-          "number": 11,
+          "number": "4",
           "name": "CALABIA, ALDRIEN",
           "party": "NP"
         },
         {
-          "number": 12,
-          "name": "PESIGAN, ROMULO",
-          "party": "NP"
-        },
-        {
-          "number": 13,
-          "name": "TIÑANA, JEFFREY",
-          "party": "NP"
-        },
-        {
-          "number": 14,
+          "number": "5",
           "name": "CATAUSAN, EUFROCINO",
           "party": "IND"
         },
         {
-          "number": 15,
+          "number": "6",
+          "name": "DAPLA, DEONY",
+          "party": "NPC"
+        },
+        {
+          "number": "7",
           "name": "FRANCO, KUYA NELSON",
           "party": "IND"
         },
         {
-          "number": 16,
+          "number": "8",
           "name": "GARCIA, CATHY  MARTINEZ",
           "party": "NPC"
         },
         {
-          "number": 17,
+          "number": "9",
           "name": "GARCIA, DOC JOSEPH",
           "party": "NPC"
         },
         {
-          "number": 18,
+          "number": "10",
           "name": "LUCE, JOSEPH MANUEL",
           "party": "NPC"
         },
         {
-          "number": 19,
+          "number": "11",
+          "name": "LUNA, MANUEL",
+          "party": "NP"
+        },
+        {
+          "number": "12",
+          "name": "MARTINEZ, ATM",
+          "party": "LP"
+        },
+        {
+          "number": "13",
+          "name": "MERLE, LITO",
+          "party": "NP"
+        },
+        {
+          "number": "14",
+          "name": "PESIGAN, ROMULO",
+          "party": "NP"
+        },
+        {
+          "number": "15",
           "name": "PORTES, WACQUI KELLY",
           "party": "NPC"
+        },
+        {
+          "number": "16",
+          "name": "ROCES, DOC EMAN",
+          "party": "NPC"
+        },
+        {
+          "number": "17",
+          "name": "TAN, JOEY",
+          "party": "LP"
+        },
+        {
+          "number": "18",
+          "name": "TINAMISAN, EDGAR",
+          "party": "BUNYOG"
+        },
+        {
+          "number": "19",
+          "name": "TIÑANA, JEFFREY",
+          "party": "NP"
         }
       ]
     }

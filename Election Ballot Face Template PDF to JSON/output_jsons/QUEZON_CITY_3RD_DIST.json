@@ -989,12 +989,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "PUMAREN, FRANZ",
           "party": "NUP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "REYES, ALLAN BENEDICT",
           "party": "PFP"
         }
@@ -1009,28 +1009,28 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BELMONTE, JOY",
           "party": "SBP"
         },
         {
-          "number": 2,
+          "number": "2",
+          "name": "CABALO, JONATHAN",
+          "party": "IND"
+        },
+        {
+          "number": "3",
           "name": "JOTA, ROLANDO",
           "party": "IND"
         },
         {
-          "number": 3,
-          "name": "VELASCO, DIOSDADO",
-          "party": "IND"
-        },
-        {
-          "number": 4,
+          "number": "4",
           "name": "NAVAT, NOLI",
           "party": "IND"
         },
         {
-          "number": 5,
-          "name": "CABALO, JONATHAN",
+          "number": "5",
+          "name": "VELASCO, DIOSDADO",
           "party": "IND"
         }
       ]
@@ -1044,22 +1044,22 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "FAELANGCO, JUNE",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "INGLES, INVENTOR",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "SOTTO, GIAN",
           "party": "SBP"
         },
         {
-          "number": 4,
+          "number": "4",
           "name": "VILLARTA, DANTE",
           "party": "IND"
         }
@@ -1074,54 +1074,54 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "LAGUMBAY, WENCY",
-          "party": "NP"
-        },
-        {
-          "number": 2,
-          "name": "PLANAS, PAU",
-          "party": "PFP"
-        },
-        {
-          "number": 3,
-          "name": "RUFO, NORMA",
-          "party": "IND"
-        },
-        {
-          "number": 4,
+          "number": "1",
           "name": "ANTONIO, CHUCKIE",
           "party": "SBP"
         },
         {
-          "number": 5,
+          "number": "2",
           "name": "COSETENG, JULIAN",
           "party": "SBP"
         },
         {
-          "number": 6,
-          "name": "PUMAREN, LUIGI",
-          "party": "SBP"
-        },
-        {
-          "number": 7,
-          "name": "LIQUIGAN, ATORNI TOPE",
-          "party": "IND"
-        },
-        {
-          "number": 8,
+          "number": "3",
           "name": "DE LEON, DON",
           "party": "SBP"
         },
         {
-          "number": 9,
+          "number": "4",
+          "name": "LAGUMBAY, WENCY",
+          "party": "NP"
+        },
+        {
+          "number": "5",
+          "name": "LIQUIGAN, ATORNI TOPE",
+          "party": "IND"
+        },
+        {
+          "number": "6",
           "name": "LUMBAD, DOK G",
           "party": "SBP"
         },
         {
-          "number": 10,
+          "number": "7",
+          "name": "PLANAS, PAU",
+          "party": "PFP"
+        },
+        {
+          "number": "8",
+          "name": "PUMAREN, LUIGI",
+          "party": "SBP"
+        },
+        {
+          "number": "9",
           "name": "REYES, ATTY. ANTON",
           "party": "NPC"
+        },
+        {
+          "number": "10",
+          "name": "RUFO, NORMA",
+          "party": "IND"
         }
       ]
     }

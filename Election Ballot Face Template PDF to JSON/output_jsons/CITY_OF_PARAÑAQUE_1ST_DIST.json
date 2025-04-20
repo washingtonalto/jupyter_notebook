@@ -989,7 +989,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "OLIVAREZ, ERIC",
           "party": "LAKAS"
         }
@@ -1004,39 +1004,39 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "MENDOZA, NENE",
           "party": "IND"
         },
         {
-          "number": 2,
-          "name": "PINEDA, NATHAN",
-          "party": "WPP"
+          "number": "2",
+          "name": "OLIVAREZ, AILEEN ACO",
+          "party": "IND"
         },
         {
-          "number": 3,
-          "name": "ZAIDE, JUN",
-          "party": "AKSYON"
-        },
-        {
-          "number": 4,
+          "number": "3",
           "name": "OLIVAREZ, KUYA EDWIN",
           "party": "LAKAS"
         },
         {
-          "number": 5,
+          "number": "4",
           "name": "PANTILA, ANABEL",
           "party": "IND"
         },
         {
-          "number": 6,
+          "number": "5",
+          "name": "PINEDA, NATHAN",
+          "party": "WPP"
+        },
+        {
+          "number": "6",
           "name": "UY, DREW",
           "party": "IND"
         },
         {
-          "number": 7,
-          "name": "OLIVAREZ, AILEEN ACO",
-          "party": "IND"
+          "number": "7",
+          "name": "ZAIDE, JUN",
+          "party": "AKSYON"
         }
       ]
     },
@@ -1049,12 +1049,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BERNABE, BENJO",
           "party": "PFP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "VILLAFUERTE, JOAN",
           "party": "LAKAS"
         }
@@ -1069,99 +1069,99 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BAES, TOKI ERIC",
           "party": "LAKAS"
         },
         {
-          "number": 2,
-          "name": "SANTOS, SMILING",
-          "party": "IND"
-        },
-        {
-          "number": 3,
-          "name": "GABRIEL, DRA. RAQUEL",
-          "party": "IND"
-        },
-        {
-          "number": 4,
-          "name": "GABRIEL, PABLO RINA",
-          "party": "LAKAS"
-        },
-        {
-          "number": 5,
-          "name": "GOLEZ, GUADA",
-          "party": "LAKAS"
-        },
-        {
-          "number": 6,
-          "name": "INCIONG, BRILLANTE",
-          "party": "LAKAS"
-        },
-        {
-          "number": 7,
-          "name": "MARQUEZ, YEOJ",
-          "party": "LAKAS"
-        },
-        {
-          "number": 8,
-          "name": "MARTINEZ, CHRISTIAN  ERIC",
-          "party": "IND"
-        },
-        {
-          "number": 9,
-          "name": "OLIVAREZ, PABLO  PAOLO",
-          "party": "LAKAS"
-        },
-        {
-          "number": 10,
-          "name": "OLIVAREZ, SHANNIN",
-          "party": "PFP"
-        },
-        {
-          "number": 11,
-          "name": "TAN, NAVA ALLEN",
-          "party": "LAKAS"
-        },
-        {
-          "number": 12,
-          "name": "VASQUEZ, DOC TOOTZ",
-          "party": "IND"
-        },
-        {
-          "number": 13,
-          "name": "VIDUYA, MARIA ISABEL",
-          "party": "LAKAS"
-        },
-        {
-          "number": 14,
-          "name": "LAGMAN, BOY",
-          "party": "IND"
-        },
-        {
-          "number": 15,
-          "name": "RIVERA, TUPE",
-          "party": "IND"
-        },
-        {
-          "number": 16,
+          "number": "2",
           "name": "CATUNAO, COACH RON",
           "party": "PFP"
         },
         {
-          "number": 17,
+          "number": "3",
           "name": "DELOS SANTOS, JOEY",
           "party": "PFP"
         },
         {
-          "number": 18,
+          "number": "4",
           "name": "DISAMBURUN, JULIUS",
           "party": "PDPLBN"
         },
         {
-          "number": 19,
+          "number": "5",
           "name": "FERNANDEZ, MEDIA  MAN",
           "party": "IND"
+        },
+        {
+          "number": "6",
+          "name": "GABRIEL, DRA. RAQUEL",
+          "party": "IND"
+        },
+        {
+          "number": "7",
+          "name": "GABRIEL, PABLO RINA",
+          "party": "LAKAS"
+        },
+        {
+          "number": "8",
+          "name": "GOLEZ, GUADA",
+          "party": "LAKAS"
+        },
+        {
+          "number": "9",
+          "name": "INCIONG, BRILLANTE",
+          "party": "LAKAS"
+        },
+        {
+          "number": "10",
+          "name": "LAGMAN, BOY",
+          "party": "IND"
+        },
+        {
+          "number": "11",
+          "name": "MARQUEZ, YEOJ",
+          "party": "LAKAS"
+        },
+        {
+          "number": "12",
+          "name": "MARTINEZ, CHRISTIAN  ERIC",
+          "party": "IND"
+        },
+        {
+          "number": "13",
+          "name": "OLIVAREZ, PABLO  PAOLO",
+          "party": "LAKAS"
+        },
+        {
+          "number": "14",
+          "name": "OLIVAREZ, SHANNIN",
+          "party": "PFP"
+        },
+        {
+          "number": "15",
+          "name": "RIVERA, TUPE",
+          "party": "IND"
+        },
+        {
+          "number": "16",
+          "name": "SANTOS, SMILING",
+          "party": "IND"
+        },
+        {
+          "number": "17",
+          "name": "TAN, NAVA ALLEN",
+          "party": "LAKAS"
+        },
+        {
+          "number": "18",
+          "name": "VASQUEZ, DOC TOOTZ",
+          "party": "IND"
+        },
+        {
+          "number": "19",
+          "name": "VIDUYA, MARIA ISABEL",
+          "party": "LAKAS"
         }
       ]
     }

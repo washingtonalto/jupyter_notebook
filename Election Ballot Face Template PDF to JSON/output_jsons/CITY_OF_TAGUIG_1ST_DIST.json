@@ -989,28 +989,28 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "CRUZ, ADING",
-          "party": "NP"
-        },
-        {
-          "number": 2,
-          "name": "OPOC, RICARDO",
-          "party": "IND"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "CAYETANO, DIREK LINO",
           "party": "NPC"
         },
         {
-          "number": 4,
+          "number": "2",
           "name": "CERAFICA, ALLAN",
           "party": "PFP"
         },
         {
-          "number": 5,
+          "number": "3",
+          "name": "CRUZ, ADING",
+          "party": "NP"
+        },
+        {
+          "number": "4",
           "name": "DELA CRUZ, PETER",
+          "party": "IND"
+        },
+        {
+          "number": "5",
+          "name": "OPOC, RICARDO",
           "party": "IND"
         }
       ]
@@ -1024,19 +1024,19 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
+          "name": "CAYETANO, ATE LANI",
+          "party": "NP"
+        },
+        {
+          "number": "2",
           "name": "CERAFICA, ARNEL",
           "party": "PFP"
         },
         {
-          "number": 2,
+          "number": "3",
           "name": "LICUDINE, BRIGIDO",
           "party": "IND"
-        },
-        {
-          "number": 3,
-          "name": "CAYETANO, ATE LANI",
-          "party": "NP"
         }
       ]
     },
@@ -1049,17 +1049,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALIT, ARVIN IAN",
           "party": "NP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "CERAFICA, JANELLE",
           "party": "PFP"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "TANGLAO, NELLY",
           "party": "IND"
         }
@@ -1074,159 +1074,159 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "CRUZ, ALLAN PAUL",
-          "party": "NP"
-        },
-        {
-          "number": 2,
-          "name": "INAN, TAN-TAN",
-          "party": "PFP"
-        },
-        {
-          "number": 3,
-          "name": "CRUZ, JANNAH",
-          "party": "PFP"
-        },
-        {
-          "number": 4,
-          "name": "LABAMPA, JIMMY",
-          "party": "NP"
-        },
-        {
-          "number": 5,
-          "name": "PANGA-CRUZ, ATTYJOY",
-          "party": "NP"
-        },
-        {
-          "number": 6,
-          "name": "SAN PEDRO, GAMIE",
-          "party": "NP"
-        },
-        {
-          "number": 7,
-          "name": "CRUZ, SAMMY",
-          "party": "NP"
-        },
-        {
-          "number": 8,
-          "name": "LONTOC, PAUL",
-          "party": "IND"
-        },
-        {
-          "number": 9,
-          "name": "SANGA, JOSHUA",
-          "party": "PFP"
-        },
-        {
-          "number": 10,
-          "name": "MADRID, ELVIE",
-          "party": "PFP"
-        },
-        {
-          "number": 11,
+          "number": "1",
           "name": "ABAIGAR, ROMEO  EDGAR",
           "party": "IND"
         },
         {
-          "number": 12,
+          "number": "2",
           "name": "ABBANG, KIM MANZO",
           "party": "NP"
         },
         {
-          "number": 13,
+          "number": "3",
           "name": "ALVARIDA, JOHNNY",
           "party": "IND"
         },
         {
-          "number": 14,
+          "number": "4",
           "name": "AQUINO,  COMMISSIONER",
           "party": "NP"
         },
         {
-          "number": 15,
+          "number": "5",
           "name": "BACSAIN, ATTY. MARK",
           "party": "PFP"
         },
         {
-          "number": 16,
+          "number": "6",
           "name": "BAUTISTA, JONJON",
           "party": "PFP"
         },
         {
-          "number": 17,
-          "name": "DELA PAZ, REINANTE",
-          "party": "IND"
-        },
-        {
-          "number": 18,
-          "name": "DELOS SANTOS, JING",
-          "party": "MKBYN"
-        },
-        {
-          "number": 19,
-          "name": "DELOS SANTOS,  WARREN",
-          "party": "PFP"
-        },
-        {
-          "number": 20,
-          "name": "SANTOS, FERDIE BRO",
-          "party": "NP"
-        },
-        {
-          "number": 21,
-          "name": "SANTOS, MARIA ANA",
-          "party": "PFP"
-        },
-        {
-          "number": 22,
-          "name": "SUMAGPAO, GERARD",
-          "party": "PFP"
-        },
-        {
-          "number": 23,
-          "name": "GONZALES, MOGS",
-          "party": "PFP"
-        },
-        {
-          "number": 24,
-          "name": "VERA, HENRY",
-          "party": "IND"
-        },
-        {
-          "number": 25,
+          "number": "7",
           "name": "BERAN, MARK BRYAN",
           "party": "IND"
         },
         {
-          "number": 26,
-          "name": "MAÑOSCA, NINONG  TOTONG",
-          "party": "NP"
-        },
-        {
-          "number": 27,
-          "name": "MARCELINO, TIKBOY",
-          "party": "NP"
-        },
-        {
-          "number": 28,
-          "name": "OGALINOLA, CARLITO",
-          "party": "NP"
-        },
-        {
-          "number": 29,
+          "number": "8",
           "name": "BERNAL, RJ",
           "party": "PFP"
         },
         {
-          "number": 30,
+          "number": "9",
+          "name": "CRUZ, ALLAN PAUL",
+          "party": "NP"
+        },
+        {
+          "number": "10",
+          "name": "CRUZ, JANNAH",
+          "party": "PFP"
+        },
+        {
+          "number": "11",
+          "name": "CRUZ, SAMMY",
+          "party": "NP"
+        },
+        {
+          "number": "12",
+          "name": "DELA PAZ, REINANTE",
+          "party": "IND"
+        },
+        {
+          "number": "13",
+          "name": "DELOS SANTOS, JING",
+          "party": "MKBYN"
+        },
+        {
+          "number": "14",
+          "name": "DELOS SANTOS,  WARREN",
+          "party": "PFP"
+        },
+        {
+          "number": "15",
+          "name": "GONZALES, MOGS",
+          "party": "PFP"
+        },
+        {
+          "number": "16",
+          "name": "ICAY, ABOGADO  DARWIN",
+          "party": "NP"
+        },
+        {
+          "number": "17",
+          "name": "INAN, TAN-TAN",
+          "party": "PFP"
+        },
+        {
+          "number": "18",
+          "name": "LABAMPA, JIMMY",
+          "party": "NP"
+        },
+        {
+          "number": "19",
+          "name": "LONTOC, PAUL",
+          "party": "IND"
+        },
+        {
+          "number": "20",
+          "name": "MADRID, ELVIE",
+          "party": "PFP"
+        },
+        {
+          "number": "21",
+          "name": "MAÑOSCA, NINONG  TOTONG",
+          "party": "NP"
+        },
+        {
+          "number": "22",
+          "name": "MARCELINO, TIKBOY",
+          "party": "NP"
+        },
+        {
+          "number": "23",
+          "name": "OGALINOLA, CARLITO",
+          "party": "NP"
+        },
+        {
+          "number": "24",
           "name": "PALMA, DOC RICO",
           "party": "IND"
         },
         {
-          "number": 31,
-          "name": "ICAY, ABOGADO  DARWIN",
+          "number": "25",
+          "name": "PANGA-CRUZ, ATTYJOY",
           "party": "NP"
+        },
+        {
+          "number": "26",
+          "name": "SAN PEDRO, GAMIE",
+          "party": "NP"
+        },
+        {
+          "number": "27",
+          "name": "SANGA, JOSHUA",
+          "party": "PFP"
+        },
+        {
+          "number": "28",
+          "name": "SANTOS, FERDIE BRO",
+          "party": "NP"
+        },
+        {
+          "number": "29",
+          "name": "SANTOS, MARIA ANA",
+          "party": "PFP"
+        },
+        {
+          "number": "30",
+          "name": "SUMAGPAO, GERARD",
+          "party": "PFP"
+        },
+        {
+          "number": "31",
+          "name": "VERA, HENRY",
+          "party": "IND"
         }
       ]
     }

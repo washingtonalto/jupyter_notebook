@@ -992,12 +992,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "FRESNEDI, JAIME",
           "party": "LP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "GARING, BIYONG",
           "party": "PDPLBN"
         }
@@ -1012,7 +1012,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BIAZON, RUFFY",
           "party": "1MUNTI"
         }
@@ -1027,19 +1027,19 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
+          "name": "AMPAYA, ALLEN",
+          "party": "1MUNTI"
+        },
+        {
+          "number": "2",
           "name": "SIMUNDAC, TEMY",
           "party": "PFP"
         },
         {
-          "number": 2,
+          "number": "3",
           "name": "TEVES, PHANIE",
           "party": "IND"
-        },
-        {
-          "number": 3,
-          "name": "AMPAYA, ALLEN",
-          "party": "1MUNTI"
         }
       ]
     },
@@ -1052,88 +1052,88 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AQUINO, NENE AMY",
           "party": "PFP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "AREVALO, DHES",
           "party": "IND"
         },
         {
-          "number": 3,
-          "name": "HILAPO, ARLENE",
-          "party": "1MUNTI"
-        },
-        {
-          "number": 4,
-          "name": "LANDRITO, ATTY.  REGGIE",
-          "party": "1MUNTI"
-        },
-        {
-          "number": 5,
-          "name": "MARTINEZ, CORNELIO",
-          "party": "1MUNTI"
-        },
-        {
-          "number": 6,
-          "name": "MOLDEZ, DADO",
-          "party": "1MUNTI"
-        },
-        {
-          "number": 7,
-          "name": "SAMSON, FRANCIA",
-          "party": "PFP"
-        },
-        {
-          "number": 8,
-          "name": "SEVILLA, JUN METONG",
-          "party": "1MUNTI"
-        },
-        {
-          "number": 9,
+          "number": "3",
           "name": "BAES, SHA SHA",
           "party": "1MUNTI"
         },
         {
-          "number": 10,
-          "name": "LIZARDO, BERT",
-          "party": "PFP"
-        },
-        {
-          "number": 11,
-          "name": "PACOMA, SUMA",
-          "party": "IND"
-        },
-        {
-          "number": 12,
-          "name": "MABINI, TONY",
-          "party": "IND"
-        },
-        {
-          "number": 13,
+          "number": "4",
           "name": "BAGATSING, RYAN",
           "party": "1MUNTI"
         },
         {
-          "number": 14,
+          "number": "5",
           "name": "ESPELETA, ELMER",
           "party": "PFP"
         },
         {
-          "number": 15,
+          "number": "6",
+          "name": "HILAPO, ARLENE",
+          "party": "1MUNTI"
+        },
+        {
+          "number": "7",
+          "name": "LANDRITO, ATTY.  REGGIE",
+          "party": "1MUNTI"
+        },
+        {
+          "number": "8",
+          "name": "LIZARDO, BERT",
+          "party": "PFP"
+        },
+        {
+          "number": "9",
+          "name": "MABINI, TONY",
+          "party": "IND"
+        },
+        {
+          "number": "10",
           "name": "MACAYLAS, KENNETH",
           "party": "PFP"
         },
         {
-          "number": 16,
+          "number": "11",
+          "name": "MARTINEZ, CORNELIO",
+          "party": "1MUNTI"
+        },
+        {
+          "number": "12",
+          "name": "MOLDEZ, DADO",
+          "party": "1MUNTI"
+        },
+        {
+          "number": "13",
+          "name": "PACOMA, SUMA",
+          "party": "IND"
+        },
+        {
+          "number": "14",
           "name": "PANTALEON, LOLITO",
           "party": "PFP"
         },
         {
-          "number": 17,
+          "number": "15",
           "name": "RONGAVILLA, KAYE  ANNE",
+          "party": "1MUNTI"
+        },
+        {
+          "number": "16",
+          "name": "SAMSON, FRANCIA",
+          "party": "PFP"
+        },
+        {
+          "number": "17",
+          "name": "SEVILLA, JUN METONG",
           "party": "1MUNTI"
         }
       ]

@@ -989,17 +989,17 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "PAR, ALLAN",
-          "party": "IND"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "BENCITO, IRENE",
           "party": "AKSYON"
         },
         {
-          "number": 3,
+          "number": "2",
+          "name": "PAR, ALLAN",
+          "party": "IND"
+        },
+        {
+          "number": "3",
           "name": "TOLENTINO, CONG  ANIELA",
           "party": "NUP"
         }
@@ -1014,24 +1014,24 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
+          "name": "AGUINALDO, WENG",
+          "party": "IND"
+        },
+        {
+          "number": "2",
           "name": "BER ADO, GB",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "3",
           "name": "PERA, AUGUSTO JR.",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "4",
           "name": "REMULLA, ABENG",
           "party": "NUP"
-        },
-        {
-          "number": 4,
-          "name": "AGUINALDO, WENG",
-          "party": "IND"
         }
       ]
     },
@@ -1044,7 +1044,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BAUTISTA, RAM REVILLA",
           "party": "LAKAS"
         }
@@ -1059,19 +1059,19 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AMBION, MOK",
           "party": "NUP"
         },
         {
-          "number": 2,
-          "name": "NAZARENO, AIMEE",
-          "party": "NUP"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "MALIGAYA, JASMIN",
           "party": "NPC"
+        },
+        {
+          "number": "3",
+          "name": "NAZARENO, AIMEE",
+          "party": "NUP"
         }
       ]
     },
@@ -1084,7 +1084,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TOLENTINO, BRENT",
           "party": "NUP"
         }
@@ -1099,7 +1099,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TOLENTINO, AGNES",
           "party": "NUP"
         }
@@ -1114,53 +1114,53 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "PELLO, BIANCA",
-          "party": "NUP"
-        },
-        {
-          "number": 2,
-          "name": "VERGARA, GENER",
-          "party": "UNIDO"
-        },
-        {
-          "number": 3,
-          "name": "SOLIS, ANNABELLE",
-          "party": "NUP"
-        },
-        {
-          "number": 4,
+          "number": "1",
           "name": "DE CASTRO, LEO  ANGELO",
           "party": "NUP"
         },
         {
-          "number": 5,
+          "number": "2",
           "name": "DESINGAÑO, KAP JOJIT",
           "party": "NUP"
         },
         {
-          "number": 6,
+          "number": "3",
           "name": "ESPIRITU, REY",
           "party": "NUP"
         },
         {
-          "number": 7,
+          "number": "4",
           "name": "GUADAÑA, FATIMA",
           "party": "NUP"
         },
         {
-          "number": 8,
+          "number": "5",
           "name": "MANGUINAO, PHENG",
           "party": "NUP"
         },
         {
-          "number": 9,
+          "number": "6",
           "name": "MARASIGAN, JUNNY",
           "party": "UNIDO"
         },
         {
-          "number": 10,
+          "number": "7",
+          "name": "PELLO, BIANCA",
+          "party": "NUP"
+        },
+        {
+          "number": "8",
+          "name": "SOLIS, ANNABELLE",
+          "party": "NUP"
+        },
+        {
+          "number": "9",
           "name": "TOLENTINO, MICKO",
+          "party": "UNIDO"
+        },
+        {
+          "number": "10",
+          "name": "VERGARA, GENER",
           "party": "UNIDO"
         }
       ]

@@ -989,12 +989,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ABAYA, DOC PAUL",
           "party": "LP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "REVILLA, RAMON JOLO",
           "party": "LAKAS"
         }
@@ -1009,24 +1009,24 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
+          "name": "AGUINALDO, WENG",
+          "party": "IND"
+        },
+        {
+          "number": "2",
           "name": "BER ADO, GB",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "3",
           "name": "PERA, AUGUSTO JR.",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "4",
           "name": "REMULLA, ABENG",
           "party": "NUP"
-        },
-        {
-          "number": 4,
-          "name": "AGUINALDO, WENG",
-          "party": "IND"
         }
       ]
     },
@@ -1039,7 +1039,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BAUTISTA, RAM REVILLA",
           "party": "LAKAS"
         }
@@ -1054,13 +1054,13 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "GANDIA, JYGS",
+          "number": "1",
+          "name": "ENRIQUEZ, ROMEL",
           "party": "LAKAS"
         },
         {
-          "number": 2,
-          "name": "ENRIQUEZ, ROMEL",
+          "number": "2",
+          "name": "GANDIA, JYGS",
           "party": "LAKAS"
         }
       ]
@@ -1074,7 +1074,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "RICAFRENTE, VOLTAIRE",
           "party": "LAKAS"
         }
@@ -1089,7 +1089,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "GONZALES, BAMM",
           "party": "LAKAS"
         }
@@ -1104,58 +1104,58 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ANDICO, VIVIAN",
           "party": "LAKAS"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ARAO, NELL",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "3",
+          "name": "CONVENTO, ARELLE",
+          "party": "LAKAS"
+        },
+        {
+          "number": "4",
           "name": "DEL ROSARIO, MICHAEL",
           "party": "LAKAS"
         },
         {
-          "number": 4,
+          "number": "5",
           "name": "GARCIA, FERNANDO",
           "party": "IND"
         },
         {
-          "number": 5,
-          "name": "GO, CHRISTOPHER",
-          "party": "LAKAS"
-        },
-        {
-          "number": 6,
-          "name": "HERNANDEZ, RAUL",
-          "party": "LAKAS"
-        },
-        {
-          "number": 7,
-          "name": "NAZARENO, CRISANTO",
-          "party": "LAKAS"
-        },
-        {
-          "number": 8,
-          "name": "PUEBLO, MANNY",
-          "party": "LAKAS"
-        },
-        {
-          "number": 9,
+          "number": "6",
           "name": "GIONGCO, MIKE",
           "party": "LAKAS"
         },
         {
-          "number": 10,
+          "number": "7",
+          "name": "GO, CHRISTOPHER",
+          "party": "LAKAS"
+        },
+        {
+          "number": "8",
+          "name": "HERNANDEZ, RAUL",
+          "party": "LAKAS"
+        },
+        {
+          "number": "9",
           "name": "LUNA, ATHAN",
           "party": "IND"
         },
         {
-          "number": 11,
-          "name": "CONVENTO, ARELLE",
+          "number": "10",
+          "name": "NAZARENO, CRISANTO",
+          "party": "LAKAS"
+        },
+        {
+          "number": "11",
+          "name": "PUEBLO, MANNY",
           "party": "LAKAS"
         }
       ]

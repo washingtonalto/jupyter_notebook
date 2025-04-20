@@ -988,7 +988,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "GONZALES, QUEENIE",
           "party": "NUP"
         }
@@ -1003,7 +1003,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ABALOS, MENCHIE",
           "party": "PFP"
         }
@@ -1018,7 +1018,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "SUVA, ANTHONY",
           "party": "PFP"
         }
@@ -1033,54 +1033,54 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ABALOS, CHARISSE",
           "party": "PFP"
         },
         {
-          "number": 2,
-          "name": "MANALO, MARIZ",
-          "party": "PFP"
-        },
-        {
-          "number": 3,
-          "name": "YAP, ELTON",
-          "party": "PFP"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "ALIM, JUNIS",
           "party": "PFP"
         },
         {
-          "number": 5,
-          "name": "SOLOMON, FLORENCIO",
-          "party": "IND"
-        },
-        {
-          "number": 6,
+          "number": "3",
           "name": "ANTONIO, GRACE",
           "party": "PFP"
         },
         {
-          "number": 7,
-          "name": "TAN, CHRIS",
-          "party": "IND"
-        },
-        {
-          "number": 8,
+          "number": "4",
           "name": "CRISTOBAL, ROLANDO",
           "party": "IND"
         },
         {
-          "number": 9,
+          "number": "5",
           "name": "DE GUZMAN, DANNY",
           "party": "PFP"
         },
         {
-          "number": 10,
+          "number": "6",
           "name": "DEL ROSARIO, DELMER",
           "party": "IND"
+        },
+        {
+          "number": "7",
+          "name": "MANALO, MARIZ",
+          "party": "PFP"
+        },
+        {
+          "number": "8",
+          "name": "SOLOMON, FLORENCIO",
+          "party": "IND"
+        },
+        {
+          "number": "9",
+          "name": "TAN, CHRIS",
+          "party": "IND"
+        },
+        {
+          "number": "10",
+          "name": "YAP, ELTON",
+          "party": "PFP"
         }
       ]
     }

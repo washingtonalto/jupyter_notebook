@@ -988,17 +988,17 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "PAR, ALLAN",
-          "party": "IND"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "BENCITO, IRENE",
           "party": "AKSYON"
         },
         {
-          "number": 3,
+          "number": "2",
+          "name": "PAR, ALLAN",
+          "party": "IND"
+        },
+        {
+          "number": "3",
           "name": "TOLENTINO, CONG  ANIELA",
           "party": "NUP"
         }
@@ -1013,24 +1013,24 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
+          "name": "AGUINALDO, WENG",
+          "party": "IND"
+        },
+        {
+          "number": "2",
           "name": "BER ADO, GB",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "3",
           "name": "PERA, AUGUSTO JR.",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "4",
           "name": "REMULLA, ABENG",
           "party": "NUP"
-        },
-        {
-          "number": 4,
-          "name": "AGUINALDO, WENG",
-          "party": "IND"
         }
       ]
     },
@@ -1043,7 +1043,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BAUTISTA, RAM REVILLA",
           "party": "LAKAS"
         }
@@ -1058,19 +1058,19 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AMBION, MOK",
           "party": "NUP"
         },
         {
-          "number": 2,
-          "name": "NAZARENO, AIMEE",
-          "party": "NUP"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "MALIGAYA, JASMIN",
           "party": "NPC"
+        },
+        {
+          "number": "3",
+          "name": "NAZARENO, AIMEE",
+          "party": "NUP"
         }
       ]
     },
@@ -1083,12 +1083,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BENCITO, DANILO",
           "party": "NPC"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "GLEAN, DENNIS",
           "party": "NUP"
         }
@@ -1103,12 +1103,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "GOLFO, LOUEL",
           "party": "NUP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MANALO, MICHAEL",
           "party": "NPC"
         }
@@ -1123,89 +1123,89 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "DIGMA, LEOVEL",
-          "party": "NPC"
-        },
-        {
-          "number": 2,
-          "name": "NITURA, ARIEL",
-          "party": "NUP"
-        },
-        {
-          "number": 3,
-          "name": "GLORIANI, FLORENCIO",
-          "party": "NPC"
-        },
-        {
-          "number": 4,
-          "name": "ORONICO, ATTY. EDITH",
-          "party": "NUP"
-        },
-        {
-          "number": 5,
-          "name": "SERNAT, NEPTHALIE",
-          "party": "NUP"
-        },
-        {
-          "number": 6,
-          "name": "TAFALLA, ROBERT",
-          "party": "NPC"
-        },
-        {
-          "number": 7,
-          "name": "LAZARO, LEX",
-          "party": "NPC"
-        },
-        {
-          "number": 8,
-          "name": "PAITON, JOSEPH",
-          "party": "NPC"
-        },
-        {
-          "number": 9,
+          "number": "1",
           "name": "AGRIMANO, RONALDO",
           "party": "NPC"
         },
         {
-          "number": 10,
+          "number": "2",
           "name": "ALMARIO, ROSEMARIE",
           "party": "NPC"
         },
         {
-          "number": 11,
+          "number": "3",
           "name": "ANIMAS, PRUDENCIO",
           "party": "NUP"
         },
         {
-          "number": 12,
+          "number": "4",
           "name": "BENCITO, MANUEL",
           "party": "NPC"
         },
         {
-          "number": 13,
-          "name": "LOPEZ, JAYSON",
-          "party": "NUP"
-        },
-        {
-          "number": 14,
-          "name": "PAPA, EFREN",
-          "party": "IND"
-        },
-        {
-          "number": 15,
-          "name": "LOPEZ, JOSEPH",
-          "party": "NUP"
-        },
-        {
-          "number": 16,
+          "number": "5",
           "name": "BINAUHAN, RICARDO",
           "party": "NUP"
         },
         {
-          "number": 17,
+          "number": "6",
+          "name": "DIGMA, LEOVEL",
+          "party": "NPC"
+        },
+        {
+          "number": "7",
+          "name": "GLORIANI, FLORENCIO",
+          "party": "NPC"
+        },
+        {
+          "number": "8",
+          "name": "LAZARO, LEX",
+          "party": "NPC"
+        },
+        {
+          "number": "9",
+          "name": "LOPEZ, JAYSON",
+          "party": "NUP"
+        },
+        {
+          "number": "10",
+          "name": "LOPEZ, JOSEPH",
+          "party": "NUP"
+        },
+        {
+          "number": "11",
+          "name": "NITURA, ARIEL",
+          "party": "NUP"
+        },
+        {
+          "number": "12",
+          "name": "ORONICO, ATTY. EDITH",
+          "party": "NUP"
+        },
+        {
+          "number": "13",
+          "name": "PAITON, JOSEPH",
+          "party": "NPC"
+        },
+        {
+          "number": "14",
+          "name": "PAPA, EFREN",
+          "party": "IND"
+        },
+        {
+          "number": "15",
           "name": "QUIACOS, DARWIN",
           "party": "NUP"
+        },
+        {
+          "number": "16",
+          "name": "SERNAT, NEPTHALIE",
+          "party": "NUP"
+        },
+        {
+          "number": "17",
+          "name": "TAFALLA, ROBERT",
+          "party": "NPC"
         }
       ]
     }

@@ -986,19 +986,19 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BURGOS, NESTOR",
           "party": "IND"
         },
         {
-          "number": 2,
-          "name": "LEVISTE, MARK",
-          "party": "IND"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "COLLANTES, ATTY. KING",
           "party": "NPC"
+        },
+        {
+          "number": "3",
+          "name": "LEVISTE, MARK",
+          "party": "IND"
         }
       ]
     },
@@ -1011,22 +1011,22 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "RIVERA, MIKE",
-          "party": "LP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "ILAGAN, JAY MANALO",
           "party": "PROMDI"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "OZAETA, KUYAKAP  WALTER",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "3",
+          "name": "RIVERA, MIKE",
+          "party": "LP"
+        },
+        {
+          "number": "4",
           "name": "SANTOS-RECTO, VILMA",
           "party": "NP"
         }
@@ -1041,17 +1041,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "DOLOR, RYANH",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MANDANAS, DODO",
           "party": "PDPLBN"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "MANZANO, LUIS LUCKY",
           "party": "NP"
         }
@@ -1066,17 +1066,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BALBA, RUDY",
           "party": "NP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "CORONA, FRED",
           "party": "NP"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "MACALINTAL, DENNIS",
           "party": "PFP"
         }
@@ -1091,17 +1091,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "MARALIT, ARMAN",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MARALIT, WILSON",
           "party": "NP"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "OCAMPO, DOJIE",
           "party": "IND"
         }
@@ -1116,12 +1116,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "OCAMPO, HPG",
           "party": "PFP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "PAYO, ALVIN",
           "party": "NP"
         }
@@ -1136,74 +1136,74 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "CAGUITLA, ANA",
           "party": "NPC"
         },
         {
-          "number": 2,
-          "name": "LESCANO, RAPRAP",
-          "party": "NP"
-        },
-        {
-          "number": 3,
-          "name": "TASICO, MAOK",
-          "party": "NP"
-        },
-        {
-          "number": 4,
-          "name": "LUMBERA, ALVIN",
-          "party": "NPC"
-        },
-        {
-          "number": 5,
-          "name": "VILLANUEVA, KAP  HARDO",
-          "party": "NPC"
-        },
-        {
-          "number": 6,
-          "name": "MAGPANTAY, JIMMY",
-          "party": "NP"
-        },
-        {
-          "number": 7,
-          "name": "MARANAN, DRA.  RAQUEL",
-          "party": "NP"
-        },
-        {
-          "number": 8,
-          "name": "MORCILLA, OLIVER",
-          "party": "PFP"
-        },
-        {
-          "number": 9,
-          "name": "RAMOS, KAP APOL",
-          "party": "IND"
-        },
-        {
-          "number": 10,
-          "name": "MARALIT, RONALD",
-          "party": "NP"
-        },
-        {
-          "number": 11,
-          "name": "SERENIO, ROGER",
-          "party": "NP"
-        },
-        {
-          "number": 12,
+          "number": "2",
           "name": "DE OCAMPO, JOSE RUEL",
           "party": "NP"
         },
         {
-          "number": 13,
+          "number": "3",
           "name": "DE SILVA, TEODORO",
           "party": "IND"
         },
         {
-          "number": 14,
+          "number": "4",
           "name": "DEL MUNDO, VIRGILIO",
           "party": "NP"
+        },
+        {
+          "number": "5",
+          "name": "LESCANO, RAPRAP",
+          "party": "NP"
+        },
+        {
+          "number": "6",
+          "name": "LUMBERA, ALVIN",
+          "party": "NPC"
+        },
+        {
+          "number": "7",
+          "name": "MAGPANTAY, JIMMY",
+          "party": "NP"
+        },
+        {
+          "number": "8",
+          "name": "MARALIT, RONALD",
+          "party": "NP"
+        },
+        {
+          "number": "9",
+          "name": "MARANAN, DRA.  RAQUEL",
+          "party": "NP"
+        },
+        {
+          "number": "10",
+          "name": "MORCILLA, OLIVER",
+          "party": "PFP"
+        },
+        {
+          "number": "11",
+          "name": "RAMOS, KAP APOL",
+          "party": "IND"
+        },
+        {
+          "number": "12",
+          "name": "SERENIO, ROGER",
+          "party": "NP"
+        },
+        {
+          "number": "13",
+          "name": "TASICO, MAOK",
+          "party": "NP"
+        },
+        {
+          "number": "14",
+          "name": "VILLANUEVA, KAP  HARDO",
+          "party": "NPC"
         }
       ]
     }

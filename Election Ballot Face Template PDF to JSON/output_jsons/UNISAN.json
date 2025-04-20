@@ -988,12 +988,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ARROGANCIA,  REYNANTE",
           "party": "NPC"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "FLORIDO, MATT WITH  AHEART",
           "party": "IND"
         }
@@ -1008,7 +1008,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, DOKTORA HELEN",
           "party": "STAN Q"
         }
@@ -1023,17 +1023,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, THIRD",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ALPAJORA, ARMINGOL",
           "party": "KBL"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "CAPINA, TEODORICO",
           "party": "IND"
         }
@@ -1048,29 +1048,29 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "REYES, TINTIN",
-          "party": "AKSYON"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "AQUIVIDO, NARS JJ",
           "party": "STAN Q"
         },
         {
-          "number": 3,
-          "name": "ESGUERRA, MEG",
-          "party": "STAN \nQ"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "DIAZ, CONRADO",
           "party": "PFP"
         },
         {
-          "number": 5,
+          "number": "3",
+          "name": "ESGUERRA, MEG",
+          "party": "STAN \nQ"
+        },
+        {
+          "number": "4",
           "name": "GONZALES, BIETO",
           "party": "IND"
+        },
+        {
+          "number": "5",
+          "name": "REYES, TINTIN",
+          "party": "AKSYON"
         }
       ]
     },
@@ -1083,19 +1083,19 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "VELUZ, OMAR",
-          "party": "PRP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "ADULTA, DENAND",
           "party": "STAN\nQ"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "MERANO, ROLANDO",
           "party": "IND"
+        },
+        {
+          "number": "3",
+          "name": "VELUZ, OMAR",
+          "party": "PRP"
         }
       ]
     },
@@ -1108,12 +1108,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "CABUTIHAN, MENA",
           "party": "PRP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "LAT, MEYNARD",
           "party": "STAN Q"
         }
@@ -1128,104 +1128,104 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "TALAVERA, DODIE",
-          "party": "PRP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "ADULTA, KUYA PHET",
           "party": "STAN Q"
         },
         {
-          "number": 3,
-          "name": "ESTIPONA, ALEX",
-          "party": "STAN \nQ"
-        },
-        {
-          "number": 4,
-          "name": "MAGNAYE, KEBOY",
-          "party": "STAN Q"
-        },
-        {
-          "number": 5,
+          "number": "2",
           "name": "AMPARO, JOJO",
           "party": "STAN Q"
         },
         {
-          "number": 6,
-          "name": "ESTRADA, DOREDS",
-          "party": "IND"
-        },
-        {
-          "number": 7,
-          "name": "MANALO, UWAH",
-          "party": "PRP"
-        },
-        {
-          "number": 8,
-          "name": "VERA CRUZ, JESS",
-          "party": "PRP"
-        },
-        {
-          "number": 9,
+          "number": "3",
           "name": "CAPER, CRISTY",
           "party": "STAN Q"
         },
         {
-          "number": 10,
-          "name": "ESTRADA, PAULO",
-          "party": "IND"
-        },
-        {
-          "number": 11,
-          "name": "MIMAY, ANRE",
-          "party": "STAN Q"
-        },
-        {
-          "number": 12,
+          "number": "4",
           "name": "DOTADO, ALLAN",
           "party": "IND"
         },
         {
-          "number": 13,
-          "name": "GALANG, JOVERT",
-          "party": "PRP"
-        },
-        {
-          "number": 14,
-          "name": "VILLAPANDO,  AMOTONOY",
-          "party": "PRP"
-        },
-        {
-          "number": 15,
-          "name": "VILLAPANDO, CLARK  VAN",
-          "party": "STAN Q"
-        },
-        {
-          "number": 16,
+          "number": "5",
           "name": "ENCANTO, RANEL",
           "party": "PRP"
         },
         {
-          "number": 17,
+          "number": "6",
+          "name": "ESTIPONA, ALEX",
+          "party": "STAN \nQ"
+        },
+        {
+          "number": "7",
+          "name": "ESTRADA, DOREDS",
+          "party": "IND"
+        },
+        {
+          "number": "8",
+          "name": "ESTRADA, PAULO",
+          "party": "IND"
+        },
+        {
+          "number": "9",
+          "name": "GALANG, JOVERT",
+          "party": "PRP"
+        },
+        {
+          "number": "10",
           "name": "GARCIA, PAM",
           "party": "PRP"
         },
         {
-          "number": 18,
-          "name": "VILLEGAS, MINER",
+          "number": "11",
+          "name": "MAGNAYE, KEBOY",
+          "party": "STAN Q"
+        },
+        {
+          "number": "12",
+          "name": "MANALO, UWAH",
           "party": "PRP"
         },
         {
-          "number": 19,
+          "number": "13",
+          "name": "MIMAY, ANRE",
+          "party": "STAN Q"
+        },
+        {
+          "number": "14",
           "name": "SALCEDO, CAPT UDAY",
           "party": "STAN Q"
         },
         {
-          "number": 20,
+          "number": "15",
           "name": "SALCEDO, CLARK",
           "party": "LAKAS"
+        },
+        {
+          "number": "16",
+          "name": "TALAVERA, DODIE",
+          "party": "PRP"
+        },
+        {
+          "number": "17",
+          "name": "VERA CRUZ, JESS",
+          "party": "PRP"
+        },
+        {
+          "number": "18",
+          "name": "VILLAPANDO,  AMOTONOY",
+          "party": "PRP"
+        },
+        {
+          "number": "19",
+          "name": "VILLAPANDO, CLARK  VAN",
+          "party": "STAN Q"
+        },
+        {
+          "number": "20",
+          "name": "VILLEGAS, MINER",
+          "party": "PRP"
         }
       ]
     }

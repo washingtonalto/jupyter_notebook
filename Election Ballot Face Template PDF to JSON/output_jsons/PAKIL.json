@@ -987,12 +987,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AGARAO, BENJIE",
           "party": "PFP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "CAROLINO, TONY",
           "party": "NUP"
         }
@@ -1007,38 +1007,38 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AGAPAY, KAREN",
           "party": "PFP"
         },
         {
-          "number": 2,
-          "name": "FERNANDEZ, DAN",
-          "party": "NUP"
-        },
-        {
-          "number": 3,
-          "name": "REYES, CALOY",
-          "party": "IND"
-        },
-        {
-          "number": 4,
-          "name": "TOLENTINO, ALEXANDER",
-          "party": "IND"
-        },
-        {
-          "number": 5,
+          "number": "2",
           "name": "ARAGONES, SOL",
           "party": "AKAY"
         },
         {
-          "number": 6,
+          "number": "3",
+          "name": "FERNANDEZ, DAN",
+          "party": "NUP"
+        },
+        {
+          "number": "4",
           "name": "HERNANDEZ, RUTH",
           "party": "LAKAS"
         },
         {
-          "number": 7,
+          "number": "5",
+          "name": "REYES, CALOY",
+          "party": "IND"
+        },
+        {
+          "number": "6",
           "name": "SAMIA, KOYANG NOLI",
+          "party": "IND"
+        },
+        {
+          "number": "7",
+          "name": "TOLENTINO, ALEXANDER",
           "party": "IND"
         }
       ]
@@ -1052,34 +1052,34 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BUERA, MARY",
           "party": "IND"
         },
         {
-          "number": 2,
-          "name": "RETUERTO, GEM  AMANTE",
-          "party": "NUP"
-        },
-        {
-          "number": 3,
-          "name": "ZUÑIGA, LORENZO",
-          "party": "PFP"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "CARAIT, ATTY. JM",
           "party": "LAKAS"
         },
         {
-          "number": 5,
+          "number": "3",
           "name": "EJERCITO, JORGE JERICO",
           "party": "IND"
         },
         {
-          "number": 6,
+          "number": "4",
           "name": "PEREZ, PEEWEE PLATON",
           "party": "AKAY"
+        },
+        {
+          "number": "5",
+          "name": "RETUERTO, GEM  AMANTE",
+          "party": "NUP"
+        },
+        {
+          "number": "6",
+          "name": "ZUÑIGA, LORENZO",
+          "party": "PFP"
         }
       ]
     },
@@ -1092,38 +1092,38 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AGARAO, JAM",
           "party": "PFP"
         },
         {
-          "number": 2,
-          "name": "GOJAS, ATTY. ELI",
-          "party": "IND"
-        },
-        {
-          "number": 3,
-          "name": "SAN LUIS, RAI-ANN",
-          "party": "NUP"
-        },
-        {
-          "number": 4,
-          "name": "LOPEZ, ARCHEE",
-          "party": "LAKAS"
-        },
-        {
-          "number": 5,
+          "number": "2",
           "name": "EJERCITO, MARIA  GUADALUPE",
           "party": "IND"
         },
         {
-          "number": 6,
+          "number": "3",
+          "name": "GOJAS, ATTY. ELI",
+          "party": "IND"
+        },
+        {
+          "number": "4",
+          "name": "LOPEZ, ARCHEE",
+          "party": "LAKAS"
+        },
+        {
+          "number": "5",
           "name": "PALACOL, ROMMEL",
           "party": "LAKAS"
         },
         {
-          "number": 7,
+          "number": "6",
           "name": "RAGAZA, KENNETH",
+          "party": "NUP"
+        },
+        {
+          "number": "7",
+          "name": "SAN LUIS, RAI-ANN",
           "party": "NUP"
         }
       ]
@@ -1137,29 +1137,29 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "HIDALGO, UNAD",
-          "party": "LAKAS"
-        },
-        {
-          "number": 2,
-          "name": "SAMELA, KA OCA",
-          "party": "IND"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "CEREDON, LA VERNE",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "2",
           "name": "FAMILARA, MELODY",
           "party": "AKAY"
         },
         {
-          "number": 5,
+          "number": "3",
+          "name": "HIDALGO, UNAD",
+          "party": "LAKAS"
+        },
+        {
+          "number": "4",
           "name": "MARTINEZ, VIPOPS  CHARLES",
           "party": "NUP"
+        },
+        {
+          "number": "5",
+          "name": "SAMELA, KA OCA",
+          "party": "IND"
         }
       ]
     },
@@ -1172,12 +1172,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "2",
           "name": "MARAY, JOY",
           "party": "NUP"
         },
         {
-          "number": 2,
+          "number": "3",
           "name": "PECOLERA, ROD",
           "party": "AKAY"
         }
@@ -1192,149 +1192,149 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ABAYARI, JOSHUA",
           "party": "NUP"
         },
         {
-          "number": 2,
-          "name": "SAMELA, CHE",
-          "party": "IND"
-        },
-        {
-          "number": 3,
-          "name": "CATARINO, NARCING",
-          "party": "LAKAS"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "ADARLO, NEL",
           "party": "LAKAS"
         },
         {
-          "number": 5,
-          "name": "CORTEZ, LAYO",
-          "party": "NUP"
-        },
-        {
-          "number": 6,
+          "number": "3",
           "name": "ALCANTARA, AILYN",
           "party": "AKAY"
         },
         {
-          "number": 7,
-          "name": "COTONER, ELMER",
-          "party": "LAKAS"
-        },
-        {
-          "number": 8,
-          "name": "SASA, PIYANSADORA",
-          "party": "IND"
-        },
-        {
-          "number": 9,
-          "name": "URRIZA, ENAN BUKOL",
-          "party": "NUP"
-        },
-        {
-          "number": 10,
+          "number": "4",
           "name": "ASINAS, JUDE",
           "party": "AKAY"
         },
         {
-          "number": 11,
-          "name": "CRUZ, EDDIE",
-          "party": "LAKAS"
-        },
-        {
-          "number": 12,
-          "name": "VILA, HEPE",
-          "party": "IND"
-        },
-        {
-          "number": 13,
+          "number": "5",
           "name": "AUDITOR, KIRBY",
           "party": "LAKAS"
         },
         {
-          "number": 14,
-          "name": "DEL MORO, AMY",
-          "party": "LAKAS"
-        },
-        {
-          "number": 15,
-          "name": "VIÑAS, JHON DAVE",
-          "party": "IND"
-        },
-        {
-          "number": 16,
-          "name": "DELA CRUZ, IAN",
-          "party": "AKAY"
-        },
-        {
-          "number": 17,
-          "name": "MACABASCO, JOVEN",
-          "party": "AKAY"
-        },
-        {
-          "number": 18,
-          "name": "MACAPANPAN  GONZALES, ACE",
-          "party": "IND"
-        },
-        {
-          "number": 19,
-          "name": "MARTINEZ, TOTOY",
-          "party": "NUP"
-        },
-        {
-          "number": 20,
-          "name": "MARTIZANO, KAPBOY",
-          "party": "NUP"
-        },
-        {
-          "number": 21,
-          "name": "MENDOZA, DINDIN",
-          "party": "NUP"
-        },
-        {
-          "number": 22,
-          "name": "PERALTA, HYACINTH",
-          "party": "IND"
-        },
-        {
-          "number": 23,
-          "name": "DIZON, ARIES",
-          "party": "NUP"
-        },
-        {
-          "number": 24,
-          "name": "REYES, KEVIN",
-          "party": "IND"
-        },
-        {
-          "number": 25,
+          "number": "6",
           "name": "BACSAFRA, CARMI",
           "party": "LAKAS"
         },
         {
-          "number": 26,
+          "number": "7",
           "name": "CABALLERO, SIR BETONG",
           "party": "AKAY"
         },
         {
-          "number": 27,
+          "number": "8",
           "name": "CAILLES, AILEEN",
           "party": "LAKAS"
         },
         {
-          "number": 28,
+          "number": "9",
+          "name": "CATARINO, NARCING",
+          "party": "LAKAS"
+        },
+        {
+          "number": "10",
+          "name": "CORTEZ, LAYO",
+          "party": "NUP"
+        },
+        {
+          "number": "11",
+          "name": "COTONER, ELMER",
+          "party": "LAKAS"
+        },
+        {
+          "number": "12",
+          "name": "CRUZ, EDDIE",
+          "party": "LAKAS"
+        },
+        {
+          "number": "13",
+          "name": "DEL MORO, AMY",
+          "party": "LAKAS"
+        },
+        {
+          "number": "14",
+          "name": "DELA CRUZ, IAN",
+          "party": "AKAY"
+        },
+        {
+          "number": "15",
+          "name": "DIZON, ARIES",
+          "party": "NUP"
+        },
+        {
+          "number": "16",
           "name": "KAHULUGAN, EMILY",
           "party": "NUP"
         },
         {
-          "number": 29,
+          "number": "17",
+          "name": "MACABASCO, JOVEN",
+          "party": "AKAY"
+        },
+        {
+          "number": "18",
+          "name": "MACAPANPAN  GONZALES, ACE",
+          "party": "IND"
+        },
+        {
+          "number": "19",
+          "name": "MARTINEZ, TOTOY",
+          "party": "NUP"
+        },
+        {
+          "number": "20",
+          "name": "MARTIZANO, KAPBOY",
+          "party": "NUP"
+        },
+        {
+          "number": "21",
+          "name": "MENDOZA, DINDIN",
+          "party": "NUP"
+        },
+        {
+          "number": "22",
+          "name": "PERALTA, HYACINTH",
+          "party": "IND"
+        },
+        {
+          "number": "23",
+          "name": "REYES, KEVIN",
+          "party": "IND"
+        },
+        {
+          "number": "24",
           "name": "ROXAS, PAO BATO",
           "party": "AKAY"
+        },
+        {
+          "number": "25",
+          "name": "SAMELA, CHE",
+          "party": "IND"
+        },
+        {
+          "number": "26",
+          "name": "SASA, PIYANSADORA",
+          "party": "IND"
+        },
+        {
+          "number": "27",
+          "name": "URRIZA, ENAN BUKOL",
+          "party": "NUP"
+        },
+        {
+          "number": "28",
+          "name": "VILA, HEPE",
+          "party": "IND"
+        },
+        {
+          "number": "29",
+          "name": "VIÑAS, JHON DAVE",
+          "party": "IND"
         }
       ]
     }

@@ -988,7 +988,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ENVERGA, MARK",
           "party": "NPC"
         }
@@ -1003,7 +1003,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, DOKTORA HELEN",
           "party": "STAN Q"
         }
@@ -1018,17 +1018,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, THIRD",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ALPAJORA, ARMINGOL",
           "party": "KBL"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "CAPINA, TEODORICO",
           "party": "IND"
         }
@@ -1043,32 +1043,32 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "LUCES, JULIUS",
-          "party": "STAN Q"
-        },
-        {
-          "number": 2,
-          "name": "OBISPO, ALONA",
-          "party": "PFP"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "ALCALA, CHRISTIAN  PAUL",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "2",
           "name": "GARCIA, NATHALIE",
           "party": "KBL"
         },
         {
-          "number": 5,
+          "number": "3",
+          "name": "LUCES, JULIUS",
+          "party": "STAN Q"
+        },
+        {
+          "number": "4",
           "name": "NANTES, SAM",
           "party": "LAKAS"
         },
         {
-          "number": 6,
+          "number": "5",
+          "name": "OBISPO, ALONA",
+          "party": "PFP"
+        },
+        {
+          "number": "6",
           "name": "SARONA, GEN. ELMO  RINGO",
           "party": "NPC"
         }
@@ -1083,17 +1083,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "PUJEDA, FRED",
           "party": "PRP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "RUZOL, AMBET",
           "party": "NP"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "RUZOL, POL ART",
           "party": "WPP"
         }
@@ -1108,19 +1108,19 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
+          "name": "AVELLANEDA, RODEL",
+          "party": "WPP"
+        },
+        {
+          "number": "2",
           "name": "RUZOL, ESEE",
           "party": "NP"
         },
         {
-          "number": 2,
+          "number": "3",
           "name": "VARGAS, DOKTORA",
           "party": "PRP"
-        },
-        {
-          "number": 3,
-          "name": "AVELLANEDA, RODEL",
-          "party": "WPP"
         }
       ]
     },
@@ -1133,124 +1133,124 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ACORDA, RODEL",
           "party": "WPP"
         },
         {
-          "number": 2,
-          "name": "OLIVA, INGGO",
-          "party": "NP"
-        },
-        {
-          "number": 3,
-          "name": "SANCHEZ, BUKO",
-          "party": "PFP"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "ASTEJADA, ABEGAIL",
           "party": "NP"
         },
         {
-          "number": 5,
-          "name": "PORTILLO, BOBBY",
-          "party": "PRP"
-        },
-        {
-          "number": 6,
-          "name": "SANTOS, ELMER",
-          "party": "NP"
-        },
-        {
-          "number": 7,
+          "number": "3",
           "name": "ASTOVEZA, AARON",
           "party": "NP"
         },
         {
-          "number": 8,
-          "name": "TENA, GERRY",
-          "party": "WPP"
-        },
-        {
-          "number": 9,
-          "name": "PROHIBIDO, SHERWIN",
-          "party": "PRP"
-        },
-        {
-          "number": 10,
-          "name": "RILLION, BRENDA",
-          "party": "NP"
-        },
-        {
-          "number": 11,
-          "name": "TORRES, ALLAN",
-          "party": "NP"
-        },
-        {
-          "number": 12,
-          "name": "SABIDURIA, BIDEK",
-          "party": "NP"
-        },
-        {
-          "number": 13,
-          "name": "VILLANUEVA, JOMEL",
-          "party": "PRP"
-        },
-        {
-          "number": 14,
-          "name": "VILLAREAL, WIN",
-          "party": "NP"
-        },
-        {
-          "number": 15,
+          "number": "4",
           "name": "AVELLANEDA, HERO",
           "party": "PRP"
         },
         {
-          "number": 16,
+          "number": "5",
           "name": "AVELLANEDA, MAICA  JOY",
           "party": "WPP"
         },
         {
-          "number": 17,
+          "number": "6",
           "name": "CABANAG, JOVENCIO",
           "party": "IND"
         },
         {
-          "number": 18,
+          "number": "7",
           "name": "CALZADO, CONCHING",
           "party": "IND"
         },
         {
-          "number": 19,
+          "number": "8",
           "name": "CALZADO, JOHN REY",
           "party": "IND"
         },
         {
-          "number": 20,
+          "number": "9",
           "name": "CURIOSO, CHRISTIAN",
           "party": "IND"
         },
         {
-          "number": 21,
+          "number": "10",
           "name": "LUMAYOT, JONARD",
           "party": "WPP"
         },
         {
-          "number": 22,
+          "number": "11",
           "name": "MIRAS, JHON MICHAEL",
           "party": "PRP"
         },
         {
-          "number": 23,
+          "number": "12",
           "name": "NOLLEDO, BERNARD",
           "party": "PFP"
         },
         {
-          "number": 24,
+          "number": "13",
+          "name": "OLIVA, INGGO",
+          "party": "NP"
+        },
+        {
+          "number": "14",
+          "name": "PORTILLO, BOBBY",
+          "party": "PRP"
+        },
+        {
+          "number": "15",
+          "name": "PROHIBIDO, SHERWIN",
+          "party": "PRP"
+        },
+        {
+          "number": "16",
+          "name": "RILLION, BRENDA",
+          "party": "NP"
+        },
+        {
+          "number": "17",
+          "name": "SABIDURIA, BIDEK",
+          "party": "NP"
+        },
+        {
+          "number": "18",
           "name": "SALANDRON, ARIES",
           "party": "PRP"
+        },
+        {
+          "number": "19",
+          "name": "SANCHEZ, BUKO",
+          "party": "PFP"
+        },
+        {
+          "number": "20",
+          "name": "SANTOS, ELMER",
+          "party": "NP"
+        },
+        {
+          "number": "21",
+          "name": "TENA, GERRY",
+          "party": "WPP"
+        },
+        {
+          "number": "22",
+          "name": "TORRES, ALLAN",
+          "party": "NP"
+        },
+        {
+          "number": "23",
+          "name": "VILLANUEVA, JOMEL",
+          "party": "PRP"
+        },
+        {
+          "number": "24",
+          "name": "VILLAREAL, WIN",
+          "party": "NP"
         }
       ]
     }

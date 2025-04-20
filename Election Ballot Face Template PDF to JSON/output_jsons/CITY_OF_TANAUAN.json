@@ -987,19 +987,19 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BURGOS, NESTOR",
           "party": "IND"
         },
         {
-          "number": 2,
-          "name": "LEVISTE, MARK",
-          "party": "IND"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "COLLANTES, ATTY. KING",
           "party": "NPC"
+        },
+        {
+          "number": "3",
+          "name": "LEVISTE, MARK",
+          "party": "IND"
         }
       ]
     },
@@ -1012,22 +1012,22 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "RIVERA, MIKE",
-          "party": "LP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "ILAGAN, JAY MANALO",
           "party": "PROMDI"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "OZAETA, KUYAKAP  WALTER",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "3",
+          "name": "RIVERA, MIKE",
+          "party": "LP"
+        },
+        {
+          "number": "4",
           "name": "SANTOS-RECTO, VILMA",
           "party": "NP"
         }
@@ -1042,17 +1042,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "DOLOR, RYANH",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MANDANAS, DODO",
           "party": "PDPLBN"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "MANZANO, LUIS LUCKY",
           "party": "NP"
         }
@@ -1067,17 +1067,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BALBA, RUDY",
           "party": "NP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "CORONA, FRED",
           "party": "NP"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "MACALINTAL, DENNIS",
           "party": "PFP"
         }
@@ -1092,29 +1092,29 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "COLLANTES, SONNY",
           "party": "NPC"
         },
         {
-          "number": 2,
-          "name": "HALILI, MARK ANTHONY",
-          "party": "PFP"
-        },
-        {
-          "number": 3,
-          "name": "TRINIDAD,  ATTY.JUN-JUN",
-          "party": "PDPLBN"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "GARCIA, NANCY",
           "party": "IND"
         },
         {
-          "number": 5,
+          "number": "3",
+          "name": "HALILI, MARK ANTHONY",
+          "party": "PFP"
+        },
+        {
+          "number": "4",
           "name": "JAVIER, AMBET",
           "party": "IND"
+        },
+        {
+          "number": "5",
+          "name": "TRINIDAD,  ATTY.JUN-JUN",
+          "party": "PDPLBN"
         }
       ]
     },
@@ -1127,12 +1127,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ABLAO, DODONG",
           "party": "NPC"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "BENGZON, SAM  TORRESAQUINO",
           "party": "PFP"
         }
@@ -1147,159 +1147,159 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "MANGLO, ERIC",
-          "party": "PFP"
-        },
-        {
-          "number": 2,
-          "name": "RAMILO, MARIE",
-          "party": "IND"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "ALCANTARA, RENE EBOY  PIA",
           "party": "NPC"
         },
         {
-          "number": 4,
+          "number": "2",
           "name": "AMURAO, MARCO",
           "party": "NPC"
         },
         {
-          "number": 5,
-          "name": "RILE, CIPRIANO",
-          "party": "IND"
-        },
-        {
-          "number": 6,
-          "name": "GONZALES, MACKY LEUS",
-          "party": "NPC"
-        },
-        {
-          "number": 7,
-          "name": "GUELOS, DRA. KRISTEL",
-          "party": "PFP"
-        },
-        {
-          "number": 8,
+          "number": "3",
           "name": "ARCEGA, BETH",
           "party": "NPC"
         },
         {
-          "number": 9,
-          "name": "HERNANDEZ, LEO",
-          "party": "IND"
-        },
-        {
-          "number": 10,
-          "name": "RODELAS, MARK",
-          "party": "IND"
-        },
-        {
-          "number": 11,
-          "name": "JAVIER, VICKY",
-          "party": "NPC"
-        },
-        {
-          "number": 12,
+          "number": "4",
           "name": "BURGOS, ANGEL",
           "party": "PDPLBN"
         },
         {
-          "number": 13,
-          "name": "TABING, DRA. MARISSA",
-          "party": "PFP"
-        },
-        {
-          "number": 14,
+          "number": "5",
           "name": "CASTILLO, JOSEPH",
           "party": "PFP"
         },
         {
-          "number": 15,
-          "name": "LAUREL, CARLOS",
-          "party": "PFP"
-        },
-        {
-          "number": 16,
-          "name": "VALDEZ, MACOY",
-          "party": "IND"
-        },
-        {
-          "number": 17,
+          "number": "6",
           "name": "CORONA, BEN",
           "party": "PFP"
         },
         {
-          "number": 18,
-          "name": "LUNA, GLADINA",
-          "party": "IND"
-        },
-        {
-          "number": 19,
-          "name": "VILLAFLOR, JOFET",
-          "party": "IND"
-        },
-        {
-          "number": 20,
-          "name": "YSON, EUGENE",
-          "party": "PFP"
-        },
-        {
-          "number": 21,
-          "name": "MACALINDONG,SK  KENNEDY",
-          "party": "PDPLBN"
-        },
-        {
-          "number": 22,
-          "name": "MARQUESES, CZYLENE",
-          "party": "NPC"
-        },
-        {
-          "number": 23,
-          "name": "MENGUITO, CHEVY  BLESSING",
-          "party": "NPC"
-        },
-        {
-          "number": 24,
-          "name": "MICOSA, CLARENCE",
-          "party": "NPC"
-        },
-        {
-          "number": 25,
-          "name": "NATANAUAN, SONNY  MENDOZA",
-          "party": "NPC"
-        },
-        {
-          "number": 26,
-          "name": "OFRIN, DOCBOBBY",
-          "party": "PFP"
-        },
-        {
-          "number": 27,
-          "name": "ORUGA, TIRSO  MERCADO",
-          "party": "NPC"
-        },
-        {
-          "number": 28,
-          "name": "MAGSINO, EDWIN",
-          "party": "IND"
-        },
-        {
-          "number": 29,
-          "name": "PLATON, SHIRLEY",
-          "party": "PFP"
-        },
-        {
-          "number": 30,
+          "number": "7",
           "name": "DE SAGUN, HERMAN",
           "party": "PFP"
         },
         {
-          "number": 31,
+          "number": "8",
           "name": "GONZALES, GLEN WIN",
           "party": "PDPLBN"
+        },
+        {
+          "number": "9",
+          "name": "GONZALES, MACKY LEUS",
+          "party": "NPC"
+        },
+        {
+          "number": "10",
+          "name": "GUELOS, DRA. KRISTEL",
+          "party": "PFP"
+        },
+        {
+          "number": "11",
+          "name": "HERNANDEZ, LEO",
+          "party": "IND"
+        },
+        {
+          "number": "12",
+          "name": "JAVIER, VICKY",
+          "party": "NPC"
+        },
+        {
+          "number": "13",
+          "name": "LAUREL, CARLOS",
+          "party": "PFP"
+        },
+        {
+          "number": "14",
+          "name": "LUNA, GLADINA",
+          "party": "IND"
+        },
+        {
+          "number": "15",
+          "name": "MACALINDONG,SK  KENNEDY",
+          "party": "PDPLBN"
+        },
+        {
+          "number": "16",
+          "name": "MAGSINO, EDWIN",
+          "party": "IND"
+        },
+        {
+          "number": "17",
+          "name": "MANGLO, ERIC",
+          "party": "PFP"
+        },
+        {
+          "number": "18",
+          "name": "MARQUESES, CZYLENE",
+          "party": "NPC"
+        },
+        {
+          "number": "19",
+          "name": "MENGUITO, CHEVY  BLESSING",
+          "party": "NPC"
+        },
+        {
+          "number": "20",
+          "name": "MICOSA, CLARENCE",
+          "party": "NPC"
+        },
+        {
+          "number": "21",
+          "name": "NATANAUAN, SONNY  MENDOZA",
+          "party": "NPC"
+        },
+        {
+          "number": "22",
+          "name": "OFRIN, DOCBOBBY",
+          "party": "PFP"
+        },
+        {
+          "number": "23",
+          "name": "ORUGA, TIRSO  MERCADO",
+          "party": "NPC"
+        },
+        {
+          "number": "24",
+          "name": "PLATON, SHIRLEY",
+          "party": "PFP"
+        },
+        {
+          "number": "25",
+          "name": "RAMILO, MARIE",
+          "party": "IND"
+        },
+        {
+          "number": "26",
+          "name": "RILE, CIPRIANO",
+          "party": "IND"
+        },
+        {
+          "number": "27",
+          "name": "RODELAS, MARK",
+          "party": "IND"
+        },
+        {
+          "number": "28",
+          "name": "TABING, DRA. MARISSA",
+          "party": "PFP"
+        },
+        {
+          "number": "29",
+          "name": "VALDEZ, MACOY",
+          "party": "IND"
+        },
+        {
+          "number": "30",
+          "name": "VILLAFLOR, JOFET",
+          "party": "IND"
+        },
+        {
+          "number": "31",
+          "name": "YSON, EUGENE",
+          "party": "PFP"
         }
       ]
     }

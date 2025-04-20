@@ -990,12 +990,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "IBAÑEZ, COACH TONY",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "TIANGCO, TOBY",
           "party": "NVTEÑO"
         }
@@ -1010,7 +1010,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TIANGCO, JOHN REY",
           "party": "NVTEÑO"
         }
@@ -1025,7 +1025,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "SANCHEZ, KAP TITO",
           "party": "NVTEÑO"
         }
@@ -1040,38 +1040,38 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ILEDAN, DENNIS",
           "party": "IND"
         },
         {
-          "number": 2,
-          "name": "VICENCIO, RV",
-          "party": "NVTEÑO"
-        },
-        {
-          "number": 3,
-          "name": "MONROY, DOC REY",
-          "party": "NVTEÑO"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "MAÑO, TAROK",
           "party": "NVTEÑO"
         },
         {
-          "number": 5,
+          "number": "3",
+          "name": "MONROY, DOC REY",
+          "party": "NVTEÑO"
+        },
+        {
+          "number": "4",
           "name": "NAZAL, ANNA",
           "party": "NVTEÑO"
         },
         {
-          "number": 6,
+          "number": "5",
           "name": "SANCHEZ, MYLENE",
           "party": "NVTEÑO"
         },
         {
-          "number": 7,
+          "number": "6",
           "name": "SANTIAGO, LANCE",
+          "party": "NVTEÑO"
+        },
+        {
+          "number": "7",
+          "name": "VICENCIO, RV",
           "party": "NVTEÑO"
         }
       ]

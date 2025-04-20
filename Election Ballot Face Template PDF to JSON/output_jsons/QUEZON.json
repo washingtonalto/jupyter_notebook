@@ -986,7 +986,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, ATORNI MIKE",
           "party": "NPC"
         }
@@ -1001,7 +1001,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, DOKTORA HELEN",
           "party": "STAN Q"
         }
@@ -1016,17 +1016,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, THIRD",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ALPAJORA, ARMINGOL",
           "party": "KBL"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "CAPINA, TEODORICO",
           "party": "IND"
         }
@@ -1041,17 +1041,17 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "EDUARTE, OLA",
-          "party": "STAN Q"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "BUTARDO, HAROLD",
           "party": "STAN Q"
         },
         {
-          "number": 3,
+          "number": "2",
+          "name": "EDUARTE, OLA",
+          "party": "STAN Q"
+        },
+        {
+          "number": "3",
           "name": "UBANA, RACHEL",
           "party": "STAN \nQ"
         }
@@ -1066,17 +1066,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BAYAN, JOSEPH",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "CLACIO, CRISPIN",
           "party": "PRP"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "ESCOLANO, JUAN",
           "party": "STAN \nQ"
         }
@@ -1091,7 +1091,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALIBARBAR, PEDDY",
           "party": "STAN Q"
         }
@@ -1106,94 +1106,94 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "DELA CRUZ, TIBONG",
-          "party": "IND"
-        },
-        {
-          "number": 2,
-          "name": "FEBRER, MAR",
-          "party": "IND"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "ALIBARBAR, PEDRITO  JR.",
           "party": "STAN Q"
         },
         {
-          "number": 4,
+          "number": "2",
           "name": "ANGULO, SANDEEH",
           "party": "STAN Q"
         },
         {
-          "number": 5,
+          "number": "3",
           "name": "BAYAN, MYLA",
           "party": "IND"
         },
         {
-          "number": 6,
-          "name": "FELISMENA, REY",
-          "party": "IND"
-        },
-        {
-          "number": 7,
-          "name": "LIM, ELEUTERIO JR.",
-          "party": "PRP"
-        },
-        {
-          "number": 8,
-          "name": "MOLATO, KAP BENDO",
-          "party": "IND"
-        },
-        {
-          "number": 9,
-          "name": "MULLEDA, GM GELSON",
-          "party": "STAN Q"
-        },
-        {
-          "number": 10,
-          "name": "RODRIGUEZ,  CANDY-LAB",
-          "party": "PRP"
-        },
-        {
-          "number": 11,
-          "name": "RODRIGUEZ, LLOYDE",
-          "party": "PRP"
-        },
-        {
-          "number": 12,
-          "name": "TALAVERA, RONNIE",
-          "party": "IND"
-        },
-        {
-          "number": 13,
-          "name": "OLIVEROS, FM",
-          "party": "STAN Q"
-        },
-        {
-          "number": 14,
+          "number": "4",
           "name": "BINOCAZ, ALBERTO JR.",
           "party": "STAN Q"
         },
         {
-          "number": 15,
+          "number": "5",
           "name": "CARIÑO, ARLYN",
           "party": "PRP"
         },
         {
-          "number": 16,
+          "number": "6",
+          "name": "DELA CRUZ, TIBONG",
+          "party": "IND"
+        },
+        {
+          "number": "7",
+          "name": "FEBRER, MAR",
+          "party": "IND"
+        },
+        {
+          "number": "8",
+          "name": "FELISMENA, REY",
+          "party": "IND"
+        },
+        {
+          "number": "9",
           "name": "FLORES, KONS BRIENE",
           "party": "STAN Q"
         },
         {
-          "number": 17,
+          "number": "10",
           "name": "LAMADRID, MHABEL",
           "party": "STAN Q"
         },
         {
-          "number": 18,
+          "number": "11",
+          "name": "LIM, ELEUTERIO JR.",
+          "party": "PRP"
+        },
+        {
+          "number": "12",
+          "name": "MOLATO, KAP BENDO",
+          "party": "IND"
+        },
+        {
+          "number": "13",
+          "name": "MULLEDA, GM GELSON",
+          "party": "STAN Q"
+        },
+        {
+          "number": "14",
+          "name": "OLIVEROS, FM",
+          "party": "STAN Q"
+        },
+        {
+          "number": "15",
           "name": "OLIVEROS, OSCAR  RENEE",
           "party": "PRP"
+        },
+        {
+          "number": "16",
+          "name": "RODRIGUEZ,  CANDY-LAB",
+          "party": "PRP"
+        },
+        {
+          "number": "17",
+          "name": "RODRIGUEZ, LLOYDE",
+          "party": "PRP"
+        },
+        {
+          "number": "18",
+          "name": "TALAVERA, RONNIE",
+          "party": "IND"
         }
       ]
     }

@@ -990,12 +990,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BUHAIN, ERIC",
           "party": "NP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "LEVISTE, LEANDRO  LEGARDA",
           "party": "IND"
         }
@@ -1010,22 +1010,22 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "RIVERA, MIKE",
-          "party": "LP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "ILAGAN, JAY MANALO",
           "party": "PROMDI"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "OZAETA, KUYAKAP  WALTER",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "3",
+          "name": "RIVERA, MIKE",
+          "party": "LP"
+        },
+        {
+          "number": "4",
           "name": "SANTOS-RECTO, VILMA",
           "party": "NP"
         }
@@ -1040,17 +1040,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "DOLOR, RYANH",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MANDANAS, DODO",
           "party": "PDPLBN"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "MANZANO, LUIS LUCKY",
           "party": "NP"
         }
@@ -1065,29 +1065,29 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "APACIBLE, RAYMUND",
           "party": "LDP"
         },
         {
-          "number": 2,
-          "name": "LANDICHO, ROBERTO",
-          "party": "PFP"
-        },
-        {
-          "number": 3,
-          "name": "SANTOS, DOK ROSALES",
-          "party": "NP"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "BAUSAS, ARMIE",
           "party": "NP"
         },
         {
-          "number": 5,
+          "number": "3",
+          "name": "LANDICHO, ROBERTO",
+          "party": "PFP"
+        },
+        {
+          "number": "4",
           "name": "MALINAY, LEO",
           "party": "PROMDI"
+        },
+        {
+          "number": "5",
+          "name": "SANTOS, DOK ROSALES",
+          "party": "NP"
         }
       ]
     },
@@ -1100,17 +1100,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ERMITA, LISA",
           "party": "NPC"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "FRONDA, LESLEE",
           "party": "NP"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "LOPEZ, PABS",
           "party": "IND"
         }
@@ -1125,12 +1125,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ABIAD, RITA",
           "party": "NPC"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "CHAVEZ, EFREN",
           "party": "NP"
         }
@@ -1145,104 +1145,104 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ANIWASAL, RAQUEL",
           "party": "NP"
         },
         {
-          "number": 2,
-          "name": "LAINEZ, BOBBY",
-          "party": "NP"
-        },
-        {
-          "number": 3,
-          "name": "DE LA VEGA, RAYMUND",
-          "party": "NP"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "BALBOA, JAY",
           "party": "IND"
         },
         {
-          "number": 5,
-          "name": "DE ROXAS, RV",
-          "party": "NP"
-        },
-        {
-          "number": 6,
-          "name": "MACALINDONG, RODEL",
-          "party": "NPC"
-        },
-        {
-          "number": 7,
-          "name": "PAMINTUAN, CHARLES",
-          "party": "NP"
-        },
-        {
-          "number": 8,
-          "name": "PAMINTUAN, NILO",
-          "party": "NPC"
-        },
-        {
-          "number": 9,
+          "number": "3",
           "name": "CARAIG, CHRISTY",
           "party": "IND"
         },
         {
-          "number": 10,
-          "name": "MAGAHIS, DONDI",
-          "party": "NPC"
-        },
-        {
-          "number": 11,
-          "name": "PANTOJA, BERNIE",
-          "party": "NP"
-        },
-        {
-          "number": 12,
-          "name": "ELLAO, RALPH LAUREEN",
-          "party": "IND"
-        },
-        {
-          "number": 13,
+          "number": "4",
           "name": "CARINGAL, RONAN",
           "party": "NPC"
         },
         {
-          "number": 14,
-          "name": "GARCIA, LOLIT",
-          "party": "NP"
-        },
-        {
-          "number": 15,
-          "name": "SOLIS, ALFRED III",
-          "party": "NPC"
-        },
-        {
-          "number": 16,
+          "number": "5",
           "name": "CASTELO, WINS",
           "party": "NPC"
         },
         {
-          "number": 17,
-          "name": "VERDILLO, ARCELI",
+          "number": "6",
+          "name": "DE LA VEGA, RAYMUND",
+          "party": "NP"
+        },
+        {
+          "number": "7",
+          "name": "DE ROXAS, RV",
+          "party": "NP"
+        },
+        {
+          "number": "8",
+          "name": "ELLAO, RALPH LAUREEN",
           "party": "IND"
         },
         {
-          "number": 18,
+          "number": "9",
+          "name": "GARCIA, LOLIT",
+          "party": "NP"
+        },
+        {
+          "number": "10",
           "name": "HERNANDEZ, DEMET",
           "party": "NP"
         },
         {
-          "number": 19,
+          "number": "11",
+          "name": "LAINEZ, BOBBY",
+          "party": "NP"
+        },
+        {
+          "number": "12",
+          "name": "MACALINDONG, RODEL",
+          "party": "NPC"
+        },
+        {
+          "number": "13",
+          "name": "MAGAHIS, DONDI",
+          "party": "NPC"
+        },
+        {
+          "number": "14",
           "name": "MAHILUM, SALANGUIT",
           "party": "NPC"
         },
         {
-          "number": 20,
+          "number": "15",
           "name": "MARTINEZ, MARLON",
           "party": "NPC"
+        },
+        {
+          "number": "16",
+          "name": "PAMINTUAN, CHARLES",
+          "party": "NP"
+        },
+        {
+          "number": "17",
+          "name": "PAMINTUAN, NILO",
+          "party": "NPC"
+        },
+        {
+          "number": "18",
+          "name": "PANTOJA, BERNIE",
+          "party": "NP"
+        },
+        {
+          "number": "19",
+          "name": "SOLIS, ALFRED III",
+          "party": "NPC"
+        },
+        {
+          "number": "20",
+          "name": "VERDILLO, ARCELI",
+          "party": "IND"
         }
       ]
     }

@@ -989,12 +989,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "EJERCITO, JANA",
           "party": "PMP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ZAMORA, ATTY. BEL",
           "party": "LAKAS"
         }
@@ -1009,12 +1009,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "CEZAR, PHILIP",
           "party": "PMP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ZAMORA, FRANCIS",
           "party": "PFP"
         }
@@ -1029,12 +1029,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AGCAOILI, AAA",
           "party": "PFP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "CRISOLOGO, CANDY",
           "party": "IND"
         }
@@ -1049,47 +1049,47 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALLADO, DON",
           "party": "PFP"
         },
         {
-          "number": 2,
-          "name": "DELA CRUZ, MARVIN",
-          "party": "IND"
-        },
-        {
-          "number": 3,
-          "name": "TAÑADA-YAM, FRANCO",
-          "party": "PFP"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "BERNARDO, TOTOY",
           "party": "PFP"
         },
         {
-          "number": 5,
-          "name": "MATHAY, MACKY",
-          "party": "PFP"
-        },
-        {
-          "number": 6,
-          "name": "VILLASPER, MAGIC",
-          "party": "PMP"
-        },
-        {
-          "number": 7,
+          "number": "3",
           "name": "DE GUZMAN, BEA",
           "party": "PFP"
         },
         {
-          "number": 8,
+          "number": "4",
+          "name": "DELA CRUZ, MARVIN",
+          "party": "IND"
+        },
+        {
+          "number": "5",
+          "name": "MATHAY, MACKY",
+          "party": "PFP"
+        },
+        {
+          "number": "6",
           "name": "PERALTA, KIT",
           "party": "PFP"
         },
         {
-          "number": 9,
+          "number": "7",
+          "name": "TAÑADA-YAM, FRANCO",
+          "party": "PFP"
+        },
+        {
+          "number": "8",
+          "name": "VILLASPER, MAGIC",
+          "party": "PMP"
+        },
+        {
+          "number": "9",
           "name": "VIOLETA, JUANITO III",
           "party": "IND"
         }

@@ -987,7 +987,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ENVERGA, MARK",
           "party": "NPC"
         }
@@ -1002,7 +1002,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, DOKTORA HELEN",
           "party": "STAN Q"
         }
@@ -1017,17 +1017,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, THIRD",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ALPAJORA, ARMINGOL",
           "party": "KBL"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "CAPINA, TEODORICO",
           "party": "IND"
         }
@@ -1042,32 +1042,32 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "LUCES, JULIUS",
-          "party": "STAN Q"
-        },
-        {
-          "number": 2,
-          "name": "OBISPO, ALONA",
-          "party": "PFP"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "ALCALA, CHRISTIAN  PAUL",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "2",
           "name": "GARCIA, NATHALIE",
           "party": "KBL"
         },
         {
-          "number": 5,
+          "number": "3",
+          "name": "LUCES, JULIUS",
+          "party": "STAN Q"
+        },
+        {
+          "number": "4",
           "name": "NANTES, SAM",
           "party": "LAKAS"
         },
         {
-          "number": 6,
+          "number": "5",
+          "name": "OBISPO, ALONA",
+          "party": "PFP"
+        },
+        {
+          "number": "6",
           "name": "SARONA, GEN. ELMO  RINGO",
           "party": "NPC"
         }
@@ -1082,7 +1082,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "LARITA, CLARA",
           "party": "STAN Q"
         }
@@ -1097,19 +1097,19 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AGUILAR, EDWIN",
           "party": "NPC"
         },
         {
-          "number": 2,
-          "name": "ASISTIN, SAMUEL",
-          "party": "IND"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "AÑONUEVO, REY",
           "party": "STAN \nQ"
+        },
+        {
+          "number": "3",
+          "name": "ASISTIN, SAMUEL",
+          "party": "IND"
         }
       ]
     },
@@ -1122,124 +1122,124 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AQUINO, PRECY",
           "party": "IND"
         },
         {
-          "number": 2,
-          "name": "BRIZ, ROBERTO",
-          "party": "STAN Q"
-        },
-        {
-          "number": 3,
-          "name": "DY, AWIE",
-          "party": "STAN Q"
-        },
-        {
-          "number": 4,
-          "name": "ENCONTRO, UPIN",
-          "party": "NPC"
-        },
-        {
-          "number": 5,
+          "number": "2",
           "name": "ARMADA, LUDOY",
           "party": "STAN \nQ"
         },
         {
-          "number": 6,
-          "name": "CABALLERO, JOJO",
-          "party": "STAN \nQ"
-        },
-        {
-          "number": 7,
+          "number": "3",
           "name": "AYUMA, DANILO",
           "party": "IND"
         },
         {
-          "number": 8,
-          "name": "CALLEJA, MINDA",
-          "party": "PFP"
-        },
-        {
-          "number": 9,
-          "name": "GARAY, OTIE",
-          "party": "NPC"
-        },
-        {
-          "number": 10,
+          "number": "4",
           "name": "AYUMA, ELMER",
           "party": "NPC"
         },
         {
-          "number": 11,
-          "name": "CARITOS, LYN",
-          "party": "IND"
-        },
-        {
-          "number": 12,
-          "name": "MANLOGON, ABAD",
-          "party": "NPC"
-        },
-        {
-          "number": 13,
-          "name": "MANLUGON, ESONG",
-          "party": "STAN Q"
-        },
-        {
-          "number": 14,
-          "name": "SAMANTE, EMHAR",
-          "party": "NPC"
-        },
-        {
-          "number": 15,
-          "name": "SOLLESTRE, MARLON",
-          "party": "NPC"
-        },
-        {
-          "number": 16,
-          "name": "DELLORO, ARGIE",
-          "party": "IND"
-        },
-        {
-          "number": 17,
-          "name": "SUCUANO, OGER",
-          "party": "NPC"
-        },
-        {
-          "number": 18,
-          "name": "DEMIN, MARIBEL",
-          "party": "IND"
-        },
-        {
-          "number": 19,
-          "name": "TENA, ALONA",
-          "party": "IND"
-        },
-        {
-          "number": 20,
+          "number": "5",
           "name": "BANTUCAN, MAYO",
           "party": "STAN Q"
         },
         {
-          "number": 21,
+          "number": "6",
           "name": "BANTUCAN, MHAY",
           "party": "STAN Q"
         },
         {
-          "number": 22,
+          "number": "7",
+          "name": "BRIZ, ROBERTO",
+          "party": "STAN Q"
+        },
+        {
+          "number": "8",
+          "name": "CABALLERO, JOJO",
+          "party": "STAN \nQ"
+        },
+        {
+          "number": "9",
+          "name": "CALLEJA, MINDA",
+          "party": "PFP"
+        },
+        {
+          "number": "10",
+          "name": "CARITOS, LYN",
+          "party": "IND"
+        },
+        {
+          "number": "11",
+          "name": "DELLORO, ARGIE",
+          "party": "IND"
+        },
+        {
+          "number": "12",
+          "name": "DEMIN, MARIBEL",
+          "party": "IND"
+        },
+        {
+          "number": "13",
+          "name": "DY, AWIE",
+          "party": "STAN Q"
+        },
+        {
+          "number": "14",
+          "name": "ENCONTRO, UPIN",
+          "party": "NPC"
+        },
+        {
+          "number": "15",
+          "name": "GARAY, OTIE",
+          "party": "NPC"
+        },
+        {
+          "number": "16",
           "name": "LOPEZ, LETECIA",
           "party": "STAN \nQ"
         },
         {
-          "number": 23,
+          "number": "17",
           "name": "MAHINQUE, ERNIEBOY",
           "party": "IND"
         },
         {
-          "number": 24,
+          "number": "18",
           "name": "MALABUNGA, TUG-OK",
           "party": "NPC"
+        },
+        {
+          "number": "19",
+          "name": "MANLOGON, ABAD",
+          "party": "NPC"
+        },
+        {
+          "number": "20",
+          "name": "MANLUGON, ESONG",
+          "party": "STAN Q"
+        },
+        {
+          "number": "21",
+          "name": "SAMANTE, EMHAR",
+          "party": "NPC"
+        },
+        {
+          "number": "22",
+          "name": "SOLLESTRE, MARLON",
+          "party": "NPC"
+        },
+        {
+          "number": "23",
+          "name": "SUCUANO, OGER",
+          "party": "NPC"
+        },
+        {
+          "number": "24",
+          "name": "TENA, ALONA",
+          "party": "IND"
         }
       ]
     }

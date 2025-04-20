@@ -992,17 +992,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ANTONIO, MINNIE",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "BASE, ANGELO",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "LAGDAMEO, MONIQUE",
           "party": "MKTZNU"
         }
@@ -1017,22 +1017,22 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BINAY, NANCY",
           "party": "UNA"
         },
         {
-          "number": 2,
-          "name": "NERI, VICTOR",
-          "party": "IND"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "CAMPOS, ABBYLUIS",
           "party": "NPC"
         },
         {
-          "number": 4,
+          "number": "3",
+          "name": "NERI, VICTOR",
+          "party": "IND"
+        },
+        {
+          "number": "4",
           "name": "SOLIDUM, ORLANDO  STEPHEN",
           "party": "IND"
         }
@@ -1047,14 +1047,14 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "PEÑA, KID",
-          "party": "NPC"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "DEL ROSARIO,  MONSOUR",
           "party": "UNA"
+        },
+        {
+          "number": "2",
+          "name": "PEÑA, KID",
+          "party": "NPC"
         }
       ]
     },
@@ -1067,102 +1067,102 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "CUARESMA, DAN JASON",
-          "party": "IND"
-        },
-        {
-          "number": 2,
-          "name": "IMPERIAL, ATTY. DINO",
-          "party": "UNA"
-        },
-        {
-          "number": 3,
-          "name": "DIZON, MANNY",
-          "party": "IND"
-        },
-        {
-          "number": 4,
-          "name": "LINGAD, JCL",
-          "party": "IND"
-        },
-        {
-          "number": 5,
-          "name": "PADILLA, ARMANDO",
-          "party": "MKTZNU"
-        },
-        {
-          "number": 6,
-          "name": "SAGUISAG, REBO",
-          "party": "MKTZNU"
-        },
-        {
-          "number": 7,
-          "name": "MEDINA, ROMEO",
-          "party": "UNA"
-        },
-        {
-          "number": 8,
-          "name": "TRINIDAD, JESSY",
-          "party": "IND"
-        },
-        {
-          "number": 9,
-          "name": "ORTEGA, ARLENE",
-          "party": "UNA"
-        },
-        {
-          "number": 10,
+          "number": "1",
           "name": "ALVAREZ, DUKA",
           "party": "MKTZNU"
         },
         {
-          "number": 11,
+          "number": "2",
           "name": "ARENAS, MARTIN",
           "party": "MKTZNU"
         },
         {
-          "number": 12,
+          "number": "3",
           "name": "CALINAWAN, VICBISAYA",
           "party": "IND"
         },
         {
-          "number": 13,
+          "number": "4",
           "name": "CASAL-UY, MAYETH",
           "party": "UNA"
         },
         {
-          "number": 14,
+          "number": "5",
           "name": "COSING, LENNIE JOLLY  BEE",
           "party": "UNA"
         },
         {
-          "number": 15,
+          "number": "6",
+          "name": "CUARESMA, DAN JASON",
+          "party": "IND"
+        },
+        {
+          "number": "7",
+          "name": "DIZON, MANNY",
+          "party": "IND"
+        },
+        {
+          "number": "8",
           "name": "EUSEBIO, FERDIE  TANGGOL",
           "party": "UNA"
         },
         {
-          "number": 16,
+          "number": "9",
           "name": "GARCIA, TITO KANIN",
           "party": "IND"
         },
         {
-          "number": 17,
+          "number": "10",
           "name": "HILARIO, VIRJHONG",
           "party": "MKTZNU"
         },
         {
-          "number": 18,
+          "number": "11",
+          "name": "IMPERIAL, ATTY. DINO",
+          "party": "UNA"
+        },
+        {
+          "number": "12",
+          "name": "LINGAD, JCL",
+          "party": "IND"
+        },
+        {
+          "number": "13",
+          "name": "MEDINA, ROMEO",
+          "party": "UNA"
+        },
+        {
+          "number": "14",
+          "name": "ORTEGA, ARLENE",
+          "party": "UNA"
+        },
+        {
+          "number": "15",
           "name": "ORTEGA, CARMINA",
           "party": "MKTZNU"
         },
         {
-          "number": 19,
+          "number": "16",
+          "name": "PADILLA, ARMANDO",
+          "party": "MKTZNU"
+        },
+        {
+          "number": "17",
+          "name": "SAGUISAG, REBO",
+          "party": "MKTZNU"
+        },
+        {
+          "number": "18",
+          "name": "TRINIDAD, JESSY",
+          "party": "IND"
+        },
+        {
+          "number": "19",
           "name": "VILLENA, JOEY",
           "party": "MKTZNU"
         },
         {
-          "number": 20,
+          "number": "20",
           "name": "YABUT, ALCINE",
           "party": "MKTZNU"
         }

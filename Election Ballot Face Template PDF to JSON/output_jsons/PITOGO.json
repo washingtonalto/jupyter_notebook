@@ -988,12 +988,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ARROGANCIA,  REYNANTE",
           "party": "NPC"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "FLORIDO, MATT WITH  AHEART",
           "party": "IND"
         }
@@ -1008,7 +1008,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, DOKTORA HELEN",
           "party": "STAN Q"
         }
@@ -1023,17 +1023,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, THIRD",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ALPAJORA, ARMINGOL",
           "party": "KBL"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "CAPINA, TEODORICO",
           "party": "IND"
         }
@@ -1048,29 +1048,29 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "REYES, TINTIN",
-          "party": "AKSYON"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "AQUIVIDO, NARS JJ",
           "party": "STAN Q"
         },
         {
-          "number": 3,
-          "name": "ESGUERRA, MEG",
-          "party": "STAN \nQ"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "DIAZ, CONRADO",
           "party": "PFP"
         },
         {
-          "number": 5,
+          "number": "3",
+          "name": "ESGUERRA, MEG",
+          "party": "STAN \nQ"
+        },
+        {
+          "number": "4",
           "name": "GONZALES, BIETO",
           "party": "IND"
+        },
+        {
+          "number": "5",
+          "name": "REYES, TINTIN",
+          "party": "AKSYON"
         }
       ]
     },
@@ -1083,12 +1083,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "GLIANE, DENNIS",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "SAYAT, TOK",
           "party": "STAN Q"
         }
@@ -1103,12 +1103,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "GLINOGA, MON",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "VILLAFLOR,PAUL  TIMOTHY",
           "party": "STAN Q"
         }
@@ -1123,88 +1123,88 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "FORBES, RODEL",
-          "party": "STAN Q"
-        },
-        {
-          "number": 2,
-          "name": "MERCURIO, OKOY",
-          "party": "IND"
-        },
-        {
-          "number": 3,
-          "name": "TAN, DOMINIC",
-          "party": "STAN Q"
-        },
-        {
-          "number": 4,
-          "name": "VILLAROSA, ELSA",
-          "party": "IND"
-        },
-        {
-          "number": 5,
-          "name": "JARANILLA, CARLO",
-          "party": "STAN Q"
-        },
-        {
-          "number": 6,
-          "name": "MOSQUITE, ALEX",
-          "party": "STAN\nQ"
-        },
-        {
-          "number": 7,
-          "name": "LIVADO, ARAM",
-          "party": "STAN Q"
-        },
-        {
-          "number": 8,
-          "name": "MUSA, ONAD",
-          "party": "IND"
-        },
-        {
-          "number": 9,
+          "number": "1",
           "name": "BALDEROSA, MARK  ADRIAN",
           "party": "IND"
         },
         {
-          "number": 10,
+          "number": "2",
           "name": "BURCE, JHON KENNEDY",
           "party": "IND"
         },
         {
-          "number": 11,
+          "number": "3",
           "name": "DE ASIS, KARL  ANTHONIE",
           "party": "STAN Q"
         },
         {
-          "number": 12,
+          "number": "4",
           "name": "ENERO, BRIX",
           "party": "IND"
         },
         {
-          "number": 13,
-          "name": "ORTEGA, VEVEN",
-          "party": "IND"
-        },
-        {
-          "number": 14,
+          "number": "5",
           "name": "ENRIQUEZ, PROOF",
           "party": "IND"
         },
         {
-          "number": 15,
+          "number": "6",
+          "name": "FORBES, RODEL",
+          "party": "STAN Q"
+        },
+        {
+          "number": "7",
+          "name": "JARANILLA, CARLO",
+          "party": "STAN Q"
+        },
+        {
+          "number": "8",
+          "name": "LIVADO, ARAM",
+          "party": "STAN Q"
+        },
+        {
+          "number": "9",
           "name": "LLANETA, KANO",
           "party": "STAN \nQ"
         },
         {
-          "number": 16,
+          "number": "10",
           "name": "LOZADA, BENNY",
           "party": "STAN \nQ"
         },
         {
-          "number": 17,
+          "number": "11",
+          "name": "MERCURIO, OKOY",
+          "party": "IND"
+        },
+        {
+          "number": "12",
+          "name": "MOSQUITE, ALEX",
+          "party": "STAN\nQ"
+        },
+        {
+          "number": "13",
+          "name": "MUSA, ONAD",
+          "party": "IND"
+        },
+        {
+          "number": "14",
+          "name": "ORTEGA, VEVEN",
+          "party": "IND"
+        },
+        {
+          "number": "15",
           "name": "PERALTA, ASIA JOY",
+          "party": "IND"
+        },
+        {
+          "number": "16",
+          "name": "TAN, DOMINIC",
+          "party": "STAN Q"
+        },
+        {
+          "number": "17",
+          "name": "VILLAROSA, ELSA",
           "party": "IND"
         }
       ]

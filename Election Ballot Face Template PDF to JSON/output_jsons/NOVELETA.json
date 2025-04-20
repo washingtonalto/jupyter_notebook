@@ -989,12 +989,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ABAYA, DOC PAUL",
           "party": "LP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "REVILLA, RAMON JOLO",
           "party": "LAKAS"
         }
@@ -1009,24 +1009,24 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
+          "name": "AGUINALDO, WENG",
+          "party": "IND"
+        },
+        {
+          "number": "2",
           "name": "BER ADO, GB",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "3",
           "name": "PERA, AUGUSTO JR.",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "4",
           "name": "REMULLA, ABENG",
           "party": "NUP"
-        },
-        {
-          "number": 4,
-          "name": "AGUINALDO, WENG",
-          "party": "IND"
         }
       ]
     },
@@ -1039,7 +1039,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BAUTISTA, RAM REVILLA",
           "party": "LAKAS"
         }
@@ -1054,13 +1054,13 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "GANDIA, JYGS",
+          "number": "1",
+          "name": "ENRIQUEZ, ROMEL",
           "party": "LAKAS"
         },
         {
-          "number": 2,
-          "name": "ENRIQUEZ, ROMEL",
+          "number": "2",
+          "name": "GANDIA, JYGS",
           "party": "LAKAS"
         }
       ]
@@ -1074,12 +1074,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "CHUA, DAVEY",
           "party": "LAKAS"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "TORRES, ARLYNN",
           "party": "AKSYON"
         }
@@ -1094,12 +1094,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "CHUA, DINO",
           "party": "LAKAS"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "LAMIT, RONEL",
           "party": "AKSYON"
         }
@@ -1114,79 +1114,79 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALIX, JEG",
           "party": "LAKAS"
         },
         {
-          "number": 2,
-          "name": "ENRIQUEZ, AXEL",
-          "party": "LAKAS"
-        },
-        {
-          "number": 3,
-          "name": "MAGAT, ELVIRA",
-          "party": "LP"
-        },
-        {
-          "number": 4,
-          "name": "SARIA, RICKY",
-          "party": "LAKAS"
-        },
-        {
-          "number": 5,
-          "name": "LEOBIT, JINKY",
-          "party": "LP"
-        },
-        {
-          "number": 6,
-          "name": "MANALO, DAVE",
-          "party": "LP"
-        },
-        {
-          "number": 7,
-          "name": "LONTOC, EMI",
-          "party": "LAKAS"
-        },
-        {
-          "number": 8,
-          "name": "SALUD, EDWIN",
-          "party": "LAKAS"
-        },
-        {
-          "number": 9,
-          "name": "TORRES, SHUTAL",
-          "party": "AKSYON"
-        },
-        {
-          "number": 10,
-          "name": "VILLALUZ, ALLAN",
-          "party": "AKSYON"
-        },
-        {
-          "number": 11,
-          "name": "SAQUI, ALLAN",
-          "party": "LP"
-        },
-        {
-          "number": 12,
+          "number": "2",
           "name": "ALVAREZ, BOSS DHEB  RICK",
           "party": "LP"
         },
         {
-          "number": 13,
+          "number": "3",
           "name": "ALVAREZ, DONN LOUIE",
           "party": "LAKAS"
         },
         {
-          "number": 14,
+          "number": "4",
           "name": "BARZAGA, PATRICK",
           "party": "LAKAS"
         },
         {
-          "number": 15,
+          "number": "5",
+          "name": "ENRIQUEZ, AXEL",
+          "party": "LAKAS"
+        },
+        {
+          "number": "6",
+          "name": "LEOBIT, JINKY",
+          "party": "LP"
+        },
+        {
+          "number": "7",
+          "name": "LONTOC, EMI",
+          "party": "LAKAS"
+        },
+        {
+          "number": "8",
           "name": "LONTOC, KAP. JAY",
           "party": "LAKAS"
+        },
+        {
+          "number": "9",
+          "name": "MAGAT, ELVIRA",
+          "party": "LP"
+        },
+        {
+          "number": "10",
+          "name": "MANALO, DAVE",
+          "party": "LP"
+        },
+        {
+          "number": "11",
+          "name": "SALUD, EDWIN",
+          "party": "LAKAS"
+        },
+        {
+          "number": "12",
+          "name": "SAQUI, ALLAN",
+          "party": "LP"
+        },
+        {
+          "number": "13",
+          "name": "SARIA, RICKY",
+          "party": "LAKAS"
+        },
+        {
+          "number": "14",
+          "name": "TORRES, SHUTAL",
+          "party": "AKSYON"
+        },
+        {
+          "number": "15",
+          "name": "VILLALUZ, ALLAN",
+          "party": "AKSYON"
         }
       ]
     }

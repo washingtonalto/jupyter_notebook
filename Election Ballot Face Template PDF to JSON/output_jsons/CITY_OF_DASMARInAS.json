@@ -990,22 +990,22 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BARZAGA, KIKO",
           "party": "NUP"
         },
         {
-          "number": 2,
-          "name": "FRANI, JESSE",
-          "party": "IND"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "CALUPAD, OSMUNDO",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "3",
+          "name": "FRANI, JESSE",
+          "party": "IND"
+        },
+        {
+          "number": "4",
           "name": "ORDENES, LEYSANDER",
           "party": "PLM"
         }
@@ -1020,24 +1020,24 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
+          "name": "AGUINALDO, WENG",
+          "party": "IND"
+        },
+        {
+          "number": "2",
           "name": "BER ADO, GB",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "3",
           "name": "PERA, AUGUSTO JR.",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "4",
           "name": "REMULLA, ABENG",
           "party": "NUP"
-        },
-        {
-          "number": 4,
-          "name": "AGUINALDO, WENG",
-          "party": "IND"
         }
       ]
     },
@@ -1050,7 +1050,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BAUTISTA, RAM REVILLA",
           "party": "LAKAS"
         }
@@ -1065,24 +1065,24 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AUSTRIA, NICKOL",
           "party": "NUP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "DELA CUESTA, JUN",
           "party": "NUP"
         },
         {
-          "number": 3,
-          "name": "TRINIDAD, ÑINA",
-          "party": "IND"
-        },
-        {
-          "number": 4,
+          "number": "3",
           "name": "GUIMBAOLIBOT, ELY",
           "party": "PDR"
+        },
+        {
+          "number": "4",
+          "name": "TRINIDAD, ÑINA",
+          "party": "IND"
         }
       ]
     },
@@ -1095,24 +1095,24 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "ENCABO, VALE",
-          "party": "PDR"
-        },
-        {
-          "number": 2,
-          "name": "TAPIRU, HADASSAH",
-          "party": "PM"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "BARZAGA, JENNIFER",
           "party": "NUP"
         },
         {
-          "number": 4,
+          "number": "2",
+          "name": "ENCABO, VALE",
+          "party": "PDR"
+        },
+        {
+          "number": "3",
           "name": "FERNANDO, JONATHAN",
           "party": "IND"
+        },
+        {
+          "number": "4",
+          "name": "TAPIRU, HADASSAH",
+          "party": "PM"
         }
       ]
     },
@@ -1125,17 +1125,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BARZAGA, THIRD",
           "party": "NUP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MUSA, JOEL",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "REMENTILLA, OLY",
           "party": "PDR"
         }
@@ -1150,182 +1150,182 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "ENCABO, RESTY",
-          "party": "IND"
-        },
-        {
-          "number": 2,
-          "name": "MAGNO, JORGE",
-          "party": "NUP"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "ALVAREZ, DAISY LYN",
           "party": "NUP"
         },
         {
-          "number": 4,
-          "name": "SINIGAYAN, MARLON",
-          "party": "PDR"
-        },
-        {
-          "number": 5,
+          "number": "2",
           "name": "APOSTOL, MAR",
           "party": "PDR"
         },
         {
-          "number": 6,
-          "name": "MALIHAN, GLENN",
-          "party": "NUP"
-        },
-        {
-          "number": 7,
-          "name": "SIRIBAN, BOYET",
-          "party": "IND"
-        },
-        {
-          "number": 8,
-          "name": "TAGLE, DOM",
-          "party": "PDR"
-        },
-        {
-          "number": 9,
-          "name": "ESCAÑO, EDGARDO",
-          "party": "PDR"
-        },
-        {
-          "number": 10,
-          "name": "FAMINDALAN, RONALD",
-          "party": "IND"
-        },
-        {
-          "number": 11,
-          "name": "MALIKSI, VLADIMIR",
-          "party": "IND"
-        },
-        {
-          "number": 12,
-          "name": "GEDA, CHE",
-          "party": "PDR"
-        },
-        {
-          "number": 13,
-          "name": "MENDOZA, YEN",
-          "party": "PDR"
-        },
-        {
-          "number": 14,
+          "number": "3",
           "name": "ATIENZA, RODERICK",
           "party": "NUP"
         },
         {
-          "number": 15,
+          "number": "4",
           "name": "BALIBAGO, DOC REY",
           "party": "PDR"
         },
         {
-          "number": 16,
-          "name": "TAPAWAN, DOC KEVIN",
-          "party": "NUP"
-        },
-        {
-          "number": 17,
+          "number": "5",
           "name": "CANAYNAY, REY",
           "party": "NUP"
         },
         {
-          "number": 18,
-          "name": "GONZALES, JEG",
-          "party": "NUP"
-        },
-        {
-          "number": 19,
-          "name": "TIANELA, TONY",
-          "party": "IND"
-        },
-        {
-          "number": 20,
-          "name": "GURO, AZLIE",
-          "party": "NUP"
-        },
-        {
-          "number": 21,
-          "name": "TOLEDO, JANNUS",
-          "party": "PDR"
-        },
-        {
-          "number": 22,
+          "number": "6",
           "name": "CANTIMBUHAN, ROBIN",
           "party": "NUP"
         },
         {
-          "number": 23,
+          "number": "7",
           "name": "COLETA, NEILSON",
           "party": "IND"
         },
         {
-          "number": 24,
-          "name": "JOSON, ROMY",
-          "party": "PDR"
-        },
-        {
-          "number": 25,
-          "name": "MENGUITO, MOISES",
-          "party": "NUP"
-        },
-        {
-          "number": 26,
-          "name": "PASAPORTE, VIRGINIA",
-          "party": "IND"
-        },
-        {
-          "number": 27,
-          "name": "PEREZ, NEMERLITO",
-          "party": "AKBYN"
-        },
-        {
-          "number": 28,
-          "name": "TRINIDAD, ALLAN REY",
-          "party": "IND"
-        },
-        {
-          "number": 29,
-          "name": "LARA, RUDY",
-          "party": "NUP"
-        },
-        {
-          "number": 30,
-          "name": "RESCATE, LORNA",
-          "party": "IND"
-        },
-        {
-          "number": 31,
-          "name": "TUMACAY, IVAN",
-          "party": "PDR"
-        },
-        {
-          "number": 32,
+          "number": "8",
           "name": "DEL ROSARIO, ARNEL",
           "party": "IND"
         },
         {
-          "number": 33,
+          "number": "9",
           "name": "DENOLO, KUYA JE",
           "party": "PDR"
         },
         {
-          "number": 34,
+          "number": "10",
+          "name": "ENCABO, RESTY",
+          "party": "IND"
+        },
+        {
+          "number": "11",
+          "name": "ESCAÑO, EDGARDO",
+          "party": "PDR"
+        },
+        {
+          "number": "12",
+          "name": "FAMINDALAN, RONALD",
+          "party": "IND"
+        },
+        {
+          "number": "13",
+          "name": "GEDA, CHE",
+          "party": "PDR"
+        },
+        {
+          "number": "14",
+          "name": "GONZALES, JEG",
+          "party": "NUP"
+        },
+        {
+          "number": "15",
+          "name": "GURO, AZLIE",
+          "party": "NUP"
+        },
+        {
+          "number": "16",
+          "name": "JOSON, ROMY",
+          "party": "PDR"
+        },
+        {
+          "number": "17",
+          "name": "LARA, RUDY",
+          "party": "NUP"
+        },
+        {
+          "number": "18",
           "name": "LAUDATO, FERNANDO",
           "party": "NUP"
         },
         {
-          "number": 35,
+          "number": "19",
+          "name": "MAGNO, JORGE",
+          "party": "NUP"
+        },
+        {
+          "number": "20",
+          "name": "MALIHAN, GLENN",
+          "party": "NUP"
+        },
+        {
+          "number": "21",
+          "name": "MALIKSI, VLADIMIR",
+          "party": "IND"
+        },
+        {
+          "number": "22",
+          "name": "MENDOZA, YEN",
+          "party": "PDR"
+        },
+        {
+          "number": "23",
+          "name": "MENGUITO, MOISES",
+          "party": "NUP"
+        },
+        {
+          "number": "24",
+          "name": "PASAPORTE, VIRGINIA",
+          "party": "IND"
+        },
+        {
+          "number": "25",
+          "name": "PEREZ, NEMERLITO",
+          "party": "AKBYN"
+        },
+        {
+          "number": "26",
+          "name": "RESCATE, LORNA",
+          "party": "IND"
+        },
+        {
+          "number": "27",
           "name": "SALCEDO, NORMA",
           "party": "IND"
         },
         {
-          "number": 36,
+          "number": "28",
+          "name": "SINIGAYAN, MARLON",
+          "party": "PDR"
+        },
+        {
+          "number": "29",
+          "name": "SIRIBAN, BOYET",
+          "party": "IND"
+        },
+        {
+          "number": "30",
+          "name": "TAGLE, DOM",
+          "party": "PDR"
+        },
+        {
+          "number": "31",
+          "name": "TAPAWAN, DOC KEVIN",
+          "party": "NUP"
+        },
+        {
+          "number": "32",
+          "name": "TIANELA, TONY",
+          "party": "IND"
+        },
+        {
+          "number": "33",
+          "name": "TOLEDO, JANNUS",
+          "party": "PDR"
+        },
+        {
+          "number": "34",
+          "name": "TRINIDAD, ALLAN REY",
+          "party": "IND"
+        },
+        {
+          "number": "35",
+          "name": "TUMACAY, IVAN",
+          "party": "PDR"
+        },
+        {
+          "number": "36",
           "name": "VELARDE, JEANNEATH",
           "party": "PDR"
         }

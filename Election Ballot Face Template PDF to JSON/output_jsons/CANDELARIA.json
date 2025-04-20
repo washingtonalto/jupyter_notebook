@@ -991,7 +991,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "SUAREZ, DAVID JAY JAY",
           "party": "LAKAS"
         }
@@ -1006,7 +1006,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, DOKTORA HELEN",
           "party": "STAN Q"
         }
@@ -1021,17 +1021,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, THIRD",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ALPAJORA, ARMINGOL",
           "party": "KBL"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "CAPINA, TEODORICO",
           "party": "IND"
         }
@@ -1046,17 +1046,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, VNET",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "LIWANAG, YNA",
           "party": "STAN Q"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "TAN, DOC KIM",
           "party": "STAN Q"
         }
@@ -1071,19 +1071,19 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
+          "name": "BOONGALING, MACKY",
+          "party": "NPC"
+        },
+        {
+          "number": "2",
           "name": "CRUZ, FIDEL",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "3",
           "name": "SUAYAN, OGIE",
           "party": "AKBYN"
-        },
-        {
-          "number": 3,
-          "name": "BOONGALING, MACKY",
-          "party": "NPC"
         }
       ]
     },
@@ -1096,12 +1096,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BOONGALING, BOYONG",
           "party": "NPC"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MALIWANAG, BONG",
           "party": "AKBYN"
         }
@@ -1116,99 +1116,99 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "DE GALA, BELLA",
-          "party": "NPC"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "ABDON, HAZEL OMRI",
           "party": "AKBYN"
         },
         {
-          "number": 3,
-          "name": "LAMOCA, KAP  NONONG",
-          "party": "AKBYN"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "ALCALA, BEBE",
           "party": "NPC"
         },
         {
-          "number": 5,
-          "name": "DE LUNA, MANNY",
-          "party": "NPC"
-        },
-        {
-          "number": 6,
-          "name": "LAYGO, AZEL",
-          "party": "NPC"
-        },
-        {
-          "number": 7,
-          "name": "PASUMBAL, JOY",
-          "party": "LAKAS"
-        },
-        {
-          "number": 8,
-          "name": "RAYMUNDO,  MARK-LEVELUP",
-          "party": "PFP"
-        },
-        {
-          "number": 9,
-          "name": "DIZON, OPAN",
-          "party": "AKBYN"
-        },
-        {
-          "number": 10,
-          "name": "SIO, EMERSON",
-          "party": "AKBYN"
-        },
-        {
-          "number": 11,
-          "name": "SULIT, TOLITS",
-          "party": "NPC"
-        },
-        {
-          "number": 12,
+          "number": "3",
           "name": "ATIENZA, MA'AM NATY",
           "party": "NPC"
         },
         {
-          "number": 13,
+          "number": "4",
           "name": "BRIONES, NOMER",
           "party": "STAN \nQ"
         },
         {
-          "number": 14,
-          "name": "LIWANAG, DOVA DE  GALA",
-          "party": "NPC"
-        },
-        {
-          "number": 15,
-          "name": "MALABANAN, AILEEN",
-          "party": "STAN Q"
-        },
-        {
-          "number": 16,
+          "number": "5",
           "name": "DE GALA, ANTON",
           "party": "IND"
         },
         {
-          "number": 17,
-          "name": "MANALO, AHTISA",
-          "party": "IND"
+          "number": "6",
+          "name": "DE GALA, BELLA",
+          "party": "NPC"
         },
         {
-          "number": 18,
+          "number": "7",
+          "name": "DE LUNA, MANNY",
+          "party": "NPC"
+        },
+        {
+          "number": "8",
+          "name": "DIZON, OPAN",
+          "party": "AKBYN"
+        },
+        {
+          "number": "9",
           "name": "EMRALINO, BELO",
           "party": "AKBYN"
         },
         {
-          "number": 19,
+          "number": "10",
           "name": "ESCAMILLAS, KAP  MAILA",
           "party": "AKBYN"
+        },
+        {
+          "number": "11",
+          "name": "LAMOCA, KAP  NONONG",
+          "party": "AKBYN"
+        },
+        {
+          "number": "12",
+          "name": "LAYGO, AZEL",
+          "party": "NPC"
+        },
+        {
+          "number": "13",
+          "name": "LIWANAG, DOVA DE  GALA",
+          "party": "NPC"
+        },
+        {
+          "number": "14",
+          "name": "MALABANAN, AILEEN",
+          "party": "STAN Q"
+        },
+        {
+          "number": "15",
+          "name": "MANALO, AHTISA",
+          "party": "IND"
+        },
+        {
+          "number": "16",
+          "name": "PASUMBAL, JOY",
+          "party": "LAKAS"
+        },
+        {
+          "number": "17",
+          "name": "RAYMUNDO,  MARK-LEVELUP",
+          "party": "PFP"
+        },
+        {
+          "number": "18",
+          "name": "SIO, EMERSON",
+          "party": "AKBYN"
+        },
+        {
+          "number": "19",
+          "name": "SULIT, TOLITS",
+          "party": "NPC"
         }
       ]
     }

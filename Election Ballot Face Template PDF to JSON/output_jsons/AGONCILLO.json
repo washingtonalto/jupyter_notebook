@@ -988,19 +988,19 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BURGOS, NESTOR",
           "party": "IND"
         },
         {
-          "number": 2,
-          "name": "LEVISTE, MARK",
-          "party": "IND"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "COLLANTES, ATTY. KING",
           "party": "NPC"
+        },
+        {
+          "number": "3",
+          "name": "LEVISTE, MARK",
+          "party": "IND"
         }
       ]
     },
@@ -1013,22 +1013,22 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "RIVERA, MIKE",
-          "party": "LP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "ILAGAN, JAY MANALO",
           "party": "PROMDI"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "OZAETA, KUYAKAP  WALTER",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "3",
+          "name": "RIVERA, MIKE",
+          "party": "LP"
+        },
+        {
+          "number": "4",
           "name": "SANTOS-RECTO, VILMA",
           "party": "NP"
         }
@@ -1043,17 +1043,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "DOLOR, RYANH",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MANDANAS, DODO",
           "party": "PDPLBN"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "MANZANO, LUIS LUCKY",
           "party": "NP"
         }
@@ -1068,17 +1068,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BALBA, RUDY",
           "party": "NP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "CORONA, FRED",
           "party": "NP"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "MACALINTAL, DENNIS",
           "party": "PFP"
         }
@@ -1093,12 +1093,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ANURAN, DANNY",
           "party": "LAKAS"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "REYES, ATTY. CINDY",
           "party": "NPC"
         }
@@ -1113,12 +1113,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "HUMARANG, ATTY.  DANDAN",
           "party": "NPC"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MARTINEZ-DE LEON,  TINA",
           "party": "LAKAS"
         }
@@ -1133,89 +1133,89 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ANDAL, GLENN",
           "party": "LAKAS"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "BALBA, JAY JAY",
           "party": "LAKAS"
         },
         {
-          "number": 3,
-          "name": "DE CHAVEZ, JOEL PARAS",
-          "party": "NPC"
-        },
-        {
-          "number": 4,
-          "name": "DE LEON, KRISTER JEFF",
-          "party": "LAKAS"
-        },
-        {
-          "number": 5,
-          "name": "HILARIO, JAPPOY NOLE",
-          "party": "NPC"
-        },
-        {
-          "number": 6,
-          "name": "LANDICHO, JERWYN",
-          "party": "LAKAS"
-        },
-        {
-          "number": 7,
-          "name": "SANGALANG, APHOL",
-          "party": "NPC"
-        },
-        {
-          "number": 8,
-          "name": "VERGARA, QUINTIN",
-          "party": "LAKAS"
-        },
-        {
-          "number": 9,
+          "number": "3",
           "name": "CACAO, VIONG",
           "party": "NPC"
         },
         {
-          "number": 10,
-          "name": "DE LEON, RODEL",
-          "party": "LAKAS"
-        },
-        {
-          "number": 11,
-          "name": "LANDICHO, JOEL",
-          "party": "NPC"
-        },
-        {
-          "number": 12,
+          "number": "4",
           "name": "CARINGAL, KIDLAT",
           "party": "NPC"
         },
         {
-          "number": 13,
-          "name": "MENDOZA, TAGAY  SARAH",
-          "party": "NPC"
-        },
-        {
-          "number": 14,
-          "name": "REYES, ABET",
-          "party": "LAKAS"
-        },
-        {
-          "number": 15,
+          "number": "5",
           "name": "CATENA, KAP. EMBET",
           "party": "NPC"
         },
         {
-          "number": 16,
+          "number": "6",
+          "name": "DE CHAVEZ, JOEL PARAS",
+          "party": "NPC"
+        },
+        {
+          "number": "7",
+          "name": "DE LEON, KRISTER JEFF",
+          "party": "LAKAS"
+        },
+        {
+          "number": "8",
+          "name": "DE LEON, RODEL",
+          "party": "LAKAS"
+        },
+        {
+          "number": "9",
           "name": "ENRIQUEZ, NADY",
           "party": "LAKAS"
         },
         {
-          "number": 17,
+          "number": "10",
           "name": "FAJARDO, MYLENE",
           "party": "IND"
+        },
+        {
+          "number": "11",
+          "name": "HILARIO, JAPPOY NOLE",
+          "party": "NPC"
+        },
+        {
+          "number": "12",
+          "name": "LANDICHO, JERWYN",
+          "party": "LAKAS"
+        },
+        {
+          "number": "13",
+          "name": "LANDICHO, JOEL",
+          "party": "NPC"
+        },
+        {
+          "number": "14",
+          "name": "MENDOZA, TAGAY  SARAH",
+          "party": "NPC"
+        },
+        {
+          "number": "15",
+          "name": "REYES, ABET",
+          "party": "LAKAS"
+        },
+        {
+          "number": "16",
+          "name": "SANGALANG, APHOL",
+          "party": "NPC"
+        },
+        {
+          "number": "17",
+          "name": "VERGARA, QUINTIN",
+          "party": "LAKAS"
         }
       ]
     }

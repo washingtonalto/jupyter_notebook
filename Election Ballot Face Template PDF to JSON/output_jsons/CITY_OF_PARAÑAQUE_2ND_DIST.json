@@ -989,29 +989,29 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "ESPINOLA, RODEL",
-          "party": "WPP"
-        },
-        {
-          "number": 2,
-          "name": "YAMSUAN, BRIAN",
-          "party": "IND"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "AGUILAR, ROLANDO",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "2",
           "name": "BAGUIO, FLORENTINO",
           "party": "IND"
         },
         {
-          "number": 5,
+          "number": "3",
+          "name": "ESPINOLA, RODEL",
+          "party": "WPP"
+        },
+        {
+          "number": "4",
           "name": "TAMBUNTING, GUS",
           "party": "NUP"
+        },
+        {
+          "number": "5",
+          "name": "YAMSUAN, BRIAN",
+          "party": "IND"
         }
       ]
     },
@@ -1024,39 +1024,39 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "MENDOZA, NENE",
           "party": "IND"
         },
         {
-          "number": 2,
-          "name": "PINEDA, NATHAN",
-          "party": "WPP"
+          "number": "2",
+          "name": "OLIVAREZ, AILEEN ACO",
+          "party": "IND"
         },
         {
-          "number": 3,
-          "name": "ZAIDE, JUN",
-          "party": "AKSYON"
-        },
-        {
-          "number": 4,
+          "number": "3",
           "name": "OLIVAREZ, KUYA EDWIN",
           "party": "LAKAS"
         },
         {
-          "number": 5,
+          "number": "4",
           "name": "PANTILA, ANABEL",
           "party": "IND"
         },
         {
-          "number": 6,
+          "number": "5",
+          "name": "PINEDA, NATHAN",
+          "party": "WPP"
+        },
+        {
+          "number": "6",
           "name": "UY, DREW",
           "party": "IND"
         },
         {
-          "number": 7,
-          "name": "OLIVAREZ, AILEEN ACO",
-          "party": "IND"
+          "number": "7",
+          "name": "ZAIDE, JUN",
+          "party": "AKSYON"
         }
       ]
     },
@@ -1069,12 +1069,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BERNABE, BENJO",
           "party": "PFP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "VILLAFUERTE, JOAN",
           "party": "LAKAS"
         }
@@ -1089,82 +1089,82 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AMURAO, BENG",
           "party": "LAKAS"
         },
         {
-          "number": 2,
-          "name": "GOLEZ, RICO",
-          "party": "LAKAS"
-        },
-        {
-          "number": 3,
-          "name": "PEOLINO, JEPOY",
-          "party": "KBL"
-        },
-        {
-          "number": 4,
-          "name": "HACHUELA, GARY",
-          "party": "IND"
-        },
-        {
-          "number": 5,
+          "number": "2",
           "name": "BENZON, BONGSHIELLA",
           "party": "LAKAS"
         },
         {
-          "number": 6,
-          "name": "ESPLANA, JUVANTIN",
-          "party": "LAKAS"
-        },
-        {
-          "number": 7,
-          "name": "FAVIS, COACH BINKY",
-          "party": "IND"
-        },
-        {
-          "number": 8,
+          "number": "3",
           "name": "DE ASIS, TESS",
           "party": "PFP"
         },
         {
-          "number": 9,
-          "name": "FELIX, NICOLAI",
-          "party": "IND"
-        },
-        {
-          "number": 10,
-          "name": "MANIO, GLENN",
-          "party": "IND"
-        },
-        {
-          "number": 11,
-          "name": "FRIAS, ATTY. JET",
-          "party": "LAKAS"
-        },
-        {
-          "number": 12,
-          "name": "MOLINA, POPOY",
-          "party": "IND"
-        },
-        {
-          "number": 13,
+          "number": "4",
           "name": "DELA PEÑA, APIONG",
           "party": "LAKAS"
         },
         {
-          "number": 14,
+          "number": "5",
+          "name": "ESPLANA, JUVANTIN",
+          "party": "LAKAS"
+        },
+        {
+          "number": "6",
+          "name": "FAVIS, COACH BINKY",
+          "party": "IND"
+        },
+        {
+          "number": "7",
+          "name": "FELIX, NICOLAI",
+          "party": "IND"
+        },
+        {
+          "number": "8",
+          "name": "FRIAS, ATTY. JET",
+          "party": "LAKAS"
+        },
+        {
+          "number": "9",
+          "name": "GOLEZ, RICO",
+          "party": "LAKAS"
+        },
+        {
+          "number": "10",
+          "name": "HACHUELA, GARY",
+          "party": "IND"
+        },
+        {
+          "number": "11",
+          "name": "MANIO, GLENN",
+          "party": "IND"
+        },
+        {
+          "number": "12",
+          "name": "MOLINA, POPOY",
+          "party": "IND"
+        },
+        {
+          "number": "13",
+          "name": "PEOLINO, JEPOY",
+          "party": "KBL"
+        },
+        {
+          "number": "14",
           "name": "RESUELLO, ALAMAT",
           "party": "IND"
         },
         {
-          "number": 15,
+          "number": "15",
           "name": "SOTTO, WAHOO  DABARKADS",
           "party": "NPC"
         },
         {
-          "number": 16,
+          "number": "16",
           "name": "YLLANA, RYAN BIGATIN",
           "party": "LAKAS"
         }

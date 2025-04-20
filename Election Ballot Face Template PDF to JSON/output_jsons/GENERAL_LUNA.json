@@ -987,12 +987,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ARROGANCIA,  REYNANTE",
           "party": "NPC"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "FLORIDO, MATT WITH  AHEART",
           "party": "IND"
         }
@@ -1007,7 +1007,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, DOKTORA HELEN",
           "party": "STAN Q"
         }
@@ -1022,17 +1022,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, THIRD",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ALPAJORA, ARMINGOL",
           "party": "KBL"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "CAPINA, TEODORICO",
           "party": "IND"
         }
@@ -1047,29 +1047,29 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "REYES, TINTIN",
-          "party": "AKSYON"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "AQUIVIDO, NARS JJ",
           "party": "STAN Q"
         },
         {
-          "number": 3,
-          "name": "ESGUERRA, MEG",
-          "party": "STAN \nQ"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "DIAZ, CONRADO",
           "party": "PFP"
         },
         {
-          "number": 5,
+          "number": "3",
+          "name": "ESGUERRA, MEG",
+          "party": "STAN \nQ"
+        },
+        {
+          "number": "4",
           "name": "GONZALES, BIETO",
           "party": "IND"
+        },
+        {
+          "number": "5",
+          "name": "REYES, TINTIN",
+          "party": "AKSYON"
         }
       ]
     },
@@ -1082,12 +1082,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "FLORIDO, JULIUS",
           "party": "AKSYON"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "SANGALANG, BENSON",
           "party": "STAN Q"
         }
@@ -1102,12 +1102,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BATARIANO, LAICA",
           "party": "AKSYON"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "GAMOGAMO-HILARIO,  AFEL",
           "party": "STAN Q"
         }
@@ -1122,102 +1122,102 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "GARCIA, JOY",
-          "party": "STAN Q"
-        },
-        {
-          "number": 2,
-          "name": "RED, JOVITO",
-          "party": "AKSYON"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "ABARQUEZ, MANUEL",
           "party": "AKSYON"
         },
         {
-          "number": 4,
+          "number": "2",
           "name": "ATIENZA, AXL",
           "party": "AKSYON"
         },
         {
-          "number": 5,
-          "name": "GUNAY, ATE MYRA",
-          "party": "STAN Q"
-        },
-        {
-          "number": 6,
-          "name": "ROBESO, KAGAWAD  ODONG",
-          "party": "IND"
-        },
-        {
-          "number": 7,
+          "number": "3",
           "name": "BRIÑAS, JOSEPH",
           "party": "IND"
         },
         {
-          "number": 8,
-          "name": "JAPOR, JV",
-          "party": "AKSYON"
-        },
-        {
-          "number": 9,
-          "name": "SALVO, EPOK",
-          "party": "AKSYON"
-        },
-        {
-          "number": 10,
+          "number": "4",
           "name": "CONSTANTINO,  ERNESTO",
           "party": "IND"
         },
         {
-          "number": 11,
+          "number": "5",
           "name": "EMPLEO, KAP JOMEL",
           "party": "STAN Q"
         },
         {
-          "number": 12,
+          "number": "6",
+          "name": "GARCIA, JOY",
+          "party": "STAN Q"
+        },
+        {
+          "number": "7",
+          "name": "GUNAY, ATE MYRA",
+          "party": "STAN Q"
+        },
+        {
+          "number": "8",
+          "name": "JAPOR, JV",
+          "party": "AKSYON"
+        },
+        {
+          "number": "9",
           "name": "LANTING, HERSON",
           "party": "AKSYON"
         },
         {
-          "number": 13,
+          "number": "10",
           "name": "LORICA, KUYA WILL",
           "party": "STAN Q"
         },
         {
-          "number": 14,
+          "number": "11",
           "name": "MANALO, REYMAR",
           "party": "IND"
         },
         {
-          "number": 15,
+          "number": "12",
           "name": "OCAMPO, TITA MALOU",
           "party": "AKSYON"
         },
         {
-          "number": 16,
+          "number": "13",
           "name": "PARAS, KUYA  MONCHING",
           "party": "STAN Q"
         },
         {
-          "number": 17,
+          "number": "14",
           "name": "PEÑARANDA, ROMEL",
           "party": "STAN Q"
         },
         {
-          "number": 18,
+          "number": "15",
           "name": "PLATA, CAPT JOJO",
           "party": "STAN Q"
         },
         {
-          "number": 19,
+          "number": "16",
+          "name": "RED, JOVITO",
+          "party": "AKSYON"
+        },
+        {
+          "number": "17",
+          "name": "ROBESO, KAGAWAD  ODONG",
+          "party": "IND"
+        },
+        {
+          "number": "18",
+          "name": "SALVO, EPOK",
+          "party": "AKSYON"
+        },
+        {
+          "number": "19",
           "name": "SANGALANG, BOMBOY",
           "party": "STAN Q"
         },
         {
-          "number": 20,
+          "number": "20",
           "name": "ZURBITO, DEK DEK",
           "party": "AKSYON"
         }

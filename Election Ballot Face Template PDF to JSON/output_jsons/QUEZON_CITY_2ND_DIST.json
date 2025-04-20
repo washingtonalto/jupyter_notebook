@@ -989,24 +989,24 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BERNIDO, ROEL",
           "party": "IND"
         },
         {
-          "number": 2,
-          "name": "TULFO, RALPH",
-          "party": "PFP"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "GARCIA, ATTY. VIRGIL",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "3",
           "name": "PALMA, FRANCISCO",
           "party": "IND"
+        },
+        {
+          "number": "4",
+          "name": "TULFO, RALPH",
+          "party": "PFP"
         }
       ]
     },
@@ -1019,28 +1019,28 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BELMONTE, JOY",
           "party": "SBP"
         },
         {
-          "number": 2,
+          "number": "2",
+          "name": "CABALO, JONATHAN",
+          "party": "IND"
+        },
+        {
+          "number": "3",
           "name": "JOTA, ROLANDO",
           "party": "IND"
         },
         {
-          "number": 3,
-          "name": "VELASCO, DIOSDADO",
-          "party": "IND"
-        },
-        {
-          "number": 4,
+          "number": "4",
           "name": "NAVAT, NOLI",
           "party": "IND"
         },
         {
-          "number": 5,
-          "name": "CABALO, JONATHAN",
+          "number": "5",
+          "name": "VELASCO, DIOSDADO",
           "party": "IND"
         }
       ]
@@ -1054,22 +1054,22 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "FAELANGCO, JUNE",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "INGLES, INVENTOR",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "SOTTO, GIAN",
           "party": "SBP"
         },
         {
-          "number": 4,
+          "number": "4",
           "name": "VILLARTA, DANTE",
           "party": "IND"
         }
@@ -1084,59 +1084,59 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BELMONTE, MIKEY",
           "party": "SBP"
         },
         {
-          "number": 2,
-          "name": "NAVAT, NOEL",
-          "party": "IND"
-        },
-        {
-          "number": 3,
-          "name": "LUDOVICA, TATAY  RANNIE",
-          "party": "SBP"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "FRESNILLO, JOSIE",
           "party": "IND"
         },
         {
-          "number": 5,
-          "name": "MEDALLA, ALY",
-          "party": "SBP"
-        },
-        {
-          "number": 6,
-          "name": "PEREZ, NIDO",
-          "party": "IND"
-        },
-        {
-          "number": 7,
-          "name": "TENORIO, MANUEL",
-          "party": "IND"
-        },
-        {
-          "number": 8,
-          "name": "VALMOCINA, DAVE",
-          "party": "SBP"
-        },
-        {
-          "number": 9,
+          "number": "3",
           "name": "LIBAN, ATTY. BONG",
           "party": "SBP"
         },
         {
-          "number": 10,
+          "number": "4",
+          "name": "LUDOVICA, TATAY  RANNIE",
+          "party": "SBP"
+        },
+        {
+          "number": "5",
+          "name": "MEDALLA, ALY",
+          "party": "SBP"
+        },
+        {
+          "number": "6",
           "name": "MEDINA, CANDY",
           "party": "SBP"
         },
         {
-          "number": 11,
+          "number": "7",
+          "name": "NAVAT, NOEL",
+          "party": "IND"
+        },
+        {
+          "number": "8",
+          "name": "PEREZ, NIDO",
+          "party": "IND"
+        },
+        {
+          "number": "9",
           "name": "TAOINGAN, LEONARDO",
           "party": "IND"
+        },
+        {
+          "number": "10",
+          "name": "TENORIO, MANUEL",
+          "party": "IND"
+        },
+        {
+          "number": "11",
+          "name": "VALMOCINA, DAVE",
+          "party": "SBP"
         }
       ]
     }

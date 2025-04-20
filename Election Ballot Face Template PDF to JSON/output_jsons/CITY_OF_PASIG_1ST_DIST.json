@@ -992,12 +992,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ROMULO, ROMAN",
           "party": "NPC"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "SIA, IAN",
           "party": "IND"
         }
@@ -1012,24 +1012,24 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AYAON, EAGLE",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
+          "name": "DISCAYA, SARA-ST  GERRARD",
+          "party": "UGB"
+        },
+        {
+          "number": "3",
           "name": "PALMA, CORY",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "4",
           "name": "SOTTO, VICO",
           "party": "IND"
-        },
-        {
-          "number": 4,
-          "name": "DISCAYA, SARA-ST  GERRARD",
-          "party": "UGB"
         }
       ]
     },
@@ -1042,18 +1042,18 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "JAWORSKI, DODOT",
-          "party": "IND"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "BERNARDO,  IYO-CARUNCHO",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "DELA CRUZ, KUYA-MARC",
+          "party": "IND"
+        },
+        {
+          "number": "3",
+          "name": "JAWORSKI, DODOT",
           "party": "IND"
         }
       ]
@@ -1067,79 +1067,79 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ANGELES, RON",
           "party": "PMP"
         },
         {
-          "number": 2,
-          "name": "PUA, KAP RICHIE",
-          "party": "PMP"
-        },
-        {
-          "number": 3,
-          "name": "SANTIAGO, PAO",
-          "party": "NPC"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "BALDERRAMA, REX",
           "party": "NP"
         },
         {
-          "number": 5,
-          "name": "GAVIOLA, KUYA JESS",
-          "party": "NP"
-        },
-        {
-          "number": 6,
-          "name": "GONZALES, KONSI ERIC",
-          "party": "NPC"
-        },
-        {
-          "number": 7,
-          "name": "REYES, ATTY TANTAN",
-          "party": "IND"
-        },
-        {
-          "number": 8,
+          "number": "3",
           "name": "CRUZ, RAM ALAN",
           "party": "LP"
         },
         {
-          "number": 9,
+          "number": "4",
+          "name": "DELOS SANTOS, VOLTA",
+          "party": "AKAY"
+        },
+        {
+          "number": "5",
+          "name": "GAVIOLA, KUYA JESS",
+          "party": "NP"
+        },
+        {
+          "number": "6",
+          "name": "GONZALES, KONSI ERIC",
+          "party": "NPC"
+        },
+        {
+          "number": "7",
           "name": "LEE, SHAMCEY",
           "party": "IND"
         },
         {
-          "number": 10,
-          "name": "RUSTIA, KIKO",
-          "party": "NPC"
-        },
-        {
-          "number": 11,
-          "name": "SENOGAT, COACH  PAUL",
-          "party": "AKBYN"
-        },
-        {
-          "number": 12,
-          "name": "TANTOCO, SIMON  ROMULO",
-          "party": "NPC"
-        },
-        {
-          "number": 13,
+          "number": "8",
           "name": "PASCUAL, JP",
           "party": "RP"
         },
         {
-          "number": 14,
+          "number": "9",
+          "name": "PUA, KAP RICHIE",
+          "party": "PMP"
+        },
+        {
+          "number": "10",
+          "name": "REYES, ATTY TANTAN",
+          "party": "IND"
+        },
+        {
+          "number": "11",
+          "name": "RUSTIA, KIKO",
+          "party": "NPC"
+        },
+        {
+          "number": "12",
           "name": "SAMSON, KAP JR",
           "party": "IND"
         },
         {
-          "number": 15,
-          "name": "DELOS SANTOS, VOLTA",
-          "party": "AKAY"
+          "number": "13",
+          "name": "SANTIAGO, PAO",
+          "party": "NPC"
+        },
+        {
+          "number": "14",
+          "name": "SENOGAT, COACH  PAUL",
+          "party": "AKBYN"
+        },
+        {
+          "number": "15",
+          "name": "TANTOCO, SIMON  ROMULO",
+          "party": "NPC"
         }
       ]
     }

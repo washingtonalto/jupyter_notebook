@@ -989,7 +989,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ENVERGA, MARK",
           "party": "NPC"
         }
@@ -1004,7 +1004,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, DOKTORA HELEN",
           "party": "STAN Q"
         }
@@ -1019,17 +1019,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, THIRD",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ALPAJORA, ARMINGOL",
           "party": "KBL"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "CAPINA, TEODORICO",
           "party": "IND"
         }
@@ -1044,32 +1044,32 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "LUCES, JULIUS",
-          "party": "STAN Q"
-        },
-        {
-          "number": 2,
-          "name": "OBISPO, ALONA",
-          "party": "PFP"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "ALCALA, CHRISTIAN  PAUL",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "2",
           "name": "GARCIA, NATHALIE",
           "party": "KBL"
         },
         {
-          "number": 5,
+          "number": "3",
+          "name": "LUCES, JULIUS",
+          "party": "STAN Q"
+        },
+        {
+          "number": "4",
           "name": "NANTES, SAM",
           "party": "LAKAS"
         },
         {
-          "number": 6,
+          "number": "5",
+          "name": "OBISPO, ALONA",
+          "party": "PFP"
+        },
+        {
+          "number": "6",
           "name": "SARONA, GEN. ELMO  RINGO",
           "party": "NPC"
         }
@@ -1084,12 +1084,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "LLAMAS, DINGDONG",
           "party": "LAKAS"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "PASTRANA, NINONG  ERWIN",
           "party": "STAN Q"
         }
@@ -1104,7 +1104,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "SARDEA, SIR ALWEEN",
           "party": "STAN Q"
         }
@@ -1119,99 +1119,99 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "ROZOL, MARITES",
-          "party": "IND"
-        },
-        {
-          "number": 2,
-          "name": "GAPASANGRA, KATKAT",
-          "party": "PFP"
-        },
-        {
-          "number": 3,
-          "name": "MANDRIQUE, KAP.  ORLY",
-          "party": "STAN Q"
-        },
-        {
-          "number": 4,
-          "name": "LLAMAS, KEN",
-          "party": "PFP"
-        },
-        {
-          "number": 5,
-          "name": "PASAMBA, MELAI",
-          "party": "PFP"
-        },
-        {
-          "number": 6,
-          "name": "SANTAYANA, YOLLY",
-          "party": "STAN Q"
-        },
-        {
-          "number": 7,
-          "name": "SIAPCO, ROMY",
-          "party": "IND"
-        },
-        {
-          "number": 8,
-          "name": "MANAOG, LEA IKOSAN",
-          "party": "LAKAS"
-        },
-        {
-          "number": 9,
-          "name": "MANAOG, ONEK",
-          "party": "PFP"
-        },
-        {
-          "number": 10,
-          "name": "PASTRANA, JENZO  ASENSO",
-          "party": "STAN Q"
-        },
-        {
-          "number": 11,
-          "name": "PASTRANA, NONG",
-          "party": "LAKAS"
-        },
-        {
-          "number": 12,
-          "name": "TRINIDAD, MARIVEL",
-          "party": "LAKAS"
-        },
-        {
-          "number": 13,
-          "name": "PATIÑO, NOKI",
-          "party": "IND"
-        },
-        {
-          "number": 14,
+          "number": "1",
           "name": "ALMACEN, TITA RAQUEL",
           "party": "STAN Q"
         },
         {
-          "number": 15,
+          "number": "2",
           "name": "ASTOVEZA, GADDIE",
           "party": "STAN Q"
         },
         {
-          "number": 16,
+          "number": "3",
           "name": "CALUCIN, ACEDAB",
           "party": "LAKAS"
         },
         {
-          "number": 17,
+          "number": "4",
           "name": "CALUCIN, KAP NATAN",
           "party": "STAN Q"
         },
         {
-          "number": 18,
+          "number": "5",
           "name": "DIASANTA, KAP  MICHAEL",
           "party": "STAN Q"
         },
         {
-          "number": 19,
+          "number": "6",
+          "name": "GAPASANGRA, KATKAT",
+          "party": "PFP"
+        },
+        {
+          "number": "7",
+          "name": "LLAMAS, KEN",
+          "party": "PFP"
+        },
+        {
+          "number": "8",
+          "name": "MANAOG, LEA IKOSAN",
+          "party": "LAKAS"
+        },
+        {
+          "number": "9",
+          "name": "MANAOG, ONEK",
+          "party": "PFP"
+        },
+        {
+          "number": "10",
           "name": "MANDRIQUE, BRO ABE",
           "party": "STAN Q"
+        },
+        {
+          "number": "11",
+          "name": "MANDRIQUE, KAP.  ORLY",
+          "party": "STAN Q"
+        },
+        {
+          "number": "12",
+          "name": "PASAMBA, MELAI",
+          "party": "PFP"
+        },
+        {
+          "number": "13",
+          "name": "PASTRANA, JENZO  ASENSO",
+          "party": "STAN Q"
+        },
+        {
+          "number": "14",
+          "name": "PASTRANA, NONG",
+          "party": "LAKAS"
+        },
+        {
+          "number": "15",
+          "name": "PATIÑO, NOKI",
+          "party": "IND"
+        },
+        {
+          "number": "16",
+          "name": "ROZOL, MARITES",
+          "party": "IND"
+        },
+        {
+          "number": "17",
+          "name": "SANTAYANA, YOLLY",
+          "party": "STAN Q"
+        },
+        {
+          "number": "18",
+          "name": "SIAPCO, ROMY",
+          "party": "IND"
+        },
+        {
+          "number": "19",
+          "name": "TRINIDAD, MARIVEL",
+          "party": "LAKAS"
         }
       ]
     }

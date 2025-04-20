@@ -992,17 +992,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AMPO, SONIA",
           "party": "WPP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "PUNO, RONNIE",
           "party": "NUP"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "RELORCASA, MANUEL",
           "party": "IND"
         }
@@ -1017,22 +1017,22 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ACOL, GLENN",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "PEREZ, RONALD",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "VELASCO, JOSE",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "4",
           "name": "YNARES, NINA",
           "party": "NPC"
         }
@@ -1047,28 +1047,28 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BADAJOS, IMEE",
           "party": "PDSP"
         },
         {
-          "number": 2,
-          "name": "MANUEL, REYNALDO",
-          "party": "IND"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "BAUTISTA, KUYA JOJO",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "3",
           "name": "GATLABAYAN, PINING",
           "party": "NPC"
         },
         {
-          "number": 5,
+          "number": "4",
           "name": "GUILLERGAN, GHERRY",
+          "party": "IND"
+        },
+        {
+          "number": "5",
+          "name": "MANUEL, REYNALDO",
           "party": "IND"
         }
       ]
@@ -1082,7 +1082,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "PUNO, NICK",
           "party": "NUP"
         }
@@ -1097,29 +1097,29 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ABAÑO, RALDY",
           "party": "WPP"
         },
         {
-          "number": 2,
-          "name": "LEYBLE, TEDDY",
-          "party": "IND"
-        },
-        {
-          "number": 3,
-          "name": "YNARES, JUN",
-          "party": "NPC"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "LEYBLE, PETER",
           "party": "IND"
         },
         {
-          "number": 5,
+          "number": "3",
+          "name": "LEYBLE, TEDDY",
+          "party": "IND"
+        },
+        {
+          "number": "4",
           "name": "LLAGA, RED",
           "party": "KBL"
+        },
+        {
+          "number": "5",
+          "name": "YNARES, JUN",
+          "party": "NPC"
         }
       ]
     },
@@ -1132,14 +1132,14 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "PUNO, RANDY",
-          "party": "NUP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "LEIS, RONALD JESSE",
           "party": "IND"
+        },
+        {
+          "number": "2",
+          "name": "PUNO, RANDY",
+          "party": "NUP"
         }
       ]
     },
@@ -1152,88 +1152,88 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "ESTELA, JAMES",
-          "party": "IND"
-        },
-        {
-          "number": 2,
-          "name": "PIERRA, VIC",
-          "party": "IND"
-        },
-        {
-          "number": 3,
-          "name": "LAWIS, JP",
-          "party": "NUP"
-        },
-        {
-          "number": 4,
+          "number": "1",
           "name": "ALTAMIRANO,  SUPERMAN",
           "party": "IND"
         },
         {
-          "number": 5,
+          "number": "2",
           "name": "BARBAZA, TOTO JOEL",
           "party": "IND"
         },
         {
-          "number": 6,
-          "name": "PIMENTEL, MARIFE",
-          "party": "NUP"
-        },
-        {
-          "number": 7,
-          "name": "TOLENTINO, RONALD",
-          "party": "IND"
-        },
-        {
-          "number": 8,
-          "name": "ZAPANTA, LEMUEL",
-          "party": "NUP"
-        },
-        {
-          "number": 9,
+          "number": "3",
           "name": "CAMACHO, JA",
           "party": "NUP"
         },
         {
-          "number": 10,
-          "name": "MANCILLA, RODEL",
-          "party": "IND"
-        },
-        {
-          "number": 11,
-          "name": "SAY, ROBIN",
-          "party": "NUP"
-        },
-        {
-          "number": 12,
-          "name": "OLDAN, AGNES",
-          "party": "NUP"
-        },
-        {
-          "number": 13,
-          "name": "SEÑERES, REX",
-          "party": "IND"
-        },
-        {
-          "number": 14,
+          "number": "4",
           "name": "DE GUZMAN, DOC RICO",
           "party": "NUP"
         },
         {
-          "number": 15,
+          "number": "5",
           "name": "DIZON, FIJINAN",
           "party": "WPP"
         },
         {
-          "number": 16,
+          "number": "6",
+          "name": "ESTELA, JAMES",
+          "party": "IND"
+        },
+        {
+          "number": "7",
+          "name": "LAWIS, JP",
+          "party": "NUP"
+        },
+        {
+          "number": "8",
+          "name": "MANCILLA, RODEL",
+          "party": "IND"
+        },
+        {
+          "number": "9",
+          "name": "OLDAN, AGNES",
+          "party": "NUP"
+        },
+        {
+          "number": "10",
           "name": "PANISALES, CRIS",
           "party": "WPP"
         },
         {
-          "number": 17,
+          "number": "11",
+          "name": "PIERRA, VIC",
+          "party": "IND"
+        },
+        {
+          "number": "12",
+          "name": "PIMENTEL, MARIFE",
+          "party": "NUP"
+        },
+        {
+          "number": "13",
+          "name": "SAY, ROBIN",
+          "party": "NUP"
+        },
+        {
+          "number": "14",
+          "name": "SEÑERES, REX",
+          "party": "IND"
+        },
+        {
+          "number": "15",
           "name": "TAPALES, ATTY. JILL",
+          "party": "NUP"
+        },
+        {
+          "number": "16",
+          "name": "TOLENTINO, RONALD",
+          "party": "IND"
+        },
+        {
+          "number": "17",
+          "name": "ZAPANTA, LEMUEL",
           "party": "NUP"
         }
       ]

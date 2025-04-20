@@ -990,12 +990,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "EJERCITO, JANA",
           "party": "PMP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ZAMORA, ATTY. BEL",
           "party": "LAKAS"
         }
@@ -1010,12 +1010,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "CEZAR, PHILIP",
           "party": "PMP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ZAMORA, FRANCIS",
           "party": "PFP"
         }
@@ -1030,12 +1030,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AGCAOILI, AAA",
           "party": "PFP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "CRISOLOGO, CANDY",
           "party": "IND"
         }
@@ -1050,54 +1050,54 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "DACER, TRICCIA",
           "party": "PMP"
         },
         {
-          "number": 2,
-          "name": "REYES, VIC",
-          "party": "PMP"
-        },
-        {
-          "number": 3,
-          "name": "YAP, JAMES",
-          "party": "PFP"
-        },
-        {
-          "number": 4,
-          "name": "TOLENTINO, BOYET TOL",
-          "party": "PFP"
-        },
-        {
-          "number": 5,
-          "name": "RITUALO, RENREN",
-          "party": "PFP"
-        },
-        {
-          "number": 6,
-          "name": "VELASCO, CHESCO",
-          "party": "PMP"
-        },
-        {
-          "number": 7,
-          "name": "VIJANDRE, ERVIC",
-          "party": "PFP"
-        },
-        {
-          "number": 8,
+          "number": "2",
           "name": "LLANOS DEE, RYAN  DEECO",
           "party": "PFP"
         },
         {
-          "number": 9,
+          "number": "3",
           "name": "PARDINEZ, KAP DENNIS",
           "party": "PFP"
         },
         {
-          "number": 10,
+          "number": "4",
+          "name": "REYES, VIC",
+          "party": "PMP"
+        },
+        {
+          "number": "5",
+          "name": "RITUALO, RENREN",
+          "party": "PFP"
+        },
+        {
+          "number": "6",
           "name": "SANTIAGO, ANTON",
           "party": "PMP"
+        },
+        {
+          "number": "7",
+          "name": "TOLENTINO, BOYET TOL",
+          "party": "PFP"
+        },
+        {
+          "number": "8",
+          "name": "VELASCO, CHESCO",
+          "party": "PMP"
+        },
+        {
+          "number": "9",
+          "name": "VIJANDRE, ERVIC",
+          "party": "PFP"
+        },
+        {
+          "number": "10",
+          "name": "YAP, JAMES",
+          "party": "PFP"
         }
       ]
     }

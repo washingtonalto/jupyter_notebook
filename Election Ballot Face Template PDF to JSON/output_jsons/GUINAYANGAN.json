@@ -987,7 +987,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, ATORNI MIKE",
           "party": "NPC"
         }
@@ -1002,7 +1002,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "TAN, DOKTORA HELEN",
           "party": "STAN Q"
         }
@@ -1017,17 +1017,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ALCALA, THIRD",
           "party": "STAN Q"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "ALPAJORA, ARMINGOL",
           "party": "KBL"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "CAPINA, TEODORICO",
           "party": "IND"
         }
@@ -1042,17 +1042,17 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "EDUARTE, OLA",
-          "party": "STAN Q"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "BUTARDO, HAROLD",
           "party": "STAN Q"
         },
         {
-          "number": 3,
+          "number": "2",
+          "name": "EDUARTE, OLA",
+          "party": "STAN Q"
+        },
+        {
+          "number": "3",
           "name": "UBANA, RACHEL",
           "party": "STAN \nQ"
         }
@@ -1067,7 +1067,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ISAAC, BOYBOY",
           "party": "STAN Q"
         }
@@ -1082,7 +1082,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "DUBLOIS, NORMAN",
           "party": "STAN Q"
         }
@@ -1097,79 +1097,79 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "IMPERIAL, ALEXCEL",
-          "party": "IND"
-        },
-        {
-          "number": 2,
-          "name": "NICOLAS, BONG",
-          "party": "IND"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "ABELLADA-ENOVAL,  JOSIE",
           "party": "PFP"
         },
         {
-          "number": 4,
+          "number": "2",
           "name": "ARDIENTE, DOK JOJO",
           "party": "STAN Q"
         },
         {
-          "number": 5,
-          "name": "ISAAC, KOOKOO",
-          "party": "STAN \nQ"
-        },
-        {
-          "number": 6,
-          "name": "SALES, ANDING",
-          "party": "STAN \nQ"
-        },
-        {
-          "number": 7,
+          "number": "3",
           "name": "ARIETA, DORA",
           "party": "STAN Q"
         },
         {
-          "number": 8,
-          "name": "LAYOG, JORGE",
-          "party": "IND"
-        },
-        {
-          "number": 9,
-          "name": "SERANTE, BOY",
-          "party": "IND"
-        },
-        {
-          "number": 10,
-          "name": "MARANAN, MANO",
-          "party": "IND"
-        },
-        {
-          "number": 11,
+          "number": "4",
           "name": "BUTARDO, GLENN",
           "party": "STAN \nQ"
         },
         {
-          "number": 12,
+          "number": "5",
           "name": "CADACIO, GREGORIO JR.",
           "party": "STAN Q"
         },
         {
-          "number": 13,
+          "number": "6",
           "name": "CAMBRONERO, EUGENE",
           "party": "IND"
         },
         {
-          "number": 14,
+          "number": "7",
           "name": "ESPAÑOL, ABRAHAM",
           "party": "STAN Q"
         },
         {
-          "number": 15,
+          "number": "8",
           "name": "IGANA, MARIA LUCIA",
           "party": "STAN Q"
+        },
+        {
+          "number": "9",
+          "name": "IMPERIAL, ALEXCEL",
+          "party": "IND"
+        },
+        {
+          "number": "10",
+          "name": "ISAAC, KOOKOO",
+          "party": "STAN \nQ"
+        },
+        {
+          "number": "11",
+          "name": "LAYOG, JORGE",
+          "party": "IND"
+        },
+        {
+          "number": "12",
+          "name": "MARANAN, MANO",
+          "party": "IND"
+        },
+        {
+          "number": "13",
+          "name": "NICOLAS, BONG",
+          "party": "IND"
+        },
+        {
+          "number": "14",
+          "name": "SALES, ANDING",
+          "party": "STAN \nQ"
+        },
+        {
+          "number": "15",
+          "name": "SERANTE, BOY",
+          "party": "IND"
         }
       ]
     }

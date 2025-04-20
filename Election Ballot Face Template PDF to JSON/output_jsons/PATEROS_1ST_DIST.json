@@ -988,28 +988,28 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "CRUZ, ADING",
-          "party": "NP"
-        },
-        {
-          "number": 2,
-          "name": "OPOC, RICARDO",
-          "party": "IND"
-        },
-        {
-          "number": 3,
+          "number": "1",
           "name": "CAYETANO, DIREK LINO",
           "party": "NPC"
         },
         {
-          "number": 4,
+          "number": "2",
           "name": "CERAFICA, ALLAN",
           "party": "PFP"
         },
         {
-          "number": 5,
+          "number": "3",
+          "name": "CRUZ, ADING",
+          "party": "NP"
+        },
+        {
+          "number": "4",
           "name": "DELA CRUZ, PETER",
+          "party": "IND"
+        },
+        {
+          "number": "5",
+          "name": "OPOC, RICARDO",
           "party": "IND"
         }
       ]
@@ -1023,12 +1023,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "GERMAN, GERALD",
           "party": "PFP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MIRANDA, RSM",
           "party": "NUP"
         }
@@ -1043,17 +1043,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "CERAFICA, JOHN",
           "party": "PFP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "MARZAN, PETER",
           "party": "NUP"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "SANTOS, CARLO",
           "party": "NP"
         }
@@ -1068,129 +1068,129 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ABIÑO, HAPON",
           "party": "NUP"
         },
         {
-          "number": 2,
-          "name": "DELA CRUZ, ALLAN",
-          "party": "PFP"
-        },
-        {
-          "number": 3,
-          "name": "QUIÑONES, ROMY",
-          "party": "IND"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "ACOSTA, EDWIN",
           "party": "NP"
         },
         {
-          "number": 5,
-          "name": "DOLON, LANDO",
-          "party": "IND"
-        },
-        {
-          "number": 6,
-          "name": "RAMIREZ, RAMIR",
-          "party": "NUP"
-        },
-        {
-          "number": 7,
-          "name": "MABAZZA, IDOL ERIC",
-          "party": "NP"
-        },
-        {
-          "number": 8,
-          "name": "MANZON, MONAY",
-          "party": "NUP"
-        },
-        {
-          "number": 9,
+          "number": "3",
           "name": "APAN, ALFIE",
           "party": "IND"
         },
         {
-          "number": 10,
-          "name": "GATPAYAT, RUEL",
-          "party": "PFP"
-        },
-        {
-          "number": 11,
-          "name": "MARCELO, LUIGI",
-          "party": "PFP"
-        },
-        {
-          "number": 12,
-          "name": "REYES, ALDY",
-          "party": "IND"
-        },
-        {
-          "number": 13,
+          "number": "4",
           "name": "BERMEJO, NENE",
           "party": "PFP"
         },
         {
-          "number": 14,
-          "name": "LEGASPI, DANTE",
-          "party": "IND"
-        },
-        {
-          "number": 15,
-          "name": "NICDAO, JOJO",
-          "party": "IND"
-        },
-        {
-          "number": 16,
-          "name": "VILLEGAS, MIL",
-          "party": "NP"
-        },
-        {
-          "number": 17,
+          "number": "5",
           "name": "BIGAS, DONRICE",
           "party": "IND"
         },
         {
-          "number": 18,
-          "name": "LLAGAS, CESAR",
-          "party": "IND"
-        },
-        {
-          "number": 19,
+          "number": "6",
           "name": "CERADA, KUYA JUN",
           "party": "IND"
         },
         {
-          "number": 20,
-          "name": "LUNA, MONER",
-          "party": "NUP"
-        },
-        {
-          "number": 21,
-          "name": "ONGMANCHI, JONJON",
-          "party": "PFP"
-        },
-        {
-          "number": 22,
-          "name": "PANIS, RYAN KAYA YAN",
-          "party": "NP"
-        },
-        {
-          "number": 23,
+          "number": "7",
           "name": "DATU, FERNANDO",
           "party": "NUP"
         },
         {
-          "number": 24,
+          "number": "8",
+          "name": "DELA CRUZ, ALLAN",
+          "party": "PFP"
+        },
+        {
+          "number": "9",
+          "name": "DOLON, LANDO",
+          "party": "IND"
+        },
+        {
+          "number": "10",
+          "name": "GATPAYAT, RUEL",
+          "party": "PFP"
+        },
+        {
+          "number": "11",
+          "name": "LEGASPI, DANTE",
+          "party": "IND"
+        },
+        {
+          "number": "12",
+          "name": "LLAGAS, CESAR",
+          "party": "IND"
+        },
+        {
+          "number": "13",
+          "name": "LUNA, MONER",
+          "party": "NUP"
+        },
+        {
+          "number": "14",
           "name": "MABANGLO, JAY",
           "party": "NUP"
         },
         {
-          "number": 25,
+          "number": "15",
+          "name": "MABAZZA, IDOL ERIC",
+          "party": "NP"
+        },
+        {
+          "number": "16",
+          "name": "MANZON, MONAY",
+          "party": "NUP"
+        },
+        {
+          "number": "17",
+          "name": "MARCELO, LUIGI",
+          "party": "PFP"
+        },
+        {
+          "number": "18",
+          "name": "NICDAO, JOJO",
+          "party": "IND"
+        },
+        {
+          "number": "19",
+          "name": "ONGMANCHI, JONJON",
+          "party": "PFP"
+        },
+        {
+          "number": "20",
+          "name": "PANIS, RYAN KAYA YAN",
+          "party": "NP"
+        },
+        {
+          "number": "21",
           "name": "PONCE, DON",
           "party": "PFP"
+        },
+        {
+          "number": "22",
+          "name": "QUIÑONES, ROMY",
+          "party": "IND"
+        },
+        {
+          "number": "23",
+          "name": "RAMIREZ, RAMIR",
+          "party": "NUP"
+        },
+        {
+          "number": "24",
+          "name": "REYES, ALDY",
+          "party": "IND"
+        },
+        {
+          "number": "25",
+          "name": "VILLEGAS, MIL",
+          "party": "NP"
         }
       ]
     }

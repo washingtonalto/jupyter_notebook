@@ -989,7 +989,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "MERCADO-REVILLA, LANI",
           "party": "LAKAS"
         }
@@ -1004,24 +1004,24 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
+          "name": "AGUINALDO, WENG",
+          "party": "IND"
+        },
+        {
+          "number": "2",
           "name": "BER ADO, GB",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "3",
           "name": "PERA, AUGUSTO JR.",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "4",
           "name": "REMULLA, ABENG",
           "party": "NUP"
-        },
-        {
-          "number": 4,
-          "name": "AGUINALDO, WENG",
-          "party": "IND"
         }
       ]
     },
@@ -1034,7 +1034,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BAUTISTA, RAM REVILLA",
           "party": "LAKAS"
         }
@@ -1049,12 +1049,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "MALVAR, EDWIN",
           "party": "LAKAS"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "PAGULAYAN, ALDE",
           "party": "LAKAS"
         }
@@ -1069,7 +1069,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "REVILLA, STRIKE",
           "party": "NP"
         }
@@ -1084,7 +1084,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BAUTISTA-MENDIOLA,  ROWENA",
           "party": "NPC"
         }
@@ -1099,42 +1099,42 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "LYU, NICOLE",
-          "party": "IND"
-        },
-        {
-          "number": 2,
-          "name": "PALABRICA, REY",
-          "party": "LAKAS"
-        },
-        {
-          "number": 3,
-          "name": "DOMINGUEZ, SIMPLICIO",
-          "party": "NP"
-        },
-        {
-          "number": 4,
-          "name": "FABIAN, REY",
-          "party": "NPC"
-        },
-        {
-          "number": 5,
-          "name": "NOLASCO, BOK",
-          "party": "NP"
-        },
-        {
-          "number": 6,
+          "number": "1",
           "name": "ADVINCULA, ROBERTO",
           "party": "NP"
         },
         {
-          "number": 7,
+          "number": "2",
           "name": "BRILLANTES, HORACIO  JR.",
           "party": "LAKAS"
         },
         {
-          "number": 8,
+          "number": "3",
+          "name": "DOMINGUEZ, SIMPLICIO",
+          "party": "NP"
+        },
+        {
+          "number": "4",
+          "name": "FABIAN, REY",
+          "party": "NPC"
+        },
+        {
+          "number": "5",
+          "name": "LYU, NICOLE",
+          "party": "IND"
+        },
+        {
+          "number": "6",
+          "name": "NOLASCO, BOK",
+          "party": "NP"
+        },
+        {
+          "number": "7",
+          "name": "PALABRICA, REY",
+          "party": "LAKAS"
+        },
+        {
+          "number": "8",
           "name": "ROSARIO, EDUARDO JR.",
           "party": "IND"
         }

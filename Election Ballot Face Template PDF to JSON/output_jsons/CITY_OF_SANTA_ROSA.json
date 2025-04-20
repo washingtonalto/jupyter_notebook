@@ -989,19 +989,19 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "GONZALES, ROY",
-          "party": "LAKAS"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "ALGABRE, DRA. SONIA",
           "party": "AKAY"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "FERNANDEZ, DANZEL",
           "party": "NUP"
+        },
+        {
+          "number": "3",
+          "name": "GONZALES, ROY",
+          "party": "LAKAS"
         }
       ]
     },
@@ -1014,38 +1014,38 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AGAPAY, KAREN",
           "party": "PFP"
         },
         {
-          "number": 2,
-          "name": "FERNANDEZ, DAN",
-          "party": "NUP"
-        },
-        {
-          "number": 3,
-          "name": "REYES, CALOY",
-          "party": "IND"
-        },
-        {
-          "number": 4,
-          "name": "TOLENTINO, ALEXANDER",
-          "party": "IND"
-        },
-        {
-          "number": 5,
+          "number": "2",
           "name": "ARAGONES, SOL",
           "party": "AKAY"
         },
         {
-          "number": 6,
+          "number": "3",
+          "name": "FERNANDEZ, DAN",
+          "party": "NUP"
+        },
+        {
+          "number": "4",
           "name": "HERNANDEZ, RUTH",
           "party": "LAKAS"
         },
         {
-          "number": 7,
+          "number": "5",
+          "name": "REYES, CALOY",
+          "party": "IND"
+        },
+        {
+          "number": "6",
           "name": "SAMIA, KOYANG NOLI",
+          "party": "IND"
+        },
+        {
+          "number": "7",
+          "name": "TOLENTINO, ALEXANDER",
           "party": "IND"
         }
       ]
@@ -1059,34 +1059,34 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BUERA, MARY",
           "party": "IND"
         },
         {
-          "number": 2,
-          "name": "RETUERTO, GEM  AMANTE",
-          "party": "NUP"
-        },
-        {
-          "number": 3,
-          "name": "ZUÑIGA, LORENZO",
-          "party": "PFP"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "CARAIT, ATTY. JM",
           "party": "LAKAS"
         },
         {
-          "number": 5,
+          "number": "3",
           "name": "EJERCITO, JORGE JERICO",
           "party": "IND"
         },
         {
-          "number": 6,
+          "number": "4",
           "name": "PEREZ, PEEWEE PLATON",
           "party": "AKAY"
+        },
+        {
+          "number": "5",
+          "name": "RETUERTO, GEM  AMANTE",
+          "party": "NUP"
+        },
+        {
+          "number": "6",
+          "name": "ZUÑIGA, LORENZO",
+          "party": "PFP"
         }
       ]
     },
@@ -1099,29 +1099,29 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "CARTAÑO, PEPING",
           "party": "NUP"
         },
         {
-          "number": 2,
-          "name": "MASAREDO, JOHN",
-          "party": "PFP"
-        },
-        {
-          "number": 3,
-          "name": "PUZON, ERIC",
-          "party": "IND"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "GOMEZ, ARNEL",
           "party": "NPC"
         },
         {
-          "number": 5,
+          "number": "3",
+          "name": "MASAREDO, JOHN",
+          "party": "PFP"
+        },
+        {
+          "number": "4",
           "name": "MAYANO, RENZ",
           "party": "LAKAS"
+        },
+        {
+          "number": "5",
+          "name": "PUZON, ERIC",
+          "party": "IND"
         }
       ]
     },
@@ -1134,7 +1134,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ARCILLAS, ARLENE",
           "party": "LAKAS"
         }
@@ -1149,7 +1149,7 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ARCILLAS, ARNOLD",
           "party": "LAKAS"
         }
@@ -1164,102 +1164,102 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "AALA, DOC IMEE",
           "party": "IND"
         },
         {
-          "number": 2,
-          "name": "ALIPON, MANOY",
-          "party": "LAKAS"
-        },
-        {
-          "number": 3,
-          "name": "CENDAÑA, MYTHOR",
-          "party": "LAKAS"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "AALA, JANINE",
           "party": "LAKAS"
         },
         {
-          "number": 5,
-          "name": "BATITIS, TECS",
-          "party": "IND"
-        },
-        {
-          "number": 6,
-          "name": "DELA ROSA, TOTI",
-          "party": "IND"
-        },
-        {
-          "number": 7,
+          "number": "3",
           "name": "AALA, TESS",
           "party": "LAKAS"
         },
         {
-          "number": 8,
-          "name": "BELEN, MIKKIE",
-          "party": "IND"
-        },
-        {
-          "number": 9,
-          "name": "LASERNA, SONIA",
-          "party": "LAKAS"
-        },
-        {
-          "number": 10,
-          "name": "MANLAPAO, RIZALDE",
-          "party": "IND"
-        },
-        {
-          "number": 11,
-          "name": "SAN PEDRO, AMADOR",
-          "party": "IND"
-        },
-        {
-          "number": 12,
-          "name": "CARTA, LODY",
-          "party": "LAKAS"
-        },
-        {
-          "number": 13,
-          "name": "SUMAPID, JUN",
-          "party": "IND"
-        },
-        {
-          "number": 14,
+          "number": "4",
           "name": "ALGABRE, DOC LOUIE",
           "party": "LAKAS"
         },
         {
-          "number": 15,
+          "number": "5",
           "name": "ALINSOD, RENATO",
           "party": "IND"
         },
         {
-          "number": 16,
+          "number": "6",
+          "name": "ALIPON, MANOY",
+          "party": "LAKAS"
+        },
+        {
+          "number": "7",
+          "name": "BATITIS, TECS",
+          "party": "IND"
+        },
+        {
+          "number": "8",
+          "name": "BELEN, MIKKIE",
+          "party": "IND"
+        },
+        {
+          "number": "9",
+          "name": "CARTA, LODY",
+          "party": "LAKAS"
+        },
+        {
+          "number": "10",
           "name": "CATINDIG, JOEY",
           "party": "LAKAS"
         },
         {
-          "number": 17,
+          "number": "11",
+          "name": "CENDAÑA, MYTHOR",
+          "party": "LAKAS"
+        },
+        {
+          "number": "12",
+          "name": "DELA ROSA, TOTI",
+          "party": "IND"
+        },
+        {
+          "number": "13",
           "name": "DOMINGO, PASTOR",
           "party": "IND"
         },
         {
-          "number": 18,
+          "number": "14",
           "name": "FACTORIZA, BOY",
           "party": "LAKAS"
         },
         {
-          "number": 19,
+          "number": "15",
           "name": "GONZALES, TITA MELA",
           "party": "LAKAS"
         },
         {
-          "number": 20,
+          "number": "16",
+          "name": "LASERNA, SONIA",
+          "party": "LAKAS"
+        },
+        {
+          "number": "17",
+          "name": "MANLAPAO, RIZALDE",
+          "party": "IND"
+        },
+        {
+          "number": "18",
+          "name": "SAN PEDRO, AMADOR",
+          "party": "IND"
+        },
+        {
+          "number": "19",
+          "name": "SUMAPID, JUN",
+          "party": "IND"
+        },
+        {
+          "number": "20",
           "name": "VILLANUEVA, NIÑO  NMV",
           "party": "LAKAS"
         }

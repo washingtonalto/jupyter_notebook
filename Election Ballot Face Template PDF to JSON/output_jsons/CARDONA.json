@@ -990,12 +990,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "MENDIOLA, BOY",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "TANJUATCO, DINO",
           "party": "NPC"
         }
@@ -1010,22 +1010,22 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ACOL, GLENN",
           "party": "IND"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "PEREZ, RONALD",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "VELASCO, JOSE",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "4",
           "name": "YNARES, NINA",
           "party": "NPC"
         }
@@ -1040,28 +1040,28 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BADAJOS, IMEE",
           "party": "PDSP"
         },
         {
-          "number": 2,
-          "name": "MANUEL, REYNALDO",
-          "party": "IND"
-        },
-        {
-          "number": 3,
+          "number": "2",
           "name": "BAUTISTA, KUYA JOJO",
           "party": "IND"
         },
         {
-          "number": 4,
+          "number": "3",
           "name": "GATLABAYAN, PINING",
           "party": "NPC"
         },
         {
-          "number": 5,
+          "number": "4",
           "name": "GUILLERGAN, GHERRY",
+          "party": "IND"
+        },
+        {
+          "number": "5",
+          "name": "MANUEL, REYNALDO",
           "party": "IND"
         }
       ]
@@ -1075,24 +1075,24 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "SAN JUAN, JUNREY",
-          "party": "PFP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "AGUELO, EVAN DARYLL",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "2",
           "name": "BERNADOS, BOBOY",
           "party": "NPC"
         },
         {
-          "number": 4,
+          "number": "3",
           "name": "GIMENEZ, TURO ARTURO",
           "party": "IND"
+        },
+        {
+          "number": "4",
+          "name": "SAN JUAN, JUNREY",
+          "party": "PFP"
         }
       ]
     },
@@ -1105,17 +1105,17 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "CAMPO, TOTOY",
           "party": "PFP"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "RAMIREZ, NONIE",
           "party": "IND"
         },
         {
-          "number": 3,
+          "number": "3",
           "name": "SAN JUAN, JUN",
           "party": "NPC"
         }
@@ -1130,12 +1130,12 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "BAUTISTA, JOHN DEE",
           "party": "AKSYON"
         },
         {
-          "number": 2,
+          "number": "2",
           "name": "PANDAC, GILDOK",
           "party": "LAKAS"
         }
@@ -1150,84 +1150,84 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "REYES, PAPO",
-          "party": "NPC"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "ABARICO, COACH-KAP EJ",
           "party": "PFP"
         },
         {
-          "number": 3,
-          "name": "FRANCISCO, BLONDEL",
-          "party": "NPC"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "ANSELMO, TOMMY",
           "party": "NPC"
         },
         {
-          "number": 5,
-          "name": "FRANCISCO, TITO",
-          "party": "IND"
-        },
-        {
-          "number": 6,
-          "name": "SUBIDA, BOYET",
-          "party": "NPC"
-        },
-        {
-          "number": 7,
-          "name": "REYES, THAT'S MY BOY",
-          "party": "AKSYON"
-        },
-        {
-          "number": 8,
+          "number": "3",
           "name": "CAMPO, JEFF",
           "party": "NPC"
         },
         {
-          "number": 9,
-          "name": "RIVERA, JARLEM",
-          "party": "NPC"
-        },
-        {
-          "number": 10,
-          "name": "FRIGINAL, BUBO-OCA",
-          "party": "PFP"
-        },
-        {
-          "number": 11,
-          "name": "NATIVIDAD, MISING",
-          "party": "NPC"
-        },
-        {
-          "number": 12,
-          "name": "PASAY, RON",
-          "party": "NPC"
-        },
-        {
-          "number": 13,
+          "number": "4",
           "name": "DIONISIO, KUYA ALEX",
           "party": "AKSYON"
         },
         {
-          "number": 14,
+          "number": "5",
           "name": "ESTRELLA, IDOL ANDOY",
           "party": "AKSYON"
         },
         {
-          "number": 15,
+          "number": "6",
+          "name": "FRANCISCO, BLONDEL",
+          "party": "NPC"
+        },
+        {
+          "number": "7",
+          "name": "FRANCISCO, TITO",
+          "party": "IND"
+        },
+        {
+          "number": "8",
+          "name": "FRIGINAL, BUBO-OCA",
+          "party": "PFP"
+        },
+        {
+          "number": "9",
+          "name": "NATIVIDAD, MISING",
+          "party": "NPC"
+        },
+        {
+          "number": "10",
+          "name": "PASAY, RON",
+          "party": "NPC"
+        },
+        {
+          "number": "11",
+          "name": "REYES, PAPO",
+          "party": "NPC"
+        },
+        {
+          "number": "12",
+          "name": "REYES, THAT'S MY BOY",
+          "party": "AKSYON"
+        },
+        {
+          "number": "13",
+          "name": "RIVERA, JARLEM",
+          "party": "NPC"
+        },
+        {
+          "number": "14",
           "name": "SAN JOSE, DEYONG",
           "party": "PFP"
         },
         {
-          "number": 16,
+          "number": "15",
           "name": "SANTIAGO, JOHN TAYO",
           "party": "PFP"
+        },
+        {
+          "number": "17",
+          "name": "SUBIDA, BOYET",
+          "party": "NPC"
         }
       ]
     }

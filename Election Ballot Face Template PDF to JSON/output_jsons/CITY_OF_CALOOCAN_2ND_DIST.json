@@ -990,14 +990,14 @@
       },
       "candidates": [
         {
-          "number": 1,
-          "name": "ERICE, EGAY",
-          "party": "LP"
-        },
-        {
-          "number": 2,
+          "number": "1",
           "name": "CAJAYON-UY, MITCH",
           "party": "LAKAS"
+        },
+        {
+          "number": "2",
+          "name": "ERICE, EGAY",
+          "party": "LP"
         }
       ]
     },
@@ -1010,29 +1010,29 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "CAÑETE, RICHARD",
           "party": "IND"
         },
         {
-          "number": 2,
-          "name": "MALUNES, RONNIE",
-          "party": "IND"
-        },
-        {
-          "number": 3,
-          "name": "VILLANUEVA, DANNY",
-          "party": "IND"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "MALAPITAN, ALONG",
           "party": "NP"
         },
         {
-          "number": 5,
+          "number": "3",
+          "name": "MALUNES, RONNIE",
+          "party": "IND"
+        },
+        {
+          "number": "4",
           "name": "TRILLANES, ANTONIO IV",
           "party": "AKSYON"
+        },
+        {
+          "number": "5",
+          "name": "VILLANUEVA, DANNY",
+          "party": "IND"
         }
       ]
     },
@@ -1045,28 +1045,28 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "LUSTRE, DANTE",
           "party": "IND"
         },
         {
-          "number": 2,
-          "name": "TEH, KARINA",
-          "party": "NP"
-        },
-        {
-          "number": 3,
-          "name": "TOBIAS, ROLANDO",
-          "party": "IND"
-        },
-        {
-          "number": 4,
+          "number": "2",
           "name": "MALONZO, PJ",
           "party": "AKSYON"
         },
         {
-          "number": 5,
+          "number": "3",
+          "name": "TEH, KARINA",
+          "party": "NP"
+        },
+        {
+          "number": "4",
           "name": "TIMBOL, JOSEPH",
+          "party": "IND"
+        },
+        {
+          "number": "5",
+          "name": "TOBIAS, ROLANDO",
           "party": "IND"
         }
       ]
@@ -1080,99 +1080,99 @@
       },
       "candidates": [
         {
-          "number": 1,
+          "number": "1",
           "name": "ABEL, JAMES",
           "party": "NP"
         },
         {
-          "number": 2,
-          "name": "CELIS, KA RENE",
-          "party": "PRP"
-        },
-        {
-          "number": 3,
-          "name": "DIVINA, ARNOLD",
-          "party": "NP"
-        },
-        {
-          "number": 4,
-          "name": "QUIMPO, ATTY. CHARM",
-          "party": "LP"
-        },
-        {
-          "number": 5,
-          "name": "CUDIAMAT, HARI",
-          "party": "IND"
-        },
-        {
-          "number": 6,
-          "name": "SIMPAUCO, LEM",
-          "party": "LP"
-        },
-        {
-          "number": 7,
-          "name": "CUNANAN, CAROL",
-          "party": "NP"
-        },
-        {
-          "number": 8,
-          "name": "TAM, JENNET",
-          "party": "IND"
-        },
-        {
-          "number": 9,
+          "number": "2",
           "name": "ALMEDA, KUYA LANZ",
           "party": "NUP"
         },
         {
-          "number": 10,
+          "number": "3",
           "name": "ARUELO, KEN DOC ED",
           "party": "LAKAS"
         },
         {
-          "number": 11,
-          "name": "MANGASAR,  ALEXANDER",
-          "party": "LP"
-        },
-        {
-          "number": 12,
-          "name": "MERCADO, DRA.  MAYEN",
-          "party": "AKSYON"
-        },
-        {
-          "number": 13,
+          "number": "4",
           "name": "ASISTIO, CONS",
           "party": "NP"
         },
         {
-          "number": 14,
-          "name": "PALICTE, BRO JOE",
-          "party": "IND"
-        },
-        {
-          "number": 15,
-          "name": "TENORIO, JOSEPH",
-          "party": "IND"
-        },
-        {
-          "number": 16,
+          "number": "5",
           "name": "BALDIVIA, DENNIS",
           "party": "IND"
         },
         {
-          "number": 17,
+          "number": "6",
+          "name": "CELIS, KA RENE",
+          "party": "PRP"
+        },
+        {
+          "number": "7",
+          "name": "CUDIAMAT, HARI",
+          "party": "IND"
+        },
+        {
+          "number": "8",
+          "name": "CUNANAN, CAROL",
+          "party": "NP"
+        },
+        {
+          "number": "9",
           "name": "DE LEON, WEWEL",
           "party": "AKSYON"
         },
         {
-          "number": 18,
+          "number": "10",
           "name": "DEL ROSARIO, FERDIE",
           "party": "IND"
         },
         {
-          "number": 19,
+          "number": "11",
+          "name": "DIVINA, ARNOLD",
+          "party": "NP"
+        },
+        {
+          "number": "12",
+          "name": "MANGASAR,  ALEXANDER",
+          "party": "LP"
+        },
+        {
+          "number": "13",
+          "name": "MERCADO, DRA.  MAYEN",
+          "party": "AKSYON"
+        },
+        {
+          "number": "14",
+          "name": "PALICTE, BRO JOE",
+          "party": "IND"
+        },
+        {
+          "number": "15",
           "name": "PASPIE, JEFFERSON",
           "party": "AKSYON"
+        },
+        {
+          "number": "16",
+          "name": "QUIMPO, ATTY. CHARM",
+          "party": "LP"
+        },
+        {
+          "number": "17",
+          "name": "SIMPAUCO, LEM",
+          "party": "LP"
+        },
+        {
+          "number": "18",
+          "name": "TAM, JENNET",
+          "party": "IND"
+        },
+        {
+          "number": "19",
+          "name": "TENORIO, JOSEPH",
+          "party": "IND"
         }
       ]
     }
