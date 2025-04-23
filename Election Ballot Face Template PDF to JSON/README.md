@@ -50,6 +50,7 @@ batch = BatchProcessor(
 )
 batch.process_all()
 ```
+The file [election_ballot_parser.ipynb](./election_ballot_parser.ipynb) is the Jupyter notebook file version while the [election_ballot_parser.py](./election_ballot_parser.py) is the Python script itself. If you're using Windows, you can just use run.bat which calls run_python.bat to call the *election_ballot_parser.py*.
 
 4. All resulting `.json` files will be saved to the `output_jsons/` directory.
 
