@@ -1,103 +1,143 @@
 @echo off
+SETLOCAL ENABLEEXTENSIONS ENABLEDELAYEDEXPANSION
 REM ==========================================================================
-REM Universal Python Runner with Logging
+REM Universal Python Runner with Optional Logging
 REM Author: Washington Alto (with help from ChatGPT-4o)
-REM Date: April 2025
+REM Last Updated: April 2025
+REM ==========================================================================
+REM DESCRIPTION:
+REM   This batch script executes a Python script with optional logging.
+REM   It handles script arguments, environment setups, and timestamped logs.
+REM   It also supports virtual environment activation and custom Python paths.
+REM --------------------------------------------------------------------------
+REM USAGE:
+REM   run_python.bat <script.py> [log_folder] [arg1] [arg2] ... [--flags]
+REM
+REM EXAMPLES:
+REM   run_python.bat my_script.py
+REM   run_python.bat my_script.py logs
+REM   run_python.bat my_script.py logs input.txt output.txt --debug
+REM
+REM OPTIONAL ENVIRONMENT VARIABLES:
+REM   PYTHON_HOME   - Path to a custom Python interpreter (e.g., C:\Python39)
+REM   VIRTUAL_ENV   - Path to virtual environment directory (e.g., .venv)
 REM ==========================================================================
 
-REM --------------------------------
-REM USAGE INSTRUCTION AND PARAMETERS
-REM --------------------------------
-REM run_python.bat script.py log_folder [arg1] [arg2] ... [--flags]
-REM 
-REM Examples:
-REM   run_python.bat my_script.py log 
-REM   run_python.bat my_script.py log input.txt output.txt
-REM   run_python.bat my_script.py log --verbose --log-level=debug
-REM
-REM Optional Environment Variables:
-REM   PYTHON_HOME      - Custom path to Python interpreter
-REM   PYTHONPATH       - Add custom modules directory
-REM   VIRTUAL_ENV      - Activate a virtual environment before running
 
-REM -------------------------------
-REM CONFIGURATION AND ENVIRONMENT
-REM -------------------------------
+REM --------------------------------------------------------------------------
+REM Step 1: Configure Encoding
+REM --------------------------------------------------------------------------
+SET "PYTHONIOENCODING=utf-8"  REM Ensure UTF-8 encoding in Python I/O
 
 
-REM Sets the encoding in stdin, stdout and stderr
-SET PYTHONIOENCODING=utf-8
-
-
-REM Optional: Set PYTHON_HOME if Python is not in PATH
+REM --------------------------------------------------------------------------
+REM Step 2: Determine Python Executable
+REM --------------------------------------------------------------------------
 IF NOT "%PYTHON_HOME%"=="" (
-    SET PYTHON_EXEC=%PYTHON_HOME%\python.exe
+    SET "PYTHON_EXEC=%PYTHON_HOME%\python.exe"
 ) ELSE (
-    SET PYTHON_EXEC=python
+    SET "PYTHON_EXEC=python"
 )
 
-SET SCRIPT=%1
-SET LOG_DIR=%2
 
-IF "%SCRIPT%"=="" (
-    ECHO ERROR: No Python script specified.
-    ECHO Usage: run_python.bat script.py log_folder [script_args...]
-    EXIT /B 1
+REM --------------------------------------------------------------------------
+REM Step 3: Get Script Path
+REM --------------------------------------------------------------------------
+SET "SCRIPT=%~1"
+
+REM --------------------------------------------------------------------------
+REM Step 4: Check if Log Folder is Provided
+REM --------------------------------------------------------------------------
+REM If no log folder argument is given, just run the Python script directly
+IF "%~2"=="" (
+    IF "%SCRIPT%"=="" (
+        ECHO ERROR: No Python script specified.
+        ECHO Usage: run_python.bat script.py [log_folder] [script_args...]
+        EXIT /B 1
+    )
+
+    ECHO Running without logging: %PYTHON_EXEC% %*
+    %PYTHON_EXEC% %*
+    ECHO Run completed for: %PYTHON_EXEC% %*
+    ENDLOCAL
+    EXIT /B 0
 )
 
-IF "%LOG_DIR%"=="" (
-    ECHO ERROR: No log folder specified.
-    ECHO Usage: run_python.bat script.py log_folder [script_args...]
-    EXIT /B 1
-)
 
-REM Shift parameters to forward the rest to Python
+REM --------------------------------------------------------------------------
+REM Step 5: Prepare for Logging
+REM --------------------------------------------------------------------------
+SET "LOG_DIR=%~2"
+
+REM Shift first two arguments (script path and log folder) off the argument list
 SHIFT
 SHIFT
 
-REM Create log folder if it doesn't exist
+REM Create the log folder if it does not exist
 IF NOT EXIST "%LOG_DIR%" (
     MKDIR "%LOG_DIR%"
 )
 
-REM Get timestamp suffix
+
+REM --------------------------------------------------------------------------
+REM Step 6: Generate Timestamp (Format: YYYYMMDD_HHMM)
+REM --------------------------------------------------------------------------
 FOR /F "tokens=1-4 delims=/- " %%A IN ("%DATE%") DO (
-    SET YYYY=%%D
-    SET MM=%%B
-    SET DD=%%C
+    SET "YYYY=%%D"
+    SET "MM=%%B"
+    SET "DD=%%C"
 )
-FOR /F "tokens=1-2 delims=: " %%A IN ("%TIME%") DO (
-    SET HH=%%A
-    SET MIN=%%B
+FOR /F "tokens=1-2 delims=:." %%A IN ("%TIME%") DO (
+    SET "HH=%%A"
+    SET "MIN=%%B"
 )
-SET TIMESTAMP=%YYYY%%MM%%DD%_%HH%%MIN%
+SET "TIMESTAMP=%YYYY%%MM%%DD%_%HH%%MIN%"
 
-REM Construct log file path
-SET SCRIPTNAME=%SCRIPT%
-SET LOGFILE=%LOG_DIR%\%SCRIPTNAME%_%TIMESTAMP%.log
 
-REM Log pre-run timestamp
+REM --------------------------------------------------------------------------
+REM Step 7: Get Script Base Name (without extension or path)
+REM --------------------------------------------------------------------------
+FOR %%F IN ("%SCRIPT%") DO (
+    SET "SCRIPT_BASENAME=%%~nF"
+)
+
+REM Construct full log file path
+SET "LOGFILE=%LOG_DIR%\%SCRIPT_BASENAME%_%TIMESTAMP%.log"
+
+
+REM --------------------------------------------------------------------------
+REM Step 8: Log Start Time and Metadata
+REM --------------------------------------------------------------------------
 ECHO === Starting script: %SCRIPT% === >> "%LOGFILE%"
 ECHO Start Time: %DATE% %TIME% >> "%LOGFILE%"
+ECHO Arguments: %* >> "%LOGFILE%"
 ECHO. >> "%LOGFILE%"
 
-REM Activate virtual environment if specified
+
+REM --------------------------------------------------------------------------
+REM Step 9: Activate Virtual Environment (if defined)
+REM --------------------------------------------------------------------------
 IF NOT "%VIRTUAL_ENV%"=="" (
     CALL "%VIRTUAL_ENV%\Scripts\activate.bat"
 )
 
-ECHO Running: %PYTHON_EXEC% %SCRIPT% %* >> "%LOGFILE%" 
-ECHO Running: %PYTHON_EXEC% %*
 
+REM --------------------------------------------------------------------------
+REM Step 10: Run Python Script with Logging
+REM --------------------------------------------------------------------------
+ECHO Running: %PYTHON_EXEC% %SCRIPT% %* >> "%LOGFILE%"
+ECHO Running: %PYTHON_EXEC% %SCRIPT% %*
 %PYTHON_EXEC% %SCRIPT% %* >> "%LOGFILE%" 2>&1
 
-REM Log post-run timestamp
+
+REM --------------------------------------------------------------------------
+REM Step 11: Log End Time
+REM --------------------------------------------------------------------------
 ECHO. >> "%LOGFILE%"
 ECHO End Time: %DATE% %TIME% >> "%LOGFILE%"
 ECHO === Script completed === >> "%LOGFILE%"
-ECHO Run completed for  %PYTHON_EXEC% %*
-
-EXIT /B %ERRORLEVEL%
+ECHO Run completed for: %PYTHON_EXEC% %SCRIPT% %*
 
 
-
+ENDLOCAL
+EXIT /B 0
