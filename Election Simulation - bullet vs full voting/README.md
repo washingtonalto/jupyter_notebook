@@ -59,7 +59,7 @@ pip install matplotlib pandas
 ### 2. Run the script
 
 ```bash
-python election_simulation_final.py
+python "Election simulation - bullet vs full voting.py"
 ```
 
 ### 3. Outputs generated
