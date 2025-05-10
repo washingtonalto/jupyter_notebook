@@ -1,4 +1,4 @@
-# 🇵🇭 Election Simulation: Bullet Voting vs Full Voting (2025 Philippine Senate)
+# Election Simulation: Bullet Voting vs Full Voting (2025 Philippine Senate)
 
 This project simulates a senatorial election based on the upcoming 2025 Philippine national elections. It models how **bullet voting** compares with **full voting** behavior in a realistic 12-vote maximum ballot system used for the Senate.
 
@@ -29,9 +29,9 @@ This project simulates a senatorial election based on the upcoming 2025 Philippi
 
 | File | Description |
 |------|-------------|
-| `Election simulation - bullet vs full voting.ipynb` | Fully documented Python script in Jupyter Notebook to run the simulation |
-| `election_full_voting.gif` | Animated bar chart for full voting |
-| `election_bullet_voting.gif` | Animated bar chart for bullet voting |
+| [`Election simulation - bullet vs full voting.ipynb`](./Election+simulation+-+bullet+vs+full+voting.ipynb) | Fully documented Python script in Jupyter Notebook to run the simulation |
+| [`election_full_voting.gif`](./election_full_voting.gif) | Animated bar chart for full voting |
+| [`election_bullet_voting.gif`](./election_bullet_voting.gif) | Animated bar chart for bullet voting |
 | `comparison_top12_bar_chart.png` | Static comparison of top 12 candidates |
 | `election_result_full_voting.csv` | Final vote tally for full voting |
 | `election_result_bullet_voting.csv` | Final vote tally for bullet voting |
