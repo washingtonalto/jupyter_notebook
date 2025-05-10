@@ -29,7 +29,7 @@ This project simulates a senatorial election based on the upcoming 2025 Philippi
 
 | File | Description |
 |------|-------------|
-| [`Election simulation - bullet vs full voting.ipynb`](./Election+simulation+-+bullet+vs+full+voting.ipynb) | Fully documented Python script in Jupyter Notebook to run the simulation |
+| [`Election simulation - bullet vs full voting.ipynb`](./Election%20simulation%20-%20bullet%20vs%20full%20voting.ipynb) | Fully documented Python script in Jupyter Notebook to run the simulation |
 | [`election_full_voting.gif`](./election_full_voting.gif) | Animated bar chart for full voting |
 | [`election_bullet_voting.gif`](./election_bullet_voting.gif) | Animated bar chart for bullet voting |
 | `comparison_top12_bar_chart.png` | Static comparison of top 12 candidates |
