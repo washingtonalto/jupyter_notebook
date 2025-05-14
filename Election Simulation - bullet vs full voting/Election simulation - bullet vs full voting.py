@@ -21,6 +21,7 @@ Features:
 Dependencies:
 - matplotlib
 - pandas
+- ffmpeg (see https://ffmpeg.org/download.html)
 
 To run:
 > pip install matplotlib pandas
@@ -29,7 +30,7 @@ To run:
 
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
-from matplotlib.animation import PillowWriter
+from matplotlib.animation import PillowWriter,FFMpegWriter
 import pandas as pd
 import random
 import os
@@ -95,7 +96,7 @@ class Election:
 
     def run_election(self, output_gif_path, title_suffix, show_console=True):
         """
-        Execute the election and generate visual outputs.
+        Execute the election and generate visual outputs. Output is in animated gifs and video (.mp4)
     
         Args:
             output_gif_path (str): Path to save the animated GIF file.
@@ -154,9 +155,16 @@ class Election:
     
         ani = animation.FuncAnimation(fig, update, frames=len(self.ballots), init_func=init,
                                       blit=False, repeat=False)
+        video_output_path = output_gif_path.replace(".gif", ".mp4")
         ani.save(output_gif_path, writer=PillowWriter(fps=10))
-        print(f"\n[{title_suffix}] Animation saved to {output_gif_path}")
-    
+        print(f"[{title_suffix}] Video saved to {video_output_path}")  
+        try:
+            ani.save(video_output_path, writer=FFMpegWriter(fps=10))
+            print(f"\n[{title_suffix}] Animation saved to {output_gif_path}")
+        except (RuntimeError, ValueError) as e:
+            print(f"[{title_suffix}] ⚠️ Could not generate MP4 video: {e}")
+            print(f"[{title_suffix}] Suggestion: Install ffmpeg and retry.")
+
         if show_console:
             plt.show()
     
@@ -213,7 +221,7 @@ def main():
     - Full voting
     - Bullet voting
     - CSV outputs
-    - Animated GIFs
+    - Animated GIFs and video
     - Comparison plot
     """
     C = 66

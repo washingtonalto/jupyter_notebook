@@ -32,13 +32,11 @@ This project simulates a senatorial election based on the upcoming 2025 Philippi
 | [`Election simulation - bullet vs full voting.ipynb`](./Election%20simulation%20-%20bullet%20vs%20full%20voting.ipynb) | Fully documented Python script in Jupyter Notebook to run the simulation |
 | [`election_full_voting.gif`](./election_full_voting.gif) | Animated bar chart for full voting |
 | [`election_bullet_voting.gif`](./election_bullet_voting.gif) | Animated bar chart for bullet voting |
-| [`election_full_voting.mp4`](./election_full_voting.mp4) | Video of animated bar chart for full voting |
-| [`election_bullet_voting.mp4`](./election_bullet_voting.mp4) | Video of animated bar chart for bullet voting |
-| [`comparison_top12_bar_chart.png`](./comparison_top12_bar_chart.png) | Static comparison of top 12 candidates |
-| [`election_result_full_voting.csv`](./election_result_full_voting.csv) | Final vote tally for full voting |
-| [`election_result_bullet_voting.csv`](./election_result_bullet_voting.csv) | Final vote tally for bullet voting |
-| [`election_votes_log_full_voting.csv`](./election_votes_log_full_voting.csv) | Detailed ballot votes (full) |
-| [`election_votes_log_bullet_voting.csv`](./election_votes_log_bullet_voting.csv) | Detailed ballot votes (bullet) |
+| `comparison_top12_bar_chart.png` | Static comparison of top 12 candidates |
+| `election_result_full_voting.csv` | Final vote tally for full voting |
+| `election_result_bullet_voting.csv` | Final vote tally for bullet voting |
+| `election_votes_log_full_voting.csv` | Detailed ballot votes (full) |
+| `election_votes_log_bullet_voting.csv` | Detailed ballot votes (bullet) |
 
 ## 🧠 Favored Candidates
 
@@ -57,7 +55,6 @@ These are visually highlighted in red in both the animated bar chart and leaderb
 ```bash
 pip install matplotlib pandas
 ```
-- Install ffmpeg (see link [https://ffmpeg.org/download.html](https://ffmpeg.org/download.html))
 
 ### 2. Run the script
 
@@ -75,18 +72,6 @@ python "Election simulation - bullet vs full voting.py"
 
 - Bullet voting allows focused support, giving favored candidates a higher chance to rank in the Top 12.
 - Even with fewer total votes, bullet-voted candidates can outperform broadly voted ones due to vote dilution.
-
-## 🙌 Credits
-
-Created and maintained by **Washington Alto** to help fellow Filipino voters.
-
-## 🤖 Generative AI Acknowledgment
-
-This project was developed with the assistance of **ChatGPT-4o**, which was used to collaboratively create, refine, and debug the code.
-
-The object-oriented structure and reusable Python class design were specifically requested by the author to ensure clarity, maintainability, and extensibility.
-
-While the final implementation was tested and adjusted manually, portions of the code and structure were generated using generative AI tools.
 
 ## 📜 License
 
